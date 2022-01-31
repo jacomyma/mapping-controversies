@@ -10,10 +10,9 @@ This teaching material consists of 21 modules of 15 to 45 minutes, for 2 full da
 
 ## Overview
 
-Each tutorial covers a part of this general process, from data harvesting (bottom) to building a controversy atlas (top). Once through all the tutorials, use this map to get oriented the landscape of digital methods.
+Each tutorial covers a part of this general process, from data harvesting (bottom) to building a controversy atlas (top). Once through all the tutorials, use this map to get oriented the landscape of digital methods. *[(Display image fullscreen)](/images/All.jpg)*
 
-![Digital methods map](/images/All.jpg)]
-[(Display image fullscreen)](/images/All.jpg)]
+![Digital methods map](/images/All.jpg)
 
 ## Schedule
 
