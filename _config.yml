@@ -1,5 +1,6 @@
 plugins:
   - jekyll-relative-links
+  - jekyll-include-cache
 relative_links:
   enabled: true
   collections: true
@@ -13,4 +14,4 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 
-theme: jekyll-theme-tactile
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
