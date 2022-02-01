@@ -10,9 +10,9 @@ This teaching material consists of 21 modules of 15 to 45 minutes, for 2 full da
 
 ## Overview
 
-Each tutorial covers a part of this general process, from data harvesting (bottom) to building a controversy atlas (top). Once through all the tutorials, use this map to get oriented the landscape of digital methods. *[(Display image fullscreen)](/images/All.jpg)*
+Each tutorial covers a part of this general process, from data harvesting (bottom) to building a controversy atlas (top). Once through all the tutorials, use this map to get oriented the landscape of digital methods. *[(Display image fullscreen)](/assets/images/All.jpg)*
 
-![Digital methods map](/images/All.jpg)
+![Digital methods map](/assets/images/All.jpg)
 
 ## Schedule
 
@@ -24,7 +24,7 @@ The activities must be done in order, as they build on each other and ramp up in
 
 Build annotated timelines with Tableau Software, 4 hours.
 
-* [1.1. Intro to Tableau software *30 min*](/tutorials/1.1.md)
+* [1.1. Intro to Tableau software *30 min*](/1.1.md)
 * 1.2. A different dataset *15 min*
 * BREAK *15 min*
 * 1.3. Building a simple dashboard *15 min*
