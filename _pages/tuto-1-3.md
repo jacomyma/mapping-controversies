@@ -14,6 +14,15 @@ title: 1.3. Build a simple dashboard
 * Make a dashboard with Tableau
 
 # Make a dashboard
+In the workbook you already created for revisions (tutorial 1.2), create a new dashboard. 
+Drag the timeline, geographical map, and ranked list of editors you already created onto the canvas.
+Filter the data and explore the result.
+Questions to ask yoursel
+
+# Explore the data by filtering the dashboard 
+Filter the data and explore the result.
+Questions to ask yourself:
+
 
 # Next tutorial
 
