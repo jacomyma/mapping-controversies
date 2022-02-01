@@ -19,4 +19,4 @@ Have a well-deserved rest.
 
 We will start again next time with this one:
 
-[2.1 XXX](../2.1/)
+[2.1 Follow the protocol: scrape a network with SeeAlsology *15 min*](../2.1/)

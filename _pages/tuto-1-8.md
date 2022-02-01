@@ -16,10 +16,13 @@ title: 1.8. Intro to Gephi & Visualize clusters
 * Export a **network map**
 * Annotate **clusters**
 
+**You need**
+* Gephi installed on your computer
+
 # Lorem Ipsum
 
 # Next tutorial
 
 Take a break before you get to this:
 
-[1.9. Visualize a bipartite network](../1.9/)
+[1.9. Visualize a bipartite network *25 min*](../1.9/)

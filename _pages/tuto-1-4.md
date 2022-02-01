@@ -19,4 +19,4 @@ title: 1.4. A small-multiple with words
 
 ☕ Coffee time! Rest your eyes, then head for the next tutorial:
 
-[1.5. Harvest a dataset](../1.5/)
+[1.5. Harvest a dataset *15 min*](../1.5/)

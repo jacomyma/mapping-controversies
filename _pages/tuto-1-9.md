@@ -20,4 +20,4 @@ title: 1.9. Visualize a bipartite network
 
 # Next tutorial
 
-[1.10. Visualize a weighted network](../1.10/)
+[1.10. Visualize a weighted network *20 min*](../1.10/)

@@ -57,22 +57,22 @@ Build annotated network maps with Gephi, 4 hours.
 
 Write visual protocols for relational data, 4 hours.
 
-* 2.1. Follow the protocol: scrape a network with SeeAlsology *15 min*
-* 2.2. Write the protocol: scrape from one article with SeeAlsology *30 min*
+* [2.1. Follow the protocol: scrape a network with SeeAlsology *15 min*](2.1/)
+* [2.2. Write the protocol: scrape from one article with SeeAlsology *30 min*](2.2/)
 * BREAK *15 min*
-* 2.3. Follow the protocol: co-reference network from a category *15 min*
-* 2.4. Write the protocol: Article-editor network from a category *30 min*
+* [2.3. Follow the protocol: co-reference network from a category *15 min*](2.3/)
+* [2.4. Write the protocol: Article-editor network from a category *30 min*](2.4/)
 * BREAK *15 min*
-* 2.5. Do your own network from a category *45 min + 45 min*
+* [2.5. Do your own network from a category *45 min + 45 min*](2.5/)
 
 ### Harvest other data
 
 Write visual protocols for other kinds of data, 4 hours.
 
-* 2.6. Follow the protocol: words, from manual curation to Tableau *45 min*
+* [2.6. Follow the protocol: words, from manual curation to Tableau *45 min*](2.6/)
 * BREAK *15 min*
-* 2.7. Extend the protocol: natural language processing *45 min*
+* [2.7. Extend the protocol: natural language processing *45 min*](2.7/)
 * BREAK *15 min*
-* 2.8. Write the protocol: Annotated Tableau dashboard of Scopus data *45 min*
+* [2.8. Write the protocol: Annotated Tableau dashboard of Scopus data *45 min*](2.8/)
 * BREAK *15 min*
-* 2.9. Write the protoco: Annotated Scopus author-article network map *45 min*
+* [2.9. Write the protocol: Annotated Scopus author-article network map *45 min*](2.9/)

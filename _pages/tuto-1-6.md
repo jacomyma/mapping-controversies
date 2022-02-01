@@ -25,4 +25,4 @@ title: 1.6. Harvest data with a notebook
 
 Last break before lunch! Then head for the last activity of the morning:
 
-[1.7. Activate your knowledge about Tableau](../1.7/)
+[1.7. Activate your knowledge about Tableau *45 min*](../1.7/)

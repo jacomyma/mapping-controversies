@@ -20,4 +20,4 @@ title: 1.10. Visualize a weighted network
 
 You may want to take a short walk at this point. Then check this:
 
-[1.11. From data to network with Table2Net](../1.11/)
+[1.11. From data to network with Table2Net *45 min*](../1.11/)
