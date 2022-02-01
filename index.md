@@ -1,4 +1,7 @@
-# Mapping Controversies Tutorials (HOME)
+---
+layout: single
+title: Mapping Controversies
+---
 
 This teaching material consists of 21 modules of 15 to 45 minutes, for 2 full days in total.
 
