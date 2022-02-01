@@ -30,9 +30,9 @@ The activities must be done in order, as they build on each other and ramp up in
 Build annotated timelines with Tableau Software, 4 hours.
 
 * [1.1. Intro to Tableau software *30 min*](1.1/)
-* 1.2. A different dataset *15 min*
+* [1.2. Visualize a different dataset with Tableau *15 min*](1.2/)
 * BREAK *15 min*
-* 1.3. Building a simple dashboard *15 min*
+* [1.3. Build a simple dashboard *15 min*](1.3/)
 * 1.4. A less simple case *30 min*
 * BREAK *15 min*
 * 1.5. Get data *15 min*
