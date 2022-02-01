@@ -17,4 +17,4 @@ title: 1.3. Build a simple dashboard
 
 # Next tutorial
 
-[1.4. A small-multiple with words *30 min*](1.4/)
+[1.4. A small-multiple with words *30 min*](../1.4/)
