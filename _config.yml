@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "Anders K. Munk & Mathieu Jacomy"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Teachers"
-  location         : "Copenhagen"
+  bio              :
+  location         :
   email            :
   links:
     - label: "Email"
