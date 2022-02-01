@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Mapping Controversies
+header:
+  image: assets/images/splash.jpg
 ---
 
 This teaching material consists of 21 modules of 15 to 45 minutes, for 2 full days in total.
