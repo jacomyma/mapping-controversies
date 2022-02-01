@@ -33,25 +33,25 @@ Build annotated timelines with Tableau Software, 4 hours.
 * [1.2. Visualize a different dataset with Tableau *15 min*](1.2/)
 * BREAK *15 min*
 * [1.3. Build a simple dashboard *15 min*](1.3/)
-* 1.4. A less simple case *30 min*
+* [1.4. A small-multiple with words *30 min*](1.4/)
 * BREAK *15 min*
-* 1.5. Get data *15 min*
-* 1.6. Use notebook to get data *30 min*
+* [1.5. Harvest a dataset *15 min*](1.5/)
+* [1.6. Harvest data with a notebook *30 min*](1.6/)
 * BREAK *15 min*
-* 1.7. Report + activate knowledge *45 min*
+* [1.7. Activate your knowledge about Tableau *45 min*](1.7/)
 
 ### Gephi
 
 Build annotated network maps with Gephi, 4 hours.
 
-* 1.8. Intro to Gephi + annotate clusters *45 min*
+* [1.8. Intro to Gephi & Visualize clusters *45 min*](1.8/)
 * BREAK *15 min*
-* 1.9. Bipartite + filtering data lab + centralities (degree) + annotate nodes *25 min*
-* 1.10. Co-reference + annotate clusters *20 min*
+* [1.9. Visualize a bipartite network *25 min*](1.9/)
+* [1.10. Visualize a weighted network *20 min*](1.10/)
 * BREAK *15 min*
-* 1.11. From data to network with Table2Net *45 min*
+* [1.11. From data to network with Table2Net *45 min*](1.11/)
 * BREAK *15 min*
-* 1.12. Report + activate knowledge *45 min*
+* [1.12. Activate your knowledge about Gephi *45 min*](1.12/)
 
 ### Harvest relational data
 
