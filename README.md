@@ -8,7 +8,7 @@ This repository contains the website data.
 
 ### Edit
 
-Edit pages in markdown in the ```\_pages``` folder, and images etc. in the ```/assets``` folder.
+Edit pages in markdown in the ```/_pages``` folder, and images etc. in the ```/assets``` folder.
 
 ### Theme
 
