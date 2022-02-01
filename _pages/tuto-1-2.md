@@ -24,5 +24,5 @@ title: 1.2. Visualize a different dataset with Tableau
 
 You deserve a break! Then head for the next tutorial:
 
-[1.3. Build a simple dashboard *15 min*](1.3/)
+[1.3. Build a simple dashboard *15 min*](../1.3/)
 

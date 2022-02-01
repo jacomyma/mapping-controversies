@@ -34,4 +34,4 @@ title: 1.1. Intro to Tableau software
 
 # Next tutorial
 
-[1.2. Visualize a different dataset with Tableau *15 min*](1.2/)
+[1.2. Visualize a different dataset with Tableau *15 min*](../1.2/)
