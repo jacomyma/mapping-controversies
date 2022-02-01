@@ -12,11 +12,16 @@ title: 1.2. Visualize a different dataset with Tableau
 
 **Goals**
 * Check that different data tell a different story
+* Try different visual models for different aspects of data
 * Make another annotated visualization
 
 # Load your data into Tableau
 
-# Visualize the data as a timeline
+# Visualize the data as a timeline of revisions
+
+# Visualize the data as a ranked list of revising editors 
+
+# Visualize the data as a geographical map of anonymous editors
 
 # Make an annotated visualization
 
