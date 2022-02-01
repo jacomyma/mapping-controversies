@@ -18,11 +18,11 @@ title: 1.1. Intro to Tableau software
 **You need**
 * Tableau installed on your computer
 * A Tableau license
-* A Google account to use Google Spreadsheet
+* A Google account to use Google Slides
 
 # Load your data into Tableau
 
-# Visualize the data as a timeline
+# Visualize the data as a simple timeline
 
 # Export the visualization as an image
 
