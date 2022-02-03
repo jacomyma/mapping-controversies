@@ -19,7 +19,14 @@ title: 1.6. Harvest data with a notebook
 
 # Run the notebook to harvest data
 
+Here is the list of Wikipedia articles they can use as input to recreate what they have done so far: https://drive.google.com/file/d/1tcQd3iGjpRguQdmxIel1qM9JoM891OOO/view?usp=sharing
+
+I am unsure how this will be different, though. Maybe we should actually give them a bigger list of articles this time to justify using a notebook? Here is a longer list with 139 articles about energy conversion technologies (level 0 from the categy, but we will get back to that later): https://drive.google.com/file/d/1RKGhWNEUi1mC5oVBe6C8EQiO0euMhikQ/view?usp=sharing
+
+
 # Make an annotated visualization
+...this is where it gets important to have worked on a longer list (in order not to reproduce the same viz)
+
 
 # Next tutorial
 
