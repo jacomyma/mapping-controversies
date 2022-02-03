@@ -17,6 +17,8 @@ title: 1.5. Harvest a dataset
 
 Happens here: https://pageviews.toolforge.org/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07&end=2021-12&pages=Cat|Dog
 
+Remember to set the time. Remeber to ask for daily data as tableau can aggregate.
+
 # Next tutorial
 
 [1.6. Harvest data with a notebook *30 min*](../1.6/)
