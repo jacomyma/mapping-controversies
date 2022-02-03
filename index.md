@@ -11,7 +11,7 @@ This teaching material consists of 21 modules of 15 to 45 minutes, for 2 full da
 
 **Data:** we will mostly use Wikipedia data to keep things relatively simple, but the techniques generalize to other datasets.
 
-**Tools:** we will mostly use Tableau, Gephi, and Jupyter Notebooks. No experience required.
+**Tools:** we will mostly use Tableau, Gephi, and [Jupyter Notebooks](nb/). No experience required.
 
 ## Overview
 
@@ -76,3 +76,6 @@ Write visual protocols for other kinds of data, 4 hours.
 * [2.8. Write the protocol: Annotated Tableau dashboard of Scopus data *45 min*](2.8/)
 * BREAK *15 min*
 * [2.9. Write the protocol: Annotated Scopus author-article network map *45 min*](2.9/)
+
+## Resources
+* [List of included Jupyter notebooks (in Google Colab)](nb/)
