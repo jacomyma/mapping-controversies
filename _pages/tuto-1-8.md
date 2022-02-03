@@ -19,7 +19,15 @@ title: 1.8. Intro to Gephi & Visualize clusters
 **You need**
 * Gephi installed on your computer
 
-# Lorem Ipsum
+# Visualize the network
+
+Use this network: https://drive.google.com/file/d/1YT61vniGHFjaTyXhQ8PClbOYH84TTNJ2/view?usp=sharing
+787 Wikipedia pages about energy conversion connected by their hyperlinks.
+
+# Annotate
+- Clusters as a way to identify subtopics of energy conversion
+- Authrorities (in-degree) as a way to identify key articles per subtopic
+
 
 # Next tutorial
 
