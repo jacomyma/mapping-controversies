@@ -21,6 +21,7 @@ title: 1.1. Intro to Tableau software
 * A Google account to use Google Slides
 
 # Load your data into Tableau
+In this series of tutorials we will work with the issue of energy conversion. Energy conversion is [the process of changing energy from one form to another](https://en.wikipedia.org/wiki/Energy_transformation). Technologies such as wind, solar, geothermal, or 
 
 # Visualize the data as a simple timeline
 
