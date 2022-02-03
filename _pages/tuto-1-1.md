@@ -25,13 +25,23 @@ In this series of tutorials we will work with the issue of energy conversion. En
 
 Let us begin by exploring how public interest in two of the more exotic energy conversion technologies that might revolutionize the green transition - namely [space-based solar power](https://en.wikipedia.org/wiki/Space-based_solar_power) and [thorium-based nuclear power](https://en.wikipedia.org/wiki/Thorium-based_nuclear_power) - has changed over time. 
 
+This .csv contains the page view data for both articles on Wikipedia in the period from 2015 to 2021: https://drive.google.com/file/d/18YYJCerDk2lA87ffuYnx-eKCdcIRAwVa/view?usp=sharing
+
 # Visualize the data as a simple timeline
 
+Try aggregating the days to show monthly variations
+
 # Export the visualization as an image
+
+Use the monthly view
 
 # Import the image into Google Spreadsheet
 
 # Annotate the visualization
+Some help:
+- November 2015 space-based solar energy spike: https://www.google.dk/search?q=space-based+solar+power&sxsrf=APq-WBt1C_23EirNE2q22dQTZH5B2w8d4g%3A1643919456713&source=lnt&tbs=cdr%3A1%2Ccd_min%3A11%2F1%2F2015%2Ccd_max%3A12%2F1%2F2015&tbm=
+- June 2019 space-based solar energy spike: https://www.google.dk/search?q=space-based+solar+power&sxsrf=APq-WBtPC_A4zzk0j5HIcTysWs_G8EJdYA%3A1643919521765&source=lnt&tbs=cdr%3A1%2Ccd_min%3A6%2F1%2F2019%2Ccd_max%3A7%2F1%2F2019&tbm=
+- October 2016 thorium-based nuclear energy spike: https://www.google.dk/search?q=thorium-based+nuclear+power&tbs=cdr%3A1%2Ccd_min%3A10%2F1%2F2016%2Ccd_max%3A11%2F1%2F2016&sxsrf=APq-WBvU6vJzohQ7gS9t83zL48ttc1jvmw%3A1643921238178&ei=Vj_8Yb2tCsvHrgTMra-ABQ&ved=0ahUKEwi9sMLrs-T1AhXLo4sKHczWC1AQ4dUDCA4&uact=5&oq=thorium-based+nuclear+power&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABCABDIECAAQHjIECAAQHjIECAAQHjIECAAQHjIECAAQHjIGCAAQBRAeMgYIABAFEB46BwgjELADECc6CQgAELADEAcQHjoICAAQgAQQsAM6BwgAELADEB46BwgjELACECc6BggAEAcQHjoICAAQBxAFEB5KBAhBGAFKBAhGGABQxQJY0QRg9w5oAXAAeACAAVSIAacBkgEBMpgBAKABAcgBCsABAQ&sclient=gws-wiz
 
 # Export the slide as an image
 
