@@ -78,4 +78,4 @@ Write visual protocols for other kinds of data, 4 hours.
 * [2.9. Write the protocol: Annotated Scopus author-article network map *45 min*](2.9/)
 
 ## Resources
-* [List of included Jupyter notebooks (in Google Colab)](nb/)
+* [List of included Jupyter notebooks](nb/)
