@@ -15,6 +15,8 @@ title: 1.5. Harvest a dataset
 
 # Harvest a dataset
 
+Happens here: https://pageviews.toolforge.org/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07&end=2021-12&pages=Cat|Dog
+
 # Next tutorial
 
 [1.6. Harvest data with a notebook *30 min*](../1.6/)
