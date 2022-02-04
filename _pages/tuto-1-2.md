@@ -31,21 +31,53 @@ Download this CSV:
 </a><br><br></center>
 
 It contains the list of edits (i.e. revisions) for these two pages. It has been produced by feeding this [<i class="fas fa-file-csv"></i> file](../assets/data/1-2/wikipedia-articles-tuto-1.2.csv) into this notebook: [🍹&nbsp;Wikipedia articles to edits list](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_edits_list.ipynb), but we will see that in the [tutorial 1.6](../1.6/).
-
 # Load your data into Tableau
 
-Same Wikipedia pages as previous, but this time we look at revisions: https://drive.google.com/file/d/1kBNI3wiVEYKjgLDjxkzvo1RovrhPwo7d/view?usp=sharing
+Upload the data like in [tutorial 1.1](../1.1/), and take a look at it. There are more columns to choose from, so the complexity goes up.
 
-Note: we can make a point out of the fact that this time there are more columns to choose from and so the complexity goes up.
+[
+	![Data table](../assets/images/1-2/data-table.png)
+](../assets/images/1-2/data-table.png)
 
 # Visualize the data as a timeline of revisions
 
+Simple things first. The idea is to look at the revision history of these pages, like we have done previously. When were they *edited* the most? It may look like this:
+
+[
+	![Timeline of revisions](../assets/images/1-2/tableau-timelime-revisions-2.png)
+](../assets/images/1-2/tableau-timelime-revisions-2.png)
+
+Remark that although this visualization looks like that of [tutorial 1.1](../1.1/), the data represent something completely different: revisions (not views). Which begs these questions:
+* Is there a correlation between the number of views and the number of edits over time?
+* Should we expect such correlation? Why or why not?
 
 # Visualize the data as a ranked list of revising editors 
 
+The data are richer, which brings opportunities. As we have a column with the usernames of the editors, we can look into this. Let's visualize if some editors have contributed more than others. It may look like this:
+
+[
+	![Ranked editors](../assets/images/1-2/tableau-ranked-list-editors.png)
+](../assets/images/1-2/tableau-ranked-list-editors.png)
+
+
 # Visualize the data as a geographical map of anonymous editors
 
-# Make an annotated visualization of the timeline of revisions
+We can also wonder where the editors live. It may look like this:
+[
+	![Map](../assets/images/1-2/tableau-geographical-map.png)
+](../assets/images/1-2/tableau-geographical-map.png)
+
+Remark: not all editors have latitude and longitude data. You can see that in the data table. So this map is not representative of the whole data. Tableau tells you, in the visualization, that some of the data points were not placed in the map. Did you see it?
+
+# Annotated the timeline of revisions
+
+Annotate the visualization like [previously](../1.1/):
+* Export an image from Tableau
+* Import it into Google Slides
+* Annotate the important features of the visualization
+* Export the annotated image
+
+**You will later on upload the annotated image to share with the other students.**
 
 Helpful pointers for the comparison:
 - Not a lot of revision activity in the thorium article in October 2016. So even though we have a lot of page views - i.e. public interest in the topic driven by outside events - it does not correspond to a big change in how the article is written. No new content is added or reverted in this period.
@@ -55,7 +87,5 @@ Helpful pointers for the comparison:
 
 You deserve a break! Then head for the next tutorial:
 
-[<i class="fas fa-forward"></i> 1.3. Build a simple dashboard *(15 min)*](../1.3/)
-
----
+[<i class="fas fa-forward"></i>&nbsp;1.3. Build a simple dashboard *(15 min)*](../1.3/)
 

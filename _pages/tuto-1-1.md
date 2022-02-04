@@ -87,7 +87,7 @@ File > Download > JPEG image
 
 # Next tutorial
 
-[<i class="fas fa-forward"></i> 1.2. Visualize a different dataset with Tableau *(15 min)*](../1.2/)
+[<i class="fas fa-forward"></i>&nbsp;1.2. Visualize a different dataset with Tableau *(15 min)*](../1.2/)
 
 ---
 
