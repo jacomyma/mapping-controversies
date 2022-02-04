@@ -11,11 +11,11 @@ title: 1.3. Build a simple dashboard
 ](../assets/images/1-2 1-3.jpg)
 
 **Goals**
-* Make a dashboard with Tableau
+* Make a **dashboard** with Tableau
 
 # Make a dashboard
 
-The dataset from the [last tutorial (1.2)](../1.2/) is rich enough to create a dashboard in Tableau. Let's do that by reusing the Tableau file of the last tutorial, and combining its visualizations.
+The dataset from the last tutorial ([1.2](../1.2/)) is rich enough to create a dashboard in Tableau. Let's do that by reusing the Tableau file of the last tutorial, and combining its visualizations.
 
 How to create a dashboard:
 * Click on the "New dashboard" icon at the bottom of the workbook.
