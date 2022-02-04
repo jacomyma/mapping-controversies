@@ -129,6 +129,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Icons by Font-Awesome"
+      icon: "fab fa-fw fa-icons"
+      url: "https://fontawesome.com/license"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
