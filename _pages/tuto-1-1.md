@@ -29,14 +29,9 @@ Let us begin by exploring how public interest in two of the more exotic energy c
 # Data
 
 Download this CSV:
-[
-	![CSV File](../assets/icons/file-csv-solid.svg)
-	pageviews-20150701-20211231.csv
-](../assets/data/1-1/pageviews-20150701-20211231.csv)
 
-Download this CSV:
 [
-	<i class="fas fa-file-csv"></i>
+	<i class="fas fa-file-csv" style="font-size:2em"></i><br>
 	pageviews-20150701-20211231.csv
 ](../assets/data/1-1/pageviews-20150701-20211231.csv)
 
