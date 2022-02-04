@@ -20,12 +20,25 @@ title: 1.1. Intro to Tableau software
 * A Tableau license
 * A Google account to use Google Slides
 
-# Load your data into Tableau
-In this series of tutorials we will work with the issue of energy conversion. Energy conversion is [the process of changing energy from one form to another](https://en.wikipedia.org/wiki/Energy_transformation). Wind turbines, solar farms, or geothermal power plants are all examples of energy conversion technologies. So are nuclear reactors and combustion engines. In other words, energy conversion technologies are key actors in controversies around climate change, sustainable transitions, and zero carbon futures. 
+# Case
+
+In this series of tutorials we will work with the issue of energy conversion. Energy conversion is [the process of changing energy from one form to another](https://en.wikipedia.org/wiki/Energy_transformation). Wind turbines, solar farms, or geothermal power plants are all examples of energy conversion technologies. So are nuclear reactors and combustion engines. In other words, energy conversion technologies are key actors in controversies around climate change, sustainable transitions, and zero carbon futures.
 
 Let us begin by exploring how public interest in two of the more exotic energy conversion technologies that might revolutionize the green transition - namely [space-based solar power](https://en.wikipedia.org/wiki/Space-based_solar_power) and [thorium-based nuclear power](https://en.wikipedia.org/wiki/Thorium-based_nuclear_power) - has changed over time. 
 
-This .csv contains the page view data for both articles on Wikipedia in the period from 2015 to 2021: https://drive.google.com/file/d/18YYJCerDk2lA87ffuYnx-eKCdcIRAwVa/view?usp=sharing
+# Data
+
+Download this CSV:
+[
+	![CSV File](../assets/icons/file-csv-solid.svg)
+	pageviews-20150701-20211231.csv
+](../assets/data/1-1/pageviews-20150701-20211231.csv)
+
+It contains the page view data for both articles on Wikipedia in the period from 2015 to 2021.
+It comes from [this tool](https://pageviews.toolforge.org/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07&end=2021-12&pages=Space-based_solar_power|Thorium-based_nuclear_power) but we will see that later on.
+
+# Load data into Tableau
+
 
 # Visualize the data as a simple timeline
 
