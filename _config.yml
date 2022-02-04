@@ -107,6 +107,15 @@ author:
   location         :
   email            :
   links:
+    - label: "GitHub repository"
+      icon: "fas fa-fw fa-github-alt"
+      url: "https://github.com/jacomyma/mapping-controversies"
+    - label: "TANT Lab"
+      icon: "fas fa-fw fa-flask"
+      url: "https://www.tantlab.aau.dk/"
+    - label: "Reticular (Mathieu's blog)"
+      icon: "fas fa-fw fa-chart-network"
+      url: "https://reticular.hypotheses.org/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
