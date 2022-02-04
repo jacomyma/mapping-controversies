@@ -16,8 +16,8 @@ title: 1.1. Intro to Tableau software
 * Make an annotated visualization, and share it
 
 **You need**
-* Tableau installed on your computer
-* A Tableau license
+* Tableau Desktop installed on your computer
+* A Tableau Desktop license
 * A Google account to use Google Slides
 
 # Case
@@ -33,7 +33,7 @@ Let us begin by exploring how public interest in two of the more exotic energy c
 Download this CSV:
 
 [
-	<i class="fas fa-file-csv" style="font-size:2em"></i><br>
+	<i class="fas fa-file-csv" style="font-size:5em"></i><br>
 	pageviews-20150701-20211231.csv
 ](../assets/data/1-1/pageviews-20150701-20211231.csv)
 
@@ -42,6 +42,11 @@ It comes from [this tool](https://pageviews.toolforge.org/?project=en.wikipedia.
 
 # Load data into Tableau
 
+* Open Tableau Desktop
+* Load the file from above. To do that, look into the sidebar, under "To a File" and click on "Text file", then upload the file ```pageviews-20150701-20211231.csv```
+* Check that the data are parsed correctly: you should see three columns. If not, you need to [change the settings](https://help.tableau.com/current/pro/desktop/en-gb/examples_text.htm#set-text-file-options).
+* Also check that the columns have the right type. The first column should be dates. If it is parsed as something else, for instance text or numbers, then you need to [change its type](https://help.tableau.com/current/pro/desktop/en-us/datafields_typesandroles_datatypes.htm).
+* Click on "Sheet 1" in the bottom of the screen, to start creating your first visualization.
 
 # Visualize the data as a simple timeline
 
@@ -55,12 +60,18 @@ Use the monthly view
 
 # Annotate the visualization
 Some help:
-- November 2015 space-based solar energy spike: https://www.google.dk/search?q=space-based+solar+power&sxsrf=APq-WBt1C_23EirNE2q22dQTZH5B2w8d4g%3A1643919456713&source=lnt&tbs=cdr%3A1%2Ccd_min%3A11%2F1%2F2015%2Ccd_max%3A12%2F1%2F2015&tbm=
-- June 2019 space-based solar energy spike: https://www.google.dk/search?q=space-based+solar+power&sxsrf=APq-WBtPC_A4zzk0j5HIcTysWs_G8EJdYA%3A1643919521765&source=lnt&tbs=cdr%3A1%2Ccd_min%3A6%2F1%2F2019%2Ccd_max%3A7%2F1%2F2019&tbm=
-- October 2016 thorium-based nuclear energy spike: https://www.google.dk/search?q=thorium-based+nuclear+power&tbs=cdr%3A1%2Ccd_min%3A10%2F1%2F2016%2Ccd_max%3A11%2F1%2F2016&sxsrf=APq-WBvU6vJzohQ7gS9t83zL48ttc1jvmw%3A1643921238178&ei=Vj_8Yb2tCsvHrgTMra-ABQ&ved=0ahUKEwi9sMLrs-T1AhXLo4sKHczWC1AQ4dUDCA4&uact=5&oq=thorium-based+nuclear+power&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABCABDIECAAQHjIECAAQHjIECAAQHjIECAAQHjIECAAQHjIGCAAQBRAeMgYIABAFEB46BwgjELADECc6CQgAELADEAcQHjoICAAQgAQQsAM6BwgAELADEB46BwgjELACECc6BggAEAcQHjoICAAQBxAFEB5KBAhBGAFKBAhGGABQxQJY0QRg9w5oAXAAeACAAVSIAacBkgEBMpgBAKABAcgBCsABAQ&sclient=gws-wiz
+- [November 2015 space-based solar energy spike](https://www.google.dk/search?q=space-based+solar+power&sxsrf=APq-WBt1C_23EirNE2q22dQTZH5B2w8d4g%3A1643919456713&source=lnt&tbs=cdr%3A1%2Ccd_min%3A11%2F1%2F2015%2Ccd_max%3A12%2F1%2F2015&tbm=)
+- [June 2019 space-based solar energy spike](https://www.google.dk/search?q=space-based+solar+power&sxsrf=APq-WBtPC_A4zzk0j5HIcTysWs_G8EJdYA%3A1643919521765&source=lnt&tbs=cdr%3A1%2Ccd_min%3A6%2F1%2F2019%2Ccd_max%3A7%2F1%2F2019&tbm=)
+- [October 2016 thorium-based nuclear energy spike](https://www.google.dk/search?q=thorium-based+nuclear+power&tbs=cdr%3A1%2Ccd_min%3A10%2F1%2F2016%2Ccd_max%3A11%2F1%2F2016&sxsrf=APq-WBvU6vJzohQ7gS9t83zL48ttc1jvmw%3A1643921238178&ei=Vj_8Yb2tCsvHrgTMra-ABQ&ved=0ahUKEwi9sMLrs-T1AhXLo4sKHczWC1AQ4dUDCA4&uact=5&oq=thorium-based+nuclear+power&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABCABDIECAAQHjIECAAQHjIECAAQHjIECAAQHjIECAAQHjIGCAAQBRAeMgYIABAFEB46BwgjELADECc6CQgAELADEAcQHjoICAAQgAQQsAM6BwgAELADEB46BwgjELACECc6BggAEAcQHjoICAAQBxAFEB5KBAhBGAFKBAhGGABQxQJY0QRg9w5oAXAAeACAAVSIAacBkgEBMpgBAKABAcgBCsABAQ&sclient=gws-wiz)
 
 # Export the slide as an image
 
 # Next tutorial
 
 [1.2. Visualize a different dataset with Tableau *15 min*](../1.2/)
+
+---
+
+### Additional resources
+
+* [An intro to Tableau in 23 minutes](https://www.youtube.com/watch?v=jEgVto5QME8)
