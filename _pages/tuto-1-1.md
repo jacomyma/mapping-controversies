@@ -22,9 +22,9 @@ title: 1.1. Intro to Tableau software
 
 # Case
 
-![Solar power satellite sandwich or abascus concept](../assets/images/1-1/Solar_power_satellite_sandwich_or_abascus_concept.jpg)
-
 In this series of tutorials we will work with the issue of energy conversion. Energy conversion is [the process of changing energy from one form to another](https://en.wikipedia.org/wiki/Energy_transformation). Wind turbines, solar farms, or geothermal power plants are all examples of energy conversion technologies. So are nuclear reactors and combustion engines. In other words, energy conversion technologies are key actors in controversies around climate change, sustainable transitions, and zero carbon futures.
+
+![Solar power satellite sandwich or abascus concept](../assets/images/1-1/Solar_power_satellite_sandwich_or_abascus_concept.jpg)
 
 Let us begin by exploring how public interest in two of the more exotic energy conversion technologies that might revolutionize the green transition - namely [space-based solar power](https://en.wikipedia.org/wiki/Space-based_solar_power) and [thorium-based nuclear power](https://en.wikipedia.org/wiki/Thorium-based_nuclear_power) - has changed over time. 
 
@@ -50,13 +50,27 @@ It comes from [this tool](https://pageviews.toolforge.org/?project=en.wikipedia.
 
 # Visualize the data as a simple timeline
 
-Try aggregating the days to show monthly variations
+Try aggregating the days to show monthly variations. It may look like this:
+[
+	![Basic timeline in Tableau](../assets/images/1-1/basic-timeline.jpg)
+](../assets/images/1-1/basic-timeline.jpg)
 
 # Export the visualization as an image
 
-Use the monthly view
+Export the visualization as a static image from the menu:
 
-# Import the image into Google Spreadsheet
+```
+Worksheet > Export > Image...
+```
+
+Save as a ```.PNG``` file that we can easily reuse in Google Slides
+
+# Import the image into Google Slides
+
+You can basically open the image in your OS and copy-paste it into a Google Slides, or import it from the menu:
+```
+Insert > Image > Upload from computer
+```
 
 # Annotate the visualization
 Some help:
@@ -65,6 +79,11 @@ Some help:
 - [October 2016 thorium-based nuclear energy spike](https://www.google.dk/search?q=thorium-based+nuclear+power&tbs=cdr%3A1%2Ccd_min%3A10%2F1%2F2016%2Ccd_max%3A11%2F1%2F2016&sxsrf=APq-WBvU6vJzohQ7gS9t83zL48ttc1jvmw%3A1643921238178&ei=Vj_8Yb2tCsvHrgTMra-ABQ&ved=0ahUKEwi9sMLrs-T1AhXLo4sKHczWC1AQ4dUDCA4&uact=5&oq=thorium-based+nuclear+power&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABCABDIECAAQHjIECAAQHjIECAAQHjIECAAQHjIECAAQHjIGCAAQBRAeMgYIABAFEB46BwgjELADECc6CQgAELADEAcQHjoICAAQgAQQsAM6BwgAELADEB46BwgjELACECc6BggAEAcQHjoICAAQBxAFEB5KBAhBGAFKBAhGGABQxQJY0QRg9w5oAXAAeACAAVSIAacBkgEBMpgBAKABAcgBCsABAQ&sclient=gws-wiz)
 
 # Export the slide as an image
+
+You can export a static image from the menu:
+```
+File > Download > JPEG image
+```
 
 # Next tutorial
 
