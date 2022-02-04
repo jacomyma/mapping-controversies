@@ -39,7 +39,7 @@ Upload the data like in [tutorial 1.1](../1.1/), and take a look at it. There ar
 	![Data table](../assets/images/1-2/data-table.png)
 ](../assets/images/1-2/data-table.png)
 
-# Visualize the data as a timeline of revisions
+# Visualize a timeline of revisions
 
 Simple things first. The idea is to look at the revision history of these pages, like we have done previously. When were they *edited* the most? It may look like this:
 
@@ -51,7 +51,7 @@ Remark that although this visualization looks like that of [tutorial 1.1](../1.1
 * Is there a correlation between the number of views and the number of edits over time?
 * Should we expect such correlation? Why or why not?
 
-# Visualize the data as a ranked list of revising editors 
+# Visualize a ranked list of revising editors 
 
 The data are richer, which brings opportunities. As we have a column with the usernames of the editors, we can look into this. Let's visualize if some editors have contributed more than others. It may look like this:
 
@@ -60,7 +60,7 @@ The data are richer, which brings opportunities. As we have a column with the us
 ](../assets/images/1-2/tableau-ranked-list-editors.png)
 
 
-# Visualize the data as a geographical map of anonymous editors
+# Visualize a geographical map
 
 We can also wonder where the editors live. It may look like this:
 [
@@ -72,12 +72,12 @@ Remark: not all editors have latitude and longitude data. You can see that in th
 # Annotated the timeline of revisions
 
 Annotate the visualization like [previously](../1.1/):
-* Export an image from Tableau
+* Export a static image from Tableau
 * Import it into Google Slides
 * Annotate the important features of the visualization
 * Export the annotated image
 
-**You will later on upload the annotated image to share with the other students.**
+**Later on, you will upload the annotated image to share with the other students.**
 
 Helpful pointers for the comparison:
 - Not a lot of revision activity in the thorium article in October 2016. So even though we have a lot of page views - i.e. public interest in the topic driven by outside events - it does not correspond to a big change in how the article is written. No new content is added or reverted in this period.

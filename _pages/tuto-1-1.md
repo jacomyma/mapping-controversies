@@ -85,6 +85,8 @@ You can export a static image from the menu:
 File > Download > JPEG image
 ```
 
+Save this image somewhere. **Later on, you will upload this to share with the other students.**
+
 # Next tutorial
 
 [<i class="fas fa-forward"></i>&nbsp;1.2. Visualize a different dataset with Tableau *(15 min)*](../1.2/)
