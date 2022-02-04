@@ -54,7 +54,7 @@ Remark that although this visualization looks like that of [tutorial 1.1](../1.1
 
 # Visualize a ranked list of revising editors 
 
-**Watch out!** Create each different visualization in a different sheet, so that we can combine them in the next tutorial.{: .notice}
+<div class="notice">**Watch out!** Create each different visualization in a different sheet, so that we can combine them in the next tutorial.</div>
 
 The data are richer, which brings opportunities. As we have a column with the usernames of the editors, we can look into this. Let's visualize if some editors have contributed more than others. It may look like this:
 
