@@ -25,10 +25,11 @@ We still focus on the topic of *energy conversion* using the same two Wikipedia 
 
 Download this CSV:
 
-<a href="../assets/data/1-2/wikipedia-edits-tuto-1.2.csv" style="text-align:center">
+<center><a href="../assets/data/1-2/wikipedia-edits-tuto-1.2.csv">
 	<i class="fas fa-file-csv" style="font-size:5em"></i><br>
 	wikipedia-edits-tuto-1.2.csv
-</a>
+</a></center>
+
 It contains the list of edits (i.e. revisions) for these two pages. It has been produced by feeding this [<i class="fas fa-file-csv"></i> file](../assets/data/1-2/wikipedia-articles-tuto-1.2.csv) into this notebook: [🍹&nbsp;Wikipedia articles to edits list](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_edits_list.ipynb), but we will see that in the [tuto 1.6](../1.6/).
 
 # Load your data into Tableau
