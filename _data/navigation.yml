@@ -2,48 +2,15 @@
 main:
   - title: "Notebooks"
     url: /nb/
-  - title: "Tuto 1.1"
-    url: /1.1/
-  - title: "Tuto 1.2"
-    url: /1.2/
-  - title: "Tuto 1.3"
-    url: /1.3/
-  - title: "Tuto 1.4"
-    url: /1.4/
-  - title: "Tuto 1.5"
-    url: /1.5/
-  - title: "Tuto 1.6"
-    url: /1.6/
-  - title: "Tuto 1.7"
-    url: /1.7/
-  - title: "Tuto 1.8"
-    url: /1.8/
-  - title: "Tuto 1.9"
-    url: /1.9/
-  - title: "Tuto 1.10"
-    url: /1.10/
-  - title: "Tuto 1.11"
-    url: /1.11/
-  - title: "Tuto 1.12"
-    url: /1.12/
-  - title: "Tuto 2.1"
-    url: /2.1/
-  - title: "Tuto 2.2"
-    url: /2.2/
-  - title: "Tuto 2.3"
-    url: /2.3/
-  - title: "Tuto 2.4"
-    url: /2.4/
-  - title: "Tuto 2.5"
-    url: /2.5/
-  - title: "Tuto 2.6"
-    url: /2.6/
-  - title: "Tuto 2.7"
-    url: /2.7/
-  - title: "Tuto 2.8"
-    url: /2.8/
-  - title: "Tuto 2.9"
-    url: /2.9/
+  - title: "Tableau"
+    url: /#tableau-software
+  - title: "Gephi"
+    url: /#gephi
+  - title: "Harvest relational data"
+    url: /#harvest-relational-data
+  - title: "Harvest other data"
+    url: /#harvest-other-data
+
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"

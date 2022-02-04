@@ -38,5 +38,10 @@ Helpful pointers for the comparison:
 
 You deserve a break! Then head for the next tutorial:
 
-[<i class="fas fa-forward"></i> 1.3. Build a simple dashboard *15 min*](../1.3/)
+[<i class="fas fa-forward"></i> 1.3. Build a simple dashboard *(15 min)*](../1.3/)
 
+---
+
+# Additional notes
+
+* The dataset has been produced by feeding [<i class="fas fa-file-csv"></i> this file](../assets/data/1-2/wikipedia-articles-tuto-1.2.csv) into this notebook: [🍹 Wikipedia articles to edits list](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_edits_list.ipynb)
