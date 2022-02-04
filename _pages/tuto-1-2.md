@@ -31,6 +31,7 @@ Download this CSV:
 </a><br><br></center>
 
 It contains the list of edits (i.e. revisions) for these two pages. It has been produced by feeding this [<i class="fas fa-file-csv"></i> file](../assets/data/1-2/wikipedia-articles-tuto-1.2.csv) into this notebook: [🍹&nbsp;Wikipedia articles to edits list](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_edits_list.ipynb), but we will see that in the [tutorial 1.6](../1.6/).
+
 # Load your data into Tableau
 
 Upload the data like in [tutorial 1.1](../1.1/), and take a look at it. There are more columns to choose from, so the complexity goes up.
@@ -52,6 +53,8 @@ Remark that although this visualization looks like that of [tutorial 1.1](../1.1
 * Should we expect such correlation? Why or why not?
 
 # Visualize a ranked list of revising editors 
+
+**Watch out!** Create each different visualization in a different sheet, so that we can combine them in the next tutorial.{: .notice}
 
 The data are richer, which brings opportunities. As we have a column with the usernames of the editors, we can look into this. Let's visualize if some editors have contributed more than others. It may look like this:
 
