@@ -38,5 +38,5 @@ Helpful pointers for the comparison:
 
 You deserve a break! Then head for the next tutorial:
 
-[1.3. Build a simple dashboard *15 min*](../1.3/)
+[<i class="fas fa-forward"></i> 1.3. Build a simple dashboard *15 min*](../1.3/)
 
