@@ -108,7 +108,7 @@ author:
   email            :
   links:
     - label: "GitHub repository"
-      icon: "fas fa-github"
+      icon: "fas fa-fw fa-link"
       url: "https://github.com/jacomyma/mapping-controversies"
     - label: "TANT Lab"
       icon: "fas fa-flask"
