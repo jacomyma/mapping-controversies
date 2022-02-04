@@ -15,6 +15,25 @@ title: 1.2. Visualize a different dataset with Tableau
 * Try different visual models for different aspects of data
 * Make another annotated visualization
 
+# Case
+
+We still focus on the topic of *energy conversion* using the same two Wikipedia articles:
+* [Space-based solar power](https://en.wikipedia.org/wiki/Space-based_solar_power)
+* [Thorium-based nuclear power](https://en.wikipedia.org/wiki/Thorium-based_nuclear_power)
+
+# Data
+
+Download this CSV:
+
+[
+	<i class="fas fa-file-csv" style="font-size:5em"></i><br>
+	wikipedia-edits-tuto-1.2.csv
+](../assets/data/1-2/wikipedia-edits-tuto-1.2.csv){: .text-center}
+
+It contains the list of edits (i.e. revisions) for these two pages.
+
+This dataset has been produced by feeding this [<i class="fas fa-file-csv"></i> file](../assets/data/1-2/wikipedia-articles-tuto-1.2.csv) into this notebook: [🍹 Wikipedia articles to edits list](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_edits_list.ipynb).
+
 # Load your data into Tableau
 
 Same Wikipedia pages as previous, but this time we look at revisions: https://drive.google.com/file/d/1kBNI3wiVEYKjgLDjxkzvo1RovrhPwo7d/view?usp=sharing
@@ -42,6 +61,3 @@ You deserve a break! Then head for the next tutorial:
 
 ---
 
-# Additional notes
-
-* The dataset has been produced by feeding [<i class="fas fa-file-csv"></i> this file](../assets/data/1-2/wikipedia-articles-tuto-1.2.csv) into this notebook: [🍹 Wikipedia articles to edits list](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_edits_list.ipynb)
