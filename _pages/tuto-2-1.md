@@ -16,6 +16,8 @@ title: "2.1. Follow the protocol: scrape a network with SeeAlsology"
 * Check what a protocol looks like
 
 # Lorem Ipsum
+Follow this protocol: https://drive.google.com/file/d/1HGK-1EhNMLqkR4u3sTXwEzwJhQi9f3tA/view?usp=sharing
+Also available as (lo res) png: https://drive.google.com/file/d/13dooZdjdqNrdD-bvg5Ez7c4T7nCsf2UY/view?usp=sharing
 
 Get urls for the the 931 energy conversion articles here: https://drive.google.com/file/d/1KyJyrk17581ztcJrG4Xh5vsQ678uJx6f/view?usp=sharing
 
