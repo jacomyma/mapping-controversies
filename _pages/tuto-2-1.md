@@ -26,6 +26,22 @@ Use these settings:
 - "Parent links": Not selected (this will ensure that the tool only gets links from the pages you input)
 - "Take all links": Selected (this will ensure that the tool gets all links found anywhere on the pages you input)
 
+Wait, are you sure you have used the right settings? 
+
+Good, now you can click "Start crawling".
+
+Observe how the network grows as the tool works its way through the 931 seed pages.
+
+When the tool is done you can download the resulting network as a .gexf
+If this did not work you can find a version of the result here: https://drive.google.com/file/d/179SeU2LSfOdgbOoqBXKcDXsoyLoshe6I/view?usp=sharing
+
+Open the resulting network in Gephi and observe the following:
+
+- There are much more nodes in this network than in the one you did in Tutorial 1.X on the same data. This is because SeeAlsology includes the next layer of pages that have been "seen" from the seed pages. The seed pages are coloured red and the "seen" pages are coloured blue.
+- To remove the pages that are not in the seeds, we can filter the network by outdegree. Set the minimum to 1 and filter - this will ensure that only pages that have been scraped for outlinks are included.
+
+@Mahtieu: The abouve is really hastily formulated. Feel very free, as always, to also change the wording!
+
 # Next tutorial
 
 [2.2. Write the protocol: scrape from one article with SeeAlsology *30 min*](../2.2/)
