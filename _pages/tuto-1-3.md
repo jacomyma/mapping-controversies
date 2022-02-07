@@ -19,14 +19,42 @@ The dataset from the last tutorial ([1.2](../1.2/)) is rich enough to create a d
 
 How to create a dashboard:
 * Click on the "New dashboard" icon at the bottom of the workbook.
-* Drag the sheets you have created into the dashboard space: the timeline, geographical map, the list of editors... You may have to tune them.
+* Drag the sheets you have created into the dashboard space: the timeline, geographical map, the list of editors... You may have to modify your sheets for the dashboard, because there is less space.
+* Use some (or all) of the [sheets as filters](https://help.tableau.com/current/pro/desktop/en-us/dashboards_create.htm#add-interactivity) to enable interactive exploration.
 * Check the [help](https://help.tableau.com/current/pro/desktop/en-us/dashboards_create.htm#create-a-dashboard-and-add-or-replace-sheets) if you're lost.
+
+It may look like this:
+[
+	![Map](../assets/images/1-3/Dashboard.png)
+](../assets/images/1-3/Dashboard.png)
+
+Or like that:
+[
+	![Map](../assets/images/1-3/Dashboard-2.png)
+](../assets/images/1-3/Dashboard-2.png)
 
 # Explore the data by filtering the dashboard 
 
-Filter the data and explore the result.
-Questions to ask yourself:
+Explore the data with the dashboard. Filter in different ways to explore different aspects. Each question may require a specific kind of filtering, and therefore a dashboard with specific sheets.
 
+# Make an annotated visualization
+
+Pick a question that you can answer with the dashboard, and use it to annotate the visualization.
+
+Example of questions you may use:
+* Are there editors in Denmark? If so, who are they?
+* Are there editors who edited both pages?
+* Who edited during a spike?
+
+You may draw inspiration from this:
+
+[
+	![Map](../assets/images/1-3/Dashboard-3.png)
+](../assets/images/1-3/Dashboard-3.png)
+
+[
+	![Map](../assets/images/1-3/Dashboard-4.png)
+](../assets/images/1-3/Dashboard-4.png)
 
 # Next tutorial
 
