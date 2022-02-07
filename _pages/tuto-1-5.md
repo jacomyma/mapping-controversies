@@ -11,13 +11,30 @@ title: 1.5. Harvest a dataset
 ](../assets/images/1-5.jpg)
 
 **Goals**
-* Harvest a dataset from an online source
+* *Harvest* a dataset from an online source
 
 # Harvest a dataset
 
-Happens here: https://pageviews.toolforge.org/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07&end=2021-12&pages=Cat|Dog
+We will use [Toolforge-PageViews](https://pageviews.toolforge.org) to harvest a dataset. To goal is to harvest the same dataset we have used in the tutoriel 1.1.
 
-Remember to set the time. Remeber to ask for daily data as tableau can aggregate.
+* Go to [PageViews](https://pageviews.toolforge.org)
+* Visualize the data for the two following Wikipedia articles:
+	* ```Space-based solar power```
+	* ```Thorium-based nuclear power```
+* Use the right settings:
+	* The ```Dates``` should be from 01/07/2015 to today (we used 06/02/2022)
+	* The ```Date type``` should be ```Daily```. Indeed, Tableau can aggregate into months or years easily, so the more precise data is just better.
+* Download the dataset by clicking on the ```Download``` drop-down menu and selecting ```CSV```.
+
+# Visualize
+
+Open the dataset into Tableau and check that it works. Can you visualize it at the day level using bars? It may look like this:
+
+[
+	![Timeline](../assets/images/1-5/timeline.png)
+](../assets/images/1-5/timeline.png)
+
+<div class="notice"><b>TIP:</b> if the bars look grey, that is because they are so thin that we only see their grey border. If you want to remove that border, click on the <code>Color</code> button in the <code>Marks</code> panel and set <code>Borders</code> to <code>None</code>.</div>
 
 # Next tutorial
 

@@ -32,9 +32,9 @@ Let us begin by exploring how public interest in two of the more exotic energy c
 
 Download this CSV:
 
-<center><a href="../assets/data/1-1/pageviews-20150701-20211231.csv">
+<center><a href="../assets/data/1-1/pageviews-20150701-20220206.csv">
 	<i class="fas fa-file-csv" style="font-size:5em"></i><br>
-	pageviews-20150701-20211231.csv
+	pageviews-20150701-20220206.csv
 </a><br><br></center>
 
 It contains the page view data for both articles on Wikipedia in the period from 2015 to 2021.
@@ -43,7 +43,7 @@ It comes from [this tool](https://pageviews.toolforge.org/?project=en.wikipedia.
 # Load data into Tableau
 
 * Open Tableau Desktop
-* Load the file from above. To do that, look into the sidebar, under "To a File" and click on "Text file", then upload the file ```pageviews-20150701-20211231.csv```
+* Load the file from above. To do that, look into the sidebar, under "To a File" and click on "Text file", then upload the file ```pageviews-20150701-20220206.csv```
 * Check that the data are parsed correctly: you should see three columns. If not, you need to [change the settings](https://help.tableau.com/current/pro/desktop/en-gb/examples_text.htm#set-text-file-options).
 * Also check that the columns have the right type. The first column should be dates. If it is parsed as something else, for instance text or numbers, then you need to [change its type](https://help.tableau.com/current/pro/desktop/en-us/datafields_typesandroles_datatypes.htm).
 * Click on "Sheet 1" in the bottom of the screen, to start creating your first visualization.
@@ -52,8 +52,8 @@ It comes from [this tool](https://pageviews.toolforge.org/?project=en.wikipedia.
 
 Try aggregating the days to show monthly variations. It may look like this:
 [
-	![Basic timeline in Tableau](../assets/images/1-1/basic-timeline.jpg)
-](../assets/images/1-1/basic-timeline.jpg)
+	![Basic timeline in Tableau](../assets/images/1-1/timeline.png)
+](../assets/images/1-1/timeline.png)
 
 # Export the visualization as an image
 
