@@ -25,12 +25,12 @@ How to create a dashboard:
 
 It may look like this:
 [
-	![Map](../assets/images/1-3/Dashboard.png)
+	![Dashboard](../assets/images/1-3/Dashboard.png)
 ](../assets/images/1-3/Dashboard.png)
 
 Or like that:
 [
-	![Map](../assets/images/1-3/Dashboard-2.png)
+	![Dashboard](../assets/images/1-3/Dashboard-2.png)
 ](../assets/images/1-3/Dashboard-2.png)
 
 # Explore the data by filtering the dashboard 
@@ -49,11 +49,11 @@ Example of questions you may use:
 You may draw inspiration from this:
 
 [
-	![Map](../assets/images/1-3/Dashboard-3.png)
+	![Dashboard](../assets/images/1-3/Dashboard-3.png)
 ](../assets/images/1-3/Dashboard-3.png)
 
 [
-	![Map](../assets/images/1-3/Dashboard-4.png)
+	![Dashboard](../assets/images/1-3/Dashboard-4.png)
 ](../assets/images/1-3/Dashboard-4.png)
 
 # Next activity
