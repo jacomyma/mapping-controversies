@@ -28,7 +28,9 @@ Download this CSV:
 	wikipedia-articles - 22 energy conversion articles.csv
 </a><br><br></center>
 
-It just contains the list of 22 articles about energy conversion.
+It just contains a list of 22 articles about energy conversion. In fact, this list is just a small part of the articles about energy conversion, but we thought that it would be enough for now.
+
+If you feel like it, you can try the [<i class="fas fa-file-csv"></i> list of 139 articles](../assets/data/1-6/wikipedia-articles - 139 energy conversion articles.csv) from the first level of the [Wikipedia category](https://en.wikipedia.org/wiki/Category:Energy_conversion). Expect the notebook to take about 10 minutes to run, then.
 
 # Open the notebook in Google Colab
 
@@ -57,7 +59,8 @@ You should obtain a file like [<i class="fas fa-file-csv"></i> this one](../asse
 
 The exercise is basically the same as tutorials [1.2](../1.2/) and [1.3](../1.3/), but this time you have more articles.
 
-The tableau visualization may look like this:
+The tableau visualization may look like this...
+
 [
 	![Timeline](../assets/images/1-6/timeline.png)
 ](../assets/images/1-6/timeline.png)
@@ -71,12 +74,12 @@ The tableau visualization may look like this:
 ...and there are many other possibilities.
 
 **The notebook allows dealing with bigger data, which unlocks new research questions.** You may pick one of those for your annotations:
-* Are the articles synchronized or not?
+* Are the articles synchronized or not? Are they edited at the same time?
 * Are some articles older, more recent? *Note: would you look at the date of first edit, or something else?*
 * Are there different moments where different articles get the most revisions?
 * Are certain articles only edited in certain parts of the world?
 
-Tip: you can use the ```Article``` dimension in Tableau's ```Pages``` shelf ([see help](https://help.tableau.com/current/reader/desktop/en-us/pages_shelf.htm)) to quickly compare across Articles.
+**Tip:** you can use the ```Article``` dimension in Tableau's ```Pages``` shelf ([see help](https://help.tableau.com/current/reader/desktop/en-us/pages_shelf.htm)) to quickly compare across Articles.
 
 [
 	![Stacked timeline](../assets/images/1-6/pages.png)
