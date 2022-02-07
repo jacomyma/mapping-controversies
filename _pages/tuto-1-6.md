@@ -12,7 +12,7 @@ title: 1.6. Harvest data with a notebook
 
 **Goals**
 * Learn how to run a **Jupyter notebook** from Google Colab
-* Check that it works differently from previous tutorial
+* Check that it works differently from the previous tutorial
 * Make an annotated visualization from this data
 
 # Case

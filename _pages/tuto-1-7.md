@@ -18,4 +18,4 @@ title: 1.7. Activate your knowledge about Tableau
 
 Then this afternoon we discover Gephi:
 
-[1.8. Intro to Gephi & Visualize clusters *45 min*](../1.8/)
+[<i class="fas fa-forward"></i>&nbsp;1.8. Intro to Gephi & Visualize clusters *(45 min)*](../1.8/)
