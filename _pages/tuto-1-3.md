@@ -56,7 +56,7 @@ You may draw inspiration from this:
 	![Map](../assets/images/1-3/Dashboard-4.png)
 ](../assets/images/1-3/Dashboard-4.png)
 
-# Next tutorial
+# Next activity
 
 [<i class="fas fa-forward"></i>&nbsp;1.4. A small-multiple with words *(30 min)*](../1.4/)
 
