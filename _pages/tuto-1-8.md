@@ -30,12 +30,11 @@ Download this GEXF:
 
 It contains 787 Wikipedia pages about energy conversion connected by their hyperlinks.
 
-Note: you can obtain a similar network by getting all the pages of the category with the notebook *[🍉&nbsp;Wikipedia category to article list](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_category_to_article_list.ipynb)* then feeding that list into this other notebook: *[🍣&bnsp;Wikipedia articles to hyperlinks network (slow and clean)](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_hyperlinks_network_slow_and_clean.ipynb)* (10 min to compute). This gives the full category, with 3,629 articles, which is a bit big for this tutorial. Here is the [<i class="fas fa-file"></i>&nbsp;file](../assets/data/1-8/energy-conversion-wiki-cat-full.gexf) though.
+*Note: you can obtain a similar network by getting all the pages of the category with the notebook [🍉&nbsp;Wikipedia category to article list](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_category_to_article_list.ipynb) then feeding that list into this other notebook: [🍣&nbsp;Wikipedia articles to hyperlinks network (slow and clean)](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_hyperlinks_network_slow_and_clean.ipynb) (10 min to compute). This gives the full category, with 3,629 articles, which is a bit big for this tutorial. Here is the [<i class="fas fa-file"></i>&nbsp;file](../assets/data/1-8/energy-conversion-wiki-cat-full.gexf) though.*
 
 # Visualize the network
 
-Use this network: https://drive.google.com/file/d/1YT61vniGHFjaTyXhQ8PClbOYH84TTNJ2/view?usp=sharing
-787 Wikipedia pages about energy conversion connected by their hyperlinks.
+
 
 # Annotate
 - Clusters as a way to identify subtopics of energy conversion
@@ -46,4 +45,4 @@ Use this network: https://drive.google.com/file/d/1YT61vniGHFjaTyXhQ8PClbOYH84TT
 
 Take a break before you get to this:
 
-[1.9. Visualize a bipartite network *25 min*](../1.9/)
+[<i class="fas fa-forward"></i>&nbsp;1.9. Visualize a bipartite network *(25 min)*](../1.9/)
