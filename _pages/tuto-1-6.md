@@ -41,7 +41,7 @@ A bit of context:
 
 We will use the following script. It opens directly in Colab (although it is actually [stored on GitHub](https://github.com/jacomyma/mapping-controversies/tree/main/notebooks)).
 
-[🍹&nbsp;Wikipedia articles to edits list](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_edits_list.ipynb)
+**[🍹&nbsp;Wikipedia articles to edits list](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_edits_list.ipynb)**
 
 *Note: the emoji of each notebook is just there to help you memorize which notebook does what.*
 
@@ -90,3 +90,10 @@ The tableau visualization may look like this...
 Last break before lunch! Then head for the last activity of the morning:
 
 [<i class="fas fa-forward"></i>&nbsp;1.7. Activate your knowledge about Tableau *(45 min)*](../1.7/)
+
+---
+
+### Additional resources
+
+* [Intro to Google Colab in 3 minutes](https://www.youtube.com/watch?v=inN8seMm7UI).
+
