@@ -15,21 +15,75 @@ title: 1.6. Harvest data with a notebook
 * Check that it works differently from previous tutorial
 * Make an annotated visualization from this data
 
-# Open the Jupyter notebook in Google Colab
+# Case
+
+Still the topic of *energy conversion*, but this time using 22 articles.
+
+# Data
+
+Download this CSV:
+
+<center><a href="../assets/data/1-6/wikipedia-articles - 22 energy conversion articles.csv">
+	<i class="fas fa-file-csv" style="font-size:5em"></i><br>
+	wikipedia-articles - 22 energy conversion articles.csv
+</a><br><br></center>
+
+It just contains the list of 22 articles about energy conversion.
+
+# Open the notebook in Google Colab
+
+A bit of context:
+* A *Jupyter notebook* is an online document that contains executable code (in Python), text, and images.
+* Executing the code requires a computer. For instance your own computer with [Anaconda](https://docs.anaconda.com/anaconda/); but that is not what we will use.
+* We will use Google Colab, an environment proposed by Google, where the code is executed on a virtual machine. It requires a Google account.
+
+We will use the following script. It opens directly in Colab (although it is actually [stored on GitHub](https://github.com/jacomyma/mapping-controversies/tree/main/notebooks)).
+
+[🍹&nbsp;Wikipedia articles to edits list](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_edits_list.ipynb)
+
+*Note: the emoji of each notebook is just there to help you memorize which notebook does what.*
 
 # Run the notebook to harvest data
 
-Here is the list of Wikipedia articles they can use as input to recreate what they have done so far: https://drive.google.com/file/d/1tcQd3iGjpRguQdmxIel1qM9JoM891OOO/view?usp=sharing
+* **Upload** the CSV data into the virtual machine. Click on the ```File``` icon on the left, then on the icon on top the reads ```Upload to session storage``` and upload the CSV from above.
+* Read the notebook text itself, ```SETTINGS``` included, stopping at ```SCRIPT```. You are not expected to understand the code itself. Just what it does.
+* **Edit the settings.** In particular, the name of the input file is probably not that indicated in the settings. You can change the variable in the settings, or rename the file in the virtual machine.
+* **Run the notebook.** Each cell can be executed individually, but we recommend to run everything at once from the menu: ```Runtime > Run all```. It is done when the *last cell* outputs "Done".
+* **Download** the output file from the virtual machine. First you to refresh the files of the virtual machine, in the side bar, by clicking on the ```Refresh``` icon. Then look for the output file, whose name was specified in the settings of the script, and download it via its drop-down menu, on the three dots on the right of the file.
 
-I am unsure how this will be different, though. Maybe we should actually give them a bigger list of articles this time to justify using a notebook? Here is a longer list with 139 articles about energy conversion technologies (level 0 from the categy, but we will get back to that later): https://drive.google.com/file/d/1RKGhWNEUi1mC5oVBe6C8EQiO0euMhikQ/view?usp=sharing
-
+You should obtain a file like [<i class="fas fa-file-csv"></i> this one](../assets/data/1-6/wikipedia-edits - 22 energy conversion articles.csv).
 
 # Make an annotated visualization
-...this is where it gets important to have worked on a longer list (in order not to reproduce the same viz)
 
+The exercise is basically the same as tutorials [1.2](../1.2/) and [1.3](../1.3/), but this time you have more articles.
+
+The tableau visualization may look like this:
+[
+	![Timeline](../assets/images/1-6/timeline.png)
+](../assets/images/1-6/timeline.png)
+
+...or maybe like that...
+
+[
+	![Stacked timeline](../assets/images/1-6/stacked-timeline.png)
+](../assets/images/1-6/stacked-timeline.png)
+
+...and there are many other possibilities.
+
+**The notebook allows dealing with bigger data, which unlocks new research questions.** You may pick one of those for your annotations:
+* Are the articles synchronized or not?
+* Are some articles older, more recent? *Note: would you look at the date of first edit, or something else?*
+* Are there different moments where different articles get the most revisions?
+* Are certain articles only edited in certain parts of the world?
+
+Tip: you can use the ```Article``` dimension in Tableau's ```Pages``` shelf ([see help](https://help.tableau.com/current/reader/desktop/en-us/pages_shelf.htm)) to quickly compare across Articles.
+
+[
+	![Stacked timeline](../assets/images/1-6/pages.png)
+](../assets/images/1-6/pages.png)
 
 # Next tutorial
 
 Last break before lunch! Then head for the last activity of the morning:
 
-[1.7. Activate your knowledge about Tableau *45 min*](../1.7/)
+[<i class="fas fa-forward"></i>&nbsp;1.7. Activate your knowledge about Tableau *(45 min)*](../1.7/)
