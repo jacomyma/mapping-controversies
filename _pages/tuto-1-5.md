@@ -15,7 +15,7 @@ title: 1.5. Harvest a dataset
 
 # Harvest a dataset
 
-We will use [Toolforge-PageViews](https://pageviews.toolforge.org) to harvest a dataset. To goal is to harvest the same dataset we have used in the tutoriel 1.1.
+We will use Toolforge [PageViews](https://pageviews.toolforge.org) to harvest a dataset. To goal is to harvest the same dataset we have used in the tutoriel 1.1.
 
 * Go to [PageViews](https://pageviews.toolforge.org)
 * Visualize the data for the two following Wikipedia articles:
@@ -34,8 +34,8 @@ Open the dataset into Tableau and check that it works. Can you visualize it at t
 	![Timeline](../assets/images/1-5/timeline.png)
 ](../assets/images/1-5/timeline.png)
 
-<div class="notice"><b>TIP:</b> if the bars look grey, that is because they are so thin that we only see their grey border. If you want to remove that border, click on the <code>Color</code> button in the <code>Marks</code> panel and set <code>Borders</code> to <code>None</code>.</div>
+<div class="notice--info"><b>TIP:</b> if the bars look grey, that is because they are so thin that we only see their grey border. If you want to remove that border, click on the <code>Color</code> button in the <code>Marks</code> panel and set <code>Borders</code> to <code>None</code>.</div>
 
 # Next tutorial
 
-[1.6. Harvest data with a notebook *30 min*](../1.6/)
+[<i class="fas fa-forward"></i>&nbsp;1.6. Harvest data with a notebook *(30 min)*](../1.6/)
