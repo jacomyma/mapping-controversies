@@ -76,4 +76,4 @@ Can you tell a better data-driven story, in your annotations, than in tutorial 1
 
 Take a break! Then check this:
 
-[1.12. Activate your knowledge about Gephi *45 min*](../1.12/)
+[<i class="fas fa-forward"></i>&nbsp;1.12. Activate your knowledge about Gephi *(45 min)*](../1.12/)
