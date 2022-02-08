@@ -39,7 +39,7 @@ The layout algorithm *Force Atlas 2* uses the weights to set the attraction forc
 
 Gephi computes the degree at any time, but you may compute the *weighted degree* from the ```Statistics``` panel (the sum of the weights of connected edges). It is a pretty useful centrality metric in this context. Betweenness centrality also takes weights into account (it is computed along with the ```Network diameter```).
 
-By using modularity clustering for node color and weighted degree for node size, and tuning the layout settings, I obtained this visualization:
+By using modularity clustering for node color and weighted degree for node size, and tuning the layout settings, one can a visualization like this one:
 
 [
 	![Network](../assets/images/1-10/weighted-network.png)
@@ -48,7 +48,7 @@ By using modularity clustering for node color and weighted degree for node size,
 
 # Make an annotated visualization
 
-Annotate the visualization. You may focus on clusters or nodes, or both. Can you make a data-driven point about the references used in these articles?
+Annotate your visualization. You may focus on clusters or nodes, or both. Can you make a data-driven point about the references used in these articles?
 
 # Next tutorial
 

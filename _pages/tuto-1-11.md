@@ -20,6 +20,6 @@ title: 1.11. From data to network with Table2Net
 
 # Next tutorial
 
-You may want to take a short walk at this point. Then check this:
+Take a break! Then check this:
 
 [1.12. Activate your knowledge about Gephi *45 min*](../1.12/)
