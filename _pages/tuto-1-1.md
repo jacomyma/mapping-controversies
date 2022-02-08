@@ -82,6 +82,8 @@ Some help:
 	![Partially annotated timeline in Google Slides](../assets/images/1-1/MappingControversies_AnnotationExamples_PageViews_SpaceBasedSolar.png)
 ](../assets/images/1-1/MappingControversies_AnnotationExamples_PageViews_SpaceBasedSolar.png)
 
+The partially annotated timeline above is available here in Google Sheets. You can copy the slide show to make an editable version for yourself and see how it is done. Try to annotate the remaining spikes and, if you have time, replace the timeline with the page views for Thorium-based nuclear power and annotate that. 
+
 # Export the slide as an image
 
 You can export a static image from the menu:
