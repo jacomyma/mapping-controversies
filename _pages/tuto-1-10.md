@@ -18,9 +18,9 @@ title: 1.10. Visualize a weighted network
 
 Download this GEXF:
 
-<center><a href="../assets/data/1-10/wikipedia-articles-editors-network.gexf">
+<center><a href="../assets/data/1-10/energy-conversion-coreference-network.gexf">
 	<i class="fas fa-file" style="font-size:5em"></i><br>
-	wikipedia-articles-editors-network.gexf
+	energy-conversion-coreference-network.gexf
 </a><br><br></center>
 
 It is the network of the 3628 articles from the Wikipedia category [energy conversion](https://en.wikipedia.org/wiki/Category:Energy_conversion) (including all subcategories) connected when they mention *references* in common. The references are the mentions and hyperlinks to external documents that you can find at the bottom of many articles (the documentary sources).
