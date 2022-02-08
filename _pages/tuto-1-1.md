@@ -73,13 +73,15 @@ Insert > Image > Upload from computer
 ```
 
 # Annotate the visualization
-The last step is to annotate the timeline. The goal is to help the reader make sense of the spikes in page views by adding small textual explainers. You can [follow this template](https://docs.google.com/presentation/d/1sUoBD0Q0DjBOsV-lgFbvlVQIGF4gYfWbUN88iE-GUTQ/edit?usp=sharing) to see how it can be done in Google Sheets. 
+The last step is to annotate the timeline. The goal is to help the reader make sense of the spikes in page views by adding small textual explainers. You can [follow this template](https://docs.google.com/presentation/d/1sUoBD0Q0DjBOsV-lgFbvlVQIGF4gYfWbUN88iE-GUTQ/edit?usp=sharing) to see how it can be done in Google Sheets. You can copy the slide show (File > Make a copy > Entire presentation) to edit your own version. 
 
 [
 	![Partially annotated timeline in Google Slides](../assets/images/1-1/MappingControversies_AnnotationExamples_PageViews_SpaceBasedSolar.svg)
 ](../assets/images/1-1/MappingControversies_AnnotationExamples_PageViews_SpaceBasedSolar.svg)
 
-The partially annotated timeline above is [available here in Google Sheets](https://docs.google.com/presentation/d/1sUoBD0Q0DjBOsV-lgFbvlVQIGF4gYfWbUN88iE-GUTQ/edit?usp=sharing). You can copy the slide show to make an editable version for yourself and see how it is done. Try to annotate the remaining spikes or, if you have time, replace the timeline with the page views for Thorium-based nuclear power and annotate that. 
+Annotate the remaining spikes. If you have time, replace the timeline with the page views for Thorium-based nuclear power and annotate that instead. This will require some exploration. We could for example assume that an increase in page views on Wikipedia corresponds to an increase in public interest for a given topic and explore what events were in the news around that point in time. 
+
+CAUTION: For some of the spikes, this will 
 
 Some help:
 - [November 2015 space-based solar energy spike](https://www.google.dk/search?q=space-based+solar+power&sxsrf=APq-WBt1C_23EirNE2q22dQTZH5B2w8d4g%3A1643919456713&source=lnt&tbs=cdr%3A1%2Ccd_min%3A11%2F1%2F2015%2Ccd_max%3A12%2F1%2F2015&tbm=)
