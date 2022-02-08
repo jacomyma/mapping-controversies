@@ -37,14 +37,14 @@ It contains 787 Wikipedia pages about energy conversion connected by their hyper
 As an entry point to network visualization, you may try [Gephisto](https://jacomyma.github.io/gephisto/).
 
 [
-	![Network](../assets/images/1-8/gephisto.png)
+	![Gephisto](../assets/images/1-8/gephisto.png)
 ](https://jacomyma.github.io/gephisto/)
 
 This tool makes a network map in one click, but as it cannot guess what you want, it takes decisions in your place. The result might not be that useful to you. You can always retry, though. You may obtain images like this one:
 
 [
-	![Network](../assets/images/1-8/gephisto-map.png)
-](../assets/images/1-8/gephisto-map.png)
+	![Network](../assets/images/1-8/gephisto-output.png)
+](../assets/images/1-8/gephisto-output.png)
 
 Let's move to a more flexible tool: Gephi.
 
