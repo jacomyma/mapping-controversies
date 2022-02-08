@@ -56,7 +56,7 @@ These modifications ensure that disconnected nodes ("islands") do not drift too 
 
 You have to stop the algorithm manually when it has converged (just eyball it).
 
-<div class="notice--info"><b>Tip:</b> if the nodes jiggle too much, you can calm them down by lowering the ```Tolerance (speed)``` setting.</div>
+<div class="notice--info"><b>Tip:</b> if the nodes jiggle too much, you can calm them down by lowering the <code>Tolerance (speed)</code> setting.</div>
 
 [
 	![Network](../assets/images/1-8/gephi-01.png)
