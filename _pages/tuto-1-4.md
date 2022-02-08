@@ -35,4 +35,4 @@ Like before, make an annotated visualization with your dashboard.
 
 ☕ Coffee time! Rest your eyes, then head for the next tutorial:
 
-[<i class="fas fa-forward"></i>&nbsp;1.5. Harvest a dataset *(15 min)*](../1.4/)
+[<i class="fas fa-forward"></i>&nbsp;1.5. Harvest a dataset *(15 min)*](../1.5/)
