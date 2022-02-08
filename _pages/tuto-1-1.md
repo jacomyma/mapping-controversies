@@ -78,9 +78,7 @@ Some help:
 - [June 2019 space-based solar energy spike](https://www.google.dk/search?q=space-based+solar+power&sxsrf=APq-WBtPC_A4zzk0j5HIcTysWs_G8EJdYA%3A1643919521765&source=lnt&tbs=cdr%3A1%2Ccd_min%3A6%2F1%2F2019%2Ccd_max%3A7%2F1%2F2019&tbm=)
 - [October 2016 thorium-based nuclear energy spike](https://www.google.dk/search?q=thorium-based+nuclear+power&tbs=cdr%3A1%2Ccd_min%3A10%2F1%2F2016%2Ccd_max%3A11%2F1%2F2016&sxsrf=APq-WBvU6vJzohQ7gS9t83zL48ttc1jvmw%3A1643921238178&ei=Vj_8Yb2tCsvHrgTMra-ABQ&ved=0ahUKEwi9sMLrs-T1AhXLo4sKHczWC1AQ4dUDCA4&uact=5&oq=thorium-based+nuclear+power&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABCABDIECAAQHjIECAAQHjIECAAQHjIECAAQHjIECAAQHjIGCAAQBRAeMgYIABAFEB46BwgjELADECc6CQgAELADEAcQHjoICAAQgAQQsAM6BwgAELADEB46BwgjELACECc6BggAEAcQHjoICAAQBxAFEB5KBAhBGAFKBAhGGABQxQJY0QRg9w5oAXAAeACAAVSIAacBkgEBMpgBAKABAcgBCsABAQ&sclient=gws-wiz)
 
-[
-	![Partially annotated timeline in Google Slides](../assets/images/1-1/MappingControversies_AnnotationExamples_PageViews_SpaceBasedSolar.png)
-](../assets/images/1-1/MappingControversies_AnnotationExamples_PageViews_SpaceBasedSolar.png)
+
 
 The partially annotated timeline above is available here in Google Sheets. You can copy the slide show to make an editable version for yourself and see how it is done. Try to annotate the remaining spikes and, if you have time, replace the timeline with the page views for Thorium-based nuclear power and annotate that. 
 
