@@ -65,7 +65,7 @@ Now click on the ```Filter``` button on the bottom-right. This should filter you
 
 **What does it mean?** Filtering hides some nodes along with the edges connected to them. The filter we used only keeps nodes with a certain range of *degree*, that is a certain number of neighbors. Our settings kept only the nodes with 3 neighbors or more.
 
-By doing this, we reduced the network to only 5.12% of the nodes, and 24.38% of the edges. It now has a more manageable size: 2,131 nodes and 13,521 edges.
+By doing this, we reduced the network to only 5.12% of the nodes, and 24.38% of the edges. It now has a more manageable size: 2,131 nodes and 13,520 edges.
 
 Remark: filters acts on both types of nodes, editors and articles alike, but in this case, as articles have many neighbors, they were left untouched. We only removed editors.
 
@@ -91,8 +91,36 @@ In case something went wrong, here is the [<i class="fas fa-file"></i>&nbsp;filt
 
 # Compute centrality metrics
 
+In the ```Statstics``` panel, on the right, run ```Network diameter```.
 
+The network diameter is how many edges there are between the two most distant nodes (in this case, you will find 5). But more importantly, at the same occasion, the article computes some *centrality metrics*, including:
+* *Betweenness centrality*: the higher, the more the node is a bridge, a broker.
+* *Closeness centrality*: the higher, the closer the node is, on average, to the other nodes.
 
+Visualize these centrality metrics as node sizes. Here what it looks like, using sizes from 1 to 10.
+
+**Closeness centrality**
+[
+	![Network](../assets/images/1-9/closeness.png)
+](../assets/images/1-9/closeness.png)
+
+**Betweenness centrality**
+[
+	![Network](../assets/images/1-9/betweenness.png)
+](../assets/images/1-9/betweenness.png)
+
+Are those the same? Does it change anything that a node is an article or an editor?
+
+# Annotate a visualization
+
+The betweenness centrality network is the most interesting one. Export the network map and annotate it in Google Slides.
+
+We ask you to **annotate the nodes that are important**. Clusters do not matter in this case. Here are some tips to write your annotations:
+* Big nodes are nodes with a high betweenness centrality
+* High betweenness centrality means that the node is a bridge, an intermediary between many other nodes, or in other words a *broker*, an obligatory passage point.
+* Since this network is bipartite, one can say that the brokers are the nodes that contribute the most to connecting other nodes. In that sense, they are structurally important.
+
+Your annotations do not have to be spectacular, but they have to be properly formulated.
 
 # Next tutorial
 
