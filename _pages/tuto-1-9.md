@@ -118,7 +118,9 @@ The betweenness centrality network is the most interesting one. Export the netwo
 We ask you to **annotate the nodes that are important**. Clusters do not matter in this case. Here are some tips to write your annotations:
 * Big nodes are nodes with a high betweenness centrality
 * High betweenness centrality means that the node is a bridge, an intermediary between many other nodes, or in other words a *broker*, an obligatory passage point.
-* Since this network is bipartite, one can say that the brokers are the nodes that contribute the most to connecting other nodes. In that sense, they are structurally important.
+* Since this network is bipartite, one can say that the brokers are the nodes that contribute the most to connecting the other type of nodes. In that sense, they are structurally important. For example, the editors with the highest betweenness centrality are those who contribute the most to *connecting* articles.
+* In this network, each *connection* corresponds to a revision, i.e. the *act of editing* an article.
+* So broker editors are those who contribute to the most varied articles, and broker articles are where the contributors are the most varied.
 
 Your annotations do not have to be spectacular, but they have to be properly formulated.
 
