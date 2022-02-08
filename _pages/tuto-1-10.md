@@ -18,21 +18,33 @@ title: 1.10. Visualize a weighted network
 
 Download this GEXF:
 
-<center><a href="../assets/data/1-9/wikipedia-articles-editors-network.gexf">
+<center><a href="../assets/data/1-10/wikipedia-articles-editors-network.gexf">
 	<i class="fas fa-file" style="font-size:5em"></i><br>
 	wikipedia-articles-editors-network.gexf
 </a><br><br></center>
 
-This file was obtained by extracting the 3629 articles from the Wikipedia category [energy conversion](https://en.wikipedia.org/wiki/Category:Energy_conversion) using the notebook [🍉&nbsp;Wikipedia category to article list](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_category_to_article_list.ipynb). It gives this [<i class="fas fa-file-csv"></i>&nbsp;CSV file](../assets/data/1-10/wikipedia-articles-cat-energy-conversion.csv), that is then fed into
-the notebook [🫕&nbsp;Wikipedia articles to co-reference network](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_co_reference_network.ipynb).
+It is the network of the 3628 articles from the Wikipedia category [energy conversion](https://en.wikipedia.org/wiki/Category:Energy_conversion) (including all subcategories) connected when they mention *references* in common. The references are the mentions and hyperlinks to external documents that you can find at the bottom of many articles (the documentary sources).
+
+This file was harvested using the notebook [🍉&nbsp;Wikipedia category to article list](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_category_to_article_list.ipynb), giving this [<i class="fas fa-file-csv"></i>&nbsp;CSV file](../assets/data/1-10/wikipedia-articles-cat-energy-conversion.csv) containing the articles, that is then fed into the notebook [🫕&nbsp;Wikipedia articles to co-reference network](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_co_reference_network.ipynb) that harvest Wikipedia further, and builds the network.
+
+# Visualize the network
+
+Visualize the network. You will notice that edges have a thickness. It corresponds to their *weight*: a score between 0 and 1 (generally) that brings nuance. Intuitively, edges with a higher weight make stronger connections.
+
+The layout algorithm *Force Atlas 2* uses the weights to set the attraction force between the connected nodes. You can adjust the importance of the weight for the algorithm by adjusting the setting ```Edge Weight Influence```:
+* At ```0.0``` the edge weights are ignored.
+* Between ```0.0``` and ```1.0``` they are taken into account, but attenuated.
+* At ```1.0``` the edges pull exactly as much as their weight.
+* Above ```1.0```, the edge weights are empasized.
+
+# Make an annotated visualization
 
 
-# Lorem Ipsum
 
-I have not produced this network yet but the category file used to produce the hyperlink equivalent is here: https://drive.google.com/file/d/135CowQ3LB2U-HlaHD0aB4hTh-G5OBJoO/view?usp=sharing
+
 
 # Next tutorial
 
-You may want to take a short walk at this point. Then check this:
+You may want to take a short walk at this point. Take a break, then check this:
 
-[1.11. From data to network with Table2Net *45 min*](../1.11/)
+[<i class="fas fa-forward"></i>&nbsp;1.11. From data to network with Table2Net *(45 min)*](../1.11/)
