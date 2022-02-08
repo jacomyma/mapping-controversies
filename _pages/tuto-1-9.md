@@ -24,7 +24,9 @@ Download this GEXF:
 	wikipedia-articles-editors-network.gexf
 </a><br><br></center>
 
-This file was obtained by feeding this [<i class="fas fa-file-csv"></i>&nbsp;CSV file](../assets/data/1-9/energy-conversion-category-depth-0.csv) containing the 139 Wikipedia articles in the category about energy conversion (ignoring subcategories) into the following script: [🍄&nbsp;Wikipedia articles to articles and editors network](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_articles_and_editors_network.ipynb).
+It is the network of articles and editors connected when an editor contributed to an article, for the 139 Wikipedia articles in the category [energy conversion](https://en.wikipedia.org/wiki/Category:Energy_conversion) (ignoring subcategories).
+
+The file was obtained by feeding this [<i class="fas fa-file-csv"></i>&nbsp;CSV file](../assets/data/1-9/energy-conversion-category-depth-0.csv) into the following script: [🍄&nbsp;Wikipedia articles to articles and editors network](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_articles_and_editors_network.ipynb).
 
 # Quickly visualize the network
 
