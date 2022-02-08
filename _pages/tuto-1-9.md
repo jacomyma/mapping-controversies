@@ -12,7 +12,6 @@ title: 1.9. Visualize a bipartite network
 
 **Goals**
 * Check what makes a **bipartite** network special
-* Experiment with Gephi's **data laboratory**
 * Tinker with **centrality metrics**
 * Annotate important nodes
 
