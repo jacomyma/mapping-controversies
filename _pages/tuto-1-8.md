@@ -32,6 +32,18 @@ It contains 787 Wikipedia pages about energy conversion connected by their hyper
 
 *Note: you can obtain a similar network by getting all the pages of the category with the notebook [🍉&nbsp;Wikipedia category to article list](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_category_to_article_list.ipynb) then feeding that list into this other notebook: [🍣&nbsp;Wikipedia articles to hyperlinks network (slow and clean)](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_hyperlinks_network_slow_and_clean.ipynb) (10 min to compute). This gives the full category, with 3,629 articles, which is a bit big for this tutorial. Here is the [<i class="fas fa-file"></i>&nbsp;file](../assets/data/1-8/energy-conversion-wiki-cat-full.gexf) though.*
 
+# Video tutorials
+
+**If you have not installed Gephi**, then watch this video and do it:
+
+{% include video id="DMOWhqp6lHQ" provider="youtube" %}
+
+The two next videos (15 minutes total) show how to use Gephi to visualize a network. We suggest that you try replicating them with the network data from above. Else, you can watch them and make the network map afterwards.
+
+{% include video id="YM_37z_uURM" provider="youtube" %}
+
+{% include video id="0LqY8OfSsKE" provider="youtube" %}
+
 # Visualize the network
 
 
