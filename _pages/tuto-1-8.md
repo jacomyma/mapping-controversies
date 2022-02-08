@@ -48,7 +48,7 @@ This tool makes a network map in one click, but as it cannot guess what you want
 
 Let's move to a more flexible tool: Gephi.
 
-# Video tutorials
+# Gephi video tutorials
 
 **If you have not installed Gephi**, then watch this video and do it:
 
@@ -65,8 +65,8 @@ Let's move to a more flexible tool: Gephi.
 Use Gephi to produce a network map. We suggest the following course of actions:
 
 Apply the Force Atlas 2 algorithm with the default settings but two modifications:
-	* Stronger gravity activated
-	* Gravity set to 0.05
+* Stronger gravity activated
+* Gravity set to 0.05
 
 These modifications ensure that disconnected nodes ("islands") do not drift too far, which causes problems down the line.
 
