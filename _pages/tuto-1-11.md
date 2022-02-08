@@ -65,7 +65,7 @@ You will obtain a bipartite network of articles and users. If you are lost, use 
 You are now in the same situation as in the [tutorial 1.9](../1.9/), but since the tool used is slightly different, there are minor differences. You might be more comfortable with Gephi now, and do things a bit differently. Do as you wish.
 
 We suggest that you:
-* Filter the network, because it is so big, and there are so many "leaves" (nodes that have only one neighbors). The leaves are not super interesting, because they do not connect multiple other nodes. Those leaves are mostly editors who contributed to only one article.
+* Filter the network, because it is so big, and there are so many "leaves" (nodes that have only one neighbor). The leaves are not super interesting, because they do not connect multiple other nodes. Those leaves are mostly editors who contributed to only one article.
 * Use a centrality metric to bring hierarchy to the nodes. Degree? Closeness? Betweenness? Up to you.
 * Visualize this centrality as node sizes
 * Visualize node types as color
