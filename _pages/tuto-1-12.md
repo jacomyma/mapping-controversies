@@ -14,7 +14,7 @@ title: 1.12. Activate your knowledge about Gephi
 
 # Next tutorial
 
-<p style="font-size: 5em;">🎉</p>
+<span style="font-size: 5em;">🎉</span>
 That's it for today!
 Have a well-deserved rest.
 
