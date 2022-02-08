@@ -4,7 +4,7 @@ layout: single
 title: 1.10. Visualize a weighted network
 ---
 
-**Duration: 20 min**
+**Duration: 15 min**
 
 [
 	![Overview tuto 1.10](../assets/images/1-10.jpg)

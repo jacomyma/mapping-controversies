@@ -167,4 +167,4 @@ Prioritize the most interesting observations in your annotations.
 
 Take a break before you get to this:
 
-[<i class="fas fa-forward"></i>&nbsp;1.9. Visualize a bipartite network *(25 min)*](../1.9/)
+[<i class="fas fa-forward"></i>&nbsp;1.9. Visualize a bipartite network *(30 min)*](../1.9/)

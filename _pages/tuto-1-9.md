@@ -4,7 +4,7 @@ layout: single
 title: 1.9. Visualize a bipartite network
 ---
 
-**Duration: 25 min**
+**Duration: 30 min**
 
 [
 	![Overview tuto 1.9](../assets/images/1-9.jpg)
@@ -125,4 +125,4 @@ Your annotations do not have to be spectacular, but they have to be properly for
 
 # Next tutorial
 
-[<i class="fas fa-forward"></i>&nbsp;1.10. Visualize a weighted network *(20 min)*](../1.10/)
+[<i class="fas fa-forward"></i>&nbsp;1.10. Visualize a weighted network *(15 min)*](../1.10/)

@@ -46,8 +46,8 @@ Build annotated network maps with Gephi, 4 hours.
 
 * [1.8. Intro to Gephi & Visualize clusters *(45 min)*](1.8/)
 * BREAK *(15 min)*
-* [1.9. Visualize a bipartite network *(25 min)*](1.9/)
-* [1.10. Visualize a weighted network *(20 min)*](1.10/)
+* [1.9. Visualize a bipartite network *(30 min)*](1.9/)
+* [1.10. Visualize a weighted network *(15 min)*](1.10/)
 * BREAK *(15 min)*
 * [1.11. From data to network with Table2Net *(45 min)*](1.11/)
 * BREAK *(15 min)*
