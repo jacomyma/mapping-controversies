@@ -101,6 +101,7 @@ If you feel comfortable, you may try doing the following:
 * Generate a different color palette for the modularity class.
 * Apply the Force Atlas 2 layout with the ```LinLog``` mode enabled, which will require you to drastically lower the ```Scaling``` and ```Gravity``` ratios.
 * Apply the Force Atlas 2 layout with ```Prevent Overlap``` enabled as a finishing touch to separate the nodes better.
+* Alternatively, assuming that the labels do not overlap too much, you may use the layout ```Label Adjust``` to unpack the labels artificially.
 * Display node labels with the ```Size mode``` selector set to ```Node size``` (it's the black A in the bottom bar).
 
 [
