@@ -23,7 +23,7 @@ Each tutorial covers a part of this general process, from data harvesting (botto
 
 The schedule breaks down in 4 half-days. Each one focuses on a different topic, and requires 4 hours of work, breaks included.
 
-The activities must be done in order, as they build on each other and ramp up in complexity. Each one comprises a tutoriel and a practical exercise. Time is indicative.
+The activities must be done in order, as they build on each other and ramp up in complexity. Each one comprises a tutorial and practical tasks. *Time is indicative.*
 
 ### Tableau software
 
