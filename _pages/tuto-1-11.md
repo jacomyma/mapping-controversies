@@ -16,7 +16,61 @@ title: 1.11. From data to network with Table2Net
 * Activate your new network visualization skills
 * Make an annotated network map
 
-# Lorem Ipsum
+# Data
+
+Download this CSV:
+
+<center><a href="../assets/data/1-11/energy-conversion-category-depth-0.csv">
+	<i class="fas fa-file-csv" style="font-size:5em"></i><br>
+	energy-conversion-category-depth-0.csv
+</a><br><br></center>
+
+It just contains the list of 139 articles in the Wikipedia category [energy conversion](https://en.wikipedia.org/wiki/Category:Energy_conversion) (including subcategories).
+
+# Harvest the list of edits
+
+Harvest the list of edits using the following notebook. The instructions are specified in it. Expect the harvesting to take several minutes (have a tea!).
+
+[🍹&nbsp;Wikipedia articles to edits list](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_edits_list.ipynb)
+
+It should provide you with a CSV table of edits, similar to that of tutorials [1.2](../1.2/) and [1.3](../1.3/), but bigger. You could visualize it in Tableau, but we will do something else.
+
+*Note: you must learn to use the notebooks we provide. But assuming that something went inexplicably wrong, you can find the file you are supposed to produce [there](../assets/data/1-11/wikipedia-edits.csv).*
+
+# Extract a network using Table2Net
+
+[Table2Net](https://medialab.github.io/table2net/) is an online tool to extract a table from a CSV. Your goal is to extract a **bipartite network of articles and editors**. Follow the instructions below:
+
+* Open [Table2Net](https://medialab.github.io/table2net/)
+* Upload the CSV file
+* Type of network: choose ```Bipartite```
+* For the first type of nodes, pick the column that represents *articles*: ```page``` (```Article``` would work as well).
+* Leave ```One expression per cell``` as it is (the cell content is not a list).
+* You do not need attributes for those nodes.
+* For the second type of nodes, pick the column that represents *editors*: ```user```. Remark that ```userid``` would also work, but it would be less explicit.
+* Leave ```One expression per cell``` as it is (idem).
+* You do not need attributes for those nodes either.
+* Scroll to the end of the page and click on ```Build the network```.
+
+You will obtain a bipartite network of articles and users. If you are lost, use [this network](../assets/data/1-11/article-editor-network.gexf).
+
+[
+	![Network](../assets/images/1-11/network-preview.png)
+](../assets/images/1-11/network-preview.png)
+
+**NOTE:** We introduce Table2Net because it works on **any CSV**, not just Wikipedia data, contrary to most of our notebooks. If you decide to use **other data sources**, it might prove very useful to you. Read the documentation included in the tool to understand it better. It allows extracting monopartite (regular) networks as well, for instance *editors connected when they edited the same article* or conversely, *articles connected when they were edited by the same editor*.
+
+# Make an annotated network map
+
+You are now in the same situation as in the [tutorial 1.9](../1.9/), but since the tool used is slightly different, there are minor differences. You might be more comfortable with Gephi now, and do things a bit differently. Do as you wish.
+
+We suggest that you:
+* Filter the network, because it is so big, and there are so many "leaves" (nodes that have only one neighbors). The leaves are not super interesting, because they do not connect multiple other nodes. Those leaves are mostly editors who contributed to only one article.
+* Use a centrality metric to bring hierarchy to the nodes. Degree? Closeness? Betweenness? Up to you.
+* Visualize this centrality as node sizes
+* Visualize node types as color
+
+Can you tell a better data-driven story, in your annotations, than in tutorial 1.9? Not that you have to. The important is that you get more efficient and autonomous at this exercise.
 
 # Next tutorial
 
