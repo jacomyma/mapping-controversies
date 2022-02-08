@@ -14,9 +14,10 @@ title: 1.12. Activate your knowledge about Gephi
 
 # Next tutorial
 
-That's it for today! 🎉
+<p style="font-size: 5em;">🎉</p>
+That's it for today!
 Have a well-deserved rest.
 
 We will start again next time with this one:
 
-[2.1 Follow the protocol: scrape a network with SeeAlsology *15 min*](../2.1/)
+[<i class="fas fa-forward"></i>&nbsp;2.1 Follow the protocol: scrape a network with SeeAlsology *(15 min)*](../2.1/)
