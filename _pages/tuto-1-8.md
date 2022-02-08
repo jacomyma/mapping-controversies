@@ -70,9 +70,9 @@ Apply the Force Atlas 2 algorithm with the default settings but two modification
 
 These modifications ensure that disconnected nodes ("islands") do not drift too far, which causes problems down the line.
 
-You have to stop the algorithm manually when it has converged (just eyball it).
-
 <div class="notice--info"><b>Tip:</b> if the nodes jiggle too much, you can calm them down by lowering the <code>Tolerance (speed)</code> setting.</div>
+
+You have to stop the algorithm manually when it has converged (just eyball that it does not significantly move anymore).
 
 [
 	![Network](../assets/images/1-8/gephi-01.png)
@@ -82,7 +82,7 @@ You have to stop the algorithm manually when it has converged (just eyball it).
 
 In the ```Statistics``` panel, run the ```Modularity``` algorithm with default settings. It detects clusters.
 
-Color the nodes to highlights clusters visually. In the ```Appearance``` panel, click on the ```Nodes``` button, click on the ```Color``` icon (a palette), click on the ```Partition``` button, and in the drop-down list, pick ```Modularity Class```. Then click on the ```Apply``` button at the bottom of the panel. This colors each node according to the cluster detected by the modularity clustering algorithm.
+Color the nodes to highlight clusters visually. In the ```Appearance``` panel, click on the ```Nodes``` button, click on the ```Color``` icon (a palette), click on the ```Partition``` button, and in the drop-down list, pick ```Modularity Class```. Then click on the ```Apply``` button at the bottom of the panel. This colors each node according to the cluster detected by the modularity clustering algorithm.
 
 [
 	![Network](../assets/images/1-8/gephi-02.png)
@@ -145,6 +145,8 @@ You should obtain a file similar to that one:
 [
 	![Network](../assets/images/1-8/gephi-export.png)
 ](../assets/images/1-8/gephi-export.png)
+
+<div class="notice--info"><b>Note:</b> it is perfectly acceptable to not show lables at all. Just uncheck <code>Show labels</code> in the settings. In this case, you need to add relevant labels as annotations later on.</div>
 
 # Annotate the visualization
 
