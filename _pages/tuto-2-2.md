@@ -64,6 +64,7 @@ Using Google Slides, write the protocol of the image you have produced. **It mus
 
 # Deliverables
 
+Keep somewhere, for sharing, the following documents:
 * The image of the network map (PNG)
 * The image of the protocol (PNG)
 
