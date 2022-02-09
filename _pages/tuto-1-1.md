@@ -104,3 +104,6 @@ Save this image somewhere. **Later on, you will upload this to share with the ot
 ### Additional resources
 
 * [An intro to Tableau in 23 minutes](https://www.youtube.com/watch?v=jEgVto5QME8)
+
+Tools for getting similar data from other sources:
+* [Search interest over time with Google Trends](https://trends.google.com/trends/?geo=DK)
