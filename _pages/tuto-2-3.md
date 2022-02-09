@@ -16,15 +16,15 @@ title: "2.3. Follow the protocol: co-reference network from a category"
 * **Harvest** a co-reference network from a Wikipedia category
 * Follow a more complex protocol
 
-# Data
+# Datum
 
-The only data we need is this bit of text:
+The only data we need is this single bit of text:
 
 ```
 Category:Energy conversion
 ```
 
-This is just the title of the Wikipedia category on energy conversion. It's nevertheless a datum!
+This is just the title of the Wikipedia category on energy conversion. It's nevertheless a *datum* (singular of data)!
 
 # Protocol
 
@@ -48,6 +48,6 @@ If you've done it all, bravo! You have discovered two new notebooks that you can
 Keep somewhere, for sharing, the following document:
 * The (unannotated) network map (JPEG or PNG)
 
-# Next tutorial
+# Next activity
 
 [<i class="fas fa-forward"></i>&nbsp;2.4. Write the protocol: Article-editor network from a category *(30 min)*](../2.4/)
