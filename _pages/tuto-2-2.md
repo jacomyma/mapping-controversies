@@ -39,15 +39,16 @@ You should ask yourself the following questions, probably in this order:
 
 These questions have no obvious answer. They depend on your article. Some articles do not have a "See also" section, so it forces you to take all links. Some articles cite many other articles, so the network grows too fast and you must pick a low distance. Some articles have many parent articles, some none, etc.
 
-*How to decide:* look at a network size that is feasible. Too big, and it will get slow or impossible to work with your network. Too small, and there will be nothing to interpret. Aim for a size that you are comfortable with. Maybe 100 to 1,000 nodes? It also depends on the performance of your computer!
+*How to decide:* Look at a network size that is feasible. Too big, and it will get slow or impossible to work with your network. Too small, and there will be nothing to interpret. Aim for a size that you are comfortable with. Maybe 100 to 1,000 nodes? It also depends on the performance of your computer!
 
-***Remark** that, by definition, a distance of 0 will give you the network of your starting articles (so here, just one node). Similarly, a distancce of 1 will give you the starting article and its neighbors, but not the links between them. So you probably need a distance of 2 or more. But 2 might already be big! That is how it is.*
+***Remark:** By definition, a distance of 0 gives you just your starting article. Similarly, a distancce of 1 gives you the starting article and its neighbors, but not the links between them (a star-shaped network). So you probably need a distance of 2 or more.*
 
 **Tip:** If your starting page has enough "See also" links, then you do not take all the links, you might get a nice network with high distances (3 or more).
 
 **Tip:** If you harvested all the links, then you probably need to filter your network in Gephi.
 
 This is the network obtained for the article [Copenhagen](https://en.wikipedia.org/wiki/Copenhagen) with a depth of 3, with parent links, see-also links only. Here is the [<i class="fas fa-file"></i>&nbsp;GEXF](../assets/data/2-2/see-also-copenhagen.gexf), by the way.
+
 [
 	![See also Copenhagen](../assets/images/2-2/see-also-copenhagen.png)
 ](../assets/images/2-2/see-also-copenhagen.png)
