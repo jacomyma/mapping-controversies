@@ -63,8 +63,8 @@ It may look like this (notice that the first column is parsed as dates).
 * Since you have not told Tableau how you want to aggregate the page views - day by day, week by week, quarter by quarter, year by year - it will make an arbitrary choice. Perhaps your first timeline is aggreated in years. You should change this depending on your interest. To do so, click on the dropdown menu for "Date" in the "Columns" field:
 
 [
-	![Setting date in Tableau](../assets/images/1-1/MappingControversies_TutorialScreenshots_TableauDateSetting.png)
-](../assets/images/1-1/MappingControversies_TutorialScreenshots_TableauDateSetting.png)
+	![Setting date in Tableau](../assets/images/1-1/MappingControversies_TutorialScreenshots_TableauDateSetting.svg)
+](../assets/images/1-1/MappingControversies_TutorialScreenshots_TableauDateSetting.svg)
 
 * There are multiple settings to choose from. Note that if you want to show the tilmeline week by week or month by month, there are two ways to do it. By default, Tableau will just aggregate all the data for a month or a week, for example for August, without considering for which year. Since we want to show the timeline month by month from 2015 to 2021, we should therefore choose "Month     May, 2015" from the second section of options (highlighted on the screenshot above) rather than just "Month    May". 
 
