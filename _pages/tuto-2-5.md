@@ -22,9 +22,9 @@ It is now time to do that same thing on your own data set.
 
 1. Choose a Wikipedia **category**
 1. Source a list of its Wikipedia **articles**
-1. **Harvest** at least 2 data sets (networks or CSV)
+1. **Harvest** at least 2 networks
 1. **Analyze and visualize** them
-1. **Annotate** your visualizations
+1. **Annotate** your network maps
 1. Write the **visual protocols**
 
 # Advices and comments
@@ -34,9 +34,16 @@ It is now time to do that same thing on your own data set.
 * Pay attention to the **quality of the sourcing** (the list of articles). The better, the easier the work of analyzing it: check that the articles are actually related to your topic.
 * **What size** for the sourcing (articles list)?
 	* Not too small, not too big: between 50 and 5000, but it also depends.
-	* If the subsequent harvesting makes your data bigger, prefer smaller lists (max level low).
-	* If not, you can probably visualize a network of thousands of nodes, and more (once you filter it).
+	* If the subsequent harvesting makes your data bigger (e.g., articles and editors), prefer smaller lists (max level low).
+	* If not (e.g., hyperlinks network), you can probably visualize a network of thousands of nodes, and more if you filter it.
 	* If you have two, source multiple lists (same category, but at different levels).
+* During **network analysis**, consider:
+	* Filtering your network
+	* Computing centrality metrics, then annotating the important nodes
+	* Computing modularity clustering, them annotating the clusters
+	* Reflecting on the edges' direction and weight, if any.
+* You may make **multiple network maps** for a same network.
+* You may make **multiple annotated visualizations** for a same network map.
 * Prioritize **clarity** in your visualizations and visual protocols.
 * If it makes more sense, you may **join your protocols** into a single diagram.
 * **Take risks!** This is a good occasion to try something uncertain. Data science is a bet, it's exploration.
@@ -45,7 +52,7 @@ It is now time to do that same thing on your own data set.
 # Documents produced
 
 Keep somewhere, for sharing, the following documents:
-* The images of the network maps and data visualizations (JPEG or PNG)
+* The images of the network maps (JPEG or PNG)
 * The image(s) of the protocol(s) (JPEG or PNG)
 
 # Next tutorial
