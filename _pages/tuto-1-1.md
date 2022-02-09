@@ -43,9 +43,16 @@ It comes from [this tool](https://pageviews.toolforge.org/?project=en.wikipedia.
 # Load data into Tableau
 
 * Open Tableau Desktop
-* Load the file from above. To do that, look into the sidebar, under "To a File" and click on "Text file", then upload the file ```pageviews-20150701-20220206.csv```
+* Load the CSV file you just downloaded above. To do that, look into the sidebar under "To a File" and click on "Text file", then upload the file ```pageviews-20150701-20220206.csv```
 * Check that the data are parsed correctly: you should see three columns. If not, you need to [change the settings](https://help.tableau.com/current/pro/desktop/en-gb/examples_text.htm#set-text-file-options).
 * Also check that the columns have the right type. The first column should be dates. If it is parsed as something else, for instance text or numbers, then you need to [change its type](https://help.tableau.com/current/pro/desktop/en-us/datafields_typesandroles_datatypes.htm).
+
+It could look something like this (notice that the first column is parsed as dates).
+
+[
+	![Parsing data in Tableau](../assets/images/1-1/MappingControversies_TutorialScreenshots_TableauParsing.svg)
+](../assets/images/1-1/MappingControversies_TutorialScreenshots_TableauParsing.svg)
+
 * Click on "Sheet 1" in the bottom of the screen, to start creating your first visualization.
 
 # Visualize the data as a simple timeline
