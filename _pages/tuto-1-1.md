@@ -47,17 +47,29 @@ It comes from [this tool](https://pageviews.toolforge.org/?project=en.wikipedia.
 * Check that the data are parsed correctly: you should see three columns. If not, you need to [change the settings](https://help.tableau.com/current/pro/desktop/en-gb/examples_text.htm#set-text-file-options).
 * Also check that the columns have the right type. The first column should be dates. If it is parsed as something else, for instance text or numbers, then you need to [change its type](https://help.tableau.com/current/pro/desktop/en-us/datafields_typesandroles_datatypes.htm).
 
-It could look something like this (notice that the first column is parsed as dates).
+It may look like this (notice that the first column is parsed as dates).
 
 [
 	![Parsing data in Tableau](../assets/images/1-1/MappingControversies_TutorialScreenshots_TableauParsing.svg)
 ](../assets/images/1-1/MappingControversies_TutorialScreenshots_TableauParsing.svg)
 
-* Click on "Sheet 1" in the bottom of the screen, to start creating your first visualization.
 
 # Visualize the data as a simple timeline
 
-Try aggregating the days to show monthly variations. It may look like this:
+* Click on the "Sheet 1" tab in the bottom of the screen to start creating your first visualization.
+* On the left under "Tables" you will see the data columns you just parsed: "Date", "Thorium-based nuclear power", and "Space-based solar power". You can drag and drop them onto your sheet.
+* At the top of the sheet you will see two horizontal fields called "Columns" and "Rows". Dropping your data into each of them will define what should be represented on the horizontal and vertical axis in your visualization. Since we are building a timeline, let us begin by dragging "Date" into the "Columns" field (will represent time on the horizontal axis).
+* Drag either Thorium-based nuclear power" or "Space-based solar power" into the "Rows" field. You should now see a timeline. You can also drag both into the "Rows" field to generate two timelimes for comparison.
+* Since you have not told Tableau how you want to aggregate the page views - day by day, week by week, quarter by quarter, year by year - it will make an arbitrary choice. Perhaps your first timeline is aggreated in years. You should change this depending on your interest. To do so, click on the dropdown menu for "Date" in the "Columns" field:
+
+[
+	![Setting date in Tableau](../assets/images/1-1/MappingControversies_TutorialScreenshots_TableauDateSetting.svg)
+](../assets/images/1-1/MappingControversies_TutorialScreenshots_TableauDateSetting.svg)
+
+* There are multiple settings to choose from. Note that if you want to show the tilmeline week by week or month by month, there are two ways to do it. By default, Tableau will just aggregate all the data for a month or a week, for example for August, without considering for which year. Since we want to show the timeline month by month from 2015 to 2021, we should therefore choose "Month     May, 2015" from the second section of options (highlighted on the screenshot above) rather than just "Month    May". 
+
+
+The result may look like this:
 [
 	![Basic timeline in Tableau](../assets/images/1-1/timeline.png)
 ](../assets/images/1-1/timeline.png)
