@@ -52,7 +52,7 @@ It should provide you with a CSV table of edits, similar to that of tutorials [1
 * You do not need attributes for those nodes either.
 * Scroll to the end of the page and click on ```Build the network```.
 
-You will obtain a bipartite network of articles and users. If you are lost, use [this network](../assets/data/1-11/article-editor-network.gexf).
+You will obtain a bipartite network of articles and users. If you are lost, use [<i class="fas fa-file"></i>&nbsp;this network](../assets/data/1-11/article-editor-network.gexf).
 
 [
 	![Network](../assets/images/1-11/network-preview.png)
