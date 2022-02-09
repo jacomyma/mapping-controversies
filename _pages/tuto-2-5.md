@@ -8,20 +8,24 @@ title: "2.5. Do your own network from a category"
 
 **Goals**
 * Activate your knowledge
-* Make your own network map from scratch: from **sourcing** to **harvesting**, **visualization**, **annotation** and **writing the protocol**
-* Contribute to your project, at least as a test run
-* Remember to take a break
+* Make your own network map from scratch:
+	* from **sourcing**
+	* to **harvesting**,
+	* **visualization**,
+	* **annotation**,
+	* and **writing the protocol**.
+* Contribute to a **personal project**, at least as a test.
 
 # Task
 
 It is now time to do that same thing on your own data set.
 
-1. Choose a Wikipedia category
-1. Source a list of its Wikipedia articles
-1. Harvest at least 2 data sets (networks or CSV)
-1. Analyze and visualize these data sets
-1. Annotate your visualizations
-1. Write the protocols
+1. Choose a Wikipedia **category**
+1. Source a list of its Wikipedia **articles**
+1. **Harvest** at least 2 data sets (networks or CSV)
+1. **Analyze and visualize** them
+1. **Annotate** your visualizations
+1. Write the **visual protocols**
 
 # Advices and comments
 
@@ -34,7 +38,8 @@ It is now time to do that same thing on your own data set.
 	* If not, you can probably visualize a network of thousands of nodes, and more (once you filter it).
 	* If you have two, source multiple lists (same category, but at different levels).
 * Prioritize **clarity** in your visualizations and visual protocols.
-* If it makes more sense, you may present your protocols as a single diagram.
+* If it makes more sense, you may **join your protocols** into a single diagram.
+* **Take risks!** This is a good occasion to try something uncertain. Data science is a bet, it's exploration.
 * **Take a break** at some point. You have a time slot of approximatively 1 hour and 45 minutes, including a 15 minutes break.
 
 # Documents produced
