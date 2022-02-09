@@ -30,7 +30,7 @@ This is what we ask you to do:
 1. Harvest the articles of the category *energy conversion* with a max level of 1 ([🍉&nbsp;notebook](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_category_to_article_list.ipynb)).
 1. With that list, harvest the bipartite network of articles and editors, using this notebook: [🍄&nbsp;Wikipedia articles to articles and editors network](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_articles_and_editors_network.ipynb)
 1. Make a network map in Gephi (no need to annotate)
-1. Write a visual protocol in Google Slides
+1. Write the visual protocol in Google Slides
 
 **Recommendation:** as we have seen in previous tutorials, you will need to **filter your network** in Gephi. Your filtering settings, as well as any unusual operation, must be **featured in your visual protocol**.
 
