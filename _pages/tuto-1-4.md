@@ -31,14 +31,14 @@ It contains with revisions of the article about [Thorium-based nuclear power](ht
 
 This is not a tutorial, but an exercise. The task is to produce a dashboard with a new dataset, still on the same case. This time, you are on your own.
 
-* Import the data into Tableau
-* Produce visualization sheets
-* Use them to make a dashboard
-* Pick the question(s) you want to answer
+* **Import** the data into Tableau
+* Produce visualization **sheets**
+* Use them to make a **dashboard**
+* Pick the **question(s)** you want to answer
 
-# Make annotated visualization
+# Annotate the dashboard
 
-Like before, make an annotated visualization with your dashboard.
+Like before, make an **annotated visualization** from your dashboard, by exporting it into Google Slides, adding information, then exporting an image.
 
 # Next tutorial
 
