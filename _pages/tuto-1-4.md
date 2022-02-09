@@ -16,7 +16,16 @@ title: 1.4. A small-multiple with words
 
 # Data
 
-TO DO
+Download this CSV:
+
+<center><a href="../assets/data/1-4/terms-and-revisions-thorium.csv">
+	<i class="fas fa-file-csv" style="font-size:5em"></i><br>
+	terms-and-revisions-thorium.csv
+</a><br><br></center>
+
+It contains with revisions of the article about [Thorium-based nuclear power](https://en.wikipedia.org/wiki/Thorium-based_nuclear_power) contain which terms of a given list.
+
+*Note: this file was obtained by feeding this [<i class="fas fa-file-csv"></i>&nbsp;list of terms](../assets/data/1-4/words-small-list-nuclear.csv) and this [<i class="fas fa-file-csv"></i>&nbsp;list of articles](../assets/data/1-4/article-thorium.csv) (with just one article!) into the following notebook: [🍱&nbsp;Wikipedia words and articles to edit list with words](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_words_and_articles_to_edit_list_with_words.ipynb)*.
 
 # Make a dashboard
 
