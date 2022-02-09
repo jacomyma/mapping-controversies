@@ -11,8 +11,8 @@ title: 1.1. Intro to Tableau software
 ](../assets/images/1-1.jpg)
 
 **Goals**
-* Learn how to use Google Spreadsheet to **annotate a visualization**
-* Discover **Tableau Software**, a visualization tool
+* Learn how to use Google Slides to **annotate a visualization**
+* Discover **Tableau Desktop**, a visualization tool
 * Make an annotated visualization, and share it
 
 **You need**
@@ -38,7 +38,7 @@ Download this CSV:
 </a><br><br></center>
 
 It contains the page view data for both articles on Wikipedia in the period from 2015 to 2021.
-It comes from [this tool](https://pageviews.toolforge.org/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07&end=2021-12&pages=Space-based_solar_power|Thorium-based_nuclear_power) but we will see that later on.
+It comes from [this tool](https://pageviews.toolforge.org/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07&end=2021-12&pages=Space-based_solar_power|Thorium-based_nuclear_power) but we will see that later on in the tutorial.
 
 # Load data into Tableau
 
