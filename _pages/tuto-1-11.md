@@ -35,7 +35,7 @@ Harvest the list of edits using the following notebook. The instructions are spe
 
 It should provide you with a CSV table of edits, similar to that of tutorials [1.2](../1.2/) and [1.3](../1.3/), but bigger. You could visualize it in Tableau, but we will do something else.
 
-*Note: you must learn to use the notebooks we provide. But assuming that something went inexplicably wrong, you can find the file you are supposed to produce [there](../assets/data/1-11/wikipedia-edits.csv).*
+***Note:** you must learn to use the notebooks we provide. But assuming that something went wrong, you can find the file you are supposed to produce [<i class="fas fa-file-csv"></i>&nbsp;here](../assets/data/1-11/wikipedia-edits.csv).*
 
 # Extract a network using Table2Net
 
