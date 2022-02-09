@@ -32,6 +32,8 @@ This is what we ask you to do:
 1. Make a network map in Gephi (no need to annotate)
 1. Write a visual protocol in Google Slides
 
+**Recommendation:** as we have seen in previous tutorials, you will need to **filter your network** in Gephi. Your filtering settings, as well as any unusual operation, must be **featured in your visual protocol**.
+
 # Documents produced
 
 Keep somewhere, for sharing, the following documents:
