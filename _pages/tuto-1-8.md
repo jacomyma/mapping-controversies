@@ -28,9 +28,9 @@ Download this GEXF:
 	energy-conversion-wiki-cat-depth-1.gexf
 </a><br><br></center>
 
-It contains 787 Wikipedia pages about energy conversion connected by their hyperlinks.
+It contains 787 Wikipedia pages about energy conversion (1 level of subcategories) connected by their hyperlinks.
 
-*Note: you can obtain a similar network by getting all the pages of the category with the notebook [🍉&nbsp;Wikipedia category to article list](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_category_to_article_list.ipynb) then feeding that list into this other notebook: [🍣&nbsp;Wikipedia articles to hyperlinks network (slow and clean)](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_hyperlinks_network_slow_and_clean.ipynb) (10 min to compute). This gives the full category, with 3,629 articles, which is a bit big for this tutorial. Here is the [<i class="fas fa-file"></i>&nbsp;file](../assets/data/1-8/energy-conversion-wiki-cat-full.gexf) though.*
+*Note: you can obtain this network by getting all the pages of the category with the notebook [🍉&nbsp;Wikipedia category to article list](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_category_to_article_list.ipynb) then feeding that list into this other notebook: [🍣&nbsp;Wikipedia articles to hyperlinks network (slow and clean)](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_hyperlinks_network_slow_and_clean.ipynb) (10 min to compute). With two levels of subcategories it gives 3,629 articles, which is a bit big for this tutorial. Here is the [<i class="fas fa-file"></i>&nbsp;file](../assets/data/1-8/energy-conversion-wiki-cat-full.gexf) though.*
 
 # Check Gephisto
 
@@ -162,6 +162,11 @@ You may want to comment on:
 **Link these observations with the topic of energy conversion.** Clusters can be used to identify the subtopics of energy conversion. Are certain subtopics more important than others? In which way? Can you compare the subtopics?
 
 Prioritize the most interesting observations in your annotations.
+
+# Documents produced
+
+Keep somewhere, for sharing, the following document:
+* The annotated network (JPEG or PNG)
 
 # Next tutorial
 

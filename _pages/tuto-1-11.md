@@ -35,7 +35,7 @@ Harvest the list of edits using the following notebook. The instructions are spe
 
 It should provide you with a CSV table of edits, similar to that of tutorials [1.2](../1.2/) and [1.3](../1.3/), but bigger. You could visualize it in Tableau, but we will do something else.
 
-*Note: you must learn to use the notebooks we provide. But assuming that something went inexplicably wrong, you can find the file you are supposed to produce [there](../assets/data/1-11/wikipedia-edits.csv).*
+***Note:** you must learn to use the notebooks we provide. But assuming that something went wrong, you can find the file you are supposed to produce [<i class="fas fa-file-csv"></i>&nbsp;here](../assets/data/1-11/wikipedia-edits.csv).*
 
 # Extract a network using Table2Net
 
@@ -52,7 +52,7 @@ It should provide you with a CSV table of edits, similar to that of tutorials [1
 * You do not need attributes for those nodes either.
 * Scroll to the end of the page and click on ```Build the network```.
 
-You will obtain a bipartite network of articles and users. If you are lost, use [this network](../assets/data/1-11/article-editor-network.gexf).
+You will obtain a bipartite network of articles and users. If you are lost, use [<i class="fas fa-file"></i>&nbsp;this network](../assets/data/1-11/article-editor-network.gexf).
 
 [
 	![Network](../assets/images/1-11/network-preview.png)
@@ -71,6 +71,11 @@ We suggest that you:
 * Visualize node types as color
 
 Can you tell a better data-driven story, in your annotations, than in tutorial 1.9? Not that you have to. The important is that you get more efficient and autonomous at this exercise.
+
+# Documents produced
+
+Keep somewhere, for sharing, the following document:
+* The annotated network (JPEG or PNG)
 
 # Next tutorial
 

@@ -38,6 +38,10 @@ Open the dataset into Tableau and check that it works. Can you visualize it at t
 
 No need to annotate this time (you've done it already in the [first tutorial](../1.1/)).
 
+# Documents produced
+
+This time, none!
+
 # Next tutorial
 
 [<i class="fas fa-forward"></i>&nbsp;1.6. Harvest data with a notebook *(30 min)*](../1.6/)

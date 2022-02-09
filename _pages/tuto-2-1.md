@@ -31,7 +31,7 @@ Take a close look at this protocol:
 * The main purpose of the protocol is to **provide context** to interpret the results.
 * How to know what to feature in the protocol? Anything that is necessary to **reproducing** the process. Because then it means that it partially determined the result, and thus is necessary to understand it.
 
-<div class="notice">In the following tutorials, we will alternate between following protocols and writing them. Ultimately, the goal is to learn how to write a protocol, as an important and necessary part of data-driven stories.</div>
+<div class="notice--info">In the following tutorials, we will alternate between following protocols and writing them. Ultimately, the goal is to learn how to write a protocol, as an important and necessary part of data-driven stories.</div>
 
 # Data
 
@@ -44,7 +44,7 @@ Download this CSV:
 
 It contains 139 Wikipedia page URLs about energy conversion (no subcategories included). As you have seen, this file is the starting point of the protocol.
 
-<div class="notice--info">Contrary to a similar file we have seen in a previous tutorial, this one contains page URLs, not titles. It also has no header. This is what SeeAlsology needs.</div>
+<div class="notice">Contrary to a similar file we have seen in a previous tutorial, this one contains page URLs, not titles. It also has no header. This is what SeeAlsology needs.</div>
 
 # SeeAlsology
 
@@ -73,7 +73,12 @@ Open the resulting network in Gephi and observe the following:
 
 # Check the protocol
 
-Check that you have followed the protocol. You do not have to do the "ANNOTATE" part in this tutorial (nor the following). However, it is a good practice to feature the annotation in the protocol.
+Check that you have followed the protocol. **You do not have to do the "ANNOTATE" part** in this tutorial and those that come after, except the last one. Keep in mind, however, that featuring the annotation in the protocol is a good practice.
+
+# Documents produced
+
+Keep somewhere, for sharing, the following document:
+* The (unannotated) network map (JPEG, PNG or PDF)
 
 # Next tutorial
 

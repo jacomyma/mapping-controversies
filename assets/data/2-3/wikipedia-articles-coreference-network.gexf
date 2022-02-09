@@ -1,0 +1,1398 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2022-02-09">
+    <creator>NetworkX 2.6.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="1" title="overlap" type="long" />
+      <attribute id="2" title="norm_overlap_by_smallest" type="double" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Article" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Luminescent solar concentrator" label="Luminescent solar concentrator">
+        <attvalues>
+          <attvalue for="0" value="Luminescent solar concentrator" />
+        </attvalues>
+      </node>
+      <node id="Yaw drive" label="Yaw drive">
+        <attvalues>
+          <attvalue for="0" value="Yaw drive" />
+        </attvalues>
+      </node>
+      <node id="Magnetohydrodynamic converter" label="Magnetohydrodynamic converter">
+        <attvalues>
+          <attvalue for="0" value="Magnetohydrodynamic converter" />
+        </attvalues>
+      </node>
+      <node id="Solar-assisted heat pump" label="Solar-assisted heat pump">
+        <attvalues>
+          <attvalue for="0" value="Solar-assisted heat pump" />
+        </attvalues>
+      </node>
+      <node id="Vaneless ion wind generator" label="Vaneless ion wind generator">
+        <attvalues>
+          <attvalue for="0" value="Vaneless ion wind generator" />
+        </attvalues>
+      </node>
+      <node id="Airborne wind turbine" label="Airborne wind turbine">
+        <attvalues>
+          <attvalue for="0" value="Airborne wind turbine" />
+        </attvalues>
+      </node>
+      <node id="Respiratory quotient" label="Respiratory quotient">
+        <attvalues>
+          <attvalue for="0" value="Respiratory quotient" />
+        </attvalues>
+      </node>
+      <node id="Draft (boiler)" label="Draft (boiler)">
+        <attvalues>
+          <attvalue for="0" value="Draft (boiler)" />
+        </attvalues>
+      </node>
+      <node id="Two-stage P2G" label="Two-stage P2G">
+        <attvalues>
+          <attvalue for="0" value="Two-stage P2G" />
+        </attvalues>
+      </node>
+      <node id="Nuclear power" label="Nuclear power">
+        <attvalues>
+          <attvalue for="0" value="Nuclear power" />
+        </attvalues>
+      </node>
+      <node id="Osmotic power" label="Osmotic power">
+        <attvalues>
+          <attvalue for="0" value="Osmotic power" />
+        </attvalues>
+      </node>
+      <node id="Photovoltaics" label="Photovoltaics">
+        <attvalues>
+          <attvalue for="0" value="Photovoltaics" />
+        </attvalues>
+      </node>
+      <node id="Aquanator" label="Aquanator">
+        <attvalues>
+          <attvalue for="0" value="Aquanator" />
+        </attvalues>
+      </node>
+      <node id="Cyclone furnace" label="Cyclone furnace">
+        <attvalues>
+          <attvalue for="0" value="Cyclone furnace" />
+        </attvalues>
+      </node>
+      <node id="Pressure–volume diagram" label="Pressure–volume diagram">
+        <attvalues>
+          <attvalue for="0" value="Pressure–volume diagram" />
+        </attvalues>
+      </node>
+      <node id="Soil salinity" label="Soil salinity">
+        <attvalues>
+          <attvalue for="0" value="Soil salinity" />
+        </attvalues>
+      </node>
+      <node id="Piezoelectricity" label="Piezoelectricity">
+        <attvalues>
+          <attvalue for="0" value="Piezoelectricity" />
+        </attvalues>
+      </node>
+      <node id="Integrated water and power plant" label="Integrated water and power plant">
+        <attvalues>
+          <attvalue for="0" value="Integrated water and power plant" />
+        </attvalues>
+      </node>
+      <node id="Nuclear fusion" label="Nuclear fusion">
+        <attvalues>
+          <attvalue for="0" value="Nuclear fusion" />
+        </attvalues>
+      </node>
+      <node id="Boiling water reactor safety systems" label="Boiling water reactor safety systems">
+        <attvalues>
+          <attvalue for="0" value="Boiling water reactor safety systems" />
+        </attvalues>
+      </node>
+      <node id="Thermoelectric effect" label="Thermoelectric effect">
+        <attvalues>
+          <attvalue for="0" value="Thermoelectric effect" />
+        </attvalues>
+      </node>
+      <node id="Ground source heat pump" label="Ground source heat pump">
+        <attvalues>
+          <attvalue for="0" value="Ground source heat pump" />
+        </attvalues>
+      </node>
+      <node id="Lolland Hydrogen Community" label="Lolland Hydrogen Community">
+        <attvalues>
+          <attvalue for="0" value="Lolland Hydrogen Community" />
+        </attvalues>
+      </node>
+      <node id="Integrated gasification combined cycle" label="Integrated gasification combined cycle">
+        <attvalues>
+          <attvalue for="0" value="Integrated gasification combined cycle" />
+        </attvalues>
+      </node>
+      <node id="Homogeneous charge compression ignition" label="Homogeneous charge compression ignition">
+        <attvalues>
+          <attvalue for="0" value="Homogeneous charge compression ignition" />
+        </attvalues>
+      </node>
+      <node id="Thermal power station" label="Thermal power station">
+        <attvalues>
+          <attvalue for="0" value="Thermal power station" />
+        </attvalues>
+      </node>
+      <node id="Drakoo wave energy converter" label="Drakoo wave energy converter">
+        <attvalues>
+          <attvalue for="0" value="Drakoo wave energy converter" />
+        </attvalues>
+      </node>
+      <node id="Thermal efficiency" label="Thermal efficiency">
+        <attvalues>
+          <attvalue for="0" value="Thermal efficiency" />
+        </attvalues>
+      </node>
+      <node id="Two-photon photovoltaic effect" label="Two-photon photovoltaic effect">
+        <attvalues>
+          <attvalue for="0" value="Two-photon photovoltaic effect" />
+        </attvalues>
+      </node>
+      <node id="Vortex engine" label="Vortex engine">
+        <attvalues>
+          <attvalue for="0" value="Vortex engine" />
+        </attvalues>
+      </node>
+      <node id="Bimetallic strip" label="Bimetallic strip">
+        <attvalues>
+          <attvalue for="0" value="Bimetallic strip" />
+        </attvalues>
+      </node>
+      <node id="Piezoelectric speaker" label="Piezoelectric speaker">
+        <attvalues>
+          <attvalue for="0" value="Piezoelectric speaker" />
+        </attvalues>
+      </node>
+      <node id="Pulverized coal-fired boiler" label="Pulverized coal-fired boiler">
+        <attvalues>
+          <attvalue for="0" value="Pulverized coal-fired boiler" />
+        </attvalues>
+      </node>
+      <node id="Timeline of heat engine technology" label="Timeline of heat engine technology">
+        <attvalues>
+          <attvalue for="0" value="Timeline of heat engine technology" />
+        </attvalues>
+      </node>
+      <node id="Thermionic emission" label="Thermionic emission">
+        <attvalues>
+          <attvalue for="0" value="Thermionic emission" />
+        </attvalues>
+      </node>
+      <node id="Intermediate band photovoltaics" label="Intermediate band photovoltaics">
+        <attvalues>
+          <attvalue for="0" value="Intermediate band photovoltaics" />
+        </attvalues>
+      </node>
+      <node id="Fuel cell" label="Fuel cell">
+        <attvalues>
+          <attvalue for="0" value="Fuel cell" />
+        </attvalues>
+      </node>
+      <node id="Oil burner (engine)" label="Oil burner (engine)">
+        <attvalues>
+          <attvalue for="0" value="Oil burner (engine)" />
+        </attvalues>
+      </node>
+      <node id="Photoelectrochemical cell" label="Photoelectrochemical cell">
+        <attvalues>
+          <attvalue for="0" value="Photoelectrochemical cell" />
+        </attvalues>
+      </node>
+      <node id="Photomagnetic effect" label="Photomagnetic effect">
+        <attvalues>
+          <attvalue for="0" value="Photomagnetic effect" />
+        </attvalues>
+      </node>
+      <node id="Induction regulator" label="Induction regulator">
+        <attvalues>
+          <attvalue for="0" value="Induction regulator" />
+        </attvalues>
+      </node>
+      <node id="Soiling (solar energy)" label="Soiling (solar energy)">
+        <attvalues>
+          <attvalue for="0" value="Soiling (solar energy)" />
+        </attvalues>
+      </node>
+      <node id="Alternator" label="Alternator">
+        <attvalues>
+          <attvalue for="0" value="Alternator" />
+        </attvalues>
+      </node>
+      <node id="Jet engine" label="Jet engine">
+        <attvalues>
+          <attvalue for="0" value="Jet engine" />
+        </attvalues>
+      </node>
+      <node id="Energy transformation" label="Energy transformation">
+        <attvalues>
+          <attvalue for="0" value="Energy transformation" />
+        </attvalues>
+      </node>
+      <node id="Hydropower" label="Hydropower">
+        <attvalues>
+          <attvalue for="0" value="Hydropower" />
+        </attvalues>
+      </node>
+      <node id="Photon-intermediate direct energy conversion" label="Photon-intermediate direct energy conversion">
+        <attvalues>
+          <attvalue for="0" value="Photon-intermediate direct energy conversion" />
+        </attvalues>
+      </node>
+      <node id="Ocean Power Technologies" label="Ocean Power Technologies">
+        <attvalues>
+          <attvalue for="0" value="Ocean Power Technologies" />
+        </attvalues>
+      </node>
+      <node id="Carnot method" label="Carnot method">
+        <attvalues>
+          <attvalue for="0" value="Carnot method" />
+        </attvalues>
+      </node>
+      <node id="Economizer" label="Economizer">
+        <attvalues>
+          <attvalue for="0" value="Economizer" />
+        </attvalues>
+      </node>
+      <node id="Recycling" label="Recycling">
+        <attvalues>
+          <attvalue for="0" value="Recycling" />
+        </attvalues>
+      </node>
+      <node id="Electrochemical energy conversion" label="Electrochemical energy conversion">
+        <attvalues>
+          <attvalue for="0" value="Electrochemical energy conversion" />
+        </attvalues>
+      </node>
+      <node id="Suntory Mermaid II" label="Suntory Mermaid II">
+        <attvalues>
+          <attvalue for="0" value="Suntory Mermaid II" />
+        </attvalues>
+      </node>
+      <node id="Wave power" label="Wave power">
+        <attvalues>
+          <attvalue for="0" value="Wave power" />
+        </attvalues>
+      </node>
+      <node id="Geothermal heating" label="Geothermal heating">
+        <attvalues>
+          <attvalue for="0" value="Geothermal heating" />
+        </attvalues>
+      </node>
+      <node id="Solar cell" label="Solar cell">
+        <attvalues>
+          <attvalue for="0" value="Solar cell" />
+        </attvalues>
+      </node>
+      <node id="Cogeneration" label="Cogeneration">
+        <attvalues>
+          <attvalue for="0" value="Cogeneration" />
+        </attvalues>
+      </node>
+      <node id="Direct energy conversion" label="Direct energy conversion">
+        <attvalues>
+          <attvalue for="0" value="Direct energy conversion" />
+        </attvalues>
+      </node>
+      <node id="Direct exchange geothermal heat pump" label="Direct exchange geothermal heat pump">
+        <attvalues>
+          <attvalue for="0" value="Direct exchange geothermal heat pump" />
+        </attvalues>
+      </node>
+      <node id="Grate firing" label="Grate firing">
+        <attvalues>
+          <attvalue for="0" value="Grate firing" />
+        </attvalues>
+      </node>
+      <node id="Hybrid solar lighting" label="Hybrid solar lighting">
+        <attvalues>
+          <attvalue for="0" value="Hybrid solar lighting" />
+        </attvalues>
+      </node>
+      <node id="Solar power tower" label="Solar power tower">
+        <attvalues>
+          <attvalue for="0" value="Solar power tower" />
+        </attvalues>
+      </node>
+      <node id="International Center on Small Hydro Power" label="International Center on Small Hydro Power">
+        <attvalues>
+          <attvalue for="0" value="International Center on Small Hydro Power" />
+        </attvalues>
+      </node>
+      <node id="Jet propulsion" label="Jet propulsion">
+        <attvalues>
+          <attvalue for="0" value="Jet propulsion" />
+        </attvalues>
+      </node>
+      <node id="Nuclear reactor" label="Nuclear reactor">
+        <attvalues>
+          <attvalue for="0" value="Nuclear reactor" />
+        </attvalues>
+      </node>
+      <node id="Waste heat" label="Waste heat">
+        <attvalues>
+          <attvalue for="0" value="Waste heat" />
+        </attvalues>
+      </node>
+      <node id="Space-based solar power" label="Space-based solar power">
+        <attvalues>
+          <attvalue for="0" value="Space-based solar power" />
+        </attvalues>
+      </node>
+      <node id="Transcritical cycle" label="Transcritical cycle">
+        <attvalues>
+          <attvalue for="0" value="Transcritical cycle" />
+        </attvalues>
+      </node>
+      <node id="Fluidized bed combustion" label="Fluidized bed combustion">
+        <attvalues>
+          <attvalue for="0" value="Fluidized bed combustion" />
+        </attvalues>
+      </node>
+      <node id="Surface condenser" label="Surface condenser">
+        <attvalues>
+          <attvalue for="0" value="Surface condenser" />
+        </attvalues>
+      </node>
+      <node id="Wave farm" label="Wave farm">
+        <attvalues>
+          <attvalue for="0" value="Wave farm" />
+        </attvalues>
+      </node>
+      <node id="Heat rate (efficiency)" label="Heat rate (efficiency)">
+        <attvalues>
+          <attvalue for="0" value="Heat rate (efficiency)" />
+        </attvalues>
+      </node>
+      <node id="Pressure-retarded osmosis" label="Pressure-retarded osmosis">
+        <attvalues>
+          <attvalue for="0" value="Pressure-retarded osmosis" />
+        </attvalues>
+      </node>
+      <node id="Thermoacoustics" label="Thermoacoustics">
+        <attvalues>
+          <attvalue for="0" value="Thermoacoustics" />
+        </attvalues>
+      </node>
+      <node id="Solar thermal energy" label="Solar thermal energy">
+        <attvalues>
+          <attvalue for="0" value="Solar thermal energy" />
+        </attvalues>
+      </node>
+      <node id="United States hydrogen policy" label="United States hydrogen policy">
+        <attvalues>
+          <attvalue for="0" value="United States hydrogen policy" />
+        </attvalues>
+      </node>
+      <node id="Trompe" label="Trompe">
+        <attvalues>
+          <attvalue for="0" value="Trompe" />
+        </attvalues>
+      </node>
+      <node id="Gentherm Incorporated" label="Gentherm Incorporated">
+        <attvalues>
+          <attvalue for="0" value="Gentherm Incorporated" />
+        </attvalues>
+      </node>
+      <node id="Nuclear microreactor" label="Nuclear microreactor">
+        <attvalues>
+          <attvalue for="0" value="Nuclear microreactor" />
+        </attvalues>
+      </node>
+      <node id="Solar cell research" label="Solar cell research">
+        <attvalues>
+          <attvalue for="0" value="Solar cell research" />
+        </attvalues>
+      </node>
+      <node id="Wind turbine" label="Wind turbine">
+        <attvalues>
+          <attvalue for="0" value="Wind turbine" />
+        </attvalues>
+      </node>
+      <node id="Bifacial solar cells" label="Bifacial solar cells">
+        <attvalues>
+          <attvalue for="0" value="Bifacial solar cells" />
+        </attvalues>
+      </node>
+      <node id="Combined cycle power plant" label="Combined cycle power plant">
+        <attvalues>
+          <attvalue for="0" value="Combined cycle power plant" />
+        </attvalues>
+      </node>
+      <node id="Heat pump (disambiguation)" label="Heat pump (disambiguation)">
+        <attvalues>
+          <attvalue for="0" value="Heat pump (disambiguation)" />
+        </attvalues>
+      </node>
+      <node id="Johnson thermoelectric energy converter" label="Johnson thermoelectric energy converter">
+        <attvalues>
+          <attvalue for="0" value="Johnson thermoelectric energy converter" />
+        </attvalues>
+      </node>
+      <node id="Electrohydrodynamics" label="Electrohydrodynamics">
+        <attvalues>
+          <attvalue for="0" value="Electrohydrodynamics" />
+        </attvalues>
+      </node>
+      <node id="Nameplate capacity" label="Nameplate capacity">
+        <attvalues>
+          <attvalue for="0" value="Nameplate capacity" />
+        </attvalues>
+      </node>
+      <node id="Solar cell fabric" label="Solar cell fabric">
+        <attvalues>
+          <attvalue for="0" value="Solar cell fabric" />
+        </attvalues>
+      </node>
+      <node id="Crookes radiometer" label="Crookes radiometer">
+        <attvalues>
+          <attvalue for="0" value="Crookes radiometer" />
+        </attvalues>
+      </node>
+      <node id="Pyroelectricity" label="Pyroelectricity">
+        <attvalues>
+          <attvalue for="0" value="Pyroelectricity" />
+        </attvalues>
+      </node>
+      <node id="Conductive wireless charging" label="Conductive wireless charging">
+        <attvalues>
+          <attvalue for="0" value="Conductive wireless charging" />
+        </attvalues>
+      </node>
+      <node id="Static synchronous compensator" label="Static synchronous compensator">
+        <attvalues>
+          <attvalue for="0" value="Static synchronous compensator" />
+        </attvalues>
+      </node>
+      <node id="Gasification" label="Gasification">
+        <attvalues>
+          <attvalue for="0" value="Gasification" />
+        </attvalues>
+      </node>
+      <node id="Single-stage P2G" label="Single-stage P2G">
+        <attvalues>
+          <attvalue for="0" value="Single-stage P2G" />
+        </attvalues>
+      </node>
+      <node id="Solar updraft tower" label="Solar updraft tower">
+        <attvalues>
+          <attvalue for="0" value="Solar updraft tower" />
+        </attvalues>
+      </node>
+      <node id="Battery balancing" label="Battery balancing">
+        <attvalues>
+          <attvalue for="0" value="Battery balancing" />
+        </attvalues>
+      </node>
+      <node id="Steam engine" label="Steam engine">
+        <attvalues>
+          <attvalue for="0" value="Steam engine" />
+        </attvalues>
+      </node>
+      <node id="The Big Dish (solar thermal)" label="The Big Dish (solar thermal)">
+        <attvalues>
+          <attvalue for="0" value="The Big Dish (solar thermal)" />
+        </attvalues>
+      </node>
+      <node id="Anomalous photovoltaic effect" label="Anomalous photovoltaic effect">
+        <attvalues>
+          <attvalue for="0" value="Anomalous photovoltaic effect" />
+        </attvalues>
+      </node>
+      <node id="Thermoelectric materials" label="Thermoelectric materials">
+        <attvalues>
+          <attvalue for="0" value="Thermoelectric materials" />
+        </attvalues>
+      </node>
+      <node id="Mist lift" label="Mist lift">
+        <attvalues>
+          <attvalue for="0" value="Mist lift" />
+        </attvalues>
+      </node>
+      <node id="Synchronous condenser" label="Synchronous condenser">
+        <attvalues>
+          <attvalue for="0" value="Synchronous condenser" />
+        </attvalues>
+      </node>
+      <node id="Heat engine" label="Heat engine">
+        <attvalues>
+          <attvalue for="0" value="Heat engine" />
+        </attvalues>
+      </node>
+      <node id="Power loss factor" label="Power loss factor">
+        <attvalues>
+          <attvalue for="0" value="Power loss factor" />
+        </attvalues>
+      </node>
+      <node id="Thermo-dielectric effect" label="Thermo-dielectric effect">
+        <attvalues>
+          <attvalue for="0" value="Thermo-dielectric effect" />
+        </attvalues>
+      </node>
+      <node id="List of companies in the nuclear sector" label="List of companies in the nuclear sector">
+        <attvalues>
+          <attvalue for="0" value="List of companies in the nuclear sector" />
+        </attvalues>
+      </node>
+      <node id="Wall-plug efficiency" label="Wall-plug efficiency">
+        <attvalues>
+          <attvalue for="0" value="Wall-plug efficiency" />
+        </attvalues>
+      </node>
+      <node id="Energy technology" label="Energy technology">
+        <attvalues>
+          <attvalue for="0" value="Energy technology" />
+        </attvalues>
+      </node>
+      <node id="Allam power cycle" label="Allam power cycle">
+        <attvalues>
+          <attvalue for="0" value="Allam power cycle" />
+        </attvalues>
+      </node>
+      <node id="Energy tower (downdraft)" label="Energy tower (downdraft)">
+        <attvalues>
+          <attvalue for="0" value="Energy tower (downdraft)" />
+        </attvalues>
+      </node>
+      <node id="Supercapacitor" label="Supercapacitor">
+        <attvalues>
+          <attvalue for="0" value="Supercapacitor" />
+        </attvalues>
+      </node>
+      <node id="Ceramic heat cell" label="Ceramic heat cell">
+        <attvalues>
+          <attvalue for="0" value="Ceramic heat cell" />
+        </attvalues>
+      </node>
+      <node id="Indicator diagram" label="Indicator diagram">
+        <attvalues>
+          <attvalue for="0" value="Indicator diagram" />
+        </attvalues>
+      </node>
+      <node id="Battery management system" label="Battery management system">
+        <attvalues>
+          <attvalue for="0" value="Battery management system" />
+        </attvalues>
+      </node>
+      <node id="Battery charger" label="Battery charger">
+        <attvalues>
+          <attvalue for="0" value="Battery charger" />
+        </attvalues>
+      </node>
+      <node id="Integrated gasification fuel cell cycle" label="Integrated gasification fuel cell cycle">
+        <attvalues>
+          <attvalue for="0" value="Integrated gasification fuel cell cycle" />
+        </attvalues>
+      </node>
+      <node id="Energy factor" label="Energy factor">
+        <attvalues>
+          <attvalue for="0" value="Energy factor" />
+        </attvalues>
+      </node>
+      <node id="Mechanical efficiency" label="Mechanical efficiency">
+        <attvalues>
+          <attvalue for="0" value="Mechanical efficiency" />
+        </attvalues>
+      </node>
+      <node id="Photovoltaic effect" label="Photovoltaic effect">
+        <attvalues>
+          <attvalue for="0" value="Photovoltaic effect" />
+        </attvalues>
+      </node>
+      <node id="Recycling rates by country" label="Recycling rates by country">
+        <attvalues>
+          <attvalue for="0" value="Recycling rates by country" />
+        </attvalues>
+      </node>
+      <node id="Magnetohydrodynamic generator" label="Magnetohydrodynamic generator">
+        <attvalues>
+          <attvalue for="0" value="Magnetohydrodynamic generator" />
+        </attvalues>
+      </node>
+      <node id="Multi-junction solar cell" label="Multi-junction solar cell">
+        <attvalues>
+          <attvalue for="0" value="Multi-junction solar cell" />
+        </attvalues>
+      </node>
+      <node id="Ocean Power Technologies Australasia" label="Ocean Power Technologies Australasia">
+        <attvalues>
+          <attvalue for="0" value="Ocean Power Technologies Australasia" />
+        </attvalues>
+      </node>
+      <node id="Energy recycling" label="Energy recycling">
+        <attvalues>
+          <attvalue for="0" value="Energy recycling" />
+        </attvalues>
+      </node>
+      <node id="Electric motor" label="Electric motor">
+        <attvalues>
+          <attvalue for="0" value="Electric motor" />
+        </attvalues>
+      </node>
+      <node id="Reversed electrodialysis" label="Reversed electrodialysis">
+        <attvalues>
+          <attvalue for="0" value="Reversed electrodialysis" />
+        </attvalues>
+      </node>
+      <node id="Steam-electric power station" label="Steam-electric power station">
+        <attvalues>
+          <attvalue for="0" value="Steam-electric power station" />
+        </attvalues>
+      </node>
+      <node id="Photoelectric effect" label="Photoelectric effect">
+        <attvalues>
+          <attvalue for="0" value="Photoelectric effect" />
+        </attvalues>
+      </node>
+      <node id="Solar power" label="Solar power">
+        <attvalues>
+          <attvalue for="0" value="Solar power" />
+        </attvalues>
+      </node>
+      <node id="Passive nuclear safety" label="Passive nuclear safety">
+        <attvalues>
+          <attvalue for="0" value="Passive nuclear safety" />
+        </attvalues>
+      </node>
+      <node id="Helianthos" label="Helianthos">
+        <attvalues>
+          <attvalue for="0" value="Helianthos" />
+        </attvalues>
+      </node>
+      <node id="Solar energy" label="Solar energy">
+        <attvalues>
+          <attvalue for="0" value="Solar energy" />
+        </attvalues>
+      </node>
+      <node id="Solar Shade Control Act" label="Solar Shade Control Act">
+        <attvalues>
+          <attvalue for="0" value="Solar Shade Control Act" />
+        </attvalues>
+      </node>
+      <node id="Ocean thermal energy conversion" label="Ocean thermal energy conversion">
+        <attvalues>
+          <attvalue for="0" value="Ocean thermal energy conversion" />
+        </attvalues>
+      </node>
+      <node id="Booster (electric power)" label="Booster (electric power)">
+        <attvalues>
+          <attvalue for="0" value="Booster (electric power)" />
+        </attvalues>
+      </node>
+      <node id="Energy conversion efficiency" label="Energy conversion efficiency">
+        <attvalues>
+          <attvalue for="0" value="Energy conversion efficiency" />
+        </attvalues>
+      </node>
+      <node id="Heat pump" label="Heat pump">
+        <attvalues>
+          <attvalue for="0" value="Heat pump" />
+        </attvalues>
+      </node>
+      <node id="Isolation condensor" label="Isolation condensor">
+        <attvalues>
+          <attvalue for="0" value="Isolation condensor" />
+        </attvalues>
+      </node>
+      <node id="Shockley–Queisser limit" label="Shockley–Queisser limit">
+        <attvalues>
+          <attvalue for="0" value="Shockley–Queisser limit" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Magnetohydrodynamic converter" target="Magnetohydrodynamic generator" weight="0.45">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="0.45" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="Solar-assisted heat pump" target="Heat pump" weight="0.21428571428571427">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0.21428571428571427" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="Vaneless ion wind generator" target="Nuclear power" weight="0.041666666666666664">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.041666666666666664" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="Vaneless ion wind generator" target="Photovoltaics" weight="0.041666666666666664">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.041666666666666664" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="Vaneless ion wind generator" target="Solar power" weight="0.041666666666666664">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.041666666666666664" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="Two-stage P2G" target="Single-stage P2G" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="182" />
+          <attvalue for="2" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="Nuclear power" target="Photovoltaics" weight="0.0036496350364963502">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0036496350364963502" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="Nuclear power" target="Nuclear fusion" weight="0.022727272727272728">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.022727272727272728" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="Nuclear power" target="Solar cell" weight="0.006666666666666667">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.006666666666666667" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="Nuclear power" target="Nuclear reactor" weight="0.056818181818181816">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.056818181818181816" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="Nuclear power" target="Wind turbine" weight="0.012422360248447204">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.012422360248447204" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="Nuclear power" target="Thermoelectric materials" weight="0.004310344827586207">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.004310344827586207" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="Nuclear power" target="Supercapacitor" weight="0.0029069767441860465">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0029069767441860465" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="Nuclear power" target="Solar power" weight="0.014634146341463415">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0.014634146341463415" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="Nuclear power" target="Passive nuclear safety" weight="0.047619047619047616">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.047619047619047616" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="Osmotic power" target="Two-photon photovoltaic effect" weight="0.037037037037037035">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.037037037037037035" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="Osmotic power" target="Intermediate band photovoltaics" weight="0.03333333333333333">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.03333333333333333" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="Osmotic power" target="Pressure-retarded osmosis" weight="0.16">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="0.16" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="Osmotic power" target="Solar cell research" weight="0.019230769230769232">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.019230769230769232" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="Osmotic power" target="Thermoelectric materials" weight="0.019230769230769232">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.019230769230769232" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="Osmotic power" target="Reversed electrodialysis" weight="0.058823529411764705">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.058823529411764705" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="Photovoltaics" target="Recycling" weight="0.009615384615384616">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.009615384615384616" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="Photovoltaics" target="Solar cell" weight="0.014598540145985401">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="0.014598540145985401" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="Photovoltaics" target="Solar cell research" weight="0.019230769230769232">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.019230769230769232" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="Photovoltaics" target="Supercapacitor" weight="0.0036496350364963502">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0036496350364963502" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="Photovoltaics" target="Solar power" weight="0.01951219512195122">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="0.01951219512195122" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="Photovoltaics" target="Solar energy" weight="0.14893617021276595">
+        <attvalues>
+          <attvalue for="1" value="21" />
+          <attvalue for="2" value="0.14893617021276595" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="Pressure–volume diagram" target="Steam engine" weight="0.13333333333333333">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.13333333333333333" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="Pressure–volume diagram" target="Indicator diagram" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="Piezoelectricity" target="Intermediate band photovoltaics" weight="0.03333333333333333">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.03333333333333333" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="Piezoelectricity" target="Pyroelectricity" weight="0.041666666666666664">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.041666666666666664" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="Nuclear fusion" target="Pyroelectricity" weight="0.08333333333333333">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="0.08333333333333333" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="Boiling water reactor safety systems" target="Isolation condensor" weight="0.2857142857142857">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.2857142857142857" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="Ground source heat pump" target="Geothermal heating" weight="0.21818181818181817">
+        <attvalues>
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="0.21818181818181817" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="Ground source heat pump" target="Direct exchange geothermal heat pump" weight="0.09090909090909091">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.09090909090909091" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="Thermal power station" target="Cogeneration" weight="0.07142857142857142">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.07142857142857142" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="Thermal power station" target="Surface condenser" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="Thermal power station" target="Steam engine" weight="0.03571428571428571">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.03571428571428571" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="Thermal power station" target="Steam-electric power station" weight="0.3125">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.3125" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="Thermal efficiency" target="Fuel cell" weight="0.125">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="Two-photon photovoltaic effect" target="Intermediate band photovoltaics" weight="0.18518518518518517">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.18518518518518517" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="Two-photon photovoltaic effect" target="Solar cell" weight="0.07407407407407407">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.07407407407407407" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="Two-photon photovoltaic effect" target="Solar cell research" weight="0.1111111111111111">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="Two-photon photovoltaic effect" target="Thermoelectric materials" weight="0.037037037037037035">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.037037037037037035" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="Two-photon photovoltaic effect" target="Multi-junction solar cell" weight="0.07407407407407407">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.07407407407407407" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="Two-photon photovoltaic effect" target="Shockley–Queisser limit" weight="0.07407407407407407">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.07407407407407407" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="Vortex engine" target="Wind turbine" weight="0.03225806451612903">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.03225806451612903" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="Intermediate band photovoltaics" target="Solar cell" weight="0.1">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="Intermediate band photovoltaics" target="Solar cell research" weight="0.1">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="Intermediate band photovoltaics" target="Anomalous photovoltaic effect" weight="0.03333333333333333">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.03333333333333333" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="Intermediate band photovoltaics" target="Thermoelectric materials" weight="0.03333333333333333">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.03333333333333333" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="Intermediate band photovoltaics" target="Shockley–Queisser limit" weight="0.06666666666666667">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.06666666666666667" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="Fuel cell" target="Electrochemical energy conversion" weight="0.3076923076923077">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="0.3076923076923077" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="Fuel cell" target="Cogeneration" weight="0.023076923076923078">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0.023076923076923078" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="Fuel cell" target="Pyroelectricity" weight="0.020833333333333332">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.020833333333333332" />
+        </attvalues>
+      </edge>
+      <edge id="55" source="Fuel cell" target="Gasification" weight="0.013157894736842105">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.013157894736842105" />
+        </attvalues>
+      </edge>
+      <edge id="56" source="Fuel cell" target="Thermoelectric materials" weight="0.004310344827586207">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.004310344827586207" />
+        </attvalues>
+      </edge>
+      <edge id="57" source="Fuel cell" target="Integrated gasification fuel cell cycle" weight="0.058823529411764705">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.058823529411764705" />
+        </attvalues>
+      </edge>
+      <edge id="58" source="Fuel cell" target="Energy conversion efficiency" weight="0.0392156862745098">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.0392156862745098" />
+        </attvalues>
+      </edge>
+      <edge id="59" source="Soiling (solar energy)" target="Bifacial solar cells" weight="0.019230769230769232">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.019230769230769232" />
+        </attvalues>
+      </edge>
+      <edge id="60" source="Ocean Power Technologies" target="Ocean Power Technologies Australasia" weight="0.125">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge id="61" source="Wave power" target="Wave farm" weight="0.2608695652173913">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="0.2608695652173913" />
+        </attvalues>
+      </edge>
+      <edge id="62" source="Wave power" target="Ocean thermal energy conversion" weight="0.014598540145985401">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.014598540145985401" />
+        </attvalues>
+      </edge>
+      <edge id="63" source="Geothermal heating" target="Direct exchange geothermal heat pump" weight="0.045454545454545456">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.045454545454545456" />
+        </attvalues>
+      </edge>
+      <edge id="64" source="Solar cell" target="Solar cell research" weight="0.019230769230769232">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.019230769230769232" />
+        </attvalues>
+      </edge>
+      <edge id="65" source="Solar cell" target="Bifacial solar cells" weight="0.04">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0.04" />
+        </attvalues>
+      </edge>
+      <edge id="66" source="Solar cell" target="Anomalous photovoltaic effect" weight="0.027777777777777776">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.027777777777777776" />
+        </attvalues>
+      </edge>
+      <edge id="67" source="Solar cell" target="Thermoelectric materials" weight="0.008620689655172414">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.008620689655172414" />
+        </attvalues>
+      </edge>
+      <edge id="68" source="Solar cell" target="Allam power cycle" weight="0.014084507042253521">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.014084507042253521" />
+        </attvalues>
+      </edge>
+      <edge id="69" source="Solar cell" target="Supercapacitor" weight="0.0033333333333333335">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0033333333333333335" />
+        </attvalues>
+      </edge>
+      <edge id="70" source="Solar cell" target="Photovoltaic effect" weight="0.07142857142857142">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.07142857142857142" />
+        </attvalues>
+      </edge>
+      <edge id="71" source="Solar cell" target="Multi-junction solar cell" weight="0.18072289156626506">
+        <attvalues>
+          <attvalue for="1" value="15" />
+          <attvalue for="2" value="0.18072289156626506" />
+        </attvalues>
+      </edge>
+      <edge id="72" source="Solar cell" target="Photoelectric effect" weight="0.009523809523809525">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.009523809523809525" />
+        </attvalues>
+      </edge>
+      <edge id="73" source="Solar cell" target="Solar power" weight="0.004878048780487805">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.004878048780487805" />
+        </attvalues>
+      </edge>
+      <edge id="74" source="Solar cell" target="Energy conversion efficiency" weight="0.058823529411764705">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0.058823529411764705" />
+        </attvalues>
+      </edge>
+      <edge id="75" source="Solar cell" target="Shockley–Queisser limit" weight="0.13333333333333333">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="0.13333333333333333" />
+        </attvalues>
+      </edge>
+      <edge id="76" source="Cogeneration" target="Steam engine" weight="0.038461538461538464">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.038461538461538464" />
+        </attvalues>
+      </edge>
+      <edge id="77" source="Cogeneration" target="Energy recycling" weight="0.07692307692307693">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.07692307692307693" />
+        </attvalues>
+      </edge>
+      <edge id="78" source="Grate firing" target="Trompe" weight="0.6666666666666666">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.6666666666666666" />
+        </attvalues>
+      </edge>
+      <edge id="79" source="Grate firing" target="Energy technology" weight="0.6666666666666666">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.6666666666666666" />
+        </attvalues>
+      </edge>
+      <edge id="80" source="Solar power tower" target="Solar thermal energy" weight="0.04">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.04" />
+        </attvalues>
+      </edge>
+      <edge id="81" source="Waste heat" target="Transcritical cycle" weight="0.03333333333333333">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.03333333333333333" />
+        </attvalues>
+      </edge>
+      <edge id="82" source="Waste heat" target="Solar thermal energy" weight="0.06976744186046512">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0.06976744186046512" />
+        </attvalues>
+      </edge>
+      <edge id="83" source="Waste heat" target="Thermoelectric materials" weight="0.046511627906976744">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.046511627906976744" />
+        </attvalues>
+      </edge>
+      <edge id="84" source="Waste heat" target="Energy technology" weight="0.13043478260869565">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0.13043478260869565" />
+        </attvalues>
+      </edge>
+      <edge id="85" source="Waste heat" target="Energy recycling" weight="0.11538461538461539">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0.11538461538461539" />
+        </attvalues>
+      </edge>
+      <edge id="86" source="Waste heat" target="Heat pump" weight="0.023255813953488372">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.023255813953488372" />
+        </attvalues>
+      </edge>
+      <edge id="87" source="Surface condenser" target="Steam-electric power station" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge id="88" source="Solar thermal energy" target="The Big Dish (solar thermal)" weight="0.14285714285714285">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge id="89" source="Solar thermal energy" target="Energy technology" weight="0.13043478260869565">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0.13043478260869565" />
+        </attvalues>
+      </edge>
+      <edge id="90" source="Solar thermal energy" target="Energy recycling" weight="0.11538461538461539">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0.11538461538461539" />
+        </attvalues>
+      </edge>
+      <edge id="91" source="Solar thermal energy" target="Solar power" weight="0.01818181818181818">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.01818181818181818" />
+        </attvalues>
+      </edge>
+      <edge id="92" source="Solar thermal energy" target="Solar energy" weight="0.07272727272727272">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="0.07272727272727272" />
+        </attvalues>
+      </edge>
+      <edge id="93" source="Trompe" target="Energy technology" weight="0.16666666666666666">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge id="94" source="Solar cell research" target="Solar power" weight="0.019230769230769232">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.019230769230769232" />
+        </attvalues>
+      </edge>
+      <edge id="95" source="Solar cell research" target="Energy conversion efficiency" weight="0.0196078431372549">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0196078431372549" />
+        </attvalues>
+      </edge>
+      <edge id="96" source="Wind turbine" target="Steam engine" weight="0.019230769230769232">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.019230769230769232" />
+        </attvalues>
+      </edge>
+      <edge id="97" source="Wind turbine" target="Electric motor" weight="0.006211180124223602">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.006211180124223602" />
+        </attvalues>
+      </edge>
+      <edge id="98" source="Wind turbine" target="Energy conversion efficiency" weight="0.0784313725490196">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="0.0784313725490196" />
+        </attvalues>
+      </edge>
+      <edge id="99" source="Combined cycle power plant" target="Allam power cycle" weight="0.02631578947368421">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.02631578947368421" />
+        </attvalues>
+      </edge>
+      <edge id="100" source="Combined cycle power plant" target="Energy conversion efficiency" weight="0.02631578947368421">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.02631578947368421" />
+        </attvalues>
+      </edge>
+      <edge id="101" source="Pyroelectricity" target="Thermoelectric materials" weight="0.020833333333333332">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.020833333333333332" />
+        </attvalues>
+      </edge>
+      <edge id="102" source="Gasification" target="Integrated gasification fuel cell cycle" weight="0.058823529411764705">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.058823529411764705" />
+        </attvalues>
+      </edge>
+      <edge id="103" source="Solar updraft tower" target="Energy tower (downdraft)" weight="0.14814814814814814">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="0.14814814814814814" />
+        </attvalues>
+      </edge>
+      <edge id="104" source="Battery balancing" target="Battery management system" weight="0.09090909090909091">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.09090909090909091" />
+        </attvalues>
+      </edge>
+      <edge id="105" source="Steam engine" target="Electric motor" weight="0.019230769230769232">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.019230769230769232" />
+        </attvalues>
+      </edge>
+      <edge id="106" source="Thermoelectric materials" target="Solar power" weight="0.004878048780487805">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.004878048780487805" />
+        </attvalues>
+      </edge>
+      <edge id="107" source="Mist lift" target="Ocean thermal energy conversion" weight="0.17391304347826086">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="0.17391304347826086" />
+        </attvalues>
+      </edge>
+      <edge id="108" source="Energy technology" target="Energy recycling" weight="0.13043478260869565">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0.13043478260869565" />
+        </attvalues>
+      </edge>
+      <edge id="109" source="Photovoltaic effect" target="Photoelectric effect" weight="0.07142857142857142">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.07142857142857142" />
+        </attvalues>
+      </edge>
+      <edge id="110" source="Multi-junction solar cell" target="Energy conversion efficiency" weight="0.0392156862745098">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.0392156862745098" />
+        </attvalues>
+      </edge>
+      <edge id="111" source="Multi-junction solar cell" target="Shockley–Queisser limit" weight="0.08">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="0.08" />
+        </attvalues>
+      </edge>
+      <edge id="112" source="Solar power" target="Solar energy" weight="0.09219858156028368">
+        <attvalues>
+          <attvalue for="1" value="13" />
+          <attvalue for="2" value="0.09219858156028368" />
+        </attvalues>
+      </edge>
+      <edge id="113" source="Energy conversion efficiency" target="Shockley–Queisser limit" weight="0.09803921568627451">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.09803921568627451" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

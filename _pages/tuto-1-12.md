@@ -12,6 +12,8 @@ title: 1.12. Activate your knowledge about Gephi
 
 # Lorem Ipsum
 
+# Documents produced
+
 # Next tutorial
 
 <span style="font-size: 5em;">🎉</span>

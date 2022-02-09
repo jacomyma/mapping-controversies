@@ -124,6 +124,11 @@ We ask you to **annotate the nodes that are important**. Clusters do not matter 
 
 Your annotations do not have to be spectacular, but they have to be properly formulated.
 
+# Documents produced
+
+Keep somewhere, for sharing, the following document:
+* The annotated network (JPEG or PNG)
+
 # Next tutorial
 
 [<i class="fas fa-forward"></i>&nbsp;1.10. Visualize a weighted network *(15 min)*](../1.10/)
