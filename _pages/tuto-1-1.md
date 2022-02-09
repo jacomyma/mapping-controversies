@@ -112,7 +112,10 @@ You can export a static image from the menu:
 File > Download > JPEG image
 ```
 
-Save this image somewhere. **Later on, you will upload this to share with the other students.**
+# Documents produced
+
+Keep somewhere, for sharing, the following document:
+* The annotated visualization (JPEG or PNG)
 
 # Next tutorial
 

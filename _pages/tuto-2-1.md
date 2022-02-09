@@ -75,6 +75,11 @@ Open the resulting network in Gephi and observe the following:
 
 Check that you have followed the protocol. **You do not have to do the "ANNOTATE" part** in this tutorial and those that come after, except the last one. Keep in mind, however, that featuring the annotation in the protocol is a good practice.
 
+# Documents produced
+
+Keep somewhere, for sharing, the following document:
+* The (unannotated) network map (JPEG, PNG or PDF)
+
 # Next tutorial
 
 [<i class="fas fa-forward"></i>&nbsp;2.2. Write the protocol: scrape from one article with SeeAlsology *(30 min)*](../2.2/)

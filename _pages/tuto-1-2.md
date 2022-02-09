@@ -72,7 +72,7 @@ We can also wonder where the editors live. It may look like this:
 
 Remark: not all editors have latitude and longitude data. You can see that in the data table. So this map is not representative of the whole data. Tableau tells you, in the visualization, that some of the data points were not placed in the map. Did you see it?
 
-# Annotated the timeline of revisions
+# Annotate the timeline of revisions
 
 Annotate the visualization like [previously](../1.1/):
 * Export a static image from Tableau
@@ -80,11 +80,14 @@ Annotate the visualization like [previously](../1.1/):
 * Annotate the important features of the visualization
 * Export the annotated image
 
-**Later on, you will upload the annotated image to share with the other students.**
-
-Here is some help about interpreting the results:
+Here is some **help** about interpreting the results:
 - Not a lot of revision activity in the thorium article in October 2016. So even though we have a lot of page views - i.e. public interest in the topic driven by outside events - it does not correspond to a big change in how the article is written. No new content is added or reverted in this period.
 - Similar for the November 2015 spike in pages views on the solar article. Does not correspond to a spike in revisions. And for the June 2019 spike in page views. It just confirms that revisions tell a different story than page views.  When the substance of the debate is changing, pages get revised, but that is not necessarily the same as the general public taking note and going to read the article.
+
+# Documents produced
+
+Keep somewhere, for sharing, the following document:
+* The annotated visualization (JPEG or PNG)
 
 # Next tutorial
 

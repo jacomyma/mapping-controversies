@@ -12,6 +12,8 @@ title: 1.7. Activate your knowledge about Tableau
 
 # Lorem Ipsum
 
+# Documents produced
+
 # Next tutorial
 
 🥑 Lunch time!

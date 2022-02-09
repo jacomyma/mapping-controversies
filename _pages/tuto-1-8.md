@@ -163,6 +163,11 @@ You may want to comment on:
 
 Prioritize the most interesting observations in your annotations.
 
+# Documents produced
+
+Keep somewhere, for sharing, the following document:
+* The annotated network (JPEG or PNG)
+
 # Next tutorial
 
 Take a break before you get to this:

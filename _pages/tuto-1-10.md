@@ -50,6 +50,11 @@ By using modularity clustering for node color and weighted degree for node size,
 
 Annotate your visualization. You may focus on clusters or nodes, or both. Can you make a data-driven point about the references used in these articles?
 
+# Documents produced
+
+Keep somewhere, for sharing, the following document:
+* The annotated network (JPEG or PNG)
+
 # Next tutorial
 
 You may want to take a short walk at this point. Take a break, then check this:

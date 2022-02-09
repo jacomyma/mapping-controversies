@@ -72,6 +72,11 @@ We suggest that you:
 
 Can you tell a better data-driven story, in your annotations, than in tutorial 1.9? Not that you have to. The important is that you get more efficient and autonomous at this exercise.
 
+# Documents produced
+
+Keep somewhere, for sharing, the following document:
+* The annotated network (JPEG or PNG)
+
 # Next tutorial
 
 Take a break! Then check this:

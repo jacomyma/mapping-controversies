@@ -85,6 +85,11 @@ The tableau visualization may look like this...
 	![Stacked timeline](../assets/images/1-6/pages.png)
 ](../assets/images/1-6/pages.png)
 
+# Documents produced
+
+Keep somewhere, for sharing, the following document:
+* The annotated visualization (JPEG or PNG)
+
 # Next tutorial
 
 Last break before lunch! Then head for the last activity of the morning:

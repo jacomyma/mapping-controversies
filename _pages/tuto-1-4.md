@@ -40,6 +40,11 @@ This is not a tutorial, but an exercise. The task is to produce a dashboard with
 
 Like before, make an **annotated visualization** from your dashboard, by exporting it into Google Slides, adding information, then exporting an image.
 
+# Documents produced
+
+Keep somewhere, for sharing, the following document:
+* The annotated visualization (JPEG or PNG)
+
 # Next tutorial
 
 ☕ Coffee time! Rest your eyes, then head for the next tutorial:

@@ -63,11 +63,11 @@ This is the network obtained for the article [Copenhagen](https://en.wikipedia.o
 
 Using Google Slides, write the protocol of the image you have produced. **It must feature the methodological decisions you have made in SeeAlsology.**
 
-# Deliverables
+# Documents produced
 
 Keep somewhere, for sharing, the following documents:
-* The image of the network map (PNG)
-* The image of the protocol (PNG)
+* The image of the network map (JPEG or PNG)
+* The image of the protocol (JPEG or PNG)
 
 # Next tutorial
 
