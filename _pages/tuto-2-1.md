@@ -73,7 +73,7 @@ Open the resulting network in Gephi and observe the following:
 
 # Check the protocol
 
-Check that you have followed the protocol. You do not have to do the "ANNOTATE" part in this tutorial (nor the following). However, it is a good practice to feature the annotation in the protocol.
+Check that you have followed the protocol. **You do not have to do the "ANNOTATE" part** in this tutorial and those that come after, except the last one. Keep in mind, however, that featuring the annotation in the protocol is a good practice.
 
 # Next tutorial
 
