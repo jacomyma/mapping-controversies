@@ -13,11 +13,27 @@ title: "2.1. Follow the protocol: scrape a network with SeeAlsology"
 **Goals**
 * Discover **SeeAlsology**
 * Export a network
-* Check what a protocol looks like
+* Check what a **protocol** looks like
 
-# Lorem Ipsum
-Follow this protocol: https://drive.google.com/file/d/1HGK-1EhNMLqkR4u3sTXwEzwJhQi9f3tA/view?usp=sharing
-Also available as (lo res) png: https://drive.google.com/file/d/13dooZdjdqNrdD-bvg5Ez7c4T7nCsf2UY/view?usp=sharing
+# Case
+
+We still stick to the case of energy conversion, using Wikipedia as the main data source.
+
+# Protocol
+
+Take a close look at this protocol:
+[
+	![Protocol](../assets/images/2-1/Protocol_Tutorial2-1.svg)
+](../assets/images/2-1/Protocol_Tutorial2-1.svg)
+
+* The protocol summarizes all the information one needs to know to understand the data and/or reproduce the experiment
+* It mentions mentions the tools, but also the **most relevant settings**. Notably, when data have been removed.
+* The main purpose of the protocol is to **provide context** to interpret the results.
+* How to know what to feature in the protocol? Anything that is necessary to **reproducing** the process. Because then it means that it partially determined the result, and thus is necessary to understand it.
+
+<div class="notice">In the following tutorials, we will alternate between following protocols and writing them. Ultimately, the goal is to learn how to write a protocol, as an important and necessary part of data-driven stories.</div>
+
+# Data
 
 Get urls for the the 931 energy conversion articles here: https://drive.google.com/file/d/1KyJyrk17581ztcJrG4Xh5vsQ678uJx6f/view?usp=sharing
 
