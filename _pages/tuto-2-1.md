@@ -15,6 +15,12 @@ title: "2.1. Follow the protocol: scrape a network with SeeAlsology"
 * Export a network
 * Check what a protocol looks like
 
+# XXX
+
+[
+	![Protocol](../assets/images/2-1/Protocol_Tutorial2-1.svg)
+](../assets/images/2-1/Protocol_Tutorial2-1.svg)
+
 # Lorem Ipsum
 Follow this protocol: https://drive.google.com/file/d/1HGK-1EhNMLqkR4u3sTXwEzwJhQi9f3tA/view?usp=sharing
 Also available as (lo res) png: https://drive.google.com/file/d/13dooZdjdqNrdD-bvg5Ez7c4T7nCsf2UY/view?usp=sharing
