@@ -35,7 +35,20 @@ Take a close look at this protocol:
 
 # Data
 
-Get urls for the the 931 energy conversion articles here: https://drive.google.com/file/d/1KyJyrk17581ztcJrG4Xh5vsQ678uJx6f/view?usp=sharing
+Download this CSV:
+
+<center><a href="../assets/data/2-1/wikipedia-URL-energy-conversion.csv">
+	<i class="fas fa-file-csv" style="font-size:5em"></i><br>
+	wikipedia-URL-energy-conversion.csv
+</a><br><br></center>
+
+It contains the 931 Wikipedia page URLs about energy conversion (subcategories included). As you have seen, this file is the starting point of the protocol.
+
+<div class="notice--info">Contrary to a similar file we have seen in a previous tutorial, this one contains page URLs, not titles. It also has no header. This is what SeeAlsology needs.</div>
+
+# SeeAlsology
+
+[SeeAlsology](https://densitydesign.github.io/strumentalia-seealsology/) is an online tool that builds a network of Wikipedia pages.
 
 Upload them to SeeAlsology
 
