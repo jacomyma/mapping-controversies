@@ -30,11 +30,11 @@ Download this CSV:
 	wikipedia-edits-tuto-1.2.csv
 </a><br><br></center>
 
-It contains the list of edits (i.e. revisions) for these two pages. It has been produced by feeding this [<i class="fas fa-file-csv"></i> file](../assets/data/1-2/wikipedia-articles-tuto-1.2.csv) into this notebook: [🍹&nbsp;Wikipedia articles to edits list](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_edits_list.ipynb), but we will see that in the [tutorial 1.6](../1.6/).
+It contains the list of edits (i.e. revisions) for these two pages. It has been produced by feeding this [<i class="fas fa-file-csv"></i> file](../assets/data/1-2/wikipedia-articles-tuto-1.2.csv) into this notebook: [🍹&nbsp;Wikipedia articles to edits list](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_edits_list.ipynb), but we will see that in [tutorial 1.6](../1.6/).
 
 # Load your data into Tableau
 
-Upload the data like in [tutorial 1.1](../1.1/), and take a look at it. There are more columns to choose from, so the complexity goes up.
+Upload the data in the same way as in [tutorial 1.1](../1.1/), and take a look at it. There are more columns to choose from, so the complexity goes up. Notice for example that two columns, "Lattitude" and "Longitude", have now been parsed as geographical coordinates.
 
 [
 	![Data table](../assets/images/1-2/data-table.png)
@@ -42,15 +42,30 @@ Upload the data like in [tutorial 1.1](../1.1/), and take a look at it. There ar
 
 # Visualize a timeline of revisions
 
-Simple things first. The idea is to look at the revision history of these pages, like we have done previously. When were they *edited* the most? It may look like this:
+Simple things first. The idea is to look at the history of these pages, like we have done previously, but the question is now different: When were they *edited* the most? As opposed to when where they *viewed* the most in the previous tutorial. It may look like this:
 
 [
 	![Timeline of revisions](../assets/images/1-2/tableau-timelime-revisions-2.png)
 ](../assets/images/1-2/tableau-timelime-revisions-2.png)
 
-Remark that although this visualization looks like that of [tutorial 1.1](../1.1/), the data represent something completely different: revisions (not views). Which begs these questions:
+Remark that although this visualization looks like that of [tutorial 1.1](../1.1/), the data represent something completely different (revisions, not views) which prompts questions like:
 * Is there a correlation between the number of views and the number of edits over time?
 * Should we expect such correlation? Why or why not?
+* Do the edits tell a different story than the views? And if that is the case, what is the story?
+
+Also note that *revision* data goes further back in time than *views* data. This is because Wikipedia only started offering page views as a retrievable data point in 2015, whereas a record of all revisions is available from the platform's inception. What we see here is the start of two articles in 2006 and 2012 respectively.
+
+# Annotate the timeline of revisions
+
+Annotate the visualization like [previously](../1.1/):
+* Export a static image from Tableau
+* Import it into Google Slides
+* Annotate the important features of the visualization
+* Export the annotated image
+
+Here is some **help** about interpreting the results:
+- Not a lot of revision activity in the thorium article in October 2016. So even though we have a lot of page views - i.e. public interest in the topic driven by outside events - it does not correspond to a big change in how the article is written. No new content is added or reverted in this period.
+- Similar for the November 2015 spike in pages views on the solar article. Does not correspond to a spike in revisions. And for the June 2019 spike in page views. It just confirms that revisions tell a different story than page views.  When the substance of the debate is changing, pages get revised, but that is not necessarily the same as the general public taking note and going to read the article.
 
 # Visualize a ranked list of revising editors 
 
@@ -72,22 +87,12 @@ We can also wonder where the editors live. It may look like this:
 
 Remark: not all editors have latitude and longitude data. You can see that in the data table. So this map is not representative of the whole data. Tableau tells you, in the visualization, that some of the data points were not placed in the map. Did you see it?
 
-# Annotate the timeline of revisions
-
-Annotate the visualization like [previously](../1.1/):
-* Export a static image from Tableau
-* Import it into Google Slides
-* Annotate the important features of the visualization
-* Export the annotated image
-
-Here is some **help** about interpreting the results:
-- Not a lot of revision activity in the thorium article in October 2016. So even though we have a lot of page views - i.e. public interest in the topic driven by outside events - it does not correspond to a big change in how the article is written. No new content is added or reverted in this period.
-- Similar for the November 2015 spike in pages views on the solar article. Does not correspond to a spike in revisions. And for the June 2019 spike in page views. It just confirms that revisions tell a different story than page views.  When the substance of the debate is changing, pages get revised, but that is not necessarily the same as the general public taking note and going to read the article.
 
 # Documents produced
 
-Keep somewhere, for sharing, the following document:
-* The annotated visualization (JPEG or PNG)
+Keep the following files for later use:
+* The annotated visualization (JPEG or PNG) 
+* The Tableau workbook with the three worksheets (timeline of edits, ranked list of revising editors, geographical map of anonymous editors)
 
 # Next tutorial
 
