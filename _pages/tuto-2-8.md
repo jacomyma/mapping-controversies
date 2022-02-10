@@ -54,11 +54,13 @@ Here is what we ask you:
 5. Find a **data-driven narrative**.
 	* This narrative **depends on your selection**, that is why you certainly have to **iterate** by refining your selection of terms and redoing the steps from point 2. to improve your narrative. You may have to do it several times.
 6. **Annotate** your dashboard to support a data-driven story.
+7. Write the **visual protocol.**
 
 # Documents produced
 
-Keep somewhere, for sharing, the following document:
+Keep somewhere, for sharing, the following documents:
 * The annotated visualization(s) (JPEG or PNG)
+* The visual protocol (JPEG or PNG)
 
 # Next activity
 
