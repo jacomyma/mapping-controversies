@@ -38,7 +38,7 @@ It just contains the list of the two articles.
 	words.csv
 </a><br><br></center>
 
-It just contains the list of 2488 words mentionned in either articles. It was extracted from the [<i class="fas fa-file-csv"></i> text-enriched](../assets/data/2-6/wikipedia-articles-with-text-tuto-2.6.csv) version of the article list passed into this [🍕&nbsp;notebook](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Documents_with_text_to_word_list.ipynb). The text content of the articles was previously harvested by this [🍾&nbsp;other notebook](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_extract_text.ipynb).
+It just contains the list of 2,488 words mentionned in either articles. It was extracted from the [<i class="fas fa-file-csv"></i> text-enriched](../assets/data/2-6/wikipedia-articles-with-text-tuto-2.6.csv) version of the article list passed into this [🍕&nbsp;notebook](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Documents_with_text_to_word_list.ipynb). The text content of the articles was previously harvested by this other [🍾&nbsp;notebook](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_extract_text.ipynb).
 
 # Protocol
 
@@ -47,16 +47,16 @@ We ask you to enact this protocol:
 	* Each word must be represented in both articles
 	* The words must be express a critical distance
 	* If there are too many words to pick, then those mentionned the most must be prioritized
-* Put these words in a small CSV file. It might look like [<i class="fas fa-file-csv"></i> this one](../assets/data/2-6/words-small-list.csv).
+* Put these words in a small CSV file. It may look like [<i class="fas fa-file-csv"></i> this](../assets/data/2-6/words-small-list.csv).
 * Extract the revisions of either article that contain either of your words.
-	* Use this notebook: [🍱&nbsp;Wikipedia words and articles to edit list with words](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_words_and_articles_to_edit_list_with_words.ipynb)
+	* Use this notebook: [🍱&nbsp;Wikipedia words and articles to edit list with words](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_words_and_articles_to_edit_list_with_words.ipynb).
 	* One input is the CSV article list you downloaded above
 	* The other input is your small list of words
 	* You should obtain a file like [<i class="fas fa-file-csv"></i> this one](../assets/data/2-6/terms-and-revisions.csv).
-* Visualize that data in Tableau (no need to annotate)
+* Visualize that data in Tableau (no need to annotate). Use the same approach as in the [tutorial 1.4](../1.4/).
 * *Bonus*: do you see a data-driven story in this visualization?
 
-The data are similar to that of the [tutorial 1.4](../1.4/). It might look like this:
+It might look like this:
 
 [
 	![Tableau](../assets/images/2-6/tableau.png)
