@@ -63,20 +63,20 @@ Annotate the visualization like [previously](../1.1/):
 * Annotate the important features of the visualization
 * Export the annotated image
 
-This time, however, we have other optiosn when it comes to interpreting the spikes. Besides exploring the news we can look at what the editors have been adding or removing in a given period of time. At the top of every Wikipedia page there is a tab named "View history". It allows you to explore the entire archive of revisions for that page.
+This time, however, we have other options when it comes to interpreting the spikes. Besides exploring the news we can look at what the editors have been adding or removing in a given period of time. At the top of every Wikipedia page there is a tab named "View history". It allows you to explore the entire archive of revisions for that page.
 
 If we [explore the page history for "Space-based solar power"](https://en.wikipedia.org/w/index.php?title=Space-based_solar_power&offset=&limit=500&action=history), for example, we can notice that many of the revisions that produce a spike in March 2017 were produced by a user called "Geogene" who have been editing references, cleaning up text, and adding information about launch costs. Note that you can select any two revisions in the tick boxes to the left of them and explore exactly what has been changed by clicking "Compare selected revisions" at the top of the list. Here is [an example of a March 2017 revision by Geogene](https://en.wikipedia.org/w/index.php?title=Space-based_solar_power&type=revision&diff=771513571&oldid=771512234) where a lot of text is being removed because it is seen to be too speculative about the potential of reusable rockets to reduce launch costs.
 
-In some cases there appears to be a correlation between events reported in the news and revision activity on a Wikipedia page. In July 2011, for example, when revision activity on "Space-based solar power" reaches its highest level ever. This is the same month NASA launches its last mission with the space shuttle and a lot of the revision activity is focussed on launch systems and launch costs, such as [this section on the page on the possibility of builiding and launching satelites from space](https://en.wikipedia.org/wiki/Space-based_solar_power#Building_from_space)
+In some cases there appears to be a correlation between events reported in the news and revision activity on a Wikipedia page. In July 2011, for example, revision activity on "Space-based solar power" reaches its peak. This is the same month NASA launches its last space shuttle mission. A lot of the revision activity is focussed on launch systems and launch costs, such as [this section of the page on the possibility of builiding and launching satelites from a platform in space](https://en.wikipedia.org/wiki/Space-based_solar_power#Building_from_space)
 
-Try to annotate some more spikes on the timelines by exploring and comparing revisions in the page history archive.
-
+Try to annotate some more spikes on the timelines by exploring and comparing revisions in the page history archive. Export the result as a static image from Google Sheets.
+	
 
 # Visualize a ranked list of revising editors 
 
 <div class="notice--info"><i class="fas fa-exclamation-circle"></i>&nbsp;Create each visualization in its own sheet, to combine them in the next tutorial.</div>
 
-The data are richer, which brings opportunities. As we have a column with the usernames of the editors, we can look into this. Let's visualize if some editors have contributed more than others. It may look like this:
+The fact that revision data is richer that page views brings opportunities other kinds of visualization. As we have a column with the usernames of the editors, we can look into this. Let's visualize if some editors have contributed more than others. It may look like this:
 
 [
 	![Ranked editors](../assets/images/1-2/tableau-ranked-list-editors.png)
@@ -90,8 +90,7 @@ We can also wonder where the editors live. It may look like this:
 	![Map](../assets/images/1-2/tableau-geographical-map.png)
 ](../assets/images/1-2/tableau-geographical-map.png)
 
-Remark: not all editors have latitude and longitude data. You can see that in the data table. So this map is not representative of the whole data. Tableau tells you, in the visualization, that some of the data points were not placed in the map. Did you see it?
-
+Remark: not all editors have lattitude and longitude data. You can see that in the data table. This is because Wikipedia discloses the IP addresses of anonymous users and IP adressess can be be geo-located. IN short, what we are visualizing here is the location of all the anonymous contributors. Tableau tells you, in the visualization, that some of the data points were not placed in the map. Did you see it?
 
 # Documents produced
 
