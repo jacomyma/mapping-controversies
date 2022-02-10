@@ -42,13 +42,15 @@ Upload the data in the same way as in [tutorial 1.1](../1.1/), and take a look a
 
 # Visualize a timeline of revisions
 
-Simple things first. The idea is to look at the history of these pages, like we have done previously, but the question is now different: When were they *edited* the most? As opposed to when where they *viewed* the most in the previous tutorial. It may look like this:
+Simple things first. The idea is still to look at the history of these pages, like we did in the previous tutorial, but the question has changed. We are not interested in when they were *edited* the most, as opposed to when where they *viewed* the most. The result may look like this:
 
 [
 	![Timeline of revisions](../assets/images/1-2/tableau-timelime-revisions-2.png)
 ](../assets/images/1-2/tableau-timelime-revisions-2.png)
 
-Remark that although this visualization looks like that of [tutorial 1.1](../1.1/), the data represent something completely different (revisions, not views) which prompts questions like:
+Note that you could also choose to drag "Size" or "User (Count (Distinct))" to the "Rows" field if you want to represent the size of revisions (number of characters added or removed) or number of users doing the revisions in a given month.
+
+Again, remember that although this visualization looks a bit like that of [tutorial 1.1](../1.1/), the data represent something completely different (revisions instead of views) which prompts questions like:
 * Is there a correlation between the number of views and the number of edits over time?
 * Should we expect such correlation? Why or why not?
 * Do the edits tell a different story than the views? And if that is the case, what is the story?
