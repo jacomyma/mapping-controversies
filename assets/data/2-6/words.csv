@@ -1,199 +1,569 @@
-term,score
-eu,44
-fed,40
-nasa,37
-electron,23
-mercury,23
-the european union,23
-membrane,22
-proton exchange,21
-psi,21
-mit,20
-watt,19
-toyota,19
-the united states department of energy,19
-quantum,19
-siemens,18
-ge,18
-hydrogen,18
-fushun,17
-ac,17
-un,16
-honda,16
-silicon,16
-alberta taciuk,15
-james watt,15
-doe,15
-the international energy agency,15
-tosco ii,14
-general electric,14
-epa,14
-congress,14
-bin,13
-voc,13
-quantum dots,13
-proton,13
-arrays,13
-shell,12
-the united nations,12
-wikimedia commons,12
-ford,12
-ac power,12
-the international atomic energy agency,12
-darwin,11
-fluid,11
-iea,11
-oxygen,11
-john,11
-the u.s. department of energy,11
-membranes,11
-iaea,11
-ac,10
-general motors,10
-coke,10
-linear,10
-usa,10
-cambridge university press,10
-anode,10
-cigs,10
-ed,10
-co2,10
-the university of michigan,9
-the us department of energy,9
-boeing,9
-alkali,9
-pwr,9
-bwr,9
-thomas,9
-martin,9
-bbc,9
-chevrolet,9
-arc,9
-the department of energy,8
-xenon,8
-h2,8
-pvc,8
-nacelle,8
-the european union's,8
-ag,8
-fukushima,8
-e.on,8
-the national renewable energy laboratory,8
-journal,8
-navy,8
-westinghouse,8
-bell labs,8
-sun,8
-electrolyte membrane,8
-w/m2,8
-european union,8
-digital,7
-ohm,7
-richard trevithick,7
-sic,7
-mazda,7
-pv,7
-external power,7
-thomas edison,7
-yaw,7
-the european commission,7
-los alamos national laboratory,7
-google,7
-isc,7
-johnson,7
-glass,7
-leonardo da vinci,7
-algorithm,7
-newton,7
-audi,7
-international atomic energy agency,7
-hydrogen technologies,7
-albert einstein,7
-ysz,7
-volkswagen,7
-zno,7
-kelvin,6
-charles,6
-tx,6
-chevron,6
-thomas newcomen,6
-john smeaton,6
-cardboard,6
-the new york times,6
-mcgraw-hill,6
-john wiley & sons,6
-nrc,6
-royal navy,6
-uranium-235,6
-oak ridge national laboratory,6
-the united states navy,6
-yaw,6
-anderson,6
-hydro power,6
-ma,6
-the world nuclear association,6
-david,6
-house,6
-bismuth,6
-shockley,6
-hydro,6
-underfloor,5
-bell,5
-biogas,5
-eta,5
-john ericsson,5
-ericsson,5
-gm,5
-massachusetts institute of technology,5
-"the university of california, berkeley",5
-cvd,5
-nrel,5
-mitsubishi,5
-exxonmobil,5
-el,5
-nanocrystalline,5
-cooperatives,5
-nrl,5
-peter,5
-michael,5
-hyundai,5
-jack,5
-methane,5
-coca-cola,5
-fermi,5
-nm,5
-afc,5
-photovoltaic systems,5
-einstein,5
-lpg,5
-cng,5
-sandia national laboratories,5
-eth,5
-de gruyter,5
-photovoltaic power,5
-enrico fermi,5
-william,5
-nissan,5
-the proton exchange,5
-trevithick,5
-william murdoch,5
-james,5
-the us navy,5
-the u.s. navy,5
-megawatt,5
-mm,5
-wwf,5
-oecd,5
-the world bank,5
-the membrane electrode assembly,5
-mn,5
-mohamed m. atalla,5
-thomas johann,5
-piston,5
-thomson,5
-photovoltaic,5
-the massachusetts institute of technology,5
-northwestern university,5
-mpp,5
-kerosene,5
-lsm,5
+text,type,count-occurences-total,count-documents
+ssp,ORG,7,1
+earth,LOC,38,2
+the early 1970s,DATE,2,1
+japan,GPE,13,2
+china,GPE,25,2
+russia,GPE,3,2
+india,GPE,22,2
+the united kingdom,GPE,1,1
+us,GPE,9,2
+2008,DATE,1,1
+jaxa,ORG,3,1
+2015,DATE,6,2
+the china academy for space technology,ORG,1,1
+the international space development conference,FAC,1,1
+february 2019,DATE,1,1
+science and technology daily,ORG,1,1
+keji ribao,PERSON,1,1
+the ministry of science and technology,ORG,1,1
+the people's republic of china,GPE,1,1
+chongqing,GPE,1,1
+bishan district,LOC,1,1
+li ming,PERSON,1,1
+first,ORDINAL,13,2
+chinese,NORP,3,2
+between 2021 and 2025,DATE,1,1
+december 2019,DATE,1,1
+xinhua news agency,ORG,1,1
+megawatts,PERSON,1,1
+2035.in,CARDINAL,1,1
+may 2020,DATE,1,1
+august 2021,DATE,1,1
+the california institute of technology,ORG,1,1
+caltech,ORG,4,1
+2023,DATE,2,1
+donald bren,PERSON,1,1
+brigitte,PERSON,1,1
+caltech trustees,PERSON,1,1
+2013,DATE,7,2
+over $100 million,MONEY,1,1
+1941,DATE,2,1
+isaac asimov,PERSON,2,1
+microwave beams,ORG,2,1
+november 1968,DATE,1,1
+1973,DATE,3,2
+peter glaser,PERSON,3,1
+u.s.,GPE,4,2
+"3,781,647",CARDINAL,2,1
+"arthur d. little, inc.",ORG,1,1
+nasa,ORG,24,2
+four,CARDINAL,1,1
+1974,DATE,2,2
+between 1978 and 1986,DATE,1,1
+congress,ORG,1,1
+the department of energy,ORG,1,1
+doe,PERSON,1,1
+$50 million,MONEY,1,1
+1980,DATE,3,1
+united states,GPE,5,2
+the office of technology assessment,ORG,1,1
+doe,ORG,1,1
+"the ""us national space",ORG,1,1
+eto,ORG,1,1
+pete worden,PERSON,1,1
+solar,PRODUCT,1,1
+about five,CARDINAL,1,1
+arizona,GPE,1,1
+decades,DATE,4,1
+"november 2, 2012",DATE,1,1
+1999,DATE,2,1
+space solar power exploratory research and technology,ORG,2,1
+sert,PERSON,4,1
+the 21st century,DATE,1,1
+100–$200,MONEY,1,1
+2014,DATE,1,1
+ieee spectrum,ORG,1,1
+sci-fi,ORG,1,1
+25 years,DATE,2,2
+tokyo,GPE,1,1
+jaxa,PERSON,1,1
+12 march 2015,DATE,2,1
+1.8 kilowatts 50 meters,QUANTITY,2,1
+12,CARDINAL,1,1
+mitsubishi heavy industries,ORG,1,1
+10 kilowatts,QUANTITY,3,1
+500 meters,QUANTITY,1,1
+solar noon,TIME,1,1
+approximately 144%,PERCENT,1,1
+over 99%,PERCENT,1,1
+only 72 minutes per night,TIME,1,1
+midnight,TIME,1,1
+24 hours,TIME,1,1
+29%,PERCENT,1,1
+the day,DATE,1,1
+6.5 kg/kw,QUANTITY,1,1
+$200/kg,MONEY,1,1
+1 km,QUANTITY,1,1
+2.45,CARDINAL,2,1
+10 km,QUANTITY,2,1
+0.002 degrees,QUANTITY,1,1
+7.2 arc seconds,QUANTITY,1,1
+one kilometer,QUANTITY,1,1
+geostationary altitude,GPE,1,1
+2019,DATE,4,2
+half,CARDINAL,1,1
+at least 0.9 arc degrees,QUANTITY,1,1
+about one thousand,CARDINAL,1,1
+about eight,CARDINAL,1,1
+a billion dollars,MONEY,1,1
+5,CARDINAL,2,1
+keith henson,PERSON,2,1
+three,CARDINAL,4,2
+two,CARDINAL,5,2
+william c. brown,PERSON,1,1
+1964,DATE,1,1
+walter cronkite's,PERSON,1,1
+cbs news program,ORG,1,1
+between 1969 and 1975,DATE,1,1
+bill brown,PERSON,1,1
+jpl raytheon,ORG,1,1
+30 kw,QUANTITY,1,1
+1 mile,QUANTITY,1,1
+1.6 km,QUANTITY,1,1
+9.6%,PERCENT,1,1
+tens of kilowatts,QUANTITY,1,1
+california,GPE,1,1
+1975,DATE,1,1
+1997,DATE,2,2
+maui,LOC,1,1
+the island of,LOC,1,1
+hawaii,GPE,2,1
+92 miles,QUANTITY,1,1
+john c. mankins,PERSON,1,1
+2010,DATE,6,2
+ieee,GPE,2,1
+the 1980s,DATE,1,1
+1989,DATE,2,1
+1991,DATE,1,1
+two-year,DATE,1,1
+1993,DATE,1,1
+1988,DATE,1,1
+grant logan,PERSON,1,1
+600 degrees,QUANTITY,1,1
+leo,ORG,4,1
+geostationary,DATE,1,1
+1978,DATE,2,1
+nasa sps,ORG,1,1
+2.45 ghz,MONEY,1,1
+uneconomic.a,GPE,1,1
+about 85%,PERCENT,1,1
+mars,LOC,1,1
+2012,DATE,4,2
+space solar power,FAC,1,1
+one,CARDINAL,15,2
+20 kg per kilowatt,QUANTITY,1,1
+4,CARDINAL,2,1
+"about 80,000 metric tons",QUANTITY,1,1
+150w/kg,PERSON,1,1
+6.7 kg/kw,QUANTITY,1,1
+1 kg/kw,QUANTITY,1,1
+"4,000 metric tons",QUANTITY,1,1
+$3 billion to $6 billion,MONEY,1,1
+gerard o'neill,PERSON,1,1
+30 april 1979,DATE,1,1
+general dynamics',ORG,1,1
+nas9-15560,LAW,1,1
+as few as thirty,CARDINAL,1,1
+10,CARDINAL,4,2
+1980s,DATE,1,1
+moon,PERSON,2,1
+o'neill,PERSON,1,1
+jerome pearson,PERSON,1,1
+the moon,LOC,1,1
+david criswell,PERSON,2,1
+1,CARDINAL,4,2
+$50 billion,MONEY,1,1
+the shimizu corporation,ORG,1,1
+"10,000-ton",CARDINAL,1,1
+"500,000-ton",CARDINAL,1,1
+"only about 3,000 tons",QUANTITY,1,1
+100%,PERCENT,1,1
+95%,PERCENT,1,1
+150,CARDINAL,1,1
+50x,CARDINAL,1,1
+"7,500 5-gigawatt solar",QUANTITY,1,1
+23,CARDINAL,1,1
+less than 1/4,CARDINAL,1,1
+over 95%,PERCENT,1,1
+faraday,DATE,1,1
+microwave,ORG,2,1
+array antenna/rectenna,ORG,1,1
+microwave beam,ORG,1,1
+the microwave power beam,ORG,1,1
+the 20th century,DATE,1,1
+1968,DATE,2,2
+square miles,QUANTITY,1,1
+sun,GPE,1,1
+one square kilometer,QUANTITY,1,1
+1978–81,DATE,1,1
+the united states department of energy,ORG,1,1
+1987,DATE,1,1
+canadian,NORP,2,2
+1998,DATE,2,1
+the present day,DATE,1,1
+2000,DATE,2,1
+john mankins,PERSON,2,1
+several decades,DATE,1,1
+"the 21st century
+2001:",DATE,1,1
+nasda,PERSON,1,1
+1 megawatt,QUANTITY,1,1
+2003,DATE,1,1
+2007,DATE,3,1
+pentagon,ORG,1,1
+national security space office,ORG,1,1
+"october 10, 2007",DATE,1,1
+the united states',GPE,1,1
+the middle east,LOC,1,1
+$10 billion,MONEY,1,1
+10 megawatts,QUANTITY,1,1
+10 years,DATE,1,1
+may 2007,DATE,1,1
+mit,ORG,1,1
+andrea massa,PERSON,2,1
+giorgio franceschetti,PERSON,1,1
+the 2010 institute of electrical and electronics engineers international symposium on antennas,FAC,1,1
+the indian space research organisation,ORG,1,1
+indian,NORP,2,1
+abdul kalam,PERSON,2,1
+peter garretson,PERSON,1,1
+the institute for defence studies,ORG,1,1
+northrop grumman corporation,ORG,1,1
+an estimated $17.5 million,MONEY,1,1
+three-year,DATE,1,1
+2016,DATE,5,1
+zhang yulin,PERSON,1,1
+pla,ORG,1,1
+the central military commission,ORG,1,1
+earth-moon,LOC,1,1
+the naval research laboratory,ORG,1,1
+nrl,ORG,1,1
+darpa,ORG,1,1
+air force air university,ORG,1,1
+department of state,ORG,1,1
+northrop grumman,PERSON,1,1
+defense,ORG,1,1
+state,ORG,1,1
+d3,PRODUCT,1,1
+the white house,ORG,1,1
+america,GPE,2,2
+erik larson,PERSON,1,1
+2 tw,MONEY,1,1
+2017,DATE,3,2
+five,CARDINAL,1,1
+the colorado school of mines focuses on,ORG,1,1
+21st century,DATE,1,1
+aditya baraskar,PERSON,1,1
+space system dynamic laboratory,ORG,1,1
+kyushu university,ORG,1,1
+1600,CARDINAL,1,1
+500 km,QUANTITY,1,1
+900 km,QUANTITY,1,1
+2035,DATE,1,1
+2020,CARDINAL,1,1
+2024,DATE,1,1
+2021,DATE,1,1
+several thousand,CARDINAL,1,1
+5.8 ghz,QUANTITY,1,1
+l1,PERSON,1,1
+robert kennedy iii,PERSON,1,1
+ken roy & david,PERSON,1,1
+l1,ORG,1,1
+leo sun-synchronous,PERSON,1,1
+the lunar night,TIME,1,1
+meo,PERSON,1,1
+meo systems,ORG,1,1
+royce jones',PERSON,1,1
+molniya,GPE,1,1
+quazi zenith,PERSON,1,1
+narayan komerath,PERSON,1,1
+wall platic tube,ORG,1,1
+2.4 kpa,QUANTITY,1,1
+20,CARDINAL,1,1
+electro,GPE,1,1
+lewis fraas,PERSON,1,1
+secondary,ORDINAL,1,1
+photonic laser thruster,PERSON,1,1
+mercury,ORG,1,1
+99%,PERCENT,1,1
+less than one millionth,TIME,1,1
+justin lewis-webber,PERSON,1,1
+john mankins sps-alpha,PERSON,1,1
+delta-v,ORG,1,1
+ula,ORG,1,1
+meo skyhook,PERSON,1,1
+roger lenard,PERSON,1,1
+mass,GPE,1,1
+meo,GPE,1,1
+non-keplerian,NORP,2,1
+maglev launch / startram,PERSON,1,1
+john powell,PERSON,1,1
+kevin parkin,PERSON,1,1
+isaac asimov's,PERSON,1,1
+asimov,PERSON,1,1
+john maddox roberts's,PERSON,1,1
+ben bova's,PERSON,1,1
+powersat,ORG,1,1
+2005,DATE,1,1
+boeing,ORG,1,1
+lockheed martin,PERSON,1,1
+united,ORG,1,1
+anime tv series,EVENT,1,1
+the national space society,ORG,1,1
+2018-04-14,DATE,2,1
+european,NORP,1,1
+william,PERSON,1,1
+peter e. glaser,PERSON,1,1
+2004-212743,DATE,1,1
+geoffrey a. landis,PERSON,1,1
+nasa glenn research center,ORG,1,1
+japanese,NORP,1,1
+2040,DATE,1,1
+"space energy, inc. - space energy, inc.",ORG,1,1
+jeff foust,PERSON,1,1
+"monday, august 13, 2007",DATE,1,1
+past decades,DATE,1,1
+makoto nagatomo,WORK_OF_ART,1,1
+yoshihiro naruo,PERSON,1,1
+the national space society's,ORG,1,1
+the 2010 festival delle città,EVENT,1,1
+artemis innovation management solutions llc,ORG,1,1
+nobuyuki kaya,ORG,1,1
+kobe university,ORG,1,1
+ministry of economic development,ORG,1,1
+italy,GPE,3,1
+lorenzo fiori,PERSON,1,1
+finmeccanica group,ORG,1,1
+"university of trento, italy",ORG,1,1
+vincenzo gervasio,PERSON,1,1
+consiglio nazionale,ORG,1,1
+ed del lavoro,PERSON,1,1
+the european space agency,ORG,1,1
+72 minutes,TIME,1,1
+14,CARDINAL,1,1
+27 min,QUANTITY,1,1
+16,CARDINAL,1,1
+tomorrow,DATE,1,1
+space solar power press conference,ORG,1,1
+"september 12, 2008",DATE,1,1
+71 minutes,TIME,1,1
+bbc,ORG,1,1
+6,CARDINAL,1,1
+bbc/lighthouse dev eye,ORG,1,1
+uranium-233/232,PRODUCT,1,1
+ralph w. moir,PERSON,1,1
+edward teller,PERSON,1,1
+three-decade,DATE,1,1
+between 1999 and 2022,DATE,1,1
+zero,CARDINAL,2,1
+2011,DATE,2,1
+the georgia institute of technology,ORG,1,1
+world war ii,EVENT,2,1
+the united states,GPE,4,1
+oak ridge national laboratory,ORG,2,1
+"roughly 15,000 hours",TIME,1,1
+1965 to 1969,DATE,1,1
+nobel,WORK_OF_ART,2,1
+glenn seaborg,PERSON,1,1
+the atomic energy commission,ORG,1,1
+tested.in 1973,DATE,1,1
+moir,ORG,3,1
+lmfbr,PRODUCT,1,1
+richard martin,PERSON,1,1
+alvin weinberg,PERSON,1,1
+oak ridge,ORG,1,1
+weinberg,PERSON,4,1
+chet holifield,PERSON,1,1
+aec,ORG,1,1
+martin,PERSON,3,1
+today,DATE,1,1
+chemical & engineering news,ORG,1,1
+victor j. stenger,PERSON,1,1
+kirk sorensen,PERSON,1,1
+2,CARDINAL,1,1
+sorensen,ORG,1,1
+around 2000,DATE,1,1
+the thorium energy alliance,ORG,1,1
+"over 1,000 years",DATE,1,1
+99.3%,PERCENT,1,1
+0.7%,PERCENT,1,1
+alvin radkowsky,PERSON,1,1
+less than 2 percent,PERCENT,1,1
+11,CARDINAL,1,1
+13,CARDINAL,2,1
+thousand,CARDINAL,1,1
+just one or a few hundred years,CARDINAL,1,1
+tens of thousands,CARDINAL,1,1
+hundreds of thousands,CARDINAL,1,1
+uranium-235,ORG,2,1
+nobel laureate carlo rubbia of cern (european organization for nuclear research,WORK_OF_ART,1,1
+one ton,QUANTITY,1,1
+200 tons,QUANTITY,1,1
+"3,500,000 tons",QUANTITY,1,1
+teller,ORG,1,1
+2004,DATE,1,1
+$1 billion,MONEY,1,1
+$100 million,MONEY,1,1
+decade.a,ORG,1,1
+the bellona foundation,ORG,1,1
+cern carlo rubbia,ORG,1,1
+the international atomic energy agency,ORG,2,1
+lftr,PERSON,2,1
+united kingdom,GPE,2,1
+germany,GPE,2,1
+brazil,GPE,1,1
+france,GPE,2,1
+the czech republic,GPE,1,1
+canada,GPE,2,1
+israel,GPE,4,1
+denmark,GPE,1,1
+the netherlands,GPE,1,1
+as many as 32,CARDINAL,1,1
+the european organization for nuclear research,ORG,1,1
+new nuclear power technology,ORG,1,1
+candu,ORG,2,1
+thorium power canada,ORG,1,1
+chile,GPE,2,1
+indonesia,GPE,3,1
+20 million litre,QUANTITY,1,1
+2018,DATE,1,1
+the new brunswick energy solutions corporation,ORG,1,1
+annual conference,EVENT,1,1
+the chinese academy of sciences,ORG,1,1
+jiang mianheng,PERSON,1,1
+jiang zemin,PERSON,1,1
+tennessee,GPE,1,1
+the world nuclear association,ORG,2,1
+the china academy of sciences,ORG,1,1
+january 2011,DATE,1,1
+157,CARDINAL,1,1
+march 2014,DATE,1,1
+li zhong,PERSON,1,1
+west,LOC,1,1
+$400 million,MONEY,1,1
+400,CARDINAL,1,1
+around 2025,DATE,1,1
+2030,CARDINAL,2,1
+at least one,CARDINAL,1,1
+2mw,ORDINAL,1,1
+september 2021,DATE,1,1
+24 june 2021,DATE,1,1
+gobi,GPE,1,1
+as early as september 2021,DATE,1,1
+xi jinping,PERSON,1,1
+2060,DATE,1,1
+western china,LOC,1,1
+up to 30,CARDINAL,1,1
+german,NORP,1,1
+u-235,ORG,1,1
+"approximately 670,000",CARDINAL,1,1
+6 centimetres,QUANTITY,1,1
+2.4,CARDINAL,1,1
+fed,ORG,1,1
+432 days,DATE,1,1
+the late 1980s,DATE,1,1
+as much as 30%,PERCENT,1,1
+2050.in,CARDINAL,1,1
+february 2014,DATE,1,1
+bhabha atomic research centre,ORG,1,1
+barc,ORG,1,1
+mumbai,GPE,2,1
+120 days,DATE,1,1
+their atomic energy commission,ORG,1,1
+delhi.indian,NORP,1,1
+62,CARDINAL,1,1
+2025,DATE,1,1
+under 2%,PERCENT,1,1
+60%,PERCENT,1,1
+16%,PERCENT,1,1
+12%,PERCENT,1,1
+9%,PERCENT,1,1
+around 25%,PERCENT,1,1
+2009,DATE,2,1
+the indian atomic energy commission,ORG,1,1
+atomic energy commission,ORG,1,1
+the 1950s,DATE,1,1
+physicist homi bhabha,ORG,1,1
+500,CARDINAL,1,1
+the indira gandhi centre for atomic research,FAC,1,1
+kalpakkam,PERSON,1,1
+july 2013,DATE,1,1
+september 2014,DATE,1,1
+"5,677",CARDINAL,2,1
+kumar,PERSON,1,1
+"3,492",CARDINAL,1,1
+4.44,CARDINAL,1,1
+300,CARDINAL,1,1
+september 2016,DATE,1,1
+ten,CARDINAL,1,1
+the indonesia ministry of energy and mineral resource,ORG,1,1
+tmsr-500,PRODUCT,1,1
+may 2010,DATE,1,1
+ben-gurion university of the negev,ORG,1,1
+brookhaven national laboratory,ORG,1,1
+new york,GPE,1,1
+june 2012,DATE,1,1
+norway,GPE,2,1
+thor energy,ORG,1,1
+westinghouse,ORG,1,1
+four-year,DATE,1,1
+nobel prize winning physicist carlo,WORK_OF_ART,1,1
+proton,GPE,1,1
+britain,GPE,2,1
+the alvin weinberg foundation,ORG,1,1
+house of lords,ORG,1,1
+bryony worthington,PERSON,1,1
+uk,GPE,2,1
+national nuclear laboratory,ORG,1,1
+nnl,ORG,1,1
+january 2012,DATE,1,1
+energy,ORG,1,1
+the blue ribbon commission on america's,ORG,1,1
+the us department of energy,ORG,1,1
+harry reid,PERSON,1,1
+orrin hatch,PERSON,1,1
+$250 million,MONEY,1,1
+joe,PERSON,1,1
+fuel.alvin radkowsky,PERSON,1,1
+second,ORDINAL,1,1
+pennsylvania,GPE,1,1
+russian,NORP,1,1
+1992,DATE,1,1
+tel aviv,GPE,1,1
+"the us company, thorium power ltd.",ORG,1,1
+washington,GPE,1,1
+d.c.,GPE,1,1
+odessa,GPE,1,1
+texas,GPE,1,1
+ten years in 2006,DATE,1,1
+2015).on,CARDINAL,1,1
+richard l. garwin,PERSON,1,1
+georges charpak,ORG,1,1
+2001,DATE,2,1
+153–63,WORK_OF_ART,1,1
+monazite,ORG,2,1
+about 12%,PERCENT,1,1
+6–7%,PERCENT,1,1
+about 12 million tons,QUANTITY,1,1
+two-thirds,CARDINAL,1,1
+oecd/nea,ORG,1,1
+paris,GPE,1,1
+iaea,ORG,1,1
+tons,LANGUAGE,1,1
+millions,CARDINAL,1,1
+3×1019,CARDINAL,1,1
+around 120 trillion tons,QUANTITY,1,1
+seven,CARDINAL,2,1
+six,CARDINAL,1,1
+international thorium energy organisation,ORG,1,1
+international thorium energy committee,ORG,1,1
+22 min,QUANTITY,1,1
+kirk sorensen's,PERSON,1,1
+google,ORG,1,1
+tech talk,PERSON,1,1
+20 july 2009,DATE,1,1
+last century,DATE,1,1
+brian,PERSON,1,1
+24 january 2017,DATE,1,1
+555,MONEY,1,1
