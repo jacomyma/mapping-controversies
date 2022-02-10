@@ -85,7 +85,7 @@ Keep somewhere, for sharing, the following document:
 * The list of terms (just the list, as text)
 * The visual protocol (JPEG or PNG)
 
-# Next tutorial
+# Next activity
 
 🫖 Isn't it tea o'clock? After a good break, check this:
 

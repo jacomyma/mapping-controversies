@@ -1,0 +1,5288 @@
+text,type,count-occurences-total,count-documents
+Coronavirus,ORG,8,7
+2019,DATE,274,240
+one,CARDINAL,153,138
+three,CARDINAL,204,167
+first,ORDINAL,198,174
+2022,CARDINAL,20,20
+Sina Weibo,GPE,1,1
+ELM,ORG,1,1
+Second,ORDINAL,26,26
+Canada,GPE,4,3
+the Canadian Perspective Survey Series,ORG,1,1
+"July 20 to 26, 2020",DATE,1,1
+Anxiety,PERSON,1,1
+two,CARDINAL,317,264
+1≤,CARDINAL,1,1
+GAD,ORG,7,1
+10,CARDINAL,12,12
+"3,779",CARDINAL,1,1
+Canadian,NORP,1,1
+76.3%,PERCENT,1,1
+>25 years,DATE,1,1
+85.4%,PERCENT,1,1
+87.9%,PERCENT,1,1
+13.6%,PERCENT,1,1
+17.2%,PERCENT,1,1
+9.9%,PERCENT,1,1
+p<0.001,ORG,1,1
+"2,016",CARDINAL,1,1
+99%,PERCENT,7,2
+2.19,CARDINAL,1,1
+11.01,CARDINAL,1,1
+1.18–4.33,DATE,1,1
+no past-week,DATE,1,1
+"1,753",CARDINAL,1,1
+3.14,CARDINAL,1,1
+6.55,CARDINAL,1,1
+1.31,CARDINAL,1,1
+5.27,CARDINAL,1,1
+OR=1.91,GPE,1,1
+CI:1.07–3.42,ORG,1,1
+the last years,DATE,7,7
+DeepFakes,ORG,4,3
+1st,ORDINAL,1,1
+UADFV,ORG,2,2
+FaceForensics++,ORG,2,2
+2nd,ORDINAL,1,1
+Celeb-DF,ORG,3,2
+DFDC,ORG,2,2
+both 1st,DATE,1,1
+2nd DeepFakes,ORG,1,1
+Two,CARDINAL,27,24
+DSP-FWA,ORG,1,1
+above 99%,PERCENT,1,1
+UADFV,GPE,1,1
+FaceForensics++,GPE,1,1
+ISOT,ORG,10,6
+Firstly,ORDINAL,7,7
+Secondly,ORDINAL,12,12
+Science,GPE,1,1
+every day,DATE,5,5
+CheckerOrSpreader,ORG,3,2
+CNN,ORG,39,28
+2021,CARDINAL,307,302
+Corneille,PERSON,1,1
+Mierop,GPE,1,1
+2021,DATE,106,102
+Corneille et al,PERSON,1,1
+2020,DATE,72,70
+1,CARDINAL,95,82
+2,CARDINAL,111,94
+3,CARDINAL,70,60
+Jérémy Béna,PERSON,1,1
+four,CARDINAL,97,88
+29,CARDINAL,1,1
+40,CARDINAL,4,4
+JATOS/OSWeb,ORG,1,1
+Python,GPE,3,3
+Béna,PERSON,4,1
+WHO,ORG,14,10
+Google,ORG,38,21
+between 30 March,DATE,1,1
+27,CARDINAL,3,3
+April 2020,DATE,4,4
+Coronavirus,PERSON,1,1
+Australia,GPE,12,10
+France,GPE,14,12
+Germany,GPE,25,25
+Italy,GPE,29,19
+Poland,GPE,5,4
+Singapore,GPE,13,8
+Spain,GPE,61,48
+UK,GPE,43,34
+USA,GPE,10,10
+685,CARDINAL,2,2
+News,ORG,7,2
+47%,PERCENT,1,1
+Governmental,ORG,1,1
+19%,PERCENT,1,1
+131/685,ORG,1,1
+Health portals,ORG,1,1
+2%,PERCENT,1,1
+Scientific,ORG,1,1
+5%,PERCENT,3,3
+0.001,CARDINAL,17,8
+United States,GPE,6,6
+Governmental,NORP,1,1
+20,CARDINAL,10,10
+2022,DATE,7,7
+Licensee MDPI,PERSON,88,88
+Basel,GPE,89,89
+Switzerland,GPE,90,90
+COVID-19,PRODUCT,6,6
+third,ORDINAL,50,38
+the United States,GPE,41,37
+the Journal of Medical Internet Research,ORG,8,4
+Social Media,ORG,8,8
+Ethics,ORG,1,1
+Michael A Gisondi,PERSON,1,1
+Rachel Barber,PERSON,1,1
+Jemery Samuel Faust,PERSON,1,1
+Ali Raja,PERSON,1,1
+Matthew C Strehlow,PERSON,1,1
+Lauren M Westafer,PERSON,1,1
+Michael Gottlieb,PERSON,1,1
+OSM,ORG,4,3
+NLP,ORG,38,30
+Twitter,PRODUCT,5,5
+TF-IDF,ORG,10,6
+greater than 85%,PERCENT,1,1
+approximately 6%,PERCENT,1,1
+up to 90%,PERCENT,2,2
+Weibo,GPE,17,14
+FMFN,ORG,1,1
+First Amendment,LAW,1,1
+Latent Direchlet Allocation,ORG,1,1
+second,ORDINAL,68,64
+Elsevier Inc.,ORG,8,8
+The Web of Science Core Collection,WORK_OF_ART,1,1
+ALL=(misinformati,PERSON,1,1
+disinformati,PERSON,1,1
+ALL=(medic,PERSON,1,1
+YouTube,WORK_OF_ART,3,3
+Whatsapp,PERSON,2,2
+VOSviewer,ORG,1,1
+RESULTS,ORG,3,3
+529,CARDINAL,2,2
+13.7,CARDINAL,1,1
+Instagram,NORP,25,15
+WhatsApp,ORG,49,31
+8.7,CARDINAL,1,1
+44.1%,PERCENT,1,1
+YouTube,CARDINAL,4,4
+Facebook,ORG,57,47
+half,CARDINAL,9,7
+80%,PERCENT,3,3
+China,GPE,33,25
+TikTok,ORG,7,3
+Chinese,NORP,15,13
+Douyin,WORK_OF_ART,1,1
+non-English,NORP,1,1
+Andy Wai Kan Yeung,PERSON,1,1
+Anela Tosevska,PERSON,1,1
+Elisabeth Klager,PERSON,1,1
+Fabian Eibensteiner,PERSON,1,1
+Christos Tsagkaris,PERSON,1,1
+Emil D Parvanov,PERSON,1,1
+Faisal A Nawaz,PERSON,1,1
+Eva Schaden,PERSON,1,1
+Maria Kletecka-Pulker,PERSON,1,1
+Harald Willschke,PERSON,1,1
+Atanas G Atanasov,PERSON,1,1
+25.01.2022,ORG,1,1
+the Student Doctor Network,ORG,1,1
+recent years,DATE,63,61
+SDN,PRODUCT,6,2
+the National Resident Matching Program,ORG,1,1
+MD,ORG,1,1
+2014,DATE,23,18
+2016,DATE,89,75
+2018,DATE,196,167
+NRMP,ORG,4,1
+each respective year,DATE,1,1
+RESULTS,PERSON,2,2
+360,CARDINAL,1,1
+the years,DATE,8,8
+79%,PERCENT,3,3
+Google Docs,FAC,1,1
+the first two years,DATE,1,1
+United States Medical Licensing Examination,ORG,1,1
+USMLE,ORG,3,1
+SDN,ORG,4,2
+the most recent year,DATE,3,1
+234,CARDINAL,1,1
+95%,PERCENT,7,5
+CI,ORG,5,3
+233,CARDINAL,3,3
+2 scores,QUANTITY,1,1
+250,CARDINAL,3,3
+248,CARDINAL,1,1
+231,CARDINAL,2,2
+241,CARDINAL,2,2
+all years,DATE,1,1
+Alpha Omega Alpha Honor Medical Society,ORG,1,1
+December 2019,DATE,6,6
+COVID-19-related,PERSON,1,1
+88.50%,PERCENT,1,1
+Hakak,GPE,1,1
+Deepa,GPE,1,1
+Prabadevi,GPE,1,1
+Trelova,ORG,1,1
+United Kingdom,GPE,4,4
+New Zealand,GPE,2,1
+Stefano Landi,PERSON,1,1
+Antonio Costantini,PERSON,1,1
+Marco Fasan,PERSON,1,1
+Michele Bonazzi,PERSON,1,1
+today,DATE,77,68
+Transformer,ORG,1,1
+a few minutes,TIME,1,1
+Crown,ORG,1,1
+CiteSpace,ORG,1,1
+7248,CARDINAL,1,1
+English,LANGUAGE,70,50
+145,CARDINAL,1,1
+graphs,NORP,6,5
+six,CARDINAL,37,31
+the last 10 years,DATE,2,2
+annually,DATE,1,1
+the People's Republic of China,GPE,1,1
+the United States of America,GPE,5,5
+Cable News Network,ORG,1,1
+Jianhua Dai,PERSON,1,1
+Jingxin Xu,PERSON,1,1
+WWW,ORG,2,2
+DL,NORP,1,1
+RDL,ORG,2,1
+algorithm,ORG,21,20
+EML-LF,ORG,1,1
+Tech Science Press,ORG,8,8
+Daily,DATE,1,1
+Healthcare,ORG,4,3
+IOS Press,ORG,10,6
+Lee McIntyre,PERSON,1,1
+Post-Truth,ORG,3,3
+MIT Press,ORG,1,1
+Cailin O’Connor,PERSON,1,1
+James Weatherall,PERSON,1,1
+Yale University Press,ORG,1,1
+the Arts and Humanities,ORG,1,1
+1997,DATE,2,2
+silicon valley,LOC,1,1
+Fogg,ORG,4,2
+Morgan Kaufmann,PERSON,1,1
+2003,DATE,5,4
+Hamari et al,PERSON,1,1
+eds,CARDINAL,1,1
+Persuasive Technology,ORG,1,1
+Springer International Publishing,ORG,1,1
+Harris,PERSON,1,1
+Lanier,PERSON,1,1
+Simon & Schuster,ORG,1,1
+Ten,CARDINAL,2,2
+Picador,GPE,1,1
+417,CARDINAL,1,1
+TN,ORG,3,1
+FN,ORG,12,3
+356,CARDINAL,1,1
+The World Health Organization,ORG,2,2
+"March 11, 2020",DATE,1,1
+"Twitter, Facebook",ORG,1,1
+CT,ORG,9,2
+RoBERTa,GPE,5,2
+BERT,ORG,27,18
+AlBERT,ORG,1,1
+CT-BERT,PRODUCT,3,2
+RoBERTa,PERSON,1,1
+DL,PRODUCT,6,4
+98.88%,PERCENT,1,1
+98.93%,PERCENT,1,1
+EDP Sciences,ORG,5,5
+Springer-Verlag GmbH,ORG,8,8
+Springer Nature,PERSON,19,19
+Three,CARDINAL,13,13
+Springer-Verlag GmbH Austria,ORG,7,7
+Springer Nature,WORK_OF_ART,8,8
+Brazil,GPE,44,29
+"1,328",CARDINAL,1,1
+Brazilians,NORP,3,2
+Brasileira de Psicologia,PERSON,1,1
+social media platforms,ORG,3,2
+detect fake news,ORG,1,1
+Fuzzy CRNN,PERSON,1,1
+CRNN,ORG,1,1
+CRNN,PRODUCT,1,1
+99.99,CARDINAL,1,1
+0.01%,PERCENT,1,1
+Lebanon,GPE,3,2
+"July–August, 2020",DATE,1,1
+1052,DATE,1,1
+40%,PERCENT,2,2
+82%,PERCENT,4,4
+52%,PERCENT,2,2
+19.7%,PERCENT,1,1
+63.8%,PERCENT,1,1
+Watsapp,ORG,2,1
+MoPH,PERSON,1,1
+0.43,CARDINAL,1,1
+0.01,CARDINAL,1,1
+0.05,CARDINAL,3,3
+CanarDeep,ORG,1,1
+HAN,ORG,2,1
+MLP,ORG,3,3
+PHEME,PRODUCT,1,1
+4.45%,PERCENT,1,1
+Springer-Verlag London Ltd.,ORG,5,5
+Springer Nature,ORG,5,5
+covid-19,CARDINAL,1,1
+RD,EVENT,1,1
+GCN,ORG,7,3
+GAT,ORG,2,1
+SAGE,PRODUCT,1,1
+GNN,ORG,3,3
+SAGE,ORG,1,1
+POD,ORG,1,1
+COVID,ORG,20,16
+the Creative Commons Attribution License,ORG,28,28
+Digital,ORG,14,13
+1123,DATE,1,1
+Elsevier Ltd,ORG,16,16
+pre-Covid,PERSON,1,1
+5G.,CARDINAL,1,1
+Facebook,PERSON,5,5
+2013,CARDINAL,24,24
+MUFFLE,ORG,3,1
+NDCG,PRODUCT,1,1
+News Monitor,ORG,4,1
+KB,PERSON,1,1
+92%,PERCENT,4,4
+thousands,CARDINAL,8,7
+1802,CARDINAL,1,1
+Israel,GPE,2,2
+~64%,PERCENT,1,1
+Almost half,CARDINAL,2,2
+45%,PERCENT,1,1
+0.470,CARDINAL,1,1
+0.359,CARDINAL,1,1
+0.615,CARDINAL,1,1
+χ2,CARDINAL,1,1
+30.366,CARDINAL,1,1
+p &lt,ORG,1,1
+One,CARDINAL,72,68
+the Natural Language Processing,ORG,2,2
+7.92%,PERCENT,1,1
+1.54%,PERCENT,1,1
+17.31%,PERCENT,1,1
+8.13%,PERCENT,1,1
+GitHub,ORG,3,3
+Arabic,LANGUAGE,17,10
+Arabic,NORP,8,6
+OSN,ORG,3,3
+Sybil Guard,ORG,1,1
+Sybil,ORG,1,1
+River Publishers,ORG,1,1
+Microsoft,ORG,1,1
+Snapchat,ORG,1,1
+Amazon,ORG,3,3
+Flipkart,ORG,1,1
+eBay,ORG,1,1
+Instagram,ORG,1,1
+Pin,PERSON,1,1
+Twitter,PERSON,43,34
+millions,CARDINAL,15,15
+Blockchain,GPE,11,7
+CryptoNight,ORG,1,1
+BCDSMM-CNYAC,ORG,1,1
+Cronbach,PRODUCT,2,2
+2011-2020,DATE,1,1
+the PRISMA protocol,LAW,1,1
+ERIC,PERSON,1,1
+Eight,CARDINAL,2,2
+seven,CARDINAL,23,22
+First,ORDINAL,39,39
+nearly five,CARDINAL,1,1
+OJCMT,ORG,2,2
+NLU,ORG,1,1
+308,CARDINAL,2,2
+ISO9214,ORG,1,1
+SBS,ORG,7,1
+almost five decades,DATE,1,1
+CSF,ORG,1,1
+Springer Nature Singapore Pte Ltd.,ORG,2,2
+46.36%,PERCENT,1,1
+1.49%,PERCENT,1,1
+Yelp,ORG,1,1
+Anglophone K-pop,PERSON,1,1
+the East-West,LOC,1,1
+eight,CARDINAL,17,17
+/r/bangtan,ORG,1,1
+the /r/bangtan community,ORG,1,1
+this East-West,LOC,1,1
+COVID19,ORG,1,1
+Twitter,ORG,4,3
+HCQ,ORG,1,1
+"1,356",CARDINAL,1,1
+10 million,CARDINAL,1,1
+"March 30 to July 13, 2020",DATE,1,1
+Russian Public Opinion Research Center,ORG,5,5
+VCIOM,ORG,5,5
+SJB,ORG,2,1
+Hungarian,NORP,2,1
+295,CARDINAL,1,1
+Hungary,GPE,2,2
+Szebeni,NORP,1,1
+Lönnqvist,NORP,1,1
+Jasinskaja-Lahti,PERSON,1,1
+the sixteenth century,DATE,1,1
+the History of Communication,WORK_OF_ART,1,1
+1519,DATE,1,1
+1594,DATE,1,1
+San Segundo,GPE,1,1
+Ávila,ORG,1,1
+1574,DATE,1,1
+Infomations,WORK_OF_ART,1,1
+Melchor Nieto,PERSON,1,1
+1595,DATE,1,1
+Antonio Cianca,PERSON,1,1
+Universidad Complutense de Madrid,ORG,22,22
+early 2020,DATE,1,1
+the World Health Organization,ORG,16,16
+Ying,PERSON,1,1
+Cheng,PERSON,1,1
+Roaa Al Feel,PERSON,1,1
+Patterns,PERSON,1,1
+November,DATE,1,1
+Syrian,NORP,5,3
+6.3%,PERCENT,1,1
+ACM,ORG,18,18
+IOP Publishing Ltd.,ORG,15,15
+Kazakhstan,GPE,4,1
+the Russian Federation,GPE,6,4
+Russia,GPE,28,16
+U.S.,GPE,33,29
+Capitol,FAC,2,2
+January 2021,DATE,1,1
+eight days,DATE,1,1
+25%,PERCENT,2,2
+Science,ORG,7,7
+605,CARDINAL,1,1
+between 2016 and 2020,DATE,1,1
+Kruskal-Wallis,ORG,2,2
+Mann-Whitney U,ORG,2,2
+CEU Ediciones,ORG,4,4
+"2,277",CARDINAL,1,1
+IEEE,ORG,1,1
+Wiley,PERSON,1,1
+July to September 2020,DATE,1,1
+Kim et al,PERSON,1,1
+Fake News’,ORG,1,1
+Fake News,ORG,38,28
+Natural Language Processing,ORG,13,13
+Deep Learning,PERSON,4,4
+the Artificial Intelligence (AI,ORG,1,1
+Explainable Artificial Intelligence,ORG,1,1
+LIME,ORG,1,1
+Otsu,ORG,2,1
+OELTP,ORG,1,1
+DWT,ORG,1,1
+Cb,PERSON,1,1
+Cr,PERSON,1,1
+ELTP,ORG,1,1
+CASIA v1,PRODUCT,1,1
+Columbia,ORG,1,1
+Institute of Advanced Engineering and Science,ORG,3,3
+CIE,ORG,7,1
+Decades,DATE,1,1
+COVID-19-related,FAC,2,2
+Palestinian,NORP,2,1
+the Palestinian Ministry of Health (MoH,ORG,1,1
+8.65,CARDINAL,1,1
+76%,PERCENT,3,3
+only 33%,PERCENT,1,1
+93%,PERCENT,3,3
+COVID-19-related,ORG,5,5
+56%,PERCENT,3,3
+MoH,ORG,1,1
+only 8%,PERCENT,1,1
+1970-2012,DATE,1,1
+301,CARDINAL,1,1
+Twitter,FAC,16,15
+more than 4.5 million,CARDINAL,1,1
+i. e.,ORG,1,1
+37.58%,PERCENT,1,1
+61.44%,PERCENT,1,1
+945,CARDINAL,1,1
+April 2021,DATE,2,2
+Romania,GPE,7,5
+OLS,ORG,1,1
+0.33,CARDINAL,1,1
+0.13,CARDINAL,1,1
+0.08,CARDINAL,2,2
+N,ORG,9,9
+216,CARDINAL,1,1
+Artificial Intelligence,ORG,8,5
+Emotion Recognition,ORG,1,1
+Wiley Periodicals LLC,ORG,7,7
+University of Louisiana at Lafayette,ORG,2,1
+1a,CARDINAL,2,1
+376,CARDINAL,2,2
+Mechanical Turk,ORG,4,3
+205,CARDINAL,1,1
+1b,CARDINAL,1,1
+201,CARDINAL,1,1
+2a,CARDINAL,1,1
+300,CARDINAL,6,6
+2b,CARDINAL,2,1
+303,CARDINAL,2,2
+182,CARDINAL,1,1
+the last decade,DATE,6,6
+fake news,ORG,14,14
+Cooley,ORG,1,1
+The Revolt of the Masses,WORK_OF_ART,1,1
+de las masas,PERSON,1,1
+McLuhan,PERSON,2,2
+Bauman,PERSON,1,1
+Retrotopia,PERSON,1,1
+Li-censee MDPI,PERSON,1,1
+1111 Chinese,NORP,1,1
+GitLab,PERSON,1,1
+US,GPE,66,56
+The Authors.,ORG,3,3
+Policy Studies Organization,ORG,2,2
+PI,ORG,2,1
+December 2019 to January 2020,DATE,1,1
+the Italian Paediatric Society,ORG,1,1
+12 months,DATE,1,1
+"July 28, 2019",DATE,2,1
+"July 11, 2020",DATE,1,1
+"January 6, 2020, to July 11, 2020",DATE,1,1
+"January 4, 2020",DATE,1,1
+daily,DATE,49,42
+Facebook daily,ORG,1,1
+blockchain,GPE,22,14
+ProBlock,ORG,1,1
+Springer Science+Business Media,ORG,10,10
+LLC,ORG,27,27
+541,CARDINAL,1,1
+two weeks later,DATE,1,1
+just two weeks ago,DATE,1,1
+CHECKED,ORG,5,1
+"2,104",CARDINAL,1,1
+December 2019 to August 2020,DATE,1,1
+"1,868,175",CARDINAL,1,1
+"1,185,702",CARDINAL,1,1
+"56,852,736",CARDINAL,1,1
+CHECKED,PRODUCT,1,1
+https://github.com/cyang03/CHECKED,PERSON,1,1
+Chinese ADR Delisting Threat fake news,EVENT,1,1
+a week later,DATE,1,1
+Cobrapost,ORG,1,1
+BA,ORG,1,1
+416,CARDINAL,1,1
+the Terror Management,ORG,1,1
+Latin America,LOC,4,3
+Markov,PERSON,2,2
+Argentina,GPE,6,6
+Chequeado,ORG,1,1
+Agência Lupa,PERSON,3,3
+Chile,GPE,2,2
+Colombia,GPE,3,3
+Consejo de Redacciín,GPE,1,1
+Mexico,GPE,7,7
+El Sabueso,GPE,1,1
+Animal Polótico,GPE,1,1
+Venezuela,GPE,4,4
+Efecto Cocuyo,PERSON,1,1
+"102,379",CARDINAL,1,1
+between January and July 2020,DATE,1,1
+three or fewer,CARDINAL,1,1
+Experiment 1,DATE,4,4
+9,CARDINAL,7,6
+up to 27,CARDINAL,1,1
+© 2021,PERSON,1,1
+17,CARDINAL,3,3
+SNS,ORG,3,2
+"approximately 250,000",CARDINAL,1,1
+year-long,DATE,1,1
+42 million,CARDINAL,2,2
+Japanese,NORP,1,1
+EC,ORG,6,2
+a quarter of a million,CARDINAL,1,1
+Study 2,PRODUCT,2,1
+292,CARDINAL,2,2
+357,CARDINAL,3,3
+12,CARDINAL,6,6
+6,CARDINAL,17,14
+the Cognitive Reflection Test,LAW,2,2
+Study 2,LAW,1,1
+GAN,ORG,11,6
+PHEME,ORG,6,5
+26.85 %,PERCENT,1,1
+72.69 %,PERCENT,1,1
+DT-SVMNB,ORG,2,1
+Support Vector Machine,ORG,13,13
+Naïve Bayesian,PERSON,1,1
+NBC,ORG,3,2
+around 98%,PERCENT,1,1
+April 2016,DATE,1,1
+the Singapore Ministry of Health,ORG,1,1
+War on Diabetes,LAW,1,1
+Walt,PERSON,1,1
+Gilson,ORG,1,1
+171,CARDINAL,1,1
+WoD,ORG,3,1
+YouTube,LAW,6,6
+31,CARDINAL,1,1
+firstly,ORDINAL,3,3
+secondly,ORDINAL,6,6
+Springer Nature B.V.,ORG,7,7
+the past few years,DATE,5,5
+Washington State,GPE,1,1
+Thirdly,ORDINAL,3,3
+Fourthly,ORDINAL,1,1
+2020,CARDINAL,337,331
+Deborah Johnson,PERSON,1,1
+Luciano Floridi,PERSON,1,1
+Regina Rini,PERSON,1,1
+Brian Skyrms,PERSON,1,1
+2010,DATE,7,7
+MAML,ORG,1,1
+State University of Santa Catarina,ORG,1,1
+the last five years,DATE,2,2
+Spanish,NORP,59,39
+the period 2016-2021,DATE,1,1
+a Mixed Method Research Design,ORG,1,1
+FNGA,ORG,2,1
+"more than 10,000",CARDINAL,2,2
+7000,MONEY,1,1
+JMIR Publications Inc,ORG,1,1
+TMs,ORG,4,1
+COVID-19-related news,ORG,2,2
+One hundred and seventy-one,CARDINAL,1,1
+131 females,MONEY,1,1
+the additional days,DATE,1,1
+around 2%,PERCENT,1,1
+1003,DATE,1,1
+61.2%,PERCENT,1,1
+11.2%,PERCENT,1,1
+2.05,CARDINAL,1,1
+3.62,CARDINAL,1,1
+0.1,CARDINAL,2,1
+1.60,CARDINAL,1,1
+CI 1.00–2.58,PERSON,1,1
+the end of 2019,DATE,2,2
+September 2021,DATE,1,1
+two-thirds,CARDINAL,2,2
+473,CARDINAL,1,1
+PubliCo Survey,ORG,1,1
+22,CARDINAL,5,5
+PubliCo Diaries,LOC,1,1
+PubliCo,PRODUCT,1,1
+Giovanni Spitale,PERSON,1,1
+Sonja Merten,PERSON,1,1
+Kristen Jafflin,PERSON,1,1
+Bettina Schwind,PERSON,1,1
+Andrea Kaiser-Grolimund,PERSON,1,1
+Nikola Biller-Andorno,ORG,1,1
+"136,964",CARDINAL,1,1
+1755,DATE,1,1
+213,CARDINAL,2,2
+only two,CARDINAL,3,3
+French,NORP,24,11
+Guiana,PERSON,3,1
+South America,LOC,2,2
+fourth,ORDINAL,7,7
+35.7%,PERCENT,1,1
+early 2021,DATE,1,1
+January to March 2021,DATE,1,1
+the Creative Commons Attribution,ORG,4,4
+94.31%,PERCENT,1,1
+FNC-1,GPE,2,2
+defalsif-AI,ORG,1,1
+Defalsif-AI,ORG,1,1
+democratic,NORP,5,5
+ein Teil von Springer Nature,PERSON,1,1
+"Correctness, Neutrality, Comprehensibility, Precision, Completeness",ORG,1,1
+Informativeness,ORG,1,1
+180,CARDINAL,2,2
+4,CARDINAL,28,23
+Snopes,PERSON,2,2
+Third,ORDINAL,13,13
+T/F,ORG,1,1
+the association of fake news,ORG,1,1
+Stimulus-Organism-Behaviour-Consequence,WORK_OF_ART,1,1
+390,CARDINAL,1,1
+YouTube,DATE,1,1
+Portuguese,LANGUAGE,7,4
+"1,000",CARDINAL,1,1
+100,CARDINAL,5,5
+YouTube,PRODUCT,8,7
+non‐Portuguese,NORP,1,1
+n=106,ORG,1,1
+The Health on the Net Code,ORG,1,1
+0,CARDINAL,2,1
+5,CARDINAL,22,15
+242,CARDINAL,2,1
+39.0%,PERCENT,1,1
+83.5%,PERCENT,1,1
+One third,CARDINAL,2,1
+n=79,ORG,1,1
+only one,CARDINAL,7,7
+HONCode,NORP,2,1
+2±1,DATE,2,1
+one third,CARDINAL,2,2
+Sociedade Portuguesa de CardiologiaIntrodução,PERSON,1,1
+Contudo,PERSON,1,1
+ausência de controlo de qualidade,ORG,1,1
+da população,PERSON,1,1
+Pretendemos,ORG,1,1
+enfarte agudo,PERSON,1,1
+1.000,CARDINAL,1,1
+100 resultados da,QUANTITY,1,1
+enfarte + miocárdio”,ORG,1,1
+enfarte + agudo + miocárdio”,ORG,1,1
+infarto + miocárdio,WORK_OF_ART,1,1
+infarto + agudo + miocárdio,WORK_OF_ART,1,1
+316,CARDINAL,1,1
+345,CARDINAL,1,1
+sem áudio,ORG,1,1
+24,CARDINAL,6,6
+106,CARDINAL,3,3
+quanto,PERSON,1,1
+qualidade foi avaliada,FAC,1,1
+0‐8,CARDINAL,1,1
+0‐5,CARDINAL,1,1
+quanto maior,PERSON,1,1
+qualidade,GPE,1,1
+95,CARDINAL,1,1
+39%,PERCENT,1,1
+202,CARDINAL,1,1
+79,CARDINAL,2,2
+quaisquer imprecisões,PERSON,1,1
+qualidade média,ORG,1,1
+foi baixa/moderada,ORG,1,1
+apresentou boa qualidade,GPE,1,1
+sem imprecisões,PERSON,1,1
+Instituições de saúde/governamentais,ORG,1,1
+HONCode 4±1,PERSON,1,1
+Sociedade Portuguesa de Cardiologia,PERSON,1,1
+ten,CARDINAL,9,8
+MDL,ORG,2,1
+five,CARDINAL,39,38
+MFND,ORG,2,1
+MFDN,PRODUCT,1,1
+"4,488",CARDINAL,1,1
+"4,640",CARDINAL,1,1
+Multi-domain,ORG,1,1
+Fake News Detection Model,ORG,2,2
+MDFEND,ORG,2,1
+Fake News Detection Framework,ORG,1,1
+Pref-FEND,PERSON,1,1
+Pref-FEND,ORG,1,1
+NudgeCred,ORG,3,1
+five-day,DATE,1,1
+twelve,CARDINAL,3,3
+Questionable,ORG,1,1
+anti-LGBTQ,PERSON,1,1
+"4,876",CARDINAL,1,1
+289,CARDINAL,1,1
+SPLC,ORG,1,1
+Hawkes,ORG,5,2
+Stopbulos,PERSON,1,1
+StopBulos,PERSON,2,1
+Sociedad Interamericana de Psicologia,PERSON,1,1
+McLuhan,ORG,1,1
+Ortega y Gasset,PERSON,1,1
+Ortega,PERSON,1,1
+© 2021 Communication & Society,ORG,1,1
+Polish,NORP,15,8
+between January and September 2020,DATE,2,2
+Poles,NORP,2,2
+101,CARDINAL,1,1
+25.74%,PERCENT,1,1
+© 2021,ORG,3,3
+Minas Gerais,ORG,1,1
+Health Education,ORG,2,1
+Uberaba,GPE,1,1
+the months of March,DATE,1,1
+the National Curriculum Guidelines,ORG,1,1
+Health Education,WORK_OF_ART,1,1
+the Health Education,ORG,1,1
+Faculdade de Medicina de Ribeirao Preto - U.S.P,ORG,1,1
+affiliation 2,DATE,1,1
+Mark P. Shephard,PERSON,1,1
+Narisong Huhe,PERSON,1,1
+School of Government and Public Policy,ORG,1,1
+"University of Strathclyde, Glasgow",ORG,1,1
+Preston et al,PERSON,2,2
+Kaggle,ORG,3,3
+93.15%,PERCENT,1,1
+92.65%,PERCENT,1,1
+95.71%,PERCENT,1,1
+94.15%,PERCENT,1,1
+SVM,ORG,10,7
+6.82%,PERCENT,1,1
+this century,DATE,1,1
+vectorizer,GPE,2,2
+TFIDF,ORG,1,1
+approximately 99.52%,PERCENT,1,1
+98.63%,PERCENT,1,1
+99.63%,PERCENT,1,1
+99.68%,PERCENT,1,1
+NOS,ORG,6,2
+Wiley Periodicals,ORG,2,2
+826,CARDINAL,1,1
+The British Psychological Society,ORG,1,1
+the last couple of years,DATE,3,3
+Donald Trump,PERSON,30,28
+the 20th Century,DATE,1,1
+Baudrillard,PERSON,1,1
+Mainstream Media,WORK_OF_ART,1,1
+Russiagate,ORG,1,1
+between 2017 and March 2019,DATE,1,1
+Russiagate,PERSON,1,1
+the Illusory Truth Effect,ORG,1,1
+the Innuendo Effect,PERSON,1,1
+BBC News,ORG,1,1
+21,CARDINAL,4,4
+Nigeria,GPE,11,6
+15 March to 29 May 2020,DATE,1,1
+Over 2 million,CARDINAL,1,1
+the United Kingdom,GPE,12,11
+Scotland,GPE,3,3
+Northern Ireland,GPE,1,1
+England,GPE,3,3
+Vitiugin,NORP,1,1
+Novillo-Ortiz,PERSON,1,1
+Castillo,PERSON,1,1
+Kostkova,PERSON,1,1
+recent days,DATE,1,1
+Vietnam,GPE,1,1
+200,CARDINAL,10,9
+The Author/s,LOC,1,1
+Western Australian,NORP,1,1
+Australian,NORP,18,9
+Combining Critical Discourse,PERSON,1,1
+Rhetorical Analysis,ORG,1,1
+Egelhofer,PRODUCT,1,1
+Lecheler,PERSON,1,1
+John Benjamins Publishing Company,ORG,1,1
+Iran,GPE,4,4
+Western,NORP,8,7
+Anglo-American,NORP,1,1
+Trump,PERSON,24,17
+the Harvard University's,ORG,1,1
+2017 to 2021,DATE,1,1
+Trump,PRODUCT,28,18
+EEG,ORG,8,4
+F1,PRODUCT,13,12
+0.7,CARDINAL,4,4
+Kwasniewicz,PERSON,2,2
+Wojcik,PERSON,2,2
+Schneider,PERSON,2,2
+Kawiak,PERSON,2,2
+Wierzbicki,ORG,2,2
+Social Networks',ORG,1,1
+Machine Learning,LOC,9,9
+this era,DATE,5,5
+Indonesia,GPE,31,17
+4th,ORDINAL,1,1
+More than 30%,PERCENT,2,2
+Bahasa Indonesia,LOC,1,1
+Web Scrapping,PERSON,1,1
+1116,CARDINAL,1,1
+80:20,CARDINAL,1,1
+50,CARDINAL,10,9
+BiLSTM,ORG,1,1
+Hybrid CNN-BiLSTM,PERSON,1,1
+Transformer Network,ORG,2,1
+South Africa,GPE,17,8
+South African,NORP,6,5
+HELIOS,ORG,2,1
+the HELIOS Citizen Journalism App,LAW,1,1
+CJ App,ORG,1,1
+IPFS,ORG,2,2
+CJ,ORG,1,1
+App,ORG,1,1
+Brazilian,NORP,20,16
+Amazon,LOC,1,1
+Bill,PERSON,2,1
+the Public Power,ORG,2,1
+Centro Universitario FG,ORG,1,1
+OSN,PRODUCT,2,2
+MN,ORG,1,1
+Hubei,GPE,1,1
+working hours,TIME,1,1
+the COVID-19 pandemic,ORG,1,1
+1975 to June 2021,DATE,1,1
+8964,CARDINAL,1,1
+TfIdf,ORG,2,1
+Nagy,PERSON,1,1
+Kapusta,GPE,1,1
+SIR,ORG,3,3
+nine,CARDINAL,6,6
+Maldita,GPE,2,2
+recommenda,ORG,1,1
+Nutripedia-Informati per Crescere,WORK_OF_ART,1,1
+the first years,DATE,1,1
+Nutripedia,GPE,3,1
+“Nutripedia Chatbot”,WORK_OF_ART,1,1
+Forty,CARDINAL,1,1
+"more than 220,000",CARDINAL,1,1
+over 9 million,CARDINAL,1,1
+"14,698",CARDINAL,1,1
+Nutripedia,LOC,1,1
+1930,DATE,1,1
+"over 24,000",CARDINAL,1,1
+app,ORG,1,1
+October 2020,DATE,2,2
+423,CARDINAL,1,1
+421,CARDINAL,1,1
+BBC,ORG,5,4
+hours,TIME,2,2
+Newsround,LOC,1,1
+Walter de Gruyter GmbH,PERSON,3,3
+Berlin/Boston 2021,ORG,1,1
+FoMO,LANGUAGE,1,1
+7,CARDINAL,6,6
+Library and Information Science (LIS,ORG,1,1
+Goffman,PERSON,3,1
+1918,DATE,1,1
+Donald J. Trump,PERSON,3,3
+Covid,NORP,1,1
+Brexit,GPE,17,15
+Laura Lazar et al.,PERSON,1,1
+Royal Statistical Society,ORG,1,1
+Experiment 2,PERSON,1,1
+Applied Cognitive Psychology,ORG,1,1
+John Wiley & Sons Ltd.,ORG,3,3
+South,LOC,2,2
+Singaporean,NORP,3,2
+"240,000",CARDINAL,1,1
+26.99%,PERCENT,1,1
+2015,DATE,21,18
+the Asia-Pacific,LOC,1,1
+The Authors,ORG,2,2
+the Association for Information Science and Technology,ORG,1,1
+Association for Information Science and Technology,ORG,5,5
+2017,DATE,40,37
+"38,346,765",CARDINAL,1,1
+"2,163,812",CARDINAL,1,1
+"November 25, 2016",DATE,1,1
+"May 12, 2017",DATE,1,1
+"13,044,619",CARDINAL,1,1
+the past decade,DATE,3,3
+Santos,GPE,1,1
+Santaella,PERSON,1,1
+Informatics in Education,WORK_OF_ART,1,1
+Uerj,GPE,2,1
+Editora Universitaria da PUCRS,PERSON,1,1
+Big Data,ORG,5,5
+Robotics and Blockchain,ORG,1,1
+South Korea,GPE,4,4
+2014,CARDINAL,5,5
+AMDN-HAGE,PERSON,1,1
+Temporal Point Processes,ORG,1,1
+TPP,ORG,4,2
+Gaussian Mixture Model,PERSON,1,1
+GMM,ORG,1,1
+Internet Research Agency,ORG,1,1
+Owner/Author,ORG,10,10
+MetaFEND,CARDINAL,2,1
+Twitter,GPE,8,7
+Recent years,DATE,7,7
+India,GPE,34,17
+DESIDOC,ORG,3,3
+Fake News,WORK_OF_ART,3,1
+Clarivate Analytics,ORG,1,1
+Professional De La Informacion,WORK_OF_ART,1,1
+New Media Society,ORG,1,1
+Computer Science,WORK_OF_ART,1,1
+Communication,WORK_OF_ART,1,1
+Information Science and Library Science,WORK_OF_ART,1,1
+Government Law,WORK_OF_ART,1,1
+Arizona State University,ORG,4,3
+Pennycook G,WORK_OF_ART,1,1
+Six hundred,CARDINAL,1,1
+The National Science Foundation N.S.F.,ORG,1,1
+U.S.A.,GPE,1,1
+89,CARDINAL,1,1
+84%,PERCENT,1,1
+YouTube,FAC,3,3
+cyber,PERSON,1,1
+the year 2020,DATE,3,2
+Managing Pandemics with Health Informatics - Successes and Challenges,WORK_OF_ART,1,1
+PubMed,LOC,4,4
+147,CARDINAL,2,2
+15,CARDINAL,4,4
+77.04%,PERCENT,1,1
+Thieme,ORG,2,1
+the Creative Commons Attribution-NonDerivative-NonCommercial License,ORG,1,1
+George Washington,PERSON,1,1
+Washington,GPE,3,1
+1776,DATE,1,1
+Britain,GPE,4,3
+Eric Shiraev,PERSON,1,1
+Bi-Directional Graph Convolutional Networks,ORG,1,1
+Dynamic GCN,PERSON,1,1
+Choi et al,PERSON,1,1
+Ransomware,PERSON,1,1
+Discrete Fourier Transform,ORG,2,2
+40,DATE,1,1
+588,CARDINAL,1,1
+400,CARDINAL,1,1
+Convolutional Neural Networks,ORG,5,5
+Support Vector Machines,ORG,2,2
+0.9968,CARDINAL,1,1
+0.8415,CARDINAL,1,1
+0.9953,CARDINAL,1,1
+0.7955,CARDINAL,1,1
+PKL,ORG,1,1
+CSV,ORG,1,1
+1397,DATE,1,1
+24%,PERCENT,4,4
+Saling et al,PERSON,1,1
+Lifestyle,PERSON,1,1
+GloVe,PERSON,4,3
+GRU,ORG,4,4
+BI-GRU,ORG,3,2
+808,CARDINAL,1,1
+85.7%,PERCENT,1,1
+almost two thirds,CARDINAL,2,2
+63.5%,PERCENT,1,1
+71.5%,PERCENT,1,1
+60%,PERCENT,3,3
+1st January 2020 to 3rd February 2021,DATE,1,1
+TVP-VAR,ORG,1,1
+feverish,PRODUCT,1,1
+us,GPE,3,3
+Indonesian,NORP,12,7
+Macao,GPE,1,1
+SAR,ORG,2,1
+Hong Kong,GPE,7,7
+Taiwan,GPE,2,2
+February,DATE,2,2
+March 2020,DATE,6,6
+Chi,GPE,1,1
+491,CARDINAL,1,1
+92.1%,PERCENT,1,1
+One-third,CARDINAL,1,1
+57.8%,PERCENT,1,1
+The Royal Society for Public Health,ORG,1,1
+Taxonomy,PERSON,1,1
+Springer Nature Switzerland AG,ORG,56,56
+Malaysia,GPE,19,12
+Thailand,GPE,2,1
+Southeast Asia,LOC,1,1
+"more than 2,700",CARDINAL,1,1
+Sebenarnya.my,ORG,1,1
+Anti-Fake News Center,ORG,1,1
+"over 2,300",CARDINAL,1,1
+American,NORP,26,21
+"more than 500,000",CARDINAL,1,1
+Cambridge University Press,ORG,8,8
+Cross-SEAN,ORG,1,1
+Cross,ORG,4,2
+0.95 F1,MONEY,1,1
+CTF,ORG,1,1
+9%,PERCENT,3,3
+Facebook and Twitter,ORG,4,4
+WELFake,PERSON,1,1
+WELFake,ORG,1,1
+approximately 72 000 articles,QUANTITY,1,1
+WELFake,PRODUCT,1,1
+96.73%,PERCENT,1,1
+1.31%,PERCENT,1,1
+4.25%,PERCENT,1,1
+up to 1.73%,PERCENT,1,1
+Social Networks,ORG,2,2
+SN,ORG,1,1
+i.e Facebook,PERSON,1,1
+LinkedIn,ORG,1,1
+last two decades,DATE,1,1
+Big Data 6 V,ORG,1,1
+1914,DATE,1,1
+Portuguese,NORP,10,8
+Fernando Pessoa,PERSON,1,1
+Alberto Caeiro,PERSON,1,1
+Álvaro de Campos,PERSON,1,1
+Ricardo Reis,PERSON,1,1
+lexicon,GPE,1,1
+approximately 5%,PERCENT,1,1
+more than 50%,PERCENT,2,2
+"John Wiley & Sons, Ltd.",ORG,2,2
+Hierarchical Graph Attention Network,ORG,1,1
+HIN,ORG,4,2
+Online Social Media,ORG,3,3
+Graph Convolutional Network,ORG,1,1
+Graph Neural Network,ORG,1,1
+RF,ORG,3,3
+0.864,CARDINAL,1,1
+0.720,CARDINAL,1,1
+AUC-ROC,ORG,1,1
+225,CARDINAL,1,1
+Rey Juan Carlos University,ORG,1,1
+"1,973",CARDINAL,1,1
+WoS,GPE,1,1
+Scopus,ORG,5,5
+between 2014 and 2019,DATE,1,1
+ETS,ORG,1,1
+the year,DATE,3,3
+Anglo-Saxon,ORG,2,2
+224,CARDINAL,2,2
+University of California Press,ORG,1,1
+https://github.com/safe-graph/GNN-FakeNews,CARDINAL,1,1
+4chan,CARDINAL,2,1
+Google Web Search,PERSON,1,1
+Google Web,PERSON,1,1
+Rogers,PERSON,1,1
+the Library and Information Science (LIS,ORG,1,1
+SCOPUS,ORG,1,1
+2017 to,DATE,1,1
+as many as 52,CARDINAL,1,1
+628,CARDINAL,1,1
+Proof of Work,LOC,1,1
+10%,PERCENT,2,2
+Engg Journals Publications,ORG,1,1
+IEEE Computer Society,ORG,1,1
+75 years,DATE,1,1
+Auschwitz,PERSON,2,1
+AfD,ORG,1,1
+Alternative for Germany] publicly question the significance of the Holocaust,WORK_OF_ART,1,1
+around 33%,PERCENT,1,1
+European,NORP,29,24
+Jews,NORP,1,1
+World War II,EVENT,2,2
+Peter Weiss,PERSON,1,1
+Die Ermittlung: Oratorium,WORK_OF_ART,1,1
+11,CARDINAL,5,4
+Gesängen,ORG,1,1
+Investigation,PRODUCT,1,1
+1965,DATE,1,1
+Holocaust,EVENT,2,2
+Elie Wiesel,PERSON,1,1
+Oliver Keune,PERSON,1,1
+Bosnia and,GPE,1,1
+Herzegovina,GPE,1,1
+"University of Zagreb, Faculty of Political Sciences",ORG,3,3
+8 March,DATE,1,1
+M8,WORK_OF_ART,1,1
+Blanquerna School of Communication and International Relations,ORG,2,2
+Autopsy,PRODUCT,2,1
+Celeb,ORG,1,1
+590,CARDINAL,1,1
+99.53%,PERCENT,1,1
+79.55%,PERCENT,1,1
+89.10%,PERCENT,1,1
+DFT-SVM,ORG,1,1
+Netherlands,GPE,5,5
+Sweden,GPE,7,3
+the Systematizing Confidence in Open Research and Evidence,ORG,1,1
+Pennycook et al,PERSON,1,1
+701,CARDINAL,1,1
+882,CARDINAL,2,2
+"1,583",CARDINAL,1,1
+.017,CARDINAL,1,1
+0.14,CARDINAL,2,2
+0.10,CARDINAL,1,1
+The Authors,WORK_OF_ART,13,13
+John Wiley ,PERSON,1,1
+& Sons Ltd.,ORG,1,1
+European Federation for Medical Informatics,ORG,8,4
+EFMI,ORG,8,4
+our days,DATE,1,1
+414,CARDINAL,1,1
+42,CARDINAL,2,2
+UNESCO,ORG,3,3
+European Commission,ORG,1,1
+EU,ORG,11,9
+about 40%,PERCENT,1,1
+85%,PERCENT,1,1
+MATLAB,PERSON,1,1
+Transformers,ORG,8,8
+SHAP,ORG,1,1
+984,CARDINAL,2,2
+0.972,CARDINAL,1,1
+0.993,CARDINAL,1,1
+0.938,CARDINAL,1,1
+0.985,CARDINAL,1,1
+SHAP,PRODUCT,1,1
+TSESE,NORP,2,1
+TSE,ORG,1,1
+PMapping,PERSON,1,1
+2001-2011,DATE,1,1
+early January 2020,DATE,2,2
+Wuhan,GPE,6,6
+Yahoo,ORG,2,2
+Rapisarda,PERSON,1,1
+Giuffrida,PERSON,1,1
+Believers,ORG,6,1
+58%,PERCENT,3,3
+Disbelievers,PERSON,1,1
+0.942,CARDINAL,1,1
+AUC,ORG,5,5
+ROC,GPE,4,4
+0.976,CARDINAL,1,1
+©,PERSON,17,17
+Scopus,GPE,2,2
+the Web of Science,PERSON,2,2
+43,CARDINAL,3,3
+Universitat de Barcelona,PERSON,3,3
+Today,DATE,15,15
+14 to 28 December,DATE,1,1
+NodeXL,ORG,11,4
+Spanish,LANGUAGE,10,9
+31.05%,PERCENT,1,1
+79.87%,PERCENT,1,1
+8.1%,PERCENT,1,1
+the COVID-19 negationist movement,ORG,1,1
+vaccine hoaxes,PERSON,1,1
+Artificial Intelligence (AI,ORG,6,6
+Slovenska,GPE,1,1
+Vzdelavacia Obstaravacia,PERSON,1,1
+AFC,ORG,1,1
+Al Jazeera,ORG,3,2
+Portugal,GPE,27,27
+161,CARDINAL,1,1
+xenophobic,NORP,2,2
+Islamophobic,NORP,5,3
+the International Fact-Checking Network,EVENT,1,1
+Maldita.es,PERSON,4,4
+Efe Verifica,PERSON,1,1
+Verificat,PERSON,1,1
+99.23%,PERCENT,1,1
+99.46%,PERCENT,1,1
+98.86%,PERCENT,1,1
+F-Score,PERSON,1,1
+99.15%,PERCENT,1,1
+© 2021 Institute of Advanced Engineering and Science,ORG,1,1
+GA,ORG,1,1
+SSA,ORG,1,1
+Koirala,GPE,1,1
+75.4%,PERCENT,1,1
+avian,NORP,1,1
+Society for Conservation Biology,ORG,1,1
+Finnish,NORP,3,2
+Finnish,LANGUAGE,2,1
+two-fold,CARDINAL,2,2
+discourse,GPE,2,2
+the first year,DATE,4,4
+Shifman,GPE,1,1
+more than 1,CARDINAL,1,1
+f1,PRODUCT,3,2
+0.8076,CARDINAL,1,1
+4%,PERCENT,2,2
+Background Proliferation,ORG,1,1
+26,CARDINAL,2,2
+Web,PERSON,8,7
+Science,PERSON,1,1
+Bryanov,PERSON,1,1
+Vziatysheva,GPE,1,1
+digital news literacy and psychological,ORG,1,1
+408,CARDINAL,1,1
+Generation Z,ORG,2,2
+18 to 22,DATE,1,1
+January 2020,DATE,3,3
+Social Media Disinformation Scale,ORG,1,1
+874,CARDINAL,1,1
+28.39 years,DATE,1,1
+32.84 years,DATE,1,1
+Fear Scale,PERSON,1,1
+Perceived Stress Scale,FAC,1,1
+up to 73.72%,PERCENT,1,1
+0.73,CARDINAL,1,1
+0.85,CARDINAL,1,1
+0.70,CARDINAL,1,1
+0.78,CARDINAL,2,2
+Noomen Guelmami,PERSON,1,1
+Maher Ben Khalifa,PERSON,1,1
+Nasr Chalghaf,PERSON,1,1
+Jude Dzevela Kong,PERSON,1,1
+Tannoubi Amayra,PERSON,1,1
+Jianhong Wu,PERSON,1,1
+Fairouz Azaiez,PERSON,1,1
+Nicola Luigi Bragazzi,ORG,1,1
+Introduction Misinformation,ORG,1,1
+COVID-19 myths,DATE,4,1
+"between March 27 and April 23, 2020",DATE,1,1
+56.1%,PERCENT,2,2
+43.9%,PERCENT,1,1
+37.9%,PERCENT,1,1
+63.0%,PERCENT,1,1
+older than 30,DATE,1,1
+7%,PERCENT,1,1
+social media,ORG,2,1
+95%CI:(1.05-1.52,DATE,1,1
+95%CI:(1.25-1.82,CARDINAL,2,1
+95%CI:(0.25,CARDINAL,2,1
+95%CI:(0.65,CARDINAL,1,1
+Melki et al,FAC,1,1
+Republicans,NORP,9,4
+Democrats,NORP,7,3
+pro-Democratic,NORP,1,1
+pro-Republican,NORP,2,1
+Republican,NORP,5,5
+Italian,NORP,31,17
+the Communications Regulatory Authority,ORG,1,1
+AGCOM,ORG,1,1
+Swiss Political Science Review,ORG,1,1
+John Wiley & Sons Ltd,ORG,6,6
+Swiss Political Science Association,ORG,1,1
+Slovakia,GPE,1,1
+Slovak,NORP,4,2
+2600,DATE,1,1
+Twitter,WORK_OF_ART,12,11
+Greece,GPE,3,2
+Google Forms,ORG,2,2
+Greek,NORP,3,2
+almost 3.000,CARDINAL,1,1
+Spring 2020,DATE,1,1
+776,CARDINAL,1,1
+"Ministry of Health, Civil Protection",ORG,1,1
+the Ministry of Health,ORG,3,3
+the Civil Protection,ORG,1,1
+398,CARDINAL,1,1
+Society for Applied Research,ORG,3,3
+1906,DATE,1,1
+Cognition Security,ORG,1,1
+CogSec,PRODUCT,3,1
+CogSec,PERSON,1,1
+Higher Education Press,ORG,1,1
+almost 1/4,CARDINAL,1,1
+million,CARDINAL,3,3
+four million,CARDINAL,1,1
+World Health Organization,ORG,1,1
+"May 3, 2020c",DATE,1,1
+1225,DATE,1,1
+J.M. © 2020,ORG,1,1
+Health Libraries Group,ORG,2,2
+World Wide Web,WORK_OF_ART,2,2
+Bepress,ORG,3,3
+NAMLE,ORG,3,3
+corpora,GPE,1,1
+Natural Language Processing,LAW,1,1
+these days,DATE,4,4
+ICT,ORG,5,5
+North Caucasian Institute of Mining and Metallurgy,ORG,1,1
+State Technological University,ORG,1,1
+March,DATE,2,2
+May 2020,DATE,2,2
+secondary,ORDINAL,2,2
+Puig,PERSON,1,1
+Blanco-Anaya,ORG,1,1
+Pérez-Maceira,ORG,1,1
+the European Union,ORG,11,8
+the Joint Declaration on Freedom of Expression,LAW,1,1
+Propaganda,PERSON,1,1
+the Code of Practice on Disinformation,WORK_OF_ART,2,1
+the Code of Practice,LAW,1,1
+the Code of Practice,WORK_OF_ART,1,1
+Anna Kobernjuk et al.,PERSON,1,1
+two-hour,TIME,1,1
+Four,CARDINAL,10,8
+March 2021,DATE,1,1
+over 115 million,CARDINAL,1,1
+over 2.5 million,CARDINAL,1,1
+up to 66%,PERCENT,1,1
+© McKenzie Himelein-Wachowiak,PERSON,1,1
+Salvatore Giorgi,ORG,1,1
+Amanda Devoto,PERSON,1,1
+Muhammad Rahman,PERSON,1,1
+Lyle Ungar,PERSON,1,1
+H Andrew Schwartz,PERSON,1,1
+David H Epstein,PERSON,1,1
+Lorenzo Leggio,PERSON,1,1
+Brenda Curtis,PERSON,1,1
+twelve days,DATE,1,1
+Pingree et al,PERSON,1,1
+hundreds of thousands,CARDINAL,2,2
+353,CARDINAL,1,1
+many hours,TIME,1,1
+a typical week,DATE,1,1
+fewer hours,TIME,1,1
+January 2018,DATE,1,1
+November 2019,DATE,3,2
+1 January 2018 to 25,DATE,1,1
+the National Disaster Management Agency,ORG,1,1
+the Disaster Channel,ORG,1,1
+Fakey,ORG,4,1
+19 months,DATE,1,1
+Neil Levy,PERSON,1,1
+Robert M. Ross,PERSON,1,1
+the beginning of the 21st century,DATE,1,1
+the new millennium,DATE,1,1
+two decades,DATE,1,1
+Colombiacheck,ORG,1,1
+La Silla Vacía,PERSON,1,1
+AFP Colombia,ORG,1,1
+"November 21st, 2019",DATE,1,1
+90,CARDINAL,1,1
+La Silla,PERSON,1,1
+AFP,ORG,1,1
+our day to day,DATE,1,1
+950,CARDINAL,1,1
+Chinese,LANGUAGE,2,2
+years,DATE,3,3
+National Academy of Sciences,ORG,7,7
+Bahia,PERSON,1,1
+Eusébio Dias Lassos de Lima,PERSON,1,1
+the year 1713,DATE,1,1
+Orizes-Procazes,ORG,1,1
+indians,NORP,1,1
+Torre,PERSON,1,1
+Lisbon,GPE,22,22
+the year 1716,DATE,1,1
+Universidade de Sao Paulo,ORG,1,1
+Faculdade de Filosofia,ORG,1,1
+Letras e Ciencias Humanas,ORG,1,1
+Toulmin,PERSON,1,1
+the Toulmin Argument Pattern,ORG,1,1
+Qualifiers,ORG,1,1
+95.32%,PERCENT,1,1
+Karande et al,GPE,1,1
+Coronavirus SARS-CoV-2,ORG,1,1
+just 10 weeks,DATE,1,1
+FNM,ORG,5,1
+More than 300,CARDINAL,1,1
+Murayama et al,PERSON,1,1
+Arab,NORP,4,4
+Harris Hawks Optimizer,PERSON,1,1
+1862,DATE,1,1
+BHHO,ORG,1,1
+"51,170",CARDINAL,1,1
+"January 1, 2020",DATE,2,2
+"October 27, 2020",DATE,1,1
+Pearson,ORG,1,1
+almost 65%,PERCENT,1,1
+9 days,DATE,1,1
+2021Mohammad,CARDINAL,1,1
+Ahmed Elnoshokaty,PERSON,1,1
+Omar El-Gayar,PERSON,1,1
+Tareq Nasralah,PERSON,1,1
+Abdullah Wahbeh,PERSON,1,1
+The past decade,DATE,1,1
+45th,ORDINAL,3,3
+Mueller,PERSON,1,1
+Barack Obama,LOC,1,1
+Minot et al,PERSON,1,1
+digital platforms,ORG,1,1
+Sentiment Analysis,ORG,1,1
+Sentiment Analysis,WORK_OF_ART,1,1
+25,CARDINAL,8,8
+60,CARDINAL,5,5
+K,ORG,3,2
+C}_i,PRODUCT,1,1
+C}_j,GPE,1,1
+optimal,GPE,4,3
+Yarovaya,GPE,1,1
+Russian,NORP,35,21
+State,ORG,7,7
+2020 E. Moyakine,PERSON,1,1
+A. Tabachnik,ORG,1,1
+Bad News,ORG,8,3
+"2,159",CARDINAL,1,1
+Solomon,WORK_OF_ART,1,1
+The Routledge Companion to Media Disinformation and Populism,LAW,1,1
+Howard Tumber,PERSON,1,1
+Silvio Waisbord,PERSON,1,1
+SEIR,ORG,1,1
+"March 24 to April 5, 2020",DATE,1,1
+Ukrainians,NORP,1,1
+364,CARDINAL,1,1
+18 to 29,CARDINAL,1,1
+Ukraine,GPE,15,8
+more than 70%,PERCENT,1,1
+46%,PERCENT,3,3
+1D,CARDINAL,2,2
+C. imperialis,PERSON,2,1
+American Association for the Advancement of Science,ORG,2,2
+U.S. Government Works,ORG,1,1
+a Creative Commons Attribution NonCommercial License 4.0,LAW,1,1
+Serpa,PERSON,1,1
+between February and March 2019,DATE,1,1
+1004,DATE,1,1
+to|,CARDINAL,1,1
+"Facebook, Twitter",ORG,3,3
+Multi-Layer,ORG,1,1
+FNs,ORG,1,1
+95.47%,PERCENT,1,1
+American Institute of Physics Inc,ORG,1,1
+IET Information Security,ORG,1,1
+The Institution of Engineering and Technology,ORG,1,1
+the first months,DATE,2,2
+Europe,LOC,23,21
+Open,PERSON,1,1
+the end of January,DATE,1,1
+the end of May 2020,DATE,1,1
+these five months,DATE,1,1
+University of Piura,ORG,5,5
+Five,CARDINAL,7,7
+530,CARDINAL,1,1
+396,CARDINAL,1,1
+Urdu,ORG,1,1
+Akhter et al,PERSON,1,1
+EQ,ORG,2,1
+the last century,DATE,1,1
+Franca D'Agostini,PERSON,1,1
+De Gruyter Saur,PERSON,1,1
+over 92,CARDINAL,1,1
+between January,DATE,1,1
+mid-July 2020,DATE,1,1
+1500,CARDINAL,1,1
+1274,CARDINAL,1,1
+226,CARDINAL,2,2
+Riots,ORG,1,1
+the Johns Hopkins Coronavirus Resource Center,ORG,1,1
+over 81 million,CARDINAL,1,1
+CoVerifi,PRODUCT,3,1
+COVID-19-related,PRODUCT,2,2
+Bidirectional Encoder Representations,ORG,4,4
+Convolutional Neural Network,ORG,4,4
+FakeBERT,PRODUCT,1,1
+98.90%,PERCENT,1,1
+the last three years,DATE,1,1
+© 2020,ORG,5,5
+LIAR,ORG,3,3
+7.8%,PERCENT,1,1
+3.1%,PERCENT,2,2
+1%,PERCENT,2,2
+UAV,ORG,1,1
+between 87 and 90%,DATE,1,1
+at least two,CARDINAL,3,3
+propaganda,GPE,3,3
+Decision Making Philosophy > Knowledge,WORK_OF_ART,1,1
+Cognitive Science,ORG,1,1
+Indic-Languages,ORG,2,1
+Hindi,PERSON,2,1
+Bengali,NORP,5,1
+Indic,ORG,1,1
+mBERT,ORG,1,1
+Hindi,GPE,6,3
+zero,CARDINAL,4,3
+around 89%,PERCENT,1,1
+about 79%,PERCENT,1,1
+81%,PERCENT,1,1
+about 81%,PERCENT,1,1
+78%,PERCENT,3,3
+"February 27, 2021",DATE,1,1
+938,CARDINAL,1,1
+the Descending Hierarchical Classification,GPE,1,1
+Hermeneutics,GPE,1,1
+n=625,ORG,1,1
+66.6%,PERCENT,1,1
+56.6%,PERCENT,1,1
+14.8%,PERCENT,1,1
+Centro Universitario Sao Camilo,ORG,1,1
+Whatsapp,ORG,6,4
+Virtual Health Library,ORG,2,2
+VHL,ORG,2,2
+649,CARDINAL,1,1
+439,CARDINAL,1,1
+358,CARDINAL,1,1
+268,CARDINAL,1,1
+220,CARDINAL,2,2
+50.6%,PERCENT,1,1
+49.4%,PERCENT,1,1
+the opening hours,TIME,1,1
+Moreno,PERSON,1,1
+Rolim-Neto,PERSON,1,1
+University of La Laguna,ORG,17,17
+19,CARDINAL,3,3
+the beginning of 2020,DATE,1,1
+1115,DATE,1,1
+"2,683",CARDINAL,1,1
+One week later,DATE,1,1
+social sciences,ORG,2,2
+2016-2019,DATE,1,1
+allied mass media,ORG,1,1
+CAICYT-CONICET,PRODUCT,1,1
+Lying,ORG,1,1
+Cognitive Science,PERSON,1,1
+Cognitive Science Society,ORG,1,1
+"Investigative, News Organization",ORG,1,1
+the American Physical Society,ORG,3,2
+the Creative Commons Attribution 4.0,ORG,1,1
+healthcare,ORG,2,2
+Maldita,LOC,1,1
+Newtral,LOC,1,1
+the Preferred Reporting Items for Systematic Reviews,ORG,1,1
+PRISMA,PERSON,1,1
+53,CARDINAL,1,1
+18,CARDINAL,3,3
+Nobel,EVENT,1,1
+97 years,DATE,1,1
+"123,742",CARDINAL,1,1
+van Leeuwen’s,PERSON,1,1
+Discourse Legitimation,ORG,1,1
+Discourse Analysis,ORG,2,2
+120,CARDINAL,1,1
+46.6%,PERCENT,1,1
+Moralisation,ORG,1,1
+27%,PERCENT,2,2
+26.4%,PERCENT,1,1
+Mythopoesis,ORG,1,1
+0%,PERCENT,2,2
+Buhari,PERSON,1,1
+© 2019 SAGE Publications,ORG,1,1
+more than twenty,CARDINAL,1,1
+the last 5 years,DATE,2,2
+© 2021 Institute of Physics Publishing,ORG,1,1
+pseudo-news,ORG,2,2
+propaganda,PERSON,2,2
+social media's,ORG,1,1
+DeHiDe,ORG,2,1
+Hybrid Model,PERSON,1,1
+Detect Fake News,ORG,1,1
+D.J. Boorstin,PERSON,1,1
+Ukrainian,NORP,4,3
+Ukrainian,GPE,4,4
+"Universidad de Zaragoza, Facultad de Filosofia y Letras",PERSON,1,1
+The last several years,DATE,1,1
+Incoma Ltd.,ORG,4,4
+93.42%,PERCENT,1,1
+93.22%,PERCENT,1,1
+Glenn Anderau,PERSON,1,1
+De Gruyter,PERSON,2,2
+White Helmets,PERSON,1,1
+"April 1st, 2018 to",DATE,1,1
+"April 30th, 2019",DATE,1,1
+SIS,ORG,1,1
+Ph.D.,WORK_OF_ART,2,2
+the Rhetorical Structure Theory,FAC,1,1
+the Rhetorical Structure Theory,ORG,1,1
+Annual Conference,EVENT,1,1
+"25, 2021",DATE,1,1
+annual,DATE,2,2
+62nd,ORDINAL,1,1
+Annual NFAIS conference,EVENT,1,1
+NISO,ORG,1,1
+NFAIS,ORG,1,1
+June 2019,DATE,1,1
+NISO Plus,ORG,1,1
+400%,PERCENT,1,1
+Artificial Intelligence/Machine Learning,ORG,1,1
+the Creative Commons Attribution-NonCommercial License,ORG,1,1
+a fraction of minutes,TIME,1,1
+TRP,ORG,1,1
+somewhere years ago,DATE,1,1
+A few decades,DATE,1,1
+the recent era,DATE,1,1
+Yemeni,NORP,1,1
+Korea,GPE,3,1
+Jeju Island,LOC,1,1
+Korean,NORP,4,2
+MeToo,MONEY,1,1
+Naver News,ORG,1,1
+Naver Cafes,PERSON,1,1
+Muslim,NORP,2,2
+Farrah Sheikh,PERSON,1,1
+Hispanic,NORP,1,1
+Americans,NORP,9,7
+Oxford University Press,ORG,3,3
+American Association for Public Opinion Research,ORG,1,1
+HMBI,ORG,1,1
+10.41%,PERCENT,1,1
+50%,PERCENT,1,1
+FN Stimuli,PERSON,1,1
+FN Actions,ORG,2,1
+FN Outcomes,ORG,1,1
+Taylor & Francis Group,ORG,75,75
+2013-2018,DATE,1,1
+between 2 and 3,CARDINAL,1,1
+monthly,DATE,2,2
+Revolution 4.0,LAW,1,1
+Escuela Interamericana de Bibliotecologia,PERSON,2,2
+the last day of the 2019,DATE,1,1
+Digital News Report,ORG,1,1
+Editora Mundos,PERSON,1,1
+Sociais,GPE,1,1
+67%,PERCENT,1,1
+38.83,CARDINAL,1,1
+15.75,CARDINAL,1,1
+Catolica de Chile,ORG,1,1
+the past few decades,DATE,2,2
+Fake News Detection,ORG,8,7
+CONSTRAINT,GPE,2,2
+FakeNewsNet,DATE,3,2
+0.9892,CARDINAL,1,1
+0.9156,CARDINAL,1,1
+digital world,ORG,1,1
+Gossipcop,PERSON,1,1
+Gossipcop,ORG,1,1
+84.6%,PERCENT,1,1
+85.6%,PERCENT,1,1
+the Copenhagen School of International Relations,ORG,1,1
+the second half of the twentieth century,DATE,1,1
+the beginning of the twenty-first century,DATE,1,1
+the XXI century,DATE,3,2
+the Federal Council of Nursing,ORG,1,1
+Nursing Week 2020,EVENT,1,1
+METHOD,PERSON,1,1
+Cofen,GPE,1,1
+"May 12 to 20, 2020",DATE,1,1
+the Descending Hierarchical Classification,ORG,1,1
+thirty,CARDINAL,1,1
+the Unified Health System,ORG,1,1
+SA,ORG,3,3
+Adaboost,NORP,1,1
+RNN,PRODUCT,5,5
+Waqas Haider Bangyal et al,PERSON,1,1
+Deep Learning,ORG,3,2
+100 000,CARDINAL,1,1
+FastText,PRODUCT,1,1
+a Logistic Regression,PRODUCT,1,1
+Recurrent Convolutional Neural Network,ORG,1,1
+Fang Sun,PERSON,1,1
+about 6.8 million,CARDINAL,1,1
+UnitedStates,ORG,4,2
+anti-Democratic,NORP,1,1
+anti-Republican,NORP,1,1
+more than half,CARDINAL,3,3
+about a third,CARDINAL,1,1
+Al-Rawi,ORG,1,1
+OKeefe,GPE,1,1
+Kane,PERSON,1,1
+Bizimana,PERSON,1,1
+Chisinau,ORG,2,1
+Dniester,ORG,2,1
+1992,DATE,6,2
+the Dniester War,EVENT,1,1
+the Republic of Moldova,GPE,6,1
+Transnistrian,NORP,1,1
+Transnistria,GPE,4,1
+Memorandum,LOC,1,1
+Moscow,GPE,2,2
+Lenta ru,PERSON,1,1
+Crimea,ORG,1,1
+Moldova,ORG,1,1
+Ion Creanga State Pedagogical University,ORG,1,1
+Paul Rassinier,PERSON,1,1
+Marco Antônio Villa,PERSON,1,1
+Hannah Arendt,PERSON,2,2
+the Brazilian Civil-Military Dictatorship,ORG,1,1
+Universidade Estadual Paulista,ORG,1,1
+UNESP,ORG,1,1
+DT,PRODUCT,1,1
+KNN,ORG,9,8
+LR,GPE,1,1
+LSTM,ORG,2,2
+Bader Alouffi et al,PERSON,1,1
+Polish,LANGUAGE,1,1
+192,CARDINAL,1,1
+Catholic Church,ORG,1,1
+Masaryk University,ORG,2,2
+the chi-square algorithm,FAC,1,1
+Media-Eval,PRODUCT,1,1
+f1-score,GPE,3,3
+94.6%,PERCENT,1,1
+92.3%,PERCENT,1,1
+100%,PERCENT,1,1
+0.2%,PERCENT,1,1
+Transfer Learning,GPE,2,1
+Clickbaits,NORP,1,1
+XLNet,ORG,2,2
+Webis Clickbait,PERSON,1,1
+the Webit Clickbait competition 2017,EVENT,1,1
+Transfer Learning,ORG,1,1
+Transfer Learning,LOC,2,1
+19.12%,PERCENT,1,1
+Kaggle,PRODUCT,1,1
+VH,ORG,2,1
+VH,PRODUCT,1,1
+AOSIS,CARDINAL,2,2
+498,CARDINAL,1,1
+SPSS AMOS,GPE,1,1
+SOR,ORG,1,1
+Emerald Publishing Limited,ORG,13,13
+the Brazilian Parliament,ORG,1,1
+Brazilian National Congress,ORG,1,1
+Licença Creative Commons Atribuição-NãoComercial 4.0,ORG,1,1
+a Creative Commons Attribution-NonCommercial 4.0 International License,LAW,1,1
+GoB,ORG,4,1
+Bangladesh,GPE,4,2
+between January and May 2020,DATE,1,1
+Bangladeshi,ORG,1,1
+between April and June 2020,DATE,1,1
+Three hundred and seven,CARDINAL,1,1
+Facebook Messenger,PERSON,1,1
+307,CARDINAL,1,1
+77%,PERCENT,3,3
+23%,PERCENT,2,2
+PPE,ORG,1,1
+Alam et al,PERSON,1,1
+"Attention, Generative Adversarial Networks",LAW,1,1
+Odyssean,NORP,1,1
+Kafka,PERSON,4,1
+“The Silence of the Sirens”,WORK_OF_ART,1,1
+Walter Benjamin,PERSON,2,1
+one century,DATE,1,1
+Benjamin,PERSON,1,1
+SCP Foundation,ORG,1,1
+the SCP Foundation,ORG,1,1
+Media and Information Literacy,ORG,3,2
+University of Granada,ORG,1,1
+our century,DATE,1,1
+2009,CARDINAL,1,1
+Universitária de Pesquisa,PERSON,1,1
+Psicopatologia Fundamental/ University Association for Research in Fundamental Psychopathology,ORG,1,1
+Dense Autoencoder,PERSON,1,1
+PUL,ORG,2,1
+Rocchio Support Vector Machine,ORG,1,1
+Doc2Vec,CARDINAL,1,1
+OCL,ORG,1,1
+Doc2Vec,FAC,1,1
+Springer Science+Business Media LLC,ORG,1,1
+the past years,DATE,3,3
+Informa UK Limited,ORG,47,47
+the Text Mining,LOC,1,1
+TM,ORG,1,1
+LWC,ORG,4,1
+International Journal of Advanced Computer Science,ORG,1,1
+these paired years,DATE,1,1
+Croatia,GPE,2,2
+Otherness,ORG,1,1
+ZRC SAZU,ORG,1,1
+Zalozba ZRC,PERSON,1,1
+the Global North,LOC,1,1
+the Global South,LOC,3,3
+Africa,LOC,9,5
+African,NORP,6,4
+47,CARDINAL,2,2
+The Cross-Industry Standard Process,ORG,1,1
+CRISP-DM,ORG,1,1
+Naïve Bayes,LOC,1,1
+Logistic Regression,ORG,7,6
+Random Forest,ORG,8,6
+between 1000 and 2500,CARDINAL,1,1
+500,CARDINAL,3,3
+"algorithms © 2021,International Journal of Advanced Computer Science",ORG,1,1
+ResNet,PERSON,3,2
+PLSA,PRODUCT,1,1
+BTM,ORG,1,1
+Biterm Topic Model,WORK_OF_ART,1,1
+NetLogo,ORG,1,1
+20%,PERCENT,2,2
+News Credibility Indicator,ORG,1,1
+NCI ±-0.637,ORG,1,1
+the Producer Reputation Credit,ORG,1,1
+PRC,GPE,1,1
+0.213,CARDINAL,1,1
+Ethereum Smart Contract,ORG,1,1
+Fisher,PERSON,1,1
+"1,195",CARDINAL,1,1
+53%,PERCENT,1,1
+51%,PERCENT,2,2
+89.4%,PERCENT,1,1
+Associacao Medica Brasileira,PERSON,1,1
+© Langguth,PERSON,1,1
+"Pogorelov, Brenner",ORG,1,1
+Filkuková,ORG,1,1
+Schroeder,ORG,1,1
+Brexit,ORG,2,2
+Hugh Rank's,PERSON,1,1
+74%,PERCENT,1,1
+N= 62,DATE,1,1
+UnitedKingdom European Union,ORG,1,1
+© Gaillard,PERSON,1,1
+Oláh,PERSON,1,1
+Venmans,NORP,1,1
+Burke,NORP,1,1
+Associacao Brasileira de Pos - Graduacao,ORG,1,1
+Saude Coletiva,PERSON,1,1
+CATBoost,ORG,1,1
+98%,PERCENT,2,2
+Spaniards,NORP,3,3
+465,CARDINAL,1,1
+between 18 and 24 years old,DATE,1,1
+Generation Z,LAW,1,1
+KES International,ORG,3,3
+the Saarbruecken Voice Database,FAC,1,1
+0.778,CARDINAL,1,1
+MedLine,ORG,1,1
+Scielo,PERSON,1,1
+"May 11, 2021",DATE,1,1
+Loney,GPE,1,1
+Newcastle,GPE,1,1
+Ottawa Scales,ORG,1,1
+Fourteen,CARDINAL,1,1
+Asian,NORP,1,1
+Onati International Institute for the Sociology of Law,ORG,1,1
+Librarians,NORP,2,2
+Oxford,ORG,1,1
+Deborah Lupton,PERSON,1,1
+the 1990s,DATE,2,2
+Digital Methods,ORG,1,1
+Earth,LOC,6,3
+Lula da Silva,WORK_OF_ART,1,1
+Lula,GPE,1,1
+Twenty-eight,CARDINAL,2,2
+14,CARDINAL,5,4
+between August and October 2020,DATE,1,1
+Content Analysis,ORG,1,1
+500 million,CARDINAL,1,1
+the year of 2020,DATE,1,1
+Turkish,LANGUAGE,2,2
+0.9,CARDINAL,4,4
+King Fahd University of Petroleum & Minerals,ORG,1,1
+Nigerian,NORP,6,2
+the Nigerian Library Association,ORG,1,1
+186,CARDINAL,1,1
+54.8%,PERCENT,1,1
+online(47.8%,PERCENT,1,1
+39.8%,PERCENT,1,1
+91.1%,PERCENT,1,1
+59.1%,PERCENT,1,1
+31%,PERCENT,2,2
+myths,DATE,2,2
+29%,PERCENT,2,2
+The International Academic Forum,ORG,1,1
+IAFOR,ORG,1,1
+1259,DATE,1,1
+the East Zone,LOC,1,1
+Manaus/Amazonas,ORG,1,1
+the Theory of Political Action,ORG,1,1
+Google Forms,LOC,1,1
+Radio,ORG,1,1
+Conference and Labs of the Evaluation Forum,ORG,1,1
+Bulgarian,NORP,3,2
+132,CARDINAL,1,1
+Nearly one-third,CARDINAL,1,1
+Multi,ORG,4,3
+Topic Memory Network,ORG,1,1
+MTMN,ORG,2,1
+MMCN,ORG,2,1
+WEIBO,ORG,1,1
+97%,PERCENT,2,2
+91%,PERCENT,2,2
+un,ORG,3,3
+truth(s,CARDINAL,1,1
+doc2vec,ORG,1,1
+Multimodal fusiON,PRODUCT,1,1
+MONITOR,PERSON,1,1
+The Reinforcement Learning,PERSON,1,1
+Recurrent Neural Network,ORG,3,3
+Decision Tree,PERSON,1,1
+LR,PERSON,5,5
+K Nearest Neighbor,PERSON,2,2
+Naive Bayes,GPE,4,4
+hyperopt,PERSON,1,1
+N-gram,PRODUCT,1,1
+Term Frequency - Inverse Document Frequency,PRODUCT,1,1
+Glove,PERSON,1,1
+One hundred and seventy-two,CARDINAL,1,1
+the first half of the pandemic year 2020,DATE,1,1
+OVX,ORG,3,1
+OIV,ORG,1,1
+35%,PERCENT,2,2
+Imlak Shaikh,PERSON,1,1
+1715-67,DATE,1,1
+Ludovico Maria Torrigiani,PERSON,1,1
+Oddi,PERSON,3,1
+Society,ORG,3,1
+anti-Jesuit,NORP,1,1
+Ravenna,PERSON,1,1
+Jesuits,ORG,2,1
+LAVENIA,ORG,1,1
+1984,DATE,5,2
+"the Arts, Philosophy and Biology",ORG,1,1
+dystopian,NORP,1,1
+COVID 19,LAW,3,2
+The Genetic Algorithm,ORG,1,1
+92.63%,PERCENT,1,1
+ROUGE,ORG,1,1
+Qatar,GPE,5,2
+about half,CARDINAL,1,1
+1/5,CARDINAL,1,1
+600,CARDINAL,1,1
+583,CARDINAL,1,1
+States,GPE,2,1
+Data,ORG,1,1
+SPSS,ORG,4,4
+Penerbit,GPE,2,2
+Feed Forward Neural Network,ORG,1,1
+FFNN,ORG,1,1
+Naïve Bayes,PERSON,3,3
+11th International Workshop on Computer Science and Engineering,EVENT,1,1
+Saudi,NORP,4,1
+Social networking,ORG,1,1
+Scientific Journal,ORG,1,1
+King Faisal University Basic,ORG,1,1
+Applied Sciences,ORG,1,1
+Novosibirsk State University,ORG,2,2
+seventh,ORDINAL,1,1
+Future of Journalism,EVENT,1,1
+Cardiff University’s School of Journalism,ORG,1,1
+JOMEC,ORG,1,1
+September 2019,DATE,2,2
+"Innovations, Transitions and Transformations",WORK_OF_ART,1,1
+34,CARDINAL,2,2
+March 25 to June 10 2020,DATE,1,1
+the 20th to the 30th of September 2020,DATE,1,1
+Federal Center of Theoretical,ORG,1,1
+Applied Sociology of the Russian Academy of Sciences,ORG,1,1
+the Brazilian Superior Electoral Court,ORG,2,2
+Atila Iamarino,PERSON,1,1
+youtuber,DATE,1,1
+Rio dos Sinos,GPE,4,4
+syntactic,NORP,1,1
+Siberian,NORP,1,1
+the Russian Academy of Sciences,ORG,1,1
+Institute of Philology,ORG,1,1
+904,CARDINAL,1,1
+Santaella,GPE,3,1
+Frias Filho,PERSON,1,1
+2009,DATE,4,3
+Lemke,PERSON,1,1
+Rojo and Moura,ORG,1,1
+Nöth,GPE,1,1
+1998,DATE,2,2
+Vale,LOC,3,3
+"Holism, Ambient Intelligence, Triangulation",ORG,1,1
+Stigmergy,PERSON,1,1
+HATS,ORG,2,1
+HATS,PERSON,1,1
+"10,828",CARDINAL,1,1
+935,CARDINAL,1,1
+between 18 and 25 years old,DATE,1,1
+POS,ORG,6,2
+10-fold,CARDINAL,1,1
+Kapusta et al,PERSON,1,1
+Multi-View Attention Networks,ORG,1,1
+MVAN,ORG,3,1
+2.5%,PERCENT,1,1
+SPT,PERSON,4,1
+Freedman,PERSON,1,1
+2016b,DATE,1,1
+Keinone,ORG,1,1
+Klein,PERSON,1,1
+Vanhaeght,PERSON,1,1
+The Monitor,WORK_OF_ART,1,1
+German,NORP,8,5
+NPO,ORG,1,1
+SPT,LAW,5,1
+Bourdieu,ORG,1,1
+Blanco,PERSON,1,1
+1980,DATE,1,1
+36,CARDINAL,2,2
+Bennett & Linvingston,ORG,1,1
+2918,DATE,1,1
+Waisbord,GPE,1,1
+Vosoughi et al,PERSON,1,1
+Shao et al.,PERSON,1,1
+Walter Lippmann,PERSON,1,1
+Kalsnes,ORG,1,1
+SPT,PRODUCT,2,1
+Fenton,ORG,1,1
+Larsen,PERSON,1,1
+Concha Mateos,PERSON,1,1
+Communication Sciences,ORG,1,1
+Peru,GPE,3,2
+Luis M. Romero-Rodríguez,PERSON,1,1
+Bárbara Castillo-Abdul,PERSON,1,1
+Spanish Universities,ORG,1,1
+"99,23%",PERCENT,1,1
+Virginia,GPE,1,1
+Martín Jiménez,PERSON,1,1
+Itziar,ORG,1,1
+Reguero Sanz,PERSON,1,1
+Pablo Berdón Prieto,PERSON,1,1
+Jacobo Herrero Izquierdo,PERSON,1,1
+Estonian,NORP,3,3
+54%,PERCENT,1,1
+an additional 4%,PERCENT,1,1
+Arvin Hansrajh et al,PERSON,1,1
+the spring of 2020,DATE,1,1
+between the ages of 20 and 25,DATE,1,1
+Academic Publishing House,ORG,6,6
+45.8 %,PERCENT,1,1
+23.7 %,PERCENT,1,1
+44 %,PERCENT,1,1
+22 %,PERCENT,1,1
+modern days,DATE,1,1
+decades ago,DATE,1,1
+Kansei,ORG,2,1
+Frustrated,WORK_OF_ART,1,1
+Attentive,WORK_OF_ART,1,1
+Covid-19-era,ORG,1,1
+Rhetoric of Reaction,ORG,1,1
+HIRSCHMAN,ORG,1,1
+Ethos,NORP,1,1
+Perelman,NORP,1,1
+Olbrechts-Tyteca,PERSON,1,1
+1996,DATE,2,2
+Hirschman,NORP,1,1
+de Letras,PERSON,2,2
+Social,ORG,2,2
+© 2021 Institute of Electrical and Electronics Engineers Inc,ORG,1,1
+Fake Accounts,ORG,1,1
+Naive Bayes,ORG,1,1
+PCA,ORG,3,2
+Correlation,PRODUCT,1,1
+about 98.6%,PERCENT,1,1
+SCITEPRESS - Science and Technology Publications,ORG,5,5
+Lda,PERSON,5,5
+712,CARDINAL,1,1
+PolitiFact,PRODUCT,6,6
+Euler,ORG,1,1
+Society for Imaging Science and Technology,ORG,1,1
+Michel Bitbol,PERSON,1,1
+Nature,WORK_OF_ART,1,1
+Greco-Roman,ORG,1,1
+Empirics,ORG,1,1
+Medical Empiricism,ORG,1,1
+University of Warsaw,ORG,1,1
+many years,DATE,1,1
+the recent years,DATE,1,1
+Transformer,GPE,1,1
+between September 2020 and January 2021,DATE,1,1
+clinician,NORP,1,1
+553,CARDINAL,1,1
+48%,PERCENT,1,1
+86%,PERCENT,2,2
+0.006,CARDINAL,1,1
+72%,PERCENT,1,1
+ECTF,PERSON,1,1
+GossipCop,ORG,2,2
+ENDEMIC,ORG,1,1
+aTtention,ORG,1,1
+over 87%,PERCENT,1,1
+Pareto,ORG,1,1
+"50,000",CARDINAL,1,1
+Lomonosov Moscow State University,ORG,1,1
+Faculty of Journalism,ORG,1,1
+R. Rini,PERSON,1,1
+B. Millar,PERSON,1,1
+998,CARDINAL,1,1
+PRISMA-ScR,ORG,1,1
+Daode Jing,PERSON,1,1
+Yijing,GPE,1,1
+Espen J. Aarseth,PERSON,1,1
+Slovensko Drustvo za Primerjalno Knjizevnost,PERSON,1,1
+the last few years,DATE,7,7
+twenty-seven,CARDINAL,2,2
+eleven,CARDINAL,5,5
+385,CARDINAL,2,2
+Guardian,ORG,2,2
+Juan Carlos,PERSON,1,1
+Brown,PERSON,2,2
+Levinson,GPE,1,1
+1987,DATE,1,1
+the years 2013 and 2014,DATE,1,1
+English,NORP,2,2
+British,NORP,5,5
+Shakespearean,GPE,1,1
+almost two decades,DATE,1,1
+social media news,ORG,1,1
+the News,ORG,1,1
+NFM,ORG,1,1
+El Profesional de la Informacion,ORG,32,32
+more than seven million,CARDINAL,1,1
+January 2020 to August 2020,DATE,1,1
+the France-Press Agency,ORG,1,1
+the Saudi Anti-Rumors Authority,ORG,1,1
+87.8%,PERCENT,1,1
+Term Frequency-Inverse,PERSON,1,1
+93.3%,PERCENT,1,1
+210,CARDINAL,1,1
+Moral Foundations,PERSON,1,1
+Health Anxiety,ORG,1,1
+Embracing of Fake News,ORG,1,1
+Authority,ORG,1,1
+Ingroup,ORG,1,1
+Harm and Fairness,WORK_OF_ART,1,1
+one hundred,CARDINAL,1,1
+"between May 22, 2018",DATE,1,1
+"May 21, 2019",DATE,1,1
+the Ibero-American Network for Monitoring and Training in Science Journalism,ORG,1,1
+SAOPAULO,ORG,2,2
+Amazon Mechanical Turk,ORG,1,1
+1737,DATE,1,1
+one-year,DATE,1,1
+the World Health Organization's,ORG,1,1
+Twenty,CARDINAL,1,1
+55%,PERCENT,1,1
+63%,PERCENT,2,2
+Covid19,GPE,1,1
+Universiti Putra Malaysia,PERSON,1,1
+DL)-based,CARDINAL,1,1
+Text Fooler,PERSON,1,1
+PWWS,ORG,1,1
+Deep Word Bug,PERSON,1,1
+Text-Attack,PRODUCT,1,1
+One year,DATE,1,1
+PubMed,ORG,2,2
+Medline,ORG,1,1
+Health Ministry,ORG,1,1
+one year,DATE,1,1
+more than 11 million,CARDINAL,1,1
+"270,000",CARDINAL,1,1
+Jair Messias Bolsonaro,PERSON,1,1
+the Umbrella Movement,ORG,1,1
+messaging apps,PERSON,1,1
+Kahan,PERSON,2,1
+2008,DATE,5,5
+Belém,GPE,1,1
+Pará,GPE,1,1
+16,CARDINAL,4,4
+16,DATE,1,1
+bias,PERSON,1,1
+clickbait,GPE,1,1
+Universidade Federal de Santa Catarina,ORG,3,3
+the RAND/University of California,ORG,1,1
+Los Angeles,GPE,2,2
+Sixteen,PRODUCT,1,1
+72,CARDINAL,3,3
+32,CARDINAL,1,1
+57,CARDINAL,2,2
+more than 7,CARDINAL,1,1
+13,CARDINAL,4,4
+6.9,CARDINAL,1,1
+the American Declaration of Independence,LAW,1,1
+our Declaration of Good Communication,WORK_OF_ART,1,1
+American Society of Clinical Oncology,ORG,1,1
+the Brazilian Ministry of Health,ORG,2,2
+December 2019 and March 2020,DATE,1,1
+Bardin,GPE,1,1
+66,CARDINAL,1,1
+92,CARDINAL,1,1
+32.6%,PERCENT,1,1
+28.2%,PERCENT,2,2
+Universidad de Santander,PERSON,1,1
+digital technologies,ORG,1,1
+digital characteristics,ORG,1,1
+digital,ORG,1,1
+four years,DATE,1,1
+2014-2018,DATE,1,1
+239%,PERCENT,1,1
+South East Asia,LOC,2,1
+MINUTO CORONA,ORG,1,1
+"more than 123,482",CARDINAL,1,1
+Eduardo Pazuello,PERSON,1,1
+June 2020,DATE,1,1
+Health,ORG,1,1
+North,LOC,3,2
+Northeast,LOC,3,2
+winter,DATE,2,2
+the northern hemisphere,LOC,1,1
+Facebook and Twitter,PERSON,1,1
+Facebook page,PERSON,1,1
+Pazuello,ORG,1,1
+Pazuello,PRODUCT,2,1
+© Praksis 2021,PERSON,1,1
+Michel Foucault's,PERSON,1,1
+Foucauldian,NORP,1,1
+MediaEval,ORG,1,1
+85.3%,PERCENT,2,2
+81.2%,PERCENT,1,1
+Design/Approach/Methods:,ORG,1,1
+Originality/Value,ORG,1,1
+David Cameron,PERSON,2,1
+February 2016,DATE,1,1
+more than 1400,CARDINAL,1,1
+Jeremy Corbyn,PERSON,1,1
+Boris Johnson,PERSON,1,1
+Nigel Farage,PERSON,1,1
+Brexit,PERSON,5,4
+Leave,PERSON,1,1
+Johnson,PERSON,1,1
+Farage,PERSON,1,1
+Corbyn,ORG,1,1
+Cameron,ORG,1,1
+0.898,CARDINAL,1,1
+0.916,CARDINAL,1,1
+0.913,CARDINAL,1,1
+0.914,CARDINAL,1,1
+Nida Aslam,PERSON,1,1
+Swedish,NORP,5,3
+Bamse - Världens Starkaste Björn,ORG,1,1
+Sciendo,PERSON,2,2
+Contexter,PERSON,3,2
+the Ultimatum Game,ORG,1,1
+UG,ORG,2,1
+444,CARDINAL,1,1
+Flanders,ORG,1,1
+four months,DATE,2,2
+Theo Meder,PERSON,2,1
+Mathijs Kroon,PERSON,1,1
+Giselinde Kuipers,PERSON,1,1
+FB and,ORG,2,2
+Media Group of Estonian Literary Museum,ORG,3,3
+February 2020,DATE,1,1
+the National Operational Headquarters for Combating the COVID-19 Pandemic,ORG,1,1
+Bulgaria,GPE,3,2
+Ventsislav Mutafchiyski,PERSON,2,1
+the Military Medical Academy,ORG,1,1
+Sofia,GPE,1,1
+Mutafchiyski,PERSON,2,1
+Crime Science,ORG,1,1
+the first month,DATE,5,3
+Estonia,GPE,2,2
+Michael Polányi’s,PERSON,1,1
+Arabic FND,PERSON,1,1
+Arabic FND,LOC,1,1
+Arabic,PRODUCT,1,1
+0.83,CARDINAL,1,1
+0.95,CARDINAL,2,2
+QARiB,GPE,1,1
+16%,PERCENT,1,1
+Maha Al-Yahya et al,PERSON,1,1
+350,CARDINAL,2,2
+20-35,CARDINAL,1,1
+36-50,DATE,1,1
+38%,PERCENT,1,1
+50 plus years,DATE,1,1
+68%,PERCENT,1,1
+only 30%,PERCENT,2,2
+Licensee ESJ,PERSON,1,1
+Crawford,ORG,1,1
+Springer Nature Limited,ORG,3,3
+571,CARDINAL,1,1
+the Creative Commons Attribution-NonCommercial,ORG,1,1
+Australia License,PERSON,1,1
+8th,ORDINAL,1,1
+the leader board,ORG,1,1
+0.9831,CARDINAL,1,1
+0.9869,CARDINAL,1,1
+0.9883,CARDINAL,1,1
+98.13%,PERCENT,1,1
+W-F1,PRODUCT,1,1
+38.18%,PERCENT,1,1
+54.33%,PERCENT,1,1
+3rd,ORDINAL,1,1
+0.9859,CARDINAL,1,1
+Roberta,PERSON,1,1
+Ernie,ORG,1,1
+98.41%,PERCENT,1,1
+RoBERTa,PRODUCT,2,2
+99.02%,PERCENT,1,1
+"10,700",CARDINAL,1,1
+"Logistic Regression, Gradient Boost",ORG,1,1
+93.32%,PERCENT,1,1
+Latent Dirichlet Allocation,ORG,4,4
+XLNet + Topic Distributions,ORG,1,1
+0.967,CARDINAL,1,1
+Random Forest Classifier,ORG,2,2
+0.96728972,CARDINAL,1,1
+0.967324832,CARDINAL,1,1
+Coarse Grained Hostility,ORG,1,1
+Weighted Fine,ORG,1,1
+f1,CARDINAL,1,1
+0.908648,CARDINAL,1,1
+0.533907,CARDINAL,1,1
+61st,ORDINAL,1,1
+164,CARDINAL,1,1
+18th,ORDINAL,1,1
+45,CARDINAL,2,2
+Hostile Post Detection in Hindi,WORK_OF_ART,1,1
+GitHub Repository,PERSON,1,1
+98.69,CARDINAL,1,1
+166,CARDINAL,1,1
+50th,ORDINAL,1,1
+168,CARDINAL,1,1
+1.5%,PERCENT,1,1
+Digital Forensics,ORG,1,1
+"Hale, Colton, Onuch, & Kravets",ORG,1,1
+EuroMaidan,ORG,2,1
+the Creative Commons Attribution 4.0 International License,ORG,2,2
+the twenty-first century,DATE,3,3
+oxymora,PERSON,1,1
+Revista de Derecho Político,PERSON,1,1
+DeepFake,PRODUCT,3,2
+nd,GPE,2,1
+1 st,QUANTITY,1,1
+Equal Error Rate,PERSON,1,1
+15% to 30%,PERCENT,1,1
+Colegio Oficial de Psicólogos de Madrid 2021,ORG,1,1
+United States of America,GPE,1,1
+511,CARDINAL,2,2
+first-year,DATE,4,3
+the Moodle Learning Management System,ORG,1,1
+Eighty-two percent,PERCENT,1,1
+at least one,CARDINAL,6,6
+the previous seven days,DATE,1,1
+1.55/4,CARDINAL,1,1
+12%,PERCENT,1,1
+only 14%,PERCENT,1,1
+AP,NORP,1,1
+Breitbart,ORG,1,1
+the Associated Press,ORG,1,1
+37%,PERCENT,1,1
+Only 7%,PERCENT,1,1
+1 January 2018,DATE,1,1
+GoogleTrends,ORG,1,1
+1 July 2019,DATE,1,1
+Nancy Pelosi,PERSON,1,1
+House,ORG,1,1
+Nexis,GPE,1,1
+the twentieth century,DATE,1,1
+the First World War,EVENT,1,1
+First World War Britain,EVENT,1,1
+the Press Bureau,ORG,1,1
+more than seven hundred,CARDINAL,1,1
+the war years,DATE,1,1
+MeToo,PERSON,1,1
+Time,ORG,1,1
+Beyonce,GPE,1,1
+Orange,PERSON,1,1
+the New Black,FAC,1,1
+the last decades,DATE,1,1
+Dense Network,ORG,1,1
+the Information Retrieval (IR,ORG,1,1
+Applied Science and Engineering Progress,ORG,1,1
+digital information channels,ORG,1,1
+Thai,NORP,9,1
+Montreal,GPE,2,2
+Yaming Zhang,PERSON,1,1
+"2,216",CARDINAL,1,1
+"1,001",CARDINAL,1,1
+Deeptrace,ORG,1,1
+the last nine months,DATE,1,1
+Gabon,GPE,1,1
+the Social Network Analysis,ORG,1,1
+"more than 550,000",CARDINAL,1,1
+"over 198,000",CARDINAL,1,1
+24 February 2012 to 21 December 2018,DATE,1,1
+the Republican Party,ORG,1,1
+‘Meme War,EVENT,1,1
+the Digital News Report,ORG,1,1
+more than 2000,CARDINAL,1,1
+centuries,DATE,1,1
+The Wall Street Journal,ORG,1,1
+The Washington Post,ORG,1,1
+Reuters,ORG,2,2
+Multimedia,LOC,1,1
+252,CARDINAL,1,1
+a quarter,CARDINAL,1,1
+the essential foundation of enlightened rationality,ORG,1,1
+digital social communication,ORG,1,1
+Foucault,ORG,2,2
+Regime of Truth,ORG,1,1
+"14,684",CARDINAL,1,1
+Ciudadanos,NORP,2,2
+VOX,ORG,1,1
+Catalonia,GPE,5,5
+the Journal of the American Medical Association,ORG,1,1
+JAMA,PERSON,2,1
+110,CARDINAL,1,1
+the past two months,DATE,1,1
+influenza,ORG,4,3
+Beijing,GPE,2,2
+GAWI,ORG,1,1
+WIST,ORG,1,1
+MAID,ORG,1,1
+Qui Audet Adipiscitur,ORG,1,1
+Wabi-Sabi,PERSON,1,1
+RT-PCR,ORG,1,1
+America,GPE,4,4
+N95,ORG,1,1
+new year,EVENT,1,1
+Pfizer,ORG,1,1
+California,GPE,3,3
+Hindawi Limited,ORG,2,2
+Gulf,LOC,2,1
+2 months,DATE,2,2
+50.5%,PERCENT,1,1
+31.2%,PERCENT,1,1
+18.3%,PERCENT,1,1
+44,CARDINAL,1,1
+Stuart Selber,ORG,1,1
+Deep Neural Network,ORG,1,1
+BI-LSTM,ORG,1,1
+Bidirectional GRU,ORG,1,1
+1D-CNN,DATE,1,1
+Bahasa,GPE,1,1
+The Modified-LSTM,WORK_OF_ART,1,1
+The Modified GRU,ORG,1,1
+Bayes,PERSON,1,1
+Keras,LOC,2,1
+Six,CARDINAL,2,2
+Bidirectional GRU(Bi-GRU,PERSON,1,1
+Self-Attention,ORG,1,1
+UFNDA,PERSON,1,1
+886,CARDINAL,1,1
+Lucid,ORG,2,2
+"2,228",CARDINAL,1,1
+Sociotype,ORG,1,1
+claustrophobia,GPE,1,1
+social bonding,ORG,1,1
+solidarity,ORG,2,2
+Marshall,PERSON,1,1
+the Second World War,EVENT,2,2
+the months,DATE,2,2
+Peng,PERSON,1,1
+Berry,PERSON,1,1
+http://creativecommons.org/licenses/by/3.0,ORG,1,1
+"November 19, 2020",DATE,1,1
+Hilgartner,ORG,1,1
+Bosk,GPE,1,1
+1988,DATE,1,1
+McNemar,PERSON,1,1
+99.94%,PERCENT,1,1
+96.05 %,PERCENT,1,1
+KDnugget,ORG,1,1
+Google Trends,ORG,2,2
+© 2020 Institute of Political Studies,ORG,1,1
+18 to 25,DATE,1,1
+between 18 and 25,DATE,1,1
+Philippine,NORP,2,1
+the War on Drugs,EVENT,1,1
+Filipino,LANGUAGE,1,1
+Karol Wojtyla's,PERSON,1,1
+Philosophy of the Human Person,WORK_OF_ART,1,1
+Filipino,NORP,1,1
+Wojtyla,ORG,1,1
+Truth,NORP,1,1
+COPYRIGHT © SLACK INCORPORATED,ORG,1,1
+more than 200,CARDINAL,1,1
+"more than 140,000",CARDINAL,1,1
+"June 16 to August 21, 2020",DATE,1,1
+Southeast,NORP,1,1
+than.05,NORP,1,1
+4180,CARDINAL,1,1
+86.59%,PERCENT,1,1
+Vinícius Henrique Almeida Guimarães,PERSON,1,1
+Maísa de Oliveira-Leandro,ORG,1,1
+Carolina Cassiano,PERSON,1,1
+Anna Laura Piantino Marques,PERSON,1,1
+Clara Motta,PERSON,1,1
+Letícia Freitas-Silva,PERSON,1,1
+Marlos Aureliano Dias de Sousa,PERSON,1,1
+Luciano,PERSON,1,1
+Matias Silveira,PERSON,1,1
+Thiago César Pardi,PERSON,1,1
+Fernanda Castro Gazotto,ORG,1,1
+Marcos Vinícius Silva,PERSON,1,1
+Virmondes Rodrigues Jr,PERSON,1,1
+Wellington,GPE,1,1
+Freire Oliveira,PERSON,1,1
+JMIR Public Health and Surveillance,ORG,2,1
+21.01.2021,PERSON,1,1
+http://publichealth.jmir.org,GPE,1,1
+a decade,DATE,2,2
+the Asia Pacific,LOC,1,1
+danah boyd,PERSON,1,1
+refracted publics,WORK_OF_ART,1,1
+networked publics,WORK_OF_ART,1,1
+social network,ORG,1,1
+the decade of the 2000s,DATE,1,1
+the decade of the 2010s,DATE,1,1
+decades,DATE,5,5
+three months,DATE,2,2
+February - April 2020,DATE,1,1
+Faculty of Philology,ORG,1,1
+Communication & Society,ORG,2,2
+Amharic,ORG,6,1
+tomorrow,DATE,2,2
+AMFTWE,ORG,2,1
+Scottish,NORP,3,3
+West,LOC,9,5
+Kremlin,ORG,3,3
+the period 2014-20,DATE,1,1
+© 2021 Scientific Association Icono14,ORG,2,2
+28,CARDINAL,3,3
+Scientific Association,ORG,2,2
+Archer&#x2019;s,ORG,1,1
+Slovenia,GPE,1,1
+Revista,NORP,2,2
+Científica de Educomunicación,PERSON,1,1
+Axelrod,PERSON,1,1
+BuzzFeed,ORG,4,4
+92.30%,PERCENT,1,1
+PWCD,GPE,1,1
+15 years of age or older,DATE,1,1
+Macau,GPE,1,1
+Four thousand four hundred and seventy-two,MONEY,1,1
+less than 50%,PERCENT,1,1
+About 20%,PERCENT,1,1
+5.07,CARDINAL,1,1
+2.07,CARDINAL,1,1
+1.63,CARDINAL,1,1
+0.54,CARDINAL,1,1
+Sigma Theta,PERSON,1,1
+Cambodia,GPE,3,1
+Fresh News,ORG,3,1
+Cambodian,NORP,1,1
+the 21st century,DATE,8,8
+1997-2012,DATE,2,2
+Veles,ORG,1,1
+Macedonia,GPE,1,1
+Veles,GPE,1,1
+Mirko Ceselkoski,PERSON,1,1
+Veles',ORG,1,1
+Ceselkoski,ORG,2,1
+Veles,NORP,1,1
+the American Political Science Association,ORG,1,1
+151,CARDINAL,1,1
+NExp2,ORG,1,1
+194,CARDINAL,1,1
+170,CARDINAL,1,1
+Tetris,PERSON,1,1
+at least 3 months,DATE,2,1
+the Bad News Game,ORG,1,1
+American Psychological Association,ORG,5,5
+ninety-six,CARDINAL,1,1
+the first three months of 2020,DATE,1,1
+Ashapara,GPE,1,1
+Indian,NORP,23,10
+Tripura,GPE,1,1
+Brus,PRODUCT,1,1
+earth,LOC,1,1
+recent months,DATE,1,1
+the Uses and Gratification,LAW,1,1
+Millions,CARDINAL,1,1
+17.14%,PERCENT,1,1
+Naive-Bayes and Similarity Algorithm,ORG,1,1
+11.43%,PERCENT,1,1
+Indians,NORP,1,1
+Modi,ORG,1,1
+Soviet,NORP,5,5
+Cold War,EVENT,5,2
+Sino-Indian,NORP,1,1
+1962,DATE,1,1
+Indo,GPE,1,1
+Pakistan,GPE,1,1
+1971,DATE,1,1
+New Delhi,GPE,2,2
+the Soviet Union,GPE,2,2
+Danish,NORP,1,1
+HPV,ORG,1,1
+2019,CARDINAL,7,7
+Academy of Social Sciences,ORG,1,1
+the Contemporary Folklore Monitoring,ORG,1,1
+COVID19,GPE,1,1
+Medialogia,GPE,1,1
+167,CARDINAL,1,1
+203,CARDINAL,1,1
+Vkontakte,GPE,1,1
+the Center for Sociological and Internet Research,ORG,1,1
+St Petersburg State University,ORG,1,1
+March 16th,DATE,1,1
+May 26th 2020,DATE,1,1
+15.6%,PERCENT,1,1
+the first week,DATE,2,1
+N=300,ORG,1,1
+month's end,DATE,1,1
+one month,DATE,3,3
+© 2020 Institute of Physics Publishing,ORG,1,1
+its earliest days,DATE,1,1
+Innis,PERSON,1,1
+Sheppard,ORG,1,1
+2007,DATE,1,1
+McKernon,GPE,1,1
+1925,DATE,1,1
+Jankowski,LOC,1,1
+Tandoc et al.,PERSON,1,1
+Macquarie Dictionary,ORG,1,1
+the year in 2016,DATE,1,1
+Lavoipierre,PERSON,1,1
+Pomerantsev,PERSON,1,1
+Weiss,GPE,1,1
+Applebaum,GPE,1,1
+Lucas,GPE,1,1
+Flanagin,ORG,1,1
+Metzger,GPE,1,1
+Horne,ORG,1,1
+Adali,PERSON,1,1
+Jensen,PERSON,1,1
+Scott,PERSON,1,1
+McAlaney,PERSON,1,1
+Fitchpatrick,GPE,1,1
+Brockinton,GPE,1,1
+Ormrod,GPE,2,1
+NonCommercial,ORG,1,1
+World War Two,EVENT,1,1
+Fake News Data Repository,ORG,1,1
+3981,CARDINAL,1,1
+7192,DATE,1,1
+MM-COVID,ORG,1,1
+over 90%,PERCENT,2,2
+CoVid-19,PRODUCT,1,1
+Alliance Database,PERSON,1,1
+CoVid,PERSON,1,1
+Deep Learning,WORK_OF_ART,1,1
+Moroccan,NORP,1,1
+AIVR,ORG,3,1
+427,CARDINAL,1,1
+1 hour,TIME,1,1
+London,GPE,2,2
+400km,QUANTITY,1,1
+modern-day,DATE,1,1
+up to 100,CARDINAL,1,1
+Sharing Motivation (SM,WORK_OF_ART,1,1
+Social Media Fatigue,ORG,1,1
+Feel Good Factor,ORG,1,1
+FGF,ORG,1,1
+FoMO,LAW,1,1
+News Characteristics,ORG,1,1
+NC,ORG,1,1
+244,CARDINAL,1,1
+IBM,ORG,1,1
+23,DATE,1,1
+Facebook or Twitter,ORG,1,1
+The recent years,DATE,1,1
+News Image Steganography,ORG,1,1
+NIS,ORG,2,1
+Venegas-Vera et al,ORG,1,1
+IMR Press,ORG,1,1
+Turkish,NORP,3,3
+American Library Association,ORG,1,1
+Arksey,PERSON,1,1
+O'Malley,PERSON,1,1
+PubMed/MEDLINE,ORG,2,2
+543,CARDINAL,1,1
+only 3,CARDINAL,1,1
+Almalki,PERSON,1,1
+Fahad Azeez,PERSON,1,1
+the Creative Commons Attribution NonCommercial License,ORG,1,1
+Gaza strip,GPE,1,1
+Palestine,GPE,3,1
+2020Background,CARDINAL,1,1
+the Gaza Strip,GPE,3,1
+1067,DATE,1,1
+between 6 and 18 years,DATE,1,1
+56,CARDINAL,1,1
+Independent Samples T,ORG,1,1
+ANOVA,ORG,1,1
+81.8%,PERCENT,1,1
+56.2%,PERCENT,1,1
+736,CARDINAL,1,1
+78.1%,PERCENT,1,1
+1.3%,PERCENT,1,1
+0.891,CARDINAL,1,1
+Seven,CARDINAL,1,1
+2019–2020,CARDINAL,1,1
+746,CARDINAL,1,1
+between 2010 and 2020,DATE,1,1
+Mediterranean,LOC,3,1
+Latrodectus,PRODUCT,1,1
+Loxosceles,NORP,1,1
+70%,PERCENT,2,2
+32%,PERCENT,1,1
+L. rufescens,PERSON,1,1
+less than 10%,PERCENT,2,2
+Plain Language Summary,PERSON,1,1
+the Supporting Information of this,ORG,1,1
+Nature,PERSON,1,1
+Ecological Society,ORG,1,1
+Myanmar,GPE,6,2
+2011,DATE,3,3
+Rohingya Muslims,NORP,2,1
+Rakhine,PERSON,1,1
+Kayah States,ORG,1,1
+13-35,DATE,1,1
+More than half,CARDINAL,1,1
+Mary Ann Liebert,PERSON,2,2
+2004-2012,CARDINAL,1,1
+75%,PERCENT,1,1
+3746,CARDINAL,1,1
+the Daley-Kendall,ORG,1,1
+Goffman-Newill,ORG,1,1
+ESI,ORG,2,1
+OI,LAW,2,1
+Stigma,PERSON,1,1
+Social Impact Theory,ORG,1,1
+SSL,ORG,3,1
+the Universal Declaration of Human Rights,LAW,1,1
+Society for International Development,ORG,1,1
+575,CARDINAL,1,1
+Billions of dollars,MONEY,1,1
+each year,DATE,2,2
+Meta,PERSON,2,1
+Journal of Paediatrics and Child Health,ORG,1,1
+"John Wiley & Sons Australia, Ltd",ORG,1,1
+Paediatrics and Child Health Division,ORG,1,1
+The Royal Australasian College of Physicians,ORG,1,1
+409,CARDINAL,1,1
+3884,CARDINAL,1,1
+Sina Weibo,PERSON,4,3
+MID,ORG,4,1
+California State University,ORG,1,1
+Northridge,GPE,1,1
+FauxWard,ORG,4,1
+Fourth,ORDINAL,3,3
+Journal of Bioethical Inquiry Pty Ltd.,ORG,1,1
+Agamben,ORG,1,1
+The New York Times,ORG,5,5
+Il Corriere,PERSON,1,1
+Sera,PERSON,1,1
+La Repubblica,ORG,2,2
+La Stampa,ORG,1,1
+about one-third,CARDINAL,1,1
+World War 1,EVENT,1,1
+World Wars,WORK_OF_ART,1,1
+Fascist,ORG,1,1
+about 75%,PERCENT,1,1
+Generative Adversarial Networks,ORG,2,2
+© 2020 International Association for Mathematics and Computers in,ORG,1,1
+IMACS,ORG,1,1
+Japan,GPE,1,1
+five hours,TIME,1,1
+Democratic,NORP,4,3
+DFN,ORG,5,1
+552,CARDINAL,1,1
+homophilic social dynamics,ORG,1,1
+Australasian College of Health Service Management,ORG,1,1
+251,CARDINAL,1,1
+RACAP,ORG,1,1
+MSM,ORG,2,1
+Kozinets,ORG,1,1
+Mkono,GPE,1,1
+Markwell,ORG,1,1
+Croatian,NORP,3,3
+March 18,DATE,1,1
+"March 23, 2020",DATE,1,1
+1244,CARDINAL,1,1
+85.5%,PERCENT,1,1
+58.4%,PERCENT,1,1
+the Hospital Anxiety and Depression Scale,ORG,1,1
+Optimism-Pessimism Scale,ORG,1,1
+Galić,GPE,1,1
+Mustapić,GPE,1,1
+Šimunić,GPE,1,1
+Cipolletta,GPE,1,1
+Sobkowicz,PERSON,1,1
+the BERT-Base language model,FAC,1,1
+30%,PERCENT,2,2
+Bell Pottinger,ORG,1,1
+Iraq,GPE,2,2
+Cambridge,GPE,1,1
+Analytica,GPE,1,1
+Digitality,GPE,1,1
+Cambridge Analytica,LOC,1,1
+Trinidad,GPE,1,1
+Tobago,GPE,1,1
+the Information for All Programme,ORG,1,1
+IFAP,ORG,1,1
+the Middle East,LOC,6,4
+Adversarial Active Learning,ORG,1,1
+Heterogeneous Graph Neural Network,ORG,1,1
+AA-HGNN,ORG,2,1
+SOTA,ORG,1,1
+Malcom,ORG,4,1
+about 94%,PERCENT,1,1
+93.5%,PERCENT,1,1
+90%,PERCENT,3,3
+https://github.com/lethaiq/MALCOM1,PERSON,1,1
+European Spanish,NORP,1,1
+Mexican,NORP,4,3
+Bayesian,NORP,5,5
+Study 1,DATE,2,2
+"5,271 MTurkers",QUANTITY,1,1
+"1,568 MTurkers",QUANTITY,1,1
+myNews,PERSON,1,1
+NVivo,ORG,1,1
+Excel,PRODUCT,1,1
+fewer than 5%,PERCENT,1,1
+just one,CARDINAL,1,1
+Twitter16,GPE,2,2
+as early as February 2020,DATE,1,1
+The association of support for,ORG,1,1
+eHL,WORK_OF_ART,1,1
+1002,DATE,1,1
+43% to 56%,PERCENT,1,1
+CCBS,ORG,2,1
+HL,GPE,1,1
+eHL,LOC,1,1
+0.04,CARDINAL,1,1
+0.038,CARDINAL,1,1
+−0.21,CARDINAL,1,1
+0.16,CARDINAL,2,2
+six hundred and sixty-eight,CARDINAL,1,1
+0.751,CARDINAL,1,1
+the world to institute,ORG,1,1
+Algorithmic Development > Multimedia Commercial,ORG,1,1
+Learning,GPE,1,1
+3D,CARDINAL,2,1
+ResNet,PRODUCT,1,1
+ResNeXt,PRODUCT,1,1
+I3D,PRODUCT,1,1
+FaceForensics++,EVENT,1,1
+Collective Betweenness,ORG,1,1
+Collective Betweenness,WORK_OF_ART,1,1
+Smart Cities,ORG,1,1
+an era,DATE,3,3
+the Ancient Agora,ORG,1,1
+Athens,GPE,1,1
+Polis,GPE,1,1
+GPS,ORG,1,1
+Smart Agora,ORG,1,1
+58,CARDINAL,1,1
+471,CARDINAL,1,1
+374,CARDINAL,1,1
+Macronleaks,PRODUCT,1,1
+Voter,PRODUCT,1,1
+"Wiley Periodicals, Inc.",ORG,3,3
+Alpha Kappa Delta,PERSON,1,1
+The International Sociology Honor Society,ORG,1,1
+Linden,PERSON,1,1
+Roozenbeek,ORG,1,1
+Compton,GPE,1,1
+Roman,NORP,1,1
+Alexander von Humboldt Institute for Internet and Society,ORG,2,2
+January,DATE,2,1
+"2,029",CARDINAL,1,1
+"140,820",CARDINAL,1,1
+up to 10%,PERCENT,2,2
+Factual News Graph,ORG,1,1
+FANG,ORG,3,1
+between months,DATE,1,1
+42.05,CARDINAL,1,1
+July,DATE,1,1
+120.05,CARDINAL,1,1
+August,DATE,1,1
+230.25,CARDINAL,1,1
+September,DATE,1,1
+65.25,CARDINAL,1,1
+October,DATE,1,1
+"3,885",CARDINAL,1,1
+77.2%,PERCENT,1,1
+Licença Creative Commons - Atribuição 4.0 Internacional,ORG,1,1
+three decades ago,DATE,1,1
+thirtieth,ORDINAL,1,1
+1989,DATE,3,3
+Tiananmen Square,FAC,1,1
+Bruno Latour,PERSON,1,1
+LINGNAN UNIVERSITY,ORG,1,1
+CDC,ORG,7,2
+Joan Fontcuberta,PERSON,1,1
+almost forty years,DATE,1,1
+Mocking Alternative Planisphere,ORG,1,1
+MAP,ORG,2,2
+the Borgian Encyclopedia of Tlön,ORG,1,1
+Tolkien,PERSON,1,1
+George R. Martin,PERSON,1,1
+the Bidirectional Encoder Representations,ORG,3,3
+4.19%,PERCENT,1,1
+SpotFake,ORG,1,1
+5.39%,PERCENT,1,1
+Behavior Model,WORK_OF_ART,2,1
+Pontificia Universidade,ORG,1,1
+Catolica de Campinas,PERSON,1,1
+R0 &gt,ORG,1,1
+1050,DATE,1,1
+1150,DATE,1,1
+Ireland,GPE,1,1
+700,CARDINAL,4,1
+the European Open Data Portal,ORG,1,1
+Spearman,PERSON,3,1
+0.753,CARDINAL,1,1
+0.158,CARDINAL,1,1
+0.690,CARDINAL,1,1
+0.168,CARDINAL,1,1
+0.800,CARDINAL,1,1
+0.112,CARDINAL,1,1
+©Rafael A,PERSON,1,1
+Badell-Grau,ORG,1,1
+Jordan Patrick Cuff,PERSON,1,1
+Brendan P Kelly,PERSON,1,1
+Helen Waller-Evans,PERSON,1,1
+Emyr Lloyd-Evans,PERSON,1,1
+"April 13-20, 2020",DATE,1,1
+"22,785",CARDINAL,1,1
+"11,333",CARDINAL,1,1
+Botometer,ORG,1,1
+YouTube,PERSON,1,1
+Wasim Ahmed,PERSON,2,2
+Francesc López Seguí,PERSON,2,2
+Josep Vidal-Alaball,PERSON,2,2
+Matthew S Katz,PERSON,1,1
+Political Quarterly Publishing Co,ORG,1,1
+PQPC,ORG,1,1
+the New Coronavirus,ORG,1,1
+Eu Fiscalizo,LOC,1,1
+Associacao,GPE,3,3
+4260,CARDINAL,1,1
+ISB,ORG,2,1
+433,CARDINAL,1,1
+Forty-eight,CARDINAL,1,1
+about two,CARDINAL,1,1
+8-10 years,DATE,1,1
+British Journal of Developmental Psychology,ORG,1,1
+British Psychological Society,ORG,1,1
+hypercapnia,GPE,1,1
+hypoxia,GPE,1,1
+the Italian Pediatric Society,ORG,1,1
+hoax news,ORG,1,1
+propaganda news,ORG,1,1
+mal-information,ORG,1,1
+post-truth,ORG,1,1
+387,CARDINAL,1,1
+National Taipei University,ORG,1,1
+the digital channel,ORG,1,1
+Flipped Classroom,PRODUCT,2,1
+Dutch,NORP,1,1
+only 4,CARDINAL,1,1
+54,CARDINAL,1,1
+Spinbot,PERSON,1,1
+Fake News AMT,ORG,1,1
+Celebrity,ORG,1,1
+© Media Watch,ORG,8,8
+889,CARDINAL,1,1
+SEM,ORG,1,1
+Fear Appeal,PRODUCT,1,1
+National Institute of Science Communication and Information Resources,ORG,1,1
+January to August 2020,DATE,1,1
+Indian Journal of Psychiatry Published,ORG,1,1
+Wolters Kluwer-Medknow,ORG,1,1
+Post-truth,ORG,1,1
+"Infodemia, Misinformation",ORG,1,1
+Wu Lei,PERSON,1,1
+the past two decades,DATE,2,2
+the next five to ten years,DATE,1,1
+Delphi,ORG,1,1
+outnumber,DATE,1,1
+Platform,ORG,1,1
+theWWW,GPE,1,1
+the Library and Information Systems,ORG,1,1
+National University of Singapore,ORG,1,1
+nearly 144,CARDINAL,1,1
+683,CARDINAL,1,1
+18 April 2020,DATE,1,1
+Moita Lopes,ORG,1,1
+Ceará,GPE,1,1
+i. e.,PERSON,1,1
+Rieger,PERSON,1,1
+Bangla Language,GPE,1,1
+Bangla,GPE,1,1
+Multinomial Naive Bayes,PERSON,1,1
+MNB,ORG,3,2
+Bangla,ORG,1,1
+CountVectorizer,ORG,1,1
+96.64 percent,PERCENT,1,1
+93.32 percent,PERCENT,1,1
+30,CARDINAL,4,4
+Ecosia,GPE,1,1
+Mojeek,ORG,1,1
+10–53%,PERCENT,1,1
+Google.com,ORG,3,2
+Catalani,ORG,1,1
+Goldman,ORG,4,4
+"Morley, Neunez",ORG,1,1
+Prados-Bo,ORG,1,1
+Smeesters,ORG,1,1
+Taddeo,GPE,1,1
+Vanzolini,GPE,1,1
+Floridi,GPE,1,1
+630,CARDINAL,1,1
+six months,DATE,1,1
+474,CARDINAL,1,1
+Deepfake,PRODUCT,2,1
+BuzzSumo,ORG,1,1
+2102,DATE,1,1
+"2,352,585",CARDINAL,1,1
+23.1%,PERCENT,1,1
+more than 100,CARDINAL,2,2
+IoV,ORG,1,1
+Software-Defined Networking,ORG,1,1
+Software-Defined Road Side Units,ORG,1,1
+traditional Road Side Units,FAC,1,1
+Bayesian Network,ORG,1,1
+QcFND,GPE,2,1
+Veins,PERSON,1,1
+Hyperledger Fabric,ORG,1,1
+Netica,ORG,1,1
+Annual Reviews Inc,ORG,1,1
+ICRC,ORG,1,1
+Contextual Analysis (CA,ORG,1,1
+CA,ORG,4,1
+2000,DATE,2,2
+Trump-Hillary,PRODUCT,1,1
+0.81,CARDINAL,2,2
+Hierarchal,NORP,1,1
+SSRG International Journal of Engineering Trends and Technology,ORG,1,1
+examines two,CARDINAL,2,2
+Newsalyze,WORK_OF_ART,1,1
+ACM ISBN,ORG,1,1
+Clickbait,GPE,1,1
+Marina Silva,PERSON,1,1
+Rede,PERSON,1,1
+Lazer et al,PERSON,1,1
+Aos Fatos,PERSON,1,1
+the Transparency and Openness Promotion (TOP,ORG,1,1
+a Creative Commons Attribution Licence,LAW,1,1
+Asia,LOC,2,2
+"February 2, 2020",DATE,1,1
+Chew,PERSON,1,1
+2009-was,CARDINAL,1,1
+"Between February 9 and April 11, 2020",DATE,1,1
+"21,755,802",CARDINAL,1,1
+"4,809,842",CARDINAL,1,1
+"February 11, 2020",DATE,1,1
+the end of March,DATE,1,1
+Mainstream or Local News,WORK_OF_ART,1,1
+Government or Public Health,WORK_OF_ART,1,1
+US Centers for Disease Control and Prevention,ORG,1,1
+116,CARDINAL,1,1
+Journal of Medical Internet Research,ORG,1,1
+Google Trends,PRODUCT,3,2
+"February 20, 2020",DATE,1,1
+"May 6, 2020",DATE,1,1
+Around two thirds,CARDINAL,1,1
+66.1%,PERCENT,1,1
+Alessandro Rovetta,PERSON,2,2
+Akshaya Srikanth Bhagavathula,PERSON,1,1
+Greater London,PERSON,1,1
+Raman et al,PERSON,1,1
+The American Society of Tropical Medicine,ORG,2,2
+Hygiene,PERSON,2,2
+four-fold,CARDINAL,1,1
+iFakeFaceDB,PERSON,1,1
+GANprintR,ORG,1,1
+2007-2012,DATE,1,1
+the Motivated System 2,ORG,1,1
+four decades ago,DATE,1,1
+fifty-two,CARDINAL,1,1
+52,CARDINAL,1,1
+Save KPK 2015,ORG,1,1
+Save KPK,ORG,3,1
+Indonesians,NORP,4,4
+KPK,ORG,1,1
+Austria,GPE,3,3
+between 2015 and 2018,DATE,1,1
+"2,967",CARDINAL,1,1
+55,CARDINAL,1,1
+108,CARDINAL,1,1
+0.688,CARDINAL,1,1
+BRENDA,PERSON,1,1
+BRENDA,PRODUCT,1,1
+BRENDA,ORG,1,1
+Webpage,ORG,1,1
+age 16 to 26,DATE,1,1
+GTUT,ORG,1,1
+Shenzhen,GPE,6,1
+22 million,CARDINAL,1,1
+East Asia,LOC,1,1
+Hubei Province,GPE,1,1
+31 March,DATE,1,1
+only 451,CARDINAL,1,1
+Tripartite,PERSON,1,1
+Russian,LANGUAGE,6,3
+Malaysia Airlines,ORG,1,1
+MH17,PRODUCT,3,1
+163,CARDINAL,2,2
+Putin,PERSON,1,1
+26%,PERCENT,1,1
+Obama,LOC,1,1
+around 68%,PERCENT,1,1
+about 49%,PERCENT,1,1
+only 13%,PERCENT,1,1
+Cameroon,GPE,1,1
+four weeks,DATE,1,1
+15 August to 15 September 2018,DATE,1,1
+Unisa Press,ORG,2,2
+November 10,DATE,1,1
+the Oxford Internet Institute,ORG,1,1
+Vox,PERSON,3,3
+© 2021 Research Journal of Biotechnology,ORG,3,3
+Universidad Autonoma de Bucaramanga,PERSON,1,1
+El Confidencial,ORG,2,2
+Generalitat,NORP,1,1
+Quim Torra,ORG,1,1
+Institute,ORG,1,1
+Martin Luther King,PERSON,1,1
+DMI,ORG,1,1
+Louvain Multinivell,ORG,1,1
+"27,648",CARDINAL,1,1
+"76,815",CARDINAL,1,1
+the Social Network,ORG,1,1
+the Big Data Analysis,ORG,1,1
+293,CARDINAL,1,1
+Health Institution,ORG,1,1
+TRUSTD,ORG,2,2
+BDANN,ORG,2,1
+fed,ORG,1,1
+Engagement Index,ORG,1,1
+WhatsApp Groups,ORG,1,1
+Algorithm,ORG,1,1
+Maldito Feminismo,ORG,2,1
+N=71,ORG,1,1
+Derakhshan & Wardle,ORG,1,1
+"Tandoc, Lim & Ling",ORG,1,1
+Molina,NORP,1,1
+Maldito Feminismo,PERSON,1,1
+60 years ago,DATE,1,1
+World Scientific Publishing Company,ORG,1,1
+a “Questionnaire on Student Habits for Sharing Fake News on the Mobile,WORK_OF_ART,1,1
+CHECK-M,ORG,1,1
+480,CARDINAL,1,1
+Us,GPE,1,1
+"100,000",CARDINAL,1,1
+more than 1 million,CARDINAL,1,1
+Recurrent Neural Networks,ORG,2,2
+more than 90%,PERCENT,1,1
+keystroke,ORG,1,1
+52.6%,PERCENT,1,1
+10.9%,PERCENT,1,1
+The Indian Council of Medical Research,ORG,1,1
+“National Guidelines for Ethics Committees Reviewing Biomedical and Health Research,WORK_OF_ART,1,1
+86,CARDINAL,1,1
+Research Journal of Biotechnology,ORG,1,1
+its 20th year,DATE,1,1
+Wikipedia,GPE,2,2
+Wikipedia,ORG,3,2
+"more than 1,700",CARDINAL,1,1
+Study 2,DATE,1,1
+215,CARDINAL,1,1
+“Whole Science,WORK_OF_ART,1,1
+"125,000",CARDINAL,1,1
+Linear,ORG,1,1
+Threshold,PRODUCT,1,1
+billions,CARDINAL,2,2
+Hitting Self-avoiding Walks,PERSON,1,1
+\mathsf{HSAW}HSAWs,WORK_OF_ART,1,1
+GPU,ORG,3,1
+177x,CARDINAL,1,1
+338x,CARDINAL,1,1
+1989-2012,DATE,1,1
+Ljubljana University Press,ORG,1,1
+The 21st century,DATE,1,1
+last century,DATE,1,1
+the United Nations Sustainable Development Goals,ORG,1,1
+21st,ORDINAL,1,1
+Hoax,ORG,1,1
+the Indonesia Telematics Society,ORG,1,1
+MASTEL,ORG,1,1
+the Indonesia Internet Service Providers Association,ORG,1,1
+5.614455426,CARDINAL,1,1
+approximately 25%,PERCENT,1,1
+KT,ORG,3,1
+Commentary,ORG,1,1
+Telegram,ORG,1,1
+a Constitutional Law,LAW,1,1
+Undang,GPE,2,1
+dan Transaksi Elektronik,PERSON,1,1
+the Indonesian CL,ORG,1,1
+Telecommunications Association Inc.,ORG,1,1
+8,CARDINAL,5,4
+566,CARDINAL,1,1
+7 months,DATE,1,1
+Comments,ORG,1,1
+Amity University,ORG,5,5
+American Physical Society,ORG,3,3
+the first quarter of 2020,DATE,1,1
+at least 50,CARDINAL,1,1
+Società Italiana di Fisica,ORG,1,1
+the Arab Springs,LOC,1,1
+European Parliament,ORG,1,1
+"between 23rd and 26th of May, 2019",DATE,1,1
+"almost 400,000",CARDINAL,1,1
+863,CARDINAL,1,1
+Cinelli et al,PERSON,1,1
+forty-five thousand nine hundred and fifty-seven,DATE,1,1
+"June 16–October 12, 2016",DATE,1,1
+Erratum,ORG,1,1
+1454,DATE,1,1
+Figure Presenetd,PERSON,1,1
+the Dominican Republic,GPE,1,1
+the Ministry of Health (MoH,ORG,1,1
+45 days,DATE,1,1
+MoH,LOC,1,1
+"March 16, 2020",DATE,1,1
+the French Society of Pharmacology and Therapeutics,ORG,1,1
+Question and Answer,ORG,1,1
+Q&A,ORG,1,1
+"March 17, 2020",DATE,1,1
+Six weeks later,DATE,1,1
+140,CARDINAL,1,1
+014,CARDINAL,1,1
+41 days,DATE,1,1
+"Twitter, Facebook",WORK_OF_ART,1,1
+the French Ministry of Health,ORG,1,1
+the French National Agency for Medicines and Health Products Safety ANSM,ORG,1,1
+Société Française de Pharmacologie,PERSON,1,1
+Culture and Agency,ORG,1,1
+CUP,ORG,1,1
+the ‘Cultural System’,LAW,1,1
+Socio-Cultural,WORK_OF_ART,1,1
+SAC,ORG,1,1
+Structure,WORK_OF_ART,1,1
+Commons,PERSON,1,1
+Harry Frankfurt's,PERSON,1,1
+the Theory of Social Behaviour,WORK_OF_ART,1,1
+NASIG,ORG,1,1
+34th,ORDINAL,1,1
+Marydee Ojala,PERSON,2,1
+Regina Reynolds,PERSON,2,1
+the U.S ISSN Center,ORG,1,1
+ISSN,ORG,1,1
+the United States Government,ORG,2,1
+USC,ORG,1,1
+105,CARDINAL,1,1
+Kay G. Johnson,PERSON,1,1
+Universidade Federal de Campina Grande,ORG,1,1
+Fabio Giglietto,ORG,1,1
+Luca Rossi,PERSON,1,1
+Giada Marino Journal,ORG,1,1
+"Information, Communication &amp",ORG,1,1
+5,DATE,2,1
+7,DATE,1,1
+hyperpartisan news,ORG,1,1
+Fletcher et al.,PERSON,1,1
+Appendix 1,FAC,1,1
+87,CARDINAL,1,1
+Avaaz,ORG,1,1
+Benedetto Montaccini,PERSON,1,1
+Mastinu,ORG,1,1
+Appendix 2,FAC,1,1
+RR)1,PERSON,1,1
+Fletcher et.al.,ORG,1,1
+"Fletcher, R.",ORG,1,1
+Cornia,GPE,1,1
+Nielsen,PERSON,2,2
+R. K.,PERSON,1,1
+Reuters institute,ORG,1,1
+Informa,GPE,14,14
+"Information, Communication and Society",ORG,1,1
+the Association of Internet Researchers,ORG,1,1
+380,CARDINAL,2,2
+35,CARDINAL,2,2
+The World Health Organisation,ORG,1,1
+© Operational Research Society,ORG,1,1
+.306,CARDINAL,1,1
+between two,CARDINAL,3,3
+US Presidential,EVENT,1,1
+the White House,ORG,1,1
+Hurricane Maria,PERSON,1,1
+Puerto Ricans,GPE,1,1
+Mass Communication & Society Division,ORG,1,1
+the Association for Education,ORG,1,1
+Journalism,GPE,1,1
+Watzlawick,ORG,1,1
+Information and Communications Technologies (ICT,ORG,1,1
+WoS,ORG,1,1
+Latin American,NORP,3,3
+Unified Health System,ORG,1,1
+Sars-CoV-2,ORG,1,1
+Instituto de Estudos Avancados da Universidade de Sao Paulo,PERSON,1,1
+Online Social Networks,ORG,3,3
+Corpora,PERSON,1,1
+Extreme Gradient Boosting,ORG,1,1
+Joselit,PERSON,1,1
+Massachusetts Institute of Technology,ORG,1,1
+640,CARDINAL,1,1
+WOS,ORG,1,1
+the first few months of 2020,DATE,1,1
+at least 18 years,DATE,1,1
+the Kurdistan Region of Iraq,GPE,1,1
+Iraqi,NORP,3,1
+Kurdistan,GPE,3,1
+516,CARDINAL,1,1
+18-35 years,DATE,1,1
+Araz Ramazan Ahmad,PERSON,1,1
+Hersh Rasool Murad,PERSON,1,1
+19.05.2020,ORG,1,1
+1981-2012,DATE,1,1
+the beginning of December 2019,DATE,1,1
+"Friday, March 27, 2020, to Saturday, April 4, 2020",DATE,1,1
+5GCoronavirus,MONEY,1,1
+34.8%,PERCENT,1,1
+32.2%,PERCENT,1,1
+33.0%,PERCENT,1,1
+65.2%,PERCENT,1,1
+Joseph Downing,PERSON,1,1
+Four years later,DATE,1,1
+Stephanie A. Diaz,PERSON,1,1
+Russell A. Hall,PERSON,1,1
+Copyright © 2020 Longwoods Publishing,WORK_OF_ART,1,1
+2.0,CARDINAL,3,3
+mid-Atlantic,LOC,1,1
+the end of 2020,DATE,1,1
+the Organic Law of Electoral Regime,LAW,1,1
+1985,DATE,1,1
+7/2010 Law,PERSON,1,1
+Audiovisual,GPE,1,1
+LGA,ORG,1,1
+the European Audiovisual Services Directive,ORG,1,1
+the 35 years,DATE,1,1
+the Ministry of Economy and Business,ORG,1,1
+MEE,ORG,1,1
+social media services,ORG,1,1
+"1,512",CARDINAL,1,1
+2 years,DATE,1,1
+the Association of College and Research Libraries,ORG,1,1
+Hypothesis,ORG,2,2
+up to 26.9%,PERCENT,1,1
+"Introduction to Communication, Public Speaking, Persuasive Communication, Health Communication",PRODUCT,1,1
+National Communication Association,ORG,1,1
+January to March 2020,DATE,1,1
+APC,ORG,3,1
+Keywords,PRODUCT,1,1
+2019-nCOV,WORK_OF_ART,1,1
+SARS-COV-2,WORK_OF_ART,1,1
+amuchina,GPE,2,1
+Umbria,GPE,2,1
+Basilicata,PERSON,1,1
+>140,DATE,1,1
+Campania,GPE,1,1
+Basilicata,GPE,1,1
+>100,DATE,1,1
+more than 10,CARDINAL,1,1
+Rome,GPE,1,1
+days,DATE,3,3
+foresee news,ORG,1,1
+Ensemble Voting Classifier,WORK_OF_ART,1,1
+Naïve Bayes,GPE,1,1
+K-NN,ORG,1,1
+Artificial Neural Network,ORG,1,1
+"Logistic Regression, Gradient Boosting",ORG,1,1
+Ada Boosting,PERSON,1,1
+Ensemble Voting Classifier,GPE,1,1
+about 94.5%,PERCENT,1,1
+June 2017,DATE,1,1
+the European Parliament,ORG,1,1
+the European Commission,ORG,3,3
+Elections,PERSON,1,1
+"April 28, 2019",DATE,1,1
+"10,038",CARDINAL,1,1
+"March 1 and May 15, 2019",DATE,1,1
+Spanish Workers’ Socialist Party,ORG,1,1
+@PSOE,ORG,1,1
+Popular Party,ORG,2,2
+Podemos,ORG,2,2
+@ahorapodemos,ORG,1,1
+Citizens,ORG,1,1
+a few years,DATE,1,1
+FAKEDETECTOR,ORG,3,1
+more than one,CARDINAL,1,1
+Tweepy Python,ORG,1,1
+2019-nCov,WORK_OF_ART,1,1
+"February 2, 2020, to March 15, 2020",DATE,1,1
+approximately 2.8 million,CARDINAL,1,1
+"167,073",CARDINAL,1,1
+"160,829",CARDINAL,1,1
+2722,DATE,1,1
+"13,413",CARDINAL,1,1
+15.4,CARDINAL,1,1
+3.94,CARDINAL,1,1
+© 2020 Journal of Medical Internet Research,ORG,1,1
+Thirty,CARDINAL,1,1
+309,CARDINAL,1,1
+65%,PERCENT,1,1
+some decades earlier,DATE,1,1
+Injury,ORG,1,1
+33%,PERCENT,2,2
+89%,PERCENT,3,3
+Telegraph,PERSON,1,1
+14.2%,PERCENT,1,1
+roughly five,CARDINAL,1,1
+only 0.15%,PERCENT,1,1
+early December 2019,DATE,1,1
+late December,DATE,1,1
+the third week of January 2020,DATE,1,1
+Public Health Emergency of International Concern,ORG,1,1
+31th of January 2020,DATE,1,1
+11th March 2020,DATE,1,1
+"March 24th, 2020",DATE,1,1
+"16,600",CARDINAL,1,1
+"more than 380,000",CARDINAL,1,1
+conservatives,NORP,3,2
+Fox News,ORG,3,3
+at least 30%,PERCENT,1,1
+Adversarial Networks,ORG,1,1
+KL-divergence,PERSON,1,1
+2.1%,PERCENT,1,1
+1.8%,PERCENT,1,1
+© 2019,ORG,2,2
+United States Presidential,EVENT,1,1
+Section 1,LAW,1,1
+March 2019,DATE,2,2
+Section 2,LAW,1,1
+Section 3,LAW,2,2
+Section 4,LAW,1,1
+Section 5,LAW,1,1
+Chris Marsden,PERSON,1,1
+Trisha Meyer,ORG,1,1
+Ian Brown,PERSON,1,1
+50% to 40%,PERCENT,1,1
+at least 20%,PERCENT,1,1
+"1,606",CARDINAL,1,1
+Facebook and Google,ORG,3,2
+Cognitive Predicting Theory of Trust,ORG,1,1
+CPTT,ORG,2,1
+Predictive Processing,ORG,1,1
+CPTT,WORK_OF_ART,1,1
+Computer Human Information Interaction and Retrieval,ORG,1,1
+Global Research Online,ORG,1,1
+the University of the Basque Country,ORG,1,1
+the Duke Reporter's Lab,ORG,1,1
+7)exploiting,CARDINAL,1,1
+150,CARDINAL,1,1
+AI,FAC,1,1
+1:1,CARDINAL,1,1
+the State of the Union,ORG,2,1
+the Royal Society,ORG,1,1
+70,CARDINAL,1,1
+"February 8, 2020",DATE,1,1
+Caucasian,NORP,1,1
+1999-2012,DATE,2,2
+770,CARDINAL,1,1
+several millions,CARDINAL,1,1
+Henry Kissinger,PERSON,1,1
+February 2017,DATE,2,2
+NotTheEnemy,GPE,2,1
+"1,117",CARDINAL,1,1
+Western European,NORP,1,1
+"3,354",CARDINAL,1,1
+Multigroup,ORG,1,1
+all four,CARDINAL,1,1
+Verificado,ORG,2,1
+Verificado,PRODUCT,1,1
+Universidad Autonoma del Estado de Mexico,PERSON,1,1
+Routledge Handbook,PERSON,1,1
+Kathryn Henne,PERSON,1,1
+Rita Shah,PERSON,1,1
+N-gram,ORG,2,2
+Linear Support Vector Machines,ORG,2,2
+LSVM,ORG,2,2
+Random Forests (RF,ORG,2,2
+K-Nearest Neighbors,ORG,3,3
+N-gram,PERSON,2,2
+LSVM,PERSON,2,2
+84.9%,PERCENT,2,2
+86.6%,PERCENT,2,2
+91.9%,PERCENT,2,2
+73.2%,PERCENT,2,2
+Accuracy,ORG,3,3
+76.4%,PERCENT,2,2
+Precision,ORG,4,4
+80.7%,PERCENT,2,2
+78.5%,PERCENT,2,2
+Association for Computing Machinery,ORG,15,15
+World Environment Day 2019,EVENT,1,1
+Neo4j,CARDINAL,1,1
+Forty-nine,CARDINAL,1,1
+2480,CARDINAL,1,1
+Marine Le Pen,PERSON,1,1
+only a few years earlier,DATE,1,1
+"Department of Digital, Culture, Media and Sport Disinformation",ORG,1,1
+the European Commission's,ORG,1,1
+Report on Disinformation,ORG,1,1
+the period November 16th,DATE,1,1
+the 2010s,DATE,1,1
+the last 30 years,DATE,1,1
+Partido dos Trabalhadores,ORG,1,1
+Jair Bolsanaro,PERSON,1,1
+Partido Liberal,LOC,1,1
+David Samuels,PERSON,1,1
+Cesar Zucco,ORG,1,1
+Bolsonaro,GPE,1,1
+the Partido dos Trabalhadores,ORG,2,1
+2013,DATE,5,5
+Partido,PRODUCT,1,1
+anti-Partido,PRODUCT,1,1
+Bolsanaro,PERSON,1,1
+Vem Pra Rua,PERSON,1,1
+Movimento Brasil Livre,PERSON,1,1
+Bolsonaro,PERSON,1,1
+hundreds,CARDINAL,1,1
+Facebookfrom,PERSON,1,1
+LDA,ORG,3,3
+1996-2012,DATE,1,1
+Tsinghua University Press,ORG,1,1
+Truthmeter,WORK_OF_ART,3,1
+George Orwell,PERSON,1,1
+Norman Podhoretz,PERSON,1,1
+1983,DATE,3,3
+Orwell,PERSON,3,1
+Podhoretz,PERSON,1,1
+the 20th century,DATE,2,2
+Nineteen Eighty-Four,DATE,3,1
+January 1950,DATE,1,1
+Islamist,NORP,1,1
+a Natural Language Processing,LAW,1,1
+Gradient Boosted Tree,ORG,1,1
+97.021%,PERCENT,1,1
+approximately eight percent,PERCENT,1,1
+Akshay Aggarwal et al.,ORG,1,1
+EAI,ORG,1,1
+Parliament,ORG,2,2
+Kenya,GPE,5,2
+Tanzania,GPE,1,1
+Uganda,GPE,2,2
+Wildlife Amendment Bill,LAW,1,1
+the Ministry of Tourism and Wildlife,ORG,1,1
+the Kenya Wildlife Service,ORG,1,1
+Kenya,PERSON,1,1
+Rainer Greifeneder,PERSON,11,11
+Mariela E. Jaffé,PERSON,11,11
+Eryn J. Newman,PERSON,11,11
+Norbert Schwarz,PERSON,11,11
+several years,DATE,1,1
+between 15 and 24,CARDINAL,1,1
+Andalusian,NORP,1,1
+Departamento de Periodismo,PERSON,1,1
+Pope Francis,PERSON,2,2
+fakeApp,PRODUCT,1,1
+University of Pittsburgh,ORG,1,1
+up to 25%,PERCENT,1,1
+Generative Adversarial Network,ORG,1,1
+Benford,ORG,2,1
+Discrete Cosine Transform,ORG,1,1
+981,CARDINAL,1,1
+about six,CARDINAL,1,1
+control),ORG,1,1
+196,CARDINAL,1,1
+Bad News,FAC,1,1
+George Hawley,PERSON,1,1
+meme’d,ORG,1,1
+Hispanics,NORP,1,1
+Muslims,NORP,3,2
+Social Justice Warrior,ORG,1,1
+Red Scares,ORG,1,1
+the Catholic Church,ORG,2,1
+Catholic,NORP,2,1
+Church,ORG,1,1
+post-Truth,WORK_OF_ART,1,1
+Institute of Europe Russian Academy of Sciences,ORG,1,1
+the past decades,DATE,1,1
+Science and Technology Studies,ORG,1,1
+STS,ORG,2,1
+Haraway,FAC,1,1
+Butler,GPE,1,1
+York University,ORG,1,1
+the House of Lords Communications Committee Inquiry,ORG,1,1
+ITV,ORG,1,1
+C4,CARDINAL,1,1
+C5,PRODUCT,1,1
+VoD,WORK_OF_ART,1,1
+VoD,ORG,1,1
+Netflix,GPE,1,1
+VoD,PRODUCT,1,1
+billions of pounds,MONEY,1,1
+Intellect Ltd Article,ORG,1,1
+the ANC War Room,EVENT,1,1
+Bell-Pottinger,ORG,1,1
+© Creative Commons With Attribution,ORG,1,1
+Barber,PERSON,1,1
+Arendt,PERSON,5,3
+© Salvi,PERSON,1,1
+Iannello,ORG,1,1
+"McClay, Rago",ORG,1,1
+Dunsmoor,ORG,1,1
+Antonietti,GPE,1,1
+a Creative Commons Attribution 4.0 License,LAW,1,1
+Lithuanian,NORP,2,2
+Lithuania,GPE,4,4
+Licensee Prague University of Economics and Business,ORG,1,1
+Czech Republic,GPE,1,1
+the Twitter API,ORG,1,1
+Perceptron Neural Networks,PERSON,1,1
+860,CARDINAL,1,1
+Perceptron Neural Networks,ORG,1,1
+Recommender,PERSON,1,1
+140 million,CARDINAL,1,1
+18-24,DATE,1,1
+Nurul Hidayatul Ummah,PERSON,1,1
+Muchamad Sholakhuddin Al Fajri,PERSON,1,1
+Vilnius University Press,ORG,1,1
+Doron Fakultet,PERSON,3,3
+Doron Fakultet Politickih Znanosti,PERSON,1,1
+UNICEF,ORG,1,1
+the United Nations,ORG,1,1
+© 2020 Institute of Electrical and Electronics Engineers Inc,ORG,1,1
+Appalachian State University’s,ORG,1,1
+the University’s First Year Seminar Program,ORG,1,1
+OER,ORG,1,1
+AppState,ORG,1,1
+Libraries,ORG,1,1
+Universal Design for Learning,ORG,1,1
+Costa et al.,GPE,1,1
+Cognition,ORG,1,1
+Bayesian,PERSON,2,2
+Fernández-López & Perea,ORG,1,1
+The COVID-19 Misinformation Challenge,LAW,1,1
+Challenge,ORG,1,1
+Radio Free Europe/Radio Liberty,ORG,1,1
+RFE/RL,ORG,1,1
+RT,ORG,3,2
+the Center for Sociological Research,ORG,1,1
+April,DATE,1,1
+between 18 and 25 years,DATE,1,1
+Socialist,NORP,1,1
+the Socialist Party,ORG,1,1
+Pedro Sánchez,PERSON,4,2
+"1,669",CARDINAL,1,1
+YouGov,ORG,2,2
+64%,PERCENT,1,1
+weekly,DATE,3,3
+five or more per week,DATE,1,1
+Chilean,NORP,1,1
+G20,GPE,1,1
+Gossip,PERSON,1,1
+Dynamic Gossip,PERSON,2,1
+Información,ORG,1,1
+cultura y sociedad,PERSON,1,1
+diciembre,PERSON,1,1
+FaceSwap,ORG,1,1
+more than 119000,CARDINAL,1,1
+371,CARDINAL,1,1
+A quarter,CARDINAL,1,1
+between 2015 and 2016,DATE,1,1
+"127,3 million",CARDINAL,1,1
+Madrid,GPE,1,1
+Barcelona,GPE,1,1
+Valencia,GPE,1,1
+"1,777",CARDINAL,1,1
+"56,666",CARDINAL,1,1
+1974,DATE,1,1
+Bozzola et al,PERSON,1,1
+SIM,ORG,2,1
+SofLP,ORG,2,1
+Intended Meaning (SIM,WORK_OF_ART,1,1
+ELT,ORG,1,1
+Huberman Interactive,ORG,1,1
+Universitas Negeri,ORG,1,1
+Hannah,PERSON,1,1
+EDUFBA - Editora Universttaria,PERSON,1,1
+Gopi Mahila Mandal,PERSON,2,1
+the covid-19 blues,LOC,1,1
+Propaganda Spotting,PERSON,1,1
+ProSOUL,ORG,2,1
+"11,574",CARDINAL,1,1
+the Linguistic Inquiry and Word Count,ORG,1,1
+LIWC,PERSON,1,1
+Urdu,PRODUCT,3,1
+NELA,ORG,1,1
+0.91,CARDINAL,1,1
+0.87,CARDINAL,1,1
+Institute of Electrical and Electronics Engineers Inc,ORG,1,1
+Higher Education,ORG,4,1
+re-cent years,DATE,1,1
+Turkey,GPE,2,2
+SETA Foundation,ORG,1,1
+Presidential,LOC,1,1
+23 September 2018-13,DATE,1,1
+April 2019,DATE,1,1
+14-17 April 2019,DATE,1,1
+21-22,DATE,1,1
+May 2019,DATE,3,3
+"806,742",CARDINAL,1,1
+143,CARDINAL,1,1
+"16,082",CARDINAL,1,1
+Prabowo,ORG,1,1
+Communist,NORP,1,1
+Joko Widodo,PERSON,4,1
+Twitter and Facebook,WORK_OF_ART,1,1
+Prabowo,PERSON,2,1
+Pagella Politica,PERSON,1,1
+Maldito Bulo,PERSON,2,2
+Full Fact and PolitiFact,LAW,1,1
+El País,GPE,1,1
+272,CARDINAL,1,1
+"4,543",CARDINAL,1,1
+hoaxes,PERSON,1,1
+"March 14, 2020",DATE,1,1
+0.966,CARDINAL,1,1
+the day,DATE,2,2
+the first days,DATE,1,1
+the second and third weeks,DATE,1,1
+"March 23 to April 8, 2020",DATE,1,1
+Emotional Support,ORG,1,1
+the Guardia Civil,FAC,1,1
+229,CARDINAL,1,1
+48.47%,PERCENT,1,1
+28.8%,PERCENT,1,1
+the Guardia Civil,ORG,1,1
+22.7%,PERCENT,1,1
+73.87%,PERCENT,1,1
+only 26.13%,PERCENT,1,1
+Latent Dirichlet,ORG,1,1
+SNA,ORG,1,1
+Malta,GPE,7,2
+between 22nd May and,DATE,1,1
+51,CARDINAL,1,1
+Wroclaw University of Science and Technology,ORG,1,1
+Machine Learning Algorithms,LOC,1,1
+Naive Bayes,PERSON,1,1
+Naive Bayes Classifier,PERSON,1,1
+Naive Bayes,PRODUCT,1,1
+Civil,GPE,2,1
+tens,CARDINAL,1,1
+Civil Community,ORG,1,1
+New York,GPE,3,3
+Formula,PERSON,2,1
+87%,PERCENT,2,2
+83%,PERCENT,1,1
+"15,952",CARDINAL,1,1
+the Boston Marathon,EVENT,1,1
+Manchester Arena,PERSON,1,1
+Hurricane Harvey,EVENT,1,1
+Hurricane Irma,ORG,1,1
+Hawaii,GPE,1,1
+Society for Risk Analysis,ORG,1,1
+Web,ORG,2,2
+Credibility Reviews,ORG,1,1
+Schema.org,ORG,1,1
+"3,656",CARDINAL,1,1
+the Portal de Periodicos Capes,ORG,1,1
+The second half,DATE,1,1
+Francky Teddy Endomba,PERSON,1,1
+73.3%,PERCENT,1,1
+82,CARDINAL,1,1
+similarly as five,CARDINAL,1,1
+Facebook and Co.,ORG,1,1
+FakeYou,ORG,1,1
+Gallup,GPE,1,1
+"GlobalWebIndex, Knight Foundation",ORG,2,2
+Ofcom,ORG,3,3
+Pew Research Center,ORG,5,5
+Statista,NORP,2,2
+University of Canberra,ORG,2,2
+Addleton Academic Publishers,ORG,4,4
+"Gallup, Knight Foundation",ORG,1,1
+Reuters Institute for the Study of Journalism,ORG,1,1
+YouTubers,ORG,3,1
+562,CARDINAL,2,2
+YTPS,NORP,2,1
+YTPS,PERSON,2,1
+YTPS,LANGUAGE,1,1
+Best Practice Guidelines,ORG,1,1
+BPG,ORG,1,1
+Medical Humanities,ORG,1,1
+day,DATE,1,1
+University of Malta Faculties of Health Sciences,ORG,1,1
+Dentistry and Medicine,ORG,1,1
+General Practitioners,ORG,1,1
+Cyprus,GPE,1,1
+Iceland,GPE,1,1
+covid-19,DATE,1,1
+the 1970s,DATE,3,3
+National Research Nuclear University,ORG,1,1
+Iftikhar Ahmad et al,PERSON,1,1
+"about 24,000",CARDINAL,1,1
+TC-CNN,PRODUCT,1,1
+this year,DATE,2,2
+VKontakte,ORG,1,1
+ITMO University,ORG,1,1
+the JPEG Committee,ORG,2,1
+JPEG Privacy and Security,ORG,1,1
+the JPEG Privacy and Security,ORG,1,1
+Melanesia,ORG,1,1
+Pacific,LOC,5,3
+Pacific news,ORG,1,1
+Radio Australia,ORG,1,1
+Australia Network,ORG,1,1
+West Papua,GPE,1,1
+Pacific Media Centre,ORG,2,2
+Auckland University of Technology,ORG,2,2
+PAN,ORG,2,1
+230,CARDINAL,1,1
+83,CARDINAL,1,1
+TIRA,ORG,1,1
+the second decade,DATE,1,1
+Pick 2019,WORK_OF_ART,1,1
+Autism,NORP,1,1
+ASD,PERSON,1,1
+2001,DATE,2,2
+ASD,PRODUCT,1,1
+ASD,GPE,1,1
+September 2020,DATE,1,1
+The Latent Dirichlet Allocation,ORG,1,1
+"African Journal of Science, Technology, Innovation and Development",ORG,1,1
+the Naive Bayes,FAC,1,1
+LIAR,PERSON,1,1
+Science and Information Organization,ORG,1,1
+335,CARDINAL,2,2
+kompas.com,ORG,1,1
+suara.com,ORG,1,1
+liputan6.com,ORG,1,1
+one hundred per cent,MONEY,1,1
+Universiti Kebangsaan Malaysia Press,ORG,2,2
+Zimbabwe,GPE,2,1
+4.0,CARDINAL,1,1
+Neural Network,ORG,1,1
+Principle Component Analysis,ORG,1,1
+Chi-Square,FAC,1,1
+the Fake News Challenges,ORG,1,1
+4% and 20%,PERCENT,1,1
+Chi-square,FAC,1,1
+97.8%,PERCENT,1,1
+PubMed/MEDLINE,PRODUCT,1,1
+19.9 million,CARDINAL,2,1
+the past 50 years,DATE,1,1
+less than zero,CARDINAL,1,1
+only 18.5%,PERCENT,1,1
+3.68,CARDINAL,1,1
+"27,840",CARDINAL,1,1
+"27,090",CARDINAL,1,1
+249,CARDINAL,1,1
+the tabloid press,ORG,1,1
+Farmakoekonomika,PERSON,1,1
+Almost forty years ago,DATE,1,1
+the Conceptual Metaphor Theory,ORG,1,1
+Cognitive Linguistics,ORG,1,1
+Forceville,GPE,2,1
+"1996, 2009",DATE,1,1
+MIL,GPE,1,1
+Polish Communication Association,ORG,2,2
+Northern Cyprus,LOC,1,1
+TRNC,GPE,1,1
+Northern Cyprus,GPE,1,1
+Editura Lumen,ORG,1,1
+2 month old,DATE,1,1
+Ahinkorah,PERSON,1,1
+Ameyaw,PERSON,1,1
+Hagan,PERSON,1,1
+Schack,ORG,1,1
+Trust,ORG,1,1
+fifth,ORDINAL,1,1
+May 2018,DATE,2,2
+87.6%,PERCENT,1,1
+13.5%,PERCENT,1,1
+Fundacao,GPE,2,2
+Subjective Opinions,ORG,1,1
+Eesti Keele,PERSON,1,1
+Aquarius,PERSON,2,1
+around two million,CARDINAL,1,1
+Aquarius,FAC,1,1
+at least eleven,CARDINAL,1,1
+Nazi,NORP,1,1
+Soviet Union,GPE,2,2
+the National Forests,ORG,1,1
+over 20%,PERCENT,1,1
+the Ukrainian Insurgent Army,ORG,1,1
+https://www.lasy.gov.pl/pl/wideo/,ORG,1,1
+Siberia,LOC,1,1
+Lemkin,PERSON,1,1
+Axis,PERSON,1,1
+Carnegie Endowment for International Peace Division of International Law,ORG,1,1
+Columbia University Press,ORG,1,1
+"Washington, DC",GPE,1,1
+79–95,GPE,1,1
+1994,DATE,2,2
+SMOTE,ORG,1,1
+GL-GAN,ORG,1,1
+SMOTE,GPE,1,1
+GL,ORG,1,1
+SIAM,ORG,1,1
+between the beginning of February 2018,DATE,1,1
+the end of June of 2018,DATE,1,1
+13–17,GPE,1,1
+25–34,GPE,1,1
+35–44,GPE,1,1
+45–54,GPE,1,1
+55–64,LOC,1,1
+the pro-Brexit,ORG,1,1
+pro-Trump,PERSON,1,1
+anti-Trump,PERSON,1,1
+the World Economic Forum,ORG,2,2
+February 6 and 7 of 2020,DATE,1,1
+1923,DATE,1,1
+Hipatia Press,ORG,1,1
+TPE,ORG,1,1
+the Spanish Registry of Universities,ORG,1,1
+Universitat Autonoma de Barcelona,ORG,1,1
+Universitat de Girona,ORG,1,1
+Technologies,ORG,1,1
+the Lithuanian Academy of Sciences,ORG,1,1
+A. Šliogeris,PERSON,1,1
+Lietuvos,PERSON,1,1
+the Spanish Government,ORG,1,1
+"March 14th, 2020",DATE,1,1
+"April 13th, 2020",DATE,1,1
+several weeks,DATE,1,1
+Ulhaq & Burmeister,ORG,1,1
+a Convolutional Neural Network,ORG,1,1
+Association for Computational Linguistics,ORG,4,4
+"Tomaél, Alcará and Silva",ORG,1,1
+Carraher,PERSON,1,1
+Floridi,PERSON,1,1
+"2011, 2010",DATE,1,1
+Un,ORG,1,1
+33,DATE,1,1
+39,DATE,1,1
+47,DATE,1,1
+North Atlantic University Union,ORG,1,1
+IPMI,ORG,2,1
+706,CARDINAL,1,1
+Aceh,GPE,1,1
+Syiah Kuala University,ORG,1,1
+Ar-Raniry State Islamic University,ORG,1,1
+focus group,ORG,1,1
+Social Networking Sites,ORG,1,1
+National University of Political Studies and Public Administration,ORG,2,2
+Union,ORG,1,1
+the European External Action Service,ORG,1,1
+intra-EU,PRODUCT,1,1
+Romanova T. A.,PERSON,1,1
+Sokolov N. I.,PERSON,1,1
+Kolotaev Y. Y.,PERSON,1,1
+402,CARDINAL,1,1
+Habgood-Coote,ORG,2,2
+Stop Talking,WORK_OF_ART,2,2
+Jessica Pepp,PERSON,1,1
+Eliot Michaelson,PERSON,1,1
+Rachel Sterken,PERSON,1,1
+Why We Should Keep Talking About Fake News”,WORK_OF_ART,1,1
+an Interdisciplinary Journal of Philosophy,ORG,1,1
+Étienne Brown,PERSON,1,1
+Conceptual Ethics,ORG,1,1
+Journal of Ethics and Social Philosophy,ORG,1,1
+16(2,DATE,1,1
+144–154,CARDINAL,1,1
+Pepp,GPE,1,1
+Michaelson,ORG,1,1
+Sterken,PRODUCT,1,1
+Newtral,GPE,1,1
+the April 28th 2019,DATE,1,1
+37,CARDINAL,1,1
+hoaxes,GPE,2,2
+Pablo Casado,PERSON,1,1
+Barcelona centre for international affairs,ORG,1,1
+the Middle-East,LOC,1,1
+Arab Spring,ORG,1,1
+These days,DATE,1,1
+Malaysian,NORP,1,1
+two years,DATE,1,1
+Malaysians,NORP,2,2
+© Penerbit,PERSON,1,1
+Sains Malaysia,PERSON,1,1
+Text,LOC,1,1
+TRL-1,CARDINAL,1,1
+"2,366",CARDINAL,1,1
+"August, 2019",DATE,1,1
+IFIP International Federation for Information Processing,ORG,5,5
+32.5%,PERCENT,1,1
+Nuffield Foundation,ORG,1,1
+SAFE,ORG,1,1
+Economist,ORG,1,1
+Gallup,ORG,1,1
+"Reuters Institute for the Study of Journalism, University of Canberra",ORG,1,1
+"4,600",CARDINAL,1,1
+Section 2,PRODUCT,1,1
+Unified Theory of Information Research Group,ORG,1,1
+Carleton University,ORG,1,1
+GlobalWeb-Index,ORG,1,1
+the University of Canberra,ORG,1,1
+12–16 years old,DATE,1,1
+Centro Estudios Politicos Constitucionales,PERSON,1,1
+Covid-19,ORG,1,1
+social domains,ORG,1,1
+the dynamics of information consumption,ORG,1,1
+the Pew Research Center,ORG,1,1
+American Trends Panel,ORG,1,1
+85,CARDINAL,1,1
+SLR,ORG,1,1
+only three,CARDINAL,1,1
+76.66%,PERCENT,1,1
+Information Technology,ORG,1,1
+NP,ORG,2,2
+#P,MONEY,1,1
+1-1/√e,DATE,1,1
+Universitas Pendidikan Indonesia,ORG,1,1
+Geert Wilders,PERSON,1,1
+FF Neural Networks,ORG,1,1
+Aim/Purpose,ORG,6,6
+Boeing,ORG,2,1
+737,PRODUCT,1,1
+MAX,ORG,1,1
+Practitioners Practical,ORG,1,1
+Researchers Social,ORG,1,1
+Informing Science Institute,ORG,3,3
+Maskl et al,PERSON,1,1
+Fletcher (,ORG,1,1
+Newman et al.,GPE,1,1
+© 2020 Communication & Society,ORG,2,2
+Eldiario.es,ORG,1,1
+Ignacio Escolar,LOC,1,1
+José Antonio Zarzalejos,PERSON,1,1
+December 2015,DATE,1,1
+Marine Le Pen,ORG,1,1
+Rassemblement National,ORG,1,1
+Matteo Salvini,PERSON,1,1
+@matteosalvinimi,ORG,1,1
+Liga Norte,ORG,1,1
+LN,GPE,1,1
+Santiago Abascal,ORG,1,1
+"2,187",CARDINAL,1,1
+@lemondefr,ORG,1,1
+@repubblica,ORG,1,1
+@el_país,LOC,1,1
+5.2 million,CARDINAL,1,1
+the Internet Research Agency,ORG,1,1
+non-Black,ORG,1,1
+RTVE Lab,ORG,1,1
+Guerra,ORG,2,1
+Universidad de La Sabana,PERSON,1,1
+341,CARDINAL,1,1
+339,CARDINAL,1,1
+less than one-third,CARDINAL,1,1
+27.1%,PERCENT,1,1
+the food safety news,ORG,1,1
+67.8%,PERCENT,1,1
+62%,PERCENT,1,1
+67.5%,PERCENT,1,1
+Copyright © International Association for Food Protection,ORG,1,1
+the Association for Information Systems,ORG,1,1
+2010 to 2018,DATE,1,1
+Denmark,GPE,1,1
+Ekstra Bladet,PERSON,1,1
+nativist,NORP,1,1
+Johan Farkas et al.,PERSON,1,1
+EUNOMIA,ORG,1,1
+"2,587",CARDINAL,1,1
+RuStance,NORP,1,1
+League of Nations,ORG,1,1
+1970,DATE,1,1
+non-State,GPE,1,1
+General Data Protection Regulation,ORG,1,1
+the decades,DATE,1,1
+Hyperpartisan news,ORG,1,1
+68.4%,PERCENT,1,1
+60.8%,PERCENT,1,1
+Lab,PERSON,1,1
+the Quote Retweet,LOC,1,1
+classifier,ORG,2,2
+Quote Retweet,ORG,1,1
+online messaging,PERSON,1,1
+the Temporal Network,ORG,1,1
+the Temporal Dominance Inequality,LAW,1,1
+more than 80%,PERCENT,1,1
+Enron,ORG,1,1
+"15,000",CARDINAL,1,1
+260,CARDINAL,1,1
+171 million,CARDINAL,1,1
+the five months,DATE,1,1
+the election day,DATE,1,1
+30 million,CARDINAL,1,1
+2.2 million,CARDINAL,1,1
+Clinton,PERSON,2,2
+Jacobson,PERSON,1,1
+2017,CARDINAL,26,26
+Ecker,PERSON,1,1
+North America,LOC,3,2
+Relph,PERSON,1,1
+"Tourism, Geography, History, Cultural Studies",ORG,1,1
+American Studies and Film Studies,ORG,1,1
+Jane Lovell,PERSON,1,1
+Sam Hitchmough,PERSON,1,1
+Snopes.com,ORG,1,1
+Politifact.com,ORG,1,1
+at least 3∼5.3%,PERCENT,1,1
+© 2019 Association for Computing Machinery,ORG,9,9
+World White Web,ORG,1,1
+Visual Neural Network,ORG,1,1
+MVNN,ORG,2,1
+at least 9.2%,PERCENT,1,1
+over 5.2%,PERCENT,1,1
+20 minutes,TIME,1,1
+Lok Sabha,PERSON,1,1
+© BEIESP,PERSON,6,6
+Cochrane,GPE,1,1
+between 2012 and 2018,DATE,1,1
+Zika Virus,PERSON,1,1
+2012,DATE,3,2
+the Court of Rimini,ORG,1,1
+Health Economics,ORG,1,1
+iMasa,ORG,1,1
+New Vision,ORG,1,1
+2013/2014,TIME,1,1
+Deep-Fakes,ORG,1,1
+FaceSwap,PERSON,1,1
+NeuralTextures,ORG,1,1
+over 1.8 million,CARDINAL,1,1
+IoT and Industry 4.0,ORG,1,1
+Ultra,ORG,1,1
+H.265/HEVC,ORG,1,1
+netizens,ORG,1,1
+265,CARDINAL,1,1
+Europeans,NORP,2,2
+WEKA,ORG,1,1
+Decision Tree,ORG,1,1
+Malay,LANGUAGE,1,1
+Logistic Regression,PRODUCT,1,1
+Logistic Regression,PERSON,1,1
+FAKEBUSTER,WORK_OF_ART,1,1
+Convolution Neural Network,ORG,1,1
+NIDS,ORG,1,1
+Facebook post,ORG,1,1
+Admin,PERSON,1,1
+Platforms,ORG,1,1
+Bayes Multinomial,PERSON,1,1
+their day to day,DATE,1,1
+ACODSN,ORG,1,1
+FakenewsNet,ORG,1,1
+Zipf,PERSON,1,1
+Mandelbrot,ORG,1,1
+Obama,PERSON,1,1
+Hitler,PERSON,3,1
+1933,DATE,1,1
+Berlin Proclamation,ORG,1,1
+US Presidential,ORG,1,1
+the 1930s,DATE,1,1
+SupplementaryMaterialData Sheet 1,PRODUCT,1,1
+M191,CARDINAL,1,1
+N191,ORG,1,1
+0,WORK_OF_ART,1,1
+33.3%,PERCENT,1,1
+16.7%,PERCENT,1,1
+Bizzi,GPE,2,2
+Perano,GPE,2,2
+Haq,PERSON,2,2
+Chua,PERSON,2,2
+Neunez,PERSON,2,2
+Smith,GPE,2,2
+Ghezzi,LOC,2,2
+the New York Times,ORG,2,2
+Siddhartha Dalal,PERSON,1,1
+Berkay Adlim,PERSON,1,1
+Michael Lesk,PERSON,1,1
+The Royal Statistical Society,ORG,2,2
+the week,DATE,1,1
+Irish,NORP,3,2
+"3,140",CARDINAL,1,1
+more than one third,CARDINAL,1,1
+CCTV,ORG,1,1
+Springer Nature Switzerland AG 2019,ORG,3,3
+28.3,CARDINAL,1,1
+"6s, 12s",DATE,1,1
+20s,ORDINAL,1,1
+6 and 20 seconds,TIME,1,1
+Spring 2017,DATE,1,1
+n=538,PERSON,1,1
+Less than half,CARDINAL,1,1
+23,CARDINAL,3,3
+North-East Scotland,LOC,1,1
+Graham Meikle,PERSON,1,1
+The Russian Federation,GPE,1,1
+pro-Kremlin,PERSON,2,1
+2013-2014,DATE,1,1
+Flight MH17,PRODUCT,2,1
+Holger Mölder et al,PERSON,1,1
+tens of millions,CARDINAL,1,1
+89.7%,PERCENT,1,1
+around 127 million,CARDINAL,1,1
+Three hundred,CARDINAL,1,1
+eighty-eight,CARDINAL,1,1
+Matthias Plüss,PERSON,1,1
+Swiss Science Magazine ',ORG,1,1
+© European Physical Society,ORG,1,1
+the Republic of Tatarstan,GPE,4,1
+19-55,DATE,1,1
+RuNet,PERSON,1,1
+the Kazan State Institute of Culture and Kazan Federal University,ORG,1,1
+January-March 2019,DATE,1,1
+19-20,DATE,1,1
+Eighty-three percent,PERCENT,1,1
+Sixty-five percent,PERCENT,1,1
+Ninety-eight percent,PERCENT,1,1
+only 7.5%,PERCENT,1,1
+Sixty-eight percent,PERCENT,1,1
+Ninety percent,PERCENT,1,1
+11%,PERCENT,1,1
+only 4.5%,PERCENT,1,1
+91.5%,PERCENT,1,1
+92.5%,PERCENT,1,1
+Facebook,FAC,2,2
+last few decades,DATE,1,1
+Self Multi-Head Attention,ORG,1,1
+95.5%,PERCENT,1,1
+95.6%,PERCENT,1,1
+Fang et al,PERSON,1,1
+Marda & Milan,ORG,1,1
+Copyright © 2019 Cambridge University Press,ORG,1,1
+© 2019 Economic Society of Australia,ORG,1,1
+RumorSleuth,ORG,2,1
+14%,PERCENT,1,1
+around 6%,PERCENT,1,1
+IdeoTrace,ORG,1,1
+the last two months,DATE,1,1
+47508,CARDINAL,1,1
+Community Health Assessment,ORG,1,1
+the Grey Wolf Optimization,ORG,1,1
+Salp Swarm Optimization,ORG,1,1
+GWO,ORG,2,1
+SSO,ORG,1,1
+Kauno Technologijos Universitetas,PERSON,1,1
+The Information and Communication Technology (ICT,ORG,1,1
+HALREV,ORG,1,1
+Especially NLP,PERSON,1,1
+Random forest,ORG,1,1
+netizens,GPE,2,1
+DEA,ORG,1,1
+Drone,ORG,1,1
+at least 5.33%,PERCENT,1,1
+F1-score,GPE,1,1
+NDCG,ORG,1,1
+30.7%,PERCENT,1,1
+up to 30%,PERCENT,1,1
+321k,CARDINAL,1,1
+BM25,PRODUCT,1,1
+2016–17,TIME,1,1
+Rachel Turner-King,PERSON,1,1
+The Belgrade’s Canley Youth Theatre,ORG,1,1
+Richard Sennett,PERSON,1,1
+American Alliance,ORG,1,1
+the Faculty of Communication,ORG,1,1
+El Porvenir,ORG,1,1
+Monterrey,GPE,1,1
+University of Zagreb,ORG,4,4
+Teyit.org,ORG,1,1
+International Fact-Checking Network,ORG,1,1
+"between January 1 and June 31, 2018",DATE,1,1
+the Media and Information Literacy epistemology,ORG,1,1
+the Media and Information Literacy,ORG,1,1
+21st century,DATE,1,1
+over 4 million,CARDINAL,1,1
+The Fake News Challenge,ORG,1,1
+early 2017,DATE,1,1
+FNC-1,ORG,1,1
+263,CARDINAL,1,1
+The Brookings Institution,ORG,1,1
+The Atlantic Council,ORG,1,1
+Donald Trump's,PERSON,2,2
+International Relations,ORG,1,1
+Russian Academy of Sciences,ORG,1,1
+Fiji General Election,ORG,1,1
+12 years,DATE,1,1
+2006,DATE,3,2
+14 November 2018,DATE,1,1
+FijiFirst,ORG,1,1
+Voreqe Bainimarama,PERSON,1,1
+Social Democratic Liberal Party,ORG,1,1
+Sitiveni Rabuka,LOC,1,1
+the National Federation Party,ORG,1,1
+NFP,ORG,1,1
+University of the South Pacific,ORG,1,1
+Biman Prasad,PERSON,1,1
+Fiji,GPE,1,1
+"Media Industry Development Decree (MIDD, 2010",EVENT,1,1
+AUT,ORG,2,2
+draconian,NORP,1,1
+six decades,DATE,1,1
+Anti-Fake News Act,ORG,1,1
+Tommy Thomas,PERSON,1,1
+Act,PERSON,2,1
+Thomas,PERSON,1,1
+Act,LAW,1,1
+European Food Safety Authority,ORG,2,1
+EFSA Journal,ORG,1,1
+John Wiley,PERSON,1,1
+Sons Ltd,ORG,1,1
+Australians,NORP,1,1
+the past three decades,DATE,1,1
+evolve 70%,PERCENT,1,1
+3 million,CARDINAL,1,1
+0.82,CARDINAL,2,2
+BalancedView,ORG,2,1
+Meeus,PERSON,1,1
+Peperkamp,GPE,1,1
+Berendt,PERSON,1,1
+Naïve Bayes,ORG,1,1
+Fake,ORG,2,2
+96.08%,PERCENT,1,1
+111,CARDINAL,1,1
+Pathogenic Social Media,ORG,2,2
+PSM,ORG,4,2
+0.28,CARDINAL,1,1
+0.90,CARDINAL,2,2
+0.63,CARDINAL,1,1
+ISIS,NORP,1,1
+Sustainable Development,ORG,1,1
+September 2015,DATE,1,1
+Welfare Cheats,ORG,1,1
+Cheat Us,ORG,1,1
+the Republic of Ireland,GPE,1,1
+the Department of Social Protection,ORG,1,1
+Creative Commons CC-BY-,ORG,1,1
+XFake,ORG,1,1
+MIMIC,ORG,1,1
+ATTN,ORG,2,1
+PERT,ORG,2,1
+MIMIC,PRODUCT,1,1
+PolitiFact1,ORG,1,1
+Creative Commons CC-BY,ORG,4,4
+Blue Eyes Intelligence Engineering and Sciences Publication,ORG,2,2
+pHash,ORG,1,1
+KSII,ORG,1,1
+Lifeworld,ORG,1,1
+Luis Prieto,PERSON,1,1
+National Academies of Sciences,EVENT,1,1
+recent decades,DATE,1,1
+Annual,DATE,1,1
+the Analytic Modeling,ORG,1,1
+next upcoming years,DATE,1,1
+569,CARDINAL,1,1
+9540,CARDINAL,1,1
+between January 2015 and July 2018,DATE,1,1
+the end of 2016,DATE,1,1
+the digital revolution,EVENT,1,1
+Stanford University,ORG,2,2
+Finland,GPE,2,2
+International Baccalaureate Diploma Programme,ORG,1,1
+IBDP,ORG,2,1
+IB2,ORG,1,1
+Stanford,ORG,1,1
+Austro-German,NORP,1,1
+October 1917,DATE,1,1
+Isonzo,GPE,1,1
+Caporetto,PERSON,2,1
+Luigi Cadorna,PERSON,1,1
+Cadorna,GPE,1,1
+G. M. Trevelyan,PERSON,1,1
+Hugh Dalton,PERSON,1,1
+Cadorna,PERSON,1,1
+The Historical Association,ORG,1,1
+Deadspin,PERSON,1,1
+the Sinclair Broadcast Group,ORG,1,1
+American Association of Geographers,ORG,1,1
+British Dental Association,ORG,1,1
+Hilary Clinton»,PERSON,1,1
+"1,010",CARDINAL,1,1
+970,CARDINAL,1,1
+UGC,ORG,3,2
+"5,195",CARDINAL,1,1
+NodeXL social media,ORG,1,1
+Communication Studies,ORG,1,1
+Twitterbots,ORG,1,1
+"13,493",CARDINAL,1,1
+the United Kingdom European Union,GPE,1,1
+the first several minutes,TIME,1,1
+SEISMIC,ORG,1,1
+User-Generated Content,ORG,2,2
+the SeCredISData Special Session,PERSON,1,1
+The Special Session,WORK_OF_ART,1,1
+TriFN,ORG,1,1
+NYT,ORG,3,1
+the first 70 days,DATE,1,1
+The United Kingdom,GPE,1,1
+Conseil,ORG,1,1
+Value of Information,ORG,1,1
+tens of thousands,CARDINAL,1,1
+Hamburg,GPE,1,1
+Berlin,GPE,1,1
+November 2017,DATE,1,1
+April 2018,DATE,1,1
+German Parliament,ORG,1,1
+atmo)spheres,ORG,1,1
+Copyright ©,ORG,1,1
+84,CARDINAL,1,1
+the University of Warmia,ORG,1,1
+Mazury,ORG,1,1
+Olsztyn,GPE,1,1
+Bill Crowley,PERSON,1,1
+De Gruyter,ORG,7,7
+the Toronto Public Library,ORG,1,1
+TPL,ORG,1,1
+Tami Oliphant,PERSON,1,1
+De Gruyter 2019,ORG,3,3
+Gunreformnow,PERSON,1,1
+NRA,ORG,1,1
+The National Rifle Association,ORG,1,1
+Miyoung Chong,PERSON,1,1
+byline,PERSON,1,1
+timestamp,PERSON,1,1
+Bartosz W. Wojdynski,PERSON,1,1
+al.,GPE,1,1
+Allcott & Gentzkow,ORG,1,1
+Chomsky,PERSON,1,1
+Serrano,PERSON,1,1
+Volkoff,PERSON,1,1
+1999,DATE,1,1
+Elmborg,PERSON,1,1
+Freire,GPE,2,1
+1967;1970,GPE,1,1
+Anna Cristina Brisola et al.,PERSON,1,1
+Patrick Wilson,PERSON,1,1
+InfoWars,ORG,1,1
+Thomas J. Froehlich,PERSON,1,1
+StopFake,NORP,1,1
+Maria Haigh et al.,PERSON,1,1
+NATO,ORG,2,1
+Eastern,ORG,1,1
+Latvian,NORP,2,1
+Eastern,NORP,1,1
+12 %,PERCENT,1,1
+Latvia,GPE,1,1
+October 2018,DATE,1,1
+Partnership for Peace Consortium of Defense Academies and Security Studies Institutes,ORG,2,2
+Forty-one,CARDINAL,1,1
+Lesley Farmer,PERSON,1,1
+Photoshop,PERSON,1,1
+Travis L. Wagner et al.,PERSON,1,1
+social justice,ORG,1,1
+theoreticians,NORP,1,1
+Taylor & Francis,ORG,7,7
+"Library and Information Science, Communication Studies",ORG,1,1
+Argumentation Theory,ORG,2,1
+Discourse Research,ORG,1,1
+Critical Discourse Research,ORG,1,1
+Iulian Vamanu,PERSON,1,1
+the last two decades,DATE,2,2
+Facebook,PRODUCT,1,1
+DW,ORG,1,1
+a period of four months,DATE,1,1
+the key date October 1st,DATE,1,1
+602,CARDINAL,1,1
+17-25 years-old,DATE,1,1
+"October 1, 2017",DATE,1,1
+80,CARDINAL,1,1
+UN,ORG,3,2
+15-34 years,DATE,1,1
+34.33%,PERCENT,1,1
+each day,DATE,1,1
+more than 27 hours,TIME,1,1
+Mis,PERSON,1,1
+Medial,PRODUCT,1,1
+more than two hours,TIME,1,1
+UAE,GPE,1,1
+UAE,ORG,4,1
+more than a century,DATE,1,1
+CDA,ORG,1,1
+Edizioni Universitarie,PERSON,2,2
+KGB Operation SIG,ORG,1,1
+About 50 years ago,DATE,1,1
+KGB,ORG,2,1
+Opera-tion,ORG,1,1
+SIG,ORG,2,1
+PLO,ORG,2,1
+Arab Muslim,NORP,1,1
+Hamas,ORG,1,1
+Findings Operation SIG,ORG,1,1
+Informing Science,ORG,2,1
+mod-els,PRODUCT,1,1
+Conceptual,PERSON,1,1
+Future Research,ORG,2,2
+"November 8, 2016",DATE,1,1
+Bharat Mehra,PERSON,1,1
+the second decade of the third millennium,DATE,1,1
+135,CARDINAL,1,1
+Chileans,NORP,1,1
+Cyprus International University,ORG,1,1
+n-grams,PERSON,1,1
+Jinqing Zhang et al,PERSON,1,1
+Zambia,GPE,2,1
+© African Studies Association of Australasia,ORG,1,1
+up to twenty percent,PERCENT,1,1
+Copyright © 2019,ORG,1,1
+Venezuelan,NORP,2,1
+Colombian,NORP,2,1
+Davidson College,ORG,1,1
+Communications in Information Literacy,ORG,2,2
+more than a quarter of a century,DATE,1,1
+SBPjor / Associação Brasileira de Pesquisadores,ORG,4,4
+Copyright © 2019 SBPjor / Associação Brasileira de Pesquisa,ORG,1,1
+the second decade of the years 2000,DATE,1,1
+Projeto Credibilidade,ORG,1,1
+Trust Project,ORG,1,1
+Copyright © 2019 SBPjor / Associação Brasileira de Pesquisadores,ORG,3,3
+228,CARDINAL,1,1
+about 132,CARDINAL,1,1
+the Membership Categorization Analysis,ORG,1,1
+Projeto Comprova,PERSON,2,1
+the PoC protocol,LAW,1,1
+© Science and Information Organization,ORG,1,1
+Curro,ORG,1,1
+"the week of Christmas, 2018",DATE,1,1
+133,CARDINAL,1,1
+his first month,DATE,1,1
+November 2016,DATE,1,1
+Trump,LOC,4,2
+the World War,EVENT,1,1
+ABC,ORG,1,1
+El Mundo,ORG,1,1
+Ibero-American,NORP,1,1
+Privacy and Data Protection,ORG,1,1
+PbD,GPE,1,1
+European Court of Human Rights (,ORG,1,1
+Court,ORG,1,1
+Article 3 of Protocol 1,LAW,1,1
+Article 10 of the European Convention on Human Rights,LAW,1,1
+Article 10,LAW,1,1
+Electoral Commission,ORG,1,1
+Laura Chinchilla,PERSON,1,1
+the Organization of American States,ORG,1,1
+OAS,ORG,1,1
+the Superior Electoral Court,ORG,1,1
+Christianity,ORG,1,1
+mona abdel-fadil,PERSON,1,1
+the first decades,DATE,1,1
+Kris Fallon,ORG,1,1
+Fallon,ORG,1,1
+the previous century,DATE,1,1
+the Abu Ghraib,PERSON,1,1
+Kristopher Fallon,PERSON,1,1
+472,CARDINAL,1,1
+Twenty-four,CARDINAL,1,1
+Linguistics,NORP,1,1
+Benveniste,PERSON,1,1
+Folha de S. Paulo,PERSON,1,1
+the hour,TIME,1,1
+64.95%,PERCENT,1,1
+Association for Computational Linguistics (ACL,ORG,1,1
+75,CARDINAL,1,1
+infomediarian,NORP,1,1
+Baly et al.,PERSON,1,1
+West Slavic,NORP,1,1
+Czech,NORP,2,2
+Slovak,GPE,1,1
+© 2019 Association for Computational Linguistics (ACL,ORG,1,1
+UNED,ORG,1,1
+Framed,PERSON,1,1
+62,CARDINAL,1,1
+1033–1065,CARDINAL,1,1
+Misinformation,LAW,1,1
+eleven thousand,CARDINAL,1,1
+"Fact, Hoax, Information",ORG,1,1
+Automatic Multilanguage Detection,ORG,1,1
+© 2019 International Journal of Advanced Computer Science,ORG,1,1
+Departamento de Literatura EspaÃƒÂƒÃ‚Â±ola-Universidad de Sevilla,PERSON,1,1
+Multinomial Naïve Bayes,PERSON,1,1
+383,CARDINAL,1,1
+Online Education,ORG,1,1
+"Facebook, Google",ORG,1,1
+Sciedu Press,ORG,1,1
+US Presidential Campaign of 2016,ORG,1,1
+US Presidential Campaign 2016,ORG,1,1
+D. Trump's,PERSON,1,1
+the US Presidential Campaign 2016,ORG,1,1
+US Political Campaign 2016,ORG,1,1
+© Polis,PERSON,1,1
+Markov Random Field,PERSON,1,1
+PageRank,ORG,1,1
+TrustRank,ORG,1,1
+AntiTrustRank,ORG,1,1
+twenty-three,CARDINAL,1,1
+SCITEPRESS,ORG,2,2
+Science and Technology Publications,ORG,2,2
+Lda,GPE,2,2
+500 years ago,DATE,1,1
+Magallanes,ORG,1,1
+Juan Sebastián Elcano,PERSON,1,1
+1421,DATE,1,1
+The Year China,EVENT,1,1
+2002,DATE,1,1
+Gavin Menzies,PERSON,1,1
+a century,DATE,1,1
+Menzies,ORG,1,1
+Magallanes-Elcano,ORG,1,1
+Mariano Rajoy,PERSON,2,1
+PSOE,NORP,2,1
+Soraya Sáenz de Santamaría,ORG,2,1
+Albert Rivera,PERSON,2,1
+Pablo Iglesias,PERSON,2,1
+382,CARDINAL,1,1
+More than 85%,PERCENT,1,1
+95.4%,PERCENT,1,1
+84.38%,PERCENT,1,1
+88.89%,PERCENT,1,1
+58.1%,PERCENT,1,1
+69.23%,PERCENT,1,1
+513,CARDINAL,1,1
+Flat Earth International Conference,EVENT,1,1
+Flemish,LOC,1,1
+Schild & Vrienden,ORG,1,1
+Moscow State Institute of International Relations,ORG,1,1
+the Ministry of Foreign Affairs,ORG,1,1
+between 2014-2018,DATE,1,1
+multiyear,DATE,1,1
+2nd-4th-year,DATE,1,1
+MGIMO,PERSON,1,1
+Ogarev Mordovia State University,ORG,1,1
+"Executive, Legislative and Judicial",ORG,1,1
+Escola de Ciencia,ORG,1,1
+da Informacao da UFMG,PERSON,1,1
+Catalan,GPE,1,1
+Basque,NORP,2,1
+Berria,GPE,1,1
+Argia,GPE,1,1
+Goiena,PERSON,1,1
+Ara,ORG,1,1
+El Punt Avui,ORG,1,1
+Vilaweb,ORG,1,1
+the end of 2018,DATE,1,1
+1967,DATE,1,1
+"Goldman, & Olson",ORG,1,1
+Shapin,ORG,1,1
+Findings Contemporary,ORG,1,1
+Allamel-Raffin,FAC,1,1
+Greenberg,PERSON,1,1
+2004,DATE,2,2
+Rosenberger,NORP,1,1
+Galileo,PRODUCT,1,1
+a century ago,DATE,1,1
+Arabatzis,NORP,1,1
+López-Cantos,GPE,1,1
+Informing Science: the International Journal of an Emerging Transdiscipline,WORK_OF_ART,1,1
+Quito,GPE,1,1
+© 2019 Scientific Association Icono14,ORG,1,1
+APJII,ORG,1,1
+Social Media Credibility,ORG,1,1
+Universitas,ORG,2,2
+Ahmad Dahlan,PERSON,2,2
+Facebook Followers,PERSON,1,1
+Vector Space Model,PRODUCT,1,1
+VSM,ORG,1,1
+Facebook News,ORG,1,1
+The Science and Information,ORG,1,1
+SAI),ORG,1,1
+McChesney,ORG,1,1
+Beckett,PERSON,1,1
+Fletcher,ORG,1,1
+Reuters Digital News Report,ORG,1,1
+"Belenky, Clinchy, Goldberger",ORG,1,1
+Tarule,PERSON,1,1
+1986,DATE,1,1
+Ways of Knowing,ORG,1,1
+Egyptian,NORP,1,1
+Contextual Features,ORG,1,1
+CMS,ORG,1,1
+the K-Nearest Neighbor,LAW,1,1
+38,CARDINAL,1,1
+the Czech Republic,GPE,1,1
+Information Warfare,ORG,1,1
+Trumpism,PERSON,1,1
+American Political Science Association 2019,ORG,1,1
+Strategic Communications',ORG,1,1
+the 'Big Data',ORG,1,1
+© British International Studies Association,ORG,1,1
+Fakebox,ORG,1,1
+12.8%,PERCENT,1,1
+the Electoral College,ORG,1,1
+World Values Survey,ORG,1,1
+Verificado México,PERSON,1,1
+more than 90,CARDINAL,1,1
+March 29,DATE,1,1
+"June 27, 2018",DATE,1,1
+3116,CARDINAL,1,1
+the electoral day,DATE,1,1
+Academia Brasileira de Ciencias,ORG,1,1
+BMS,ORG,3,1
+Barnich,PERSON,1,1
+Bondi,GPE,2,1
+Newman-Penrose,ORG,1,1
+Facebook,GPE,2,2
+Conservatives,NORP,1,1
+65,CARDINAL,1,1
+nearly seven,CARDINAL,1,1
+the 1936 International Convention on the Use of Broadcasting,EVENT,1,1
+the Cause of Peace,FAC,1,1
+1953,DATE,1,1
+Convention on the International Right of Correction,ORG,1,1
+the League of Nations',ORG,2,1
+the United Nations',ORG,1,1
+Lisa,PERSON,1,1
+Benvenisti,PERSON,1,1
+Semarang,GPE,1,1
+two months,DATE,1,1
+as little as 750,CARDINAL,1,1
+one-fifth,CARDINAL,1,1
+Afrikaans,NORP,4,1
+South African Academy for Science,ORG,1,1
+138,CARDINAL,1,1
+"Monday, 1995-2018",DATE,1,1
+a week,DATE,1,1
+1992-2012,DATE,1,1
+Subject-Verb-Object Semantic,PRODUCT,1,1
+SVOSSTC,ORG,1,1
+Verb,ORG,1,1
+VidTIMIT,ORG,1,1
+AMI,ORG,1,1
+GRID,ORG,1,1
+© EURASIP 2018,PERSON,1,1
+egalitarian,NORP,1,1
+Blue Feed,ORG,1,1
+Red Feed,ORG,1,1
+the Wall Street Journal,ORG,1,1
+"5,303",CARDINAL,1,1
+"2,614,374",CARDINAL,1,1
+Snopes,PRODUCT,1,1
+the Association for Computing Machinery,ORG,1,1
+Julian Assange,PERSON,1,1
+WikiLeaks,NORP,1,1
+Catalan,NORP,2,2
+the last quarter of 2017,DATE,1,1
+"1,708,087",CARDINAL,1,1
+99.85%,PERCENT,1,1
+totalitarian,NORP,1,1
+National Association of Biology Teachers,ORG,1,1
+"The Grading of Recommendations, Assessment, Development",ORG,1,1
+GRADE,ORG,3,1
+influenza vaccine administration,ORG,1,1
+the Centers for Disease Control and Prevention,ORG,1,1
+the Advisory Committee on Immunization Practice,ORG,1,1
+Donahue et al,PERSON,1,1
+H1N1,GPE,1,1
+current influenza season,DATE,1,1
+SAB,ORG,1,1
+7.7,DATE,1,1
+2.2,CARDINAL,1,1
+the previous season,DATE,1,1
+the current season,DATE,1,1
+1.3,DATE,1,1
+© Sidra Zafar,PERSON,1,1
+Yacob Habboush,PERSON,1,1
+Sary Beidas,PERSON,1,1
+"1,525,748",CARDINAL,1,1
+"17,989",CARDINAL,1,1
+641,CARDINAL,1,1
+FeedReflect,ORG,1,1
+FeedReflect,PRODUCT,1,1
+Community,ORG,1,1
+over two,CARDINAL,1,1
+Manchester,PERSON,1,1
+Las Vegas,GPE,1,1
+75.43%,PERCENT,1,1
+67.43%,PERCENT,1,1
+70.92%,PERCENT,1,1
+only 2%,PERCENT,1,1
+Maester,PERSON,4,1
+the Fake News Challenge,ORG,1,1
+© 2018 Association for Computing Machinery,ORG,2,2
+the Multimodal Entity Image Repur,ORG,1,1
+Flickr,GPE,1,1
+MEIR,ORG,1,1
+0.23,CARDINAL,1,1
+Islamophobia,ORG,2,1
+anti-Muslim,NORP,2,1
+Islamophobia,GPE,2,1
+European Union,ORG,1,1
+Islamophobia,LOC,1,1
+anti-Islam,PERSON,1,1
+countermedia,ORG,1,1
+analyse countermedia,ORG,1,1
+European Sociological Association,ORG,1,1
+the last few decades,DATE,1,1
+Multiple Sclerosis (pwMS,ORG,1,1
+Influencers,NORP,1,1
+SMsocialnetwork,ORG,1,1
+April to June 2015,DATE,1,1
+MS,ORG,2,1
+1420,DATE,1,1
+"pwMS, 1",ORG,1,1
+Influencers,ORG,3,1
+SMsocialnetwork.com,ORG,1,1
+115,CARDINAL,1,1
+Akadémiai Kiadó,PERSON,1,1
+Budapest,GPE,1,1
+2018,CARDINAL,10,10
+the late 1950s,DATE,1,1
+early 1970s,DATE,1,1
+Situationist,NORP,2,1
+the Big Data,ORG,1,1
+Lexicon,ORG,1,1
+late 2013,DATE,1,1
+July 2014,DATE,1,1
+Australian Research Council,ORG,1,1
+Sydney,GPE,1,1
+Vincent F. Hendricks,PERSON,1,1
+Mads Vestergaard,PERSON,1,1
+"February 2, 2017",DATE,1,1
+Bowling Green,GPE,1,1
+Kentucky,GPE,1,1
+the Board of Trustees of,ORG,1,1
+the University of Illinois,ORG,1,1
+AEJMC,ORG,1,1
+the XX century,DATE,1,1
+their first years,DATE,1,1
+ROI,ORG,1,1
+SROI,ORG,1,1
+his first six months,DATE,1,1
+"January 20 to July 20, 2017",DATE,1,1
+21D,CARDINAL,1,1
+"more than 1,345",CARDINAL,1,1
+"570,446",CARDINAL,1,1
+Background Digital,ORG,1,1
+60 million,CARDINAL,1,1
+more than 2.4 million,CARDINAL,1,1
+5000,CARDINAL,1,1
+Politoscope,WORK_OF_ART,1,1
+Gaumont et al,LOC,1,1
+Petter Törnberg,PERSON,1,1
+CGI,ORG,1,1
+PI,DATE,1,1
+up to 100%,PERCENT,1,1
+between 2010 and 2016,DATE,1,1
+Fake News',ORG,1,1
+Latent Semantic Analysis,ORG,2,2
+9203,CARDINAL,1,1
+81.87%,PERCENT,1,1
+86.95%,PERCENT,1,1
+73.33%,PERCENT,1,1
+Fake News/Post-Truth,ORG,1,1
+Residual Networks,ORG,1,1
+0.97,CARDINAL,1,1
+JPEG,ORG,1,1
+Event Adversarial Neural Network,ORG,1,1
+the European Court of Human Rights,ORG,2,2
+the Open University,ORG,1,1
+© Helen Clough,PERSON,1,1
+Amanda Closier,PERSON,1,1
+Buzzfeed News,ORG,1,1
+Internationale de Droit Economique,ORG,1,1
+heyday,DATE,1,1
+the 2017 International Conference on Social Media and Society,EVENT,1,1
+Thousands,CARDINAL,1,1
+IFLA,ORG,1,1
+ALA,ORG,1,1
+less than one day,DATE,1,1
+another day,DATE,1,1
+hundreds of millions,CARDINAL,1,1
+11%∼33%,PERCENT,1,1
+http://web.cs.wpi.edu/∼kmlee/data/gau.html,ORG,1,1
+850,CARDINAL,1,1
+over 200 million,CARDINAL,2,2
+diphtheria,GPE,1,1
+poliovirus,ORG,1,1
+Haemophilus,PRODUCT,1,1
+under 18 months,DATE,2,1
+the European Countries,ORG,1,1
+European Countries,ORG,1,1
+35.4%,PERCENT,1,1
+Lancet,ORG,1,1
+Wakefield,GPE,1,1
+Mandarin,LANGUAGE,2,1
+25-50%,PERCENT,1,1
+SERP,ORG,2,1
+27-41%,PERCENT,1,1
+Between 12 and 24%,DATE,1,1
+43-70%,PERCENT,1,1
+the 43rd,DATE,1,1
+1-5%,PERCENT,1,1
+CAM,ORG,2,1
+50-100%,PERCENT,1,1
+Al-Jefri,PERSON,1,1
+Applied Behaviour Analysis,ORG,1,1
+the past 40–50 years,DATE,1,1
+ABA,ORG,2,1
+ABA,GPE,1,1
+the National Institute for Health and Care Excellence,ORG,1,1
+Stephen Colbert,PERSON,1,1
+Colbert,PERSON,1,1
+Socratic,NORP,2,1
+Sophistic,NORP,1,1
+Andrew C. Jones,PERSON,1,1
+The United States Centers for Disease Control and Prevention,ORG,1,1
+"August 15, 2016",DATE,1,1
+"University of Pittsburgh, School of Law",ORG,1,1
+Adaptation,PRODUCT,1,1
+Climate,ORG,1,1
+Baltic Sea Region,LOC,1,1
+BSR,ORG,2,1
+Eastern BSR,LOC,1,1
+Jonas Zemaitis,PERSON,1,1
+Mumsnet,NORP,2,1
+0.75,CARDINAL,1,1
+0.11,CARDINAL,1,1
+Routledge Handbook of Sustainability Indicators and Indices,WORK_OF_ART,1,1
+59,CARDINAL,1,1
+SI,FAC,1,1
+2016-,TIME,1,1
+Nova de Lisboa - Center,PERSON,2,2
+brazilian,NORP,1,1
+O Globo,ORG,2,1
+Chinese Institute of Electronics,ORG,1,1
+Boston,GPE,1,1
+Bangkok,GPE,1,1
+AI,GPE,1,1
+IEEE Security & Privacy,ORG,1,1
+Coimbra,GPE,1,1
+billions of dollars,MONEY,1,1
+RCT,ORG,1,1
+ORBITA,ORG,1,1
+Therapy of Angioplasty,ORG,1,1
+Drug Therapy for Atrial Fibrillation Trial,ORG,1,1
+eighth,ORDINAL,1,1
+International Literacy Association,ORG,1,1
+e. g. by,PERSON,1,1
+authoritarian,NORP,1,1
+theatre,ORG,1,1
+Berlin/Boston,ORG,1,1
+modern day,DATE,2,1
+Echo Chambers,ORG,1,1
+Social Media Platform,ORG,1,1
+Black Mirror,ORG,1,1
+Creative Commons CC,ORG,2,2
+Ed Koltonski,PERSON,1,1
+Kent State,PERSON,1,1
+two thirds,CARDINAL,1,1
+Ilana Stonebraker,PERSON,2,1
+Emily Johnson,PERSON,2,1
+Purdue University,ORG,1,1
+the Middle School Librarian,ORG,1,1
+Daystar Academy,ORG,1,1
+the University of Michigan,ORG,1,1
+Emily johnson,PERSON,1,1
+EmoLex,ORG,1,1
+Amazon,PRODUCT,1,1
+Atlantis Press,ORG,1,1
+Hillary Clinton,PERSON,1,1
+Obama,GPE,1,1
+Hoaxy,ORG,1,1
+two million,CARDINAL,1,1
+several hundred thousand,CARDINAL,1,1
+the six months,DATE,1,1
+Shao et al,PERSON,1,1
+post-Soviet,NORP,1,1
+the Western Balkans,LOC,1,1
+May 2017,DATE,2,2
+the International AAAI Conference,ORG,1,1
+Association for the Advancement of Artificial Intelligence,ORG,1,1
+ivory,GPE,1,1
+© 2017,ORG,2,2
+"the University of California,",ORG,1,1
+Santa Barbara,GPE,1,1
+2 hours,TIME,1,1
+National Institutes of Health,ORG,1,1
+Montell,ORG,1,1
+March 2017,DATE,2,2
+TraceMiner,ORG,2,1
+Curb,PRODUCT,1,1
+stochastic,NORP,1,1
+Mammography,PERSON,2,1
+OMRR,ORG,4,1
+0.4,CARDINAL,1,1
+Maxwell McCombs,PERSON,1,1
+22–23,ORG,1,1
+Austin,GPE,1,1
+Texas,GPE,1,1
+McCombs,PERSON,1,1
+the Jesse H. Jones Centennial Chair,ORG,1,1
+the University of Texas,ORG,1,1
+Chapel Hill Study (North Carolina,ORG,1,1
+Donald Shaw,PERSON,1,1
+1968,DATE,1,1
+M.A.,GPE,1,1
+B.A.,GPE,1,1
+Tulane University,ORG,1,1
+Ralph J. Keyes,PERSON,1,1
+Keyes,ORG,1,1
+Hratsko Filozofsko Drustvo,PERSON,1,1
+utopian,NORP,1,1
+Tsunami,GPE,1,1
+50%-80%,PERCENT,1,1
+"Journal of Content, Community & Communication",ORG,2,2
+BJP,ORG,4,1
+twentieth century,DATE,1,1
+Arendtian,NORP,1,1
+John LeJeune,PERSON,1,1
+Арендт,PERSON,1,1
+Второй,PERSON,1,1
+Критическая опасность этих обстоятельств состоит в том,EVENT,1,1
+в которых,PERSON,1,1
+сфере,NORP,2,1
+в силу того,PERSON,2,1
+что в них,PERSON,1,1
+верят,PERSON,1,1
+целостности,GPE,1,1
+опасность,PERSON,1,1
+в свободную прессу,PERSON,1,1
+мира,PERSON,2,2
+достоверные факты,PERSON,1,1
+когда средства,PERSON,1,1
+опираясь на,ORG,1,1
+нивелируют свою,PERSON,1,1
+роль в качестве распространителя,PERSON,1,1
+политического субъекта,PRODUCT,1,1
+статье высказывается,PERSON,1,1
+более фундаментальная,PERSON,1,1
+связанная с понятием,PERSON,1,1
+свободы мнения» Ханны Арендт,PERSON,1,1
+Achrol,ORG,1,1
+Chandwaji,ORG,1,1
+Jaipur,ORG,1,1
+Rajasthan,PERSON,1,1
+2016,CARDINAL,1,1
+Zygmunt Bauman's,PERSON,1,1
+© Wolfgang Heuer,PERSON,1,1
+правды,GPE,1,1
+в связи,PERSON,1,1
+так называемой «,PERSON,1,1
+арендтовскому,NORP,1,1
+отношений между,PERSON,1,1
+достоверности необходима истина,PERSON,1,1
+но в то,PERSON,1,1
+говоря,GPE,1,1
+Арендт,GPE,1,1
+мысленного построения,PERSON,1,1
+но также,GPE,1,1
+Таким,FAC,1,1
+ложью,GPE,1,1
+выдуманными истинами,GPE,1,1
+потеря чувства реальности достигает,FAC,1,1
+они,PERSON,1,1
+котором ничего,PERSON,1,1
+случайно и,PERSON,1,1
+является тем,PERSON,1,1
+дискредитации политики,PERSON,1,1
+Республиканизм Арендт,PERSON,1,1
+IL,GPE,9,1
+IL,NORP,1,1
+©,TIME,1,1
+276,CARDINAL,1,1
+November 2016 - June 2017,DATE,1,1
+Infonia,GPE,1,1
+the Pro-Truth Pledge,ORG,1,1
+PsychOpen,ORG,1,1
+"1,627",CARDINAL,1,1
+299,CARDINAL,1,1
+0.46,CARDINAL,1,1
+© 2018 Association for Computational Linguistics,ORG,1,1
+Old Dominion University,ORG,1,1
+Norfolk,ORG,1,1
+VA,GPE,1,1
+CILIP Information Literacy Group,ORG,1,1
+the Digital News Report 2017,ORG,1,1
+Sur,ORG,1,1
+48 or 72 hours,TIME,1,1
+Morning Consult,ORG,1,1
+with/,CARDINAL,1,1
+the Contemporary Science Association,ORG,1,1
+Facta Medica,PERSON,1,1
+S.R.O. All,ORG,1,1
+the Year 2017,DATE,1,1
+up to 92%,PERCENT,1,1
+99.69%,PERCENT,1,1
+United States Presidential Election,EVENT,1,1
+Decision Trees,PERSON,1,1
+96%,PERCENT,1,1
+99.4%,PERCENT,1,1
+the Pacific Islands News,ORG,1,1
+Tonga,GPE,1,1
+May.,GPE,1,1
+Pacific Islands,LOC,1,1
+eight years,DATE,1,1
+likeS.,PERSON,1,1
+social network Services,ORG,1,1
+5W1H,CARDINAL,1,1
+The Environmental Protection Agency,ORG,1,1
+EPA,ORG,1,1
+Somali,NORP,1,1
+Minnesota.2-4,PRODUCT,1,1
+Hilary,PERSON,1,1
+CountVectorizer,WORK_OF_ART,1,1
+TfidfVectorizer,ORG,1,1
+Naive Bayes Model,PRODUCT,1,1
+© IFIP International Federation for Information Processing,ORG,1,1
+URG,ORG,1,1
+Smith-Waterman Algorithm,ORG,2,1
+up to 99.77%,PERCENT,1,1
+Google Image Search,ORG,1,1
+Internet Archive Foundation,ORG,1,1
+more than 700,CARDINAL,1,1
+the democratic organization of society,ORG,1,1
+Leviathan,GPE,1,1
+Tomsk State University,ORG,1,1
+the end of the,DATE,1,1
+World War,EVENT,1,1
+a hundred years ago,DATE,1,1
+Andrew Breitbart,PERSON,1,1
+the early 2000s,DATE,1,1
+the first 200 days,DATE,1,1
+Mao,PERSON,1,1
+Stalin,PERSON,1,1
+a day,DATE,1,1
+the eve of the,DATE,1,1
+Dimapur Lynching,PERSON,1,1
+Grenfell Tower,FAC,1,1
+Axel Gelfert,PERSON,1,1
+Trumpexamples,ORG,1,1
+Section One,LAW,1,1
+Section Two,LAW,1,1
+Section Three,LAW,1,1
+Stephen Sullivan,PERSON,1,1
+NPM,ORG,2,1
+Springer International Publishing AG,ORG,1,1
+12632,DATE,1,1
+Dan Gillmor,PERSON,2,1
+the Knight Center for Digital Media Entrepreneurship,ORG,1,1
+the News Co/Lab,ORG,1,1
+Almost 90%,PERCENT,1,1
+Larry Page,PERSON,1,1
+Sergey Brin's,PERSON,1,1
+twentieth-century,DATE,1,1
+Post-Fordist,ORG,2,1
+AdWords,ORG,2,1
+AdSense,PERSON,1,1
+AdSense,PRODUCT,1,1
+Ginzburg,GPE,1,1
+Freud,PERSON,1,1
+Michelangelo,PERSON,1,1
+hese,NORP,2,1
+P.K. Dick,PERSON,1,1
+Dick,PERSON,1,1
+SF,GPE,1,1
+digital media,ORG,1,1
+The Walkley Magazine,ORG,1,1
+Media Watch,ORG,1,1
+the Media Alliance,ORG,1,1
+"Murphy, 2017",ORG,1,1
+University of Wollongong,ORG,1,1
+the last year,DATE,1,1
+meta-analysis,ORG,1,1
+CSI,ORG,2,1
+Score,GPE,1,1
+Integrate,ORG,1,1
+Gulf Crisis,EVENT,1,1
+Saudi Arabia,GPE,1,1
+the United Arab Emirates,GPE,1,1
+Bahrain,GPE,1,1
+Egypt,GPE,1,1
+July 2017,DATE,1,1
+the pre-Arab Spring era,DATE,1,1
+ten days,DATE,1,1
+Fifth,ORDINAL,1,1
+Kerman University of Medical Sciences,ORG,2,2
+arachnid venom,PERSON,1,1
+less than a quarter,CARDINAL,1,1
+only 0.5%,PERCENT,1,1
+14-15,DATE,1,1
+Northern England,LOC,1,1
+RG,GPE,1,1
+© Emerald Publishing Limited,ORG,1,1
+2015 to 2016,DATE,1,1
+2017 2017,DATE,1,1
+Timothy Caulfield,PERSON,1,1
+Alessandro Macron & Blake Murdoch,ORG,1,1
+Brian Tarran,PERSON,1,1
+Adenosine,NORP,1,1
+RNA,ORG,5,1
+dsRNA,PRODUCT,1,1
+up to,CARDINAL,1,1
+one hundred percent,PERCENT,1,1
+Aicardi,PERSON,1,1
+AGS,PERSON,1,1
+RNA,LAW,1,1
+LLC © 2017,ORG,1,1
+Prajakta Bajad,PERSON,1,1
+Michael F. Jantsch,PERSON,1,1
+Liam Keegan,PERSON,1,1
+Mary O'Connell,PERSON,1,1
+"Thieme Medical Publishers, Inc.",ORG,1,1
+IJIR,ORG,1,1
+as eight,CARDINAL,1,1
+only about one percent,PERCENT,1,1
+UNHCR,ORG,1,1
+CrowdFlower,ORG,1,1
+approximately 80%,PERCENT,1,1
+System of Systems,ORG,1,1
+Craig R. McClain,PERSON,1,1
+0.79,CARDINAL,1,1
+Bias,PERSON,1,1
+UnbiasedCrowd,ORG,1,1
+"the Association for Computing Machinery, Inc.",ORG,1,1
+The News Feature ‘,ORG,1,1
+Nature Publishing Group,ORG,1,1
+GIScience,ORG,1,1
+© 2017 Association for Computational Linguistics,ORG,2,2
+Grexit,ORG,1,1
+François Fillon,PERSON,2,1
+Amossy,PERSON,2,1
+Amossy,GPE,1,1
+Wydawnictwo Naukowe INVIT,ORG,1,1
+decade-long,DATE,1,1
+12.8,CARDINAL,1,1
+minutes,TIME,1,1
+Propagation Tree Kernel,PRODUCT,1,1
+Information Systems,ORG,1,1
+100hardtruths-#fakenews,MONEY,1,1
+the first 100 days,DATE,1,1
+the U. S. Presidency,ORG,1,1
+Berlin/Boston 2017,ORG,1,1
+Marju Himma-Kadakas,PERSON,1,1
+Cosmopolitan Civil Societies Journal,ORG,1,1
+Gary Levy,PERSON,1,1
+the dynamics of information capitalism,ORG,1,1
+Jonathan Marshall,PERSON,1,1
+World Cup 2014,EVENT,1,1
+0.988,CARDINAL,1,1
+0.818,CARDINAL,1,1
+Channel One,ORG,1,1
+Stopfake.org,ORG,1,1
+five week,DATE,1,1
+Saturday,DATE,2,1
+Weekend Update,WORK_OF_ART,1,1
+2012,CARDINAL,3,3
+Taylor and Francis Group,ORG,3,3
+Chris Morris's,PERSON,1,1
+Brass Eye,ORG,2,1
+Morris,PERSON,1,1
+Newstopia,ORG,1,1
+Turner,PERSON,1,1
+Transgressive TV,WORK_OF_ART,1,1
+Jon Stewart,PERSON,1,1
+The Daily Show,WORK_OF_ART,1,1
+The Daily Show,EVENT,1,1
+Copyright © 2005,ORG,1,1
+Taylor & Francis Inc.,ORG,1,1
