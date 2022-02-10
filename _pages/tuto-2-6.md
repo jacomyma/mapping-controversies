@@ -62,6 +62,8 @@ The data are similar to that of the [tutorial 1.4](../1.4/). It might look like 
 	![Tableau](../assets/images/2-6/tableau.png)
 ](../assets/images/2-6/tableau.png)
 
+**Remark:** The curation of terms is different to that of the [tutorial 1.4](../1.4/), so even if the case and the visualization approach is the same, **the data-driven narrative is not the same**.
+
 # Documents produced
 
 Keep somewhere, for sharing, the following document:
