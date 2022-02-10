@@ -31,7 +31,7 @@ Download these two CSV files:
 	wikipedia-articles-tuto-2.6.csv
 </a><br><br></center>
 
-It just contains the list of the two articles.
+This file just contains the list of the two articles.
 
 <center><a href="../assets/data/2-6/words.csv">
 	<i class="fas fa-file-csv" style="font-size:5em"></i><br>
