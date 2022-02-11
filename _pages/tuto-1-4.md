@@ -1,18 +1,18 @@
 ---
 permalink: /1.4/
 layout: single
-title: 1.4. A small-multiple with words
+title: 1.4. A time of words
 ---
 
-**Duration: 30 min**
+**Duration: 20 min**
 
 [
 	![Overview tuto 1.4](../assets/images/1-4.jpg)
 ](../assets/images/1-4.jpg)
 
 **Goals**
-* Make a *dashboard* with Tableau
-* Activate your knowledge with a new situation
+* Make a timeline of *words* occurring in old versions of text
+* Make a easy to *explore the source* directly from Tableau
 
 # Data
 
@@ -23,16 +23,31 @@ Download this CSV:
 	terms-and-revisions-thorium.csv
 </a><br><br></center>
 
-It contains with revisions of the article about [Thorium-based nuclear power](https://en.wikipedia.org/wiki/Thorium-based_nuclear_power) contain which terms of a given list.
+It contains old revisions of the article about [Thorium-based nuclear power](https://en.wikipedia.org/wiki/Thorium-based_nuclear_power) with information about whether a set of user-defined keywords are present in each revision.
 
 *Note: this file was obtained by feeding this [<i class="fas fa-file-csv"></i>&nbsp;list of terms](../assets/data/1-4/words-small-list-nuclear.csv) and this [<i class="fas fa-file-csv"></i>&nbsp;list of articles](../assets/data/1-4/article-thorium.csv) (with just one article!) into the following notebook: [🍱&nbsp;Wikipedia words and articles to edit list with words](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_words_and_articles_to_edit_list_with_words.ipynb)*.
 
-# Make a dashboard
+# Visualize the words as a timeline
+Begin by making a timeline that looks like this:
 
-This is not a tutorial, but an exercise. The task is to produce a dashboard with a new dataset, still on the same case. This time, you are on your own.
+[
+	![Small multiple of words](../assets/images/1-4/MappingControversies_SmallMultiple_TutorialScreenshots.svg)
+](../assets/images/1-4/MappingControversies_SmallMultiple_TutorialScreenshots.svg)
 
 * **Import** the data into Tableau
-* Produce visualization **sheets**
+* Make a **sheet** where "Time" is the columns (aggregated by seconds to ensure we get all revisions represented separately) and "Term" is the rows.
+* Drag "Term" to the "Colour" field on the left of the sheet.
+* Drag "OldRevision Url" to the "Tooltip" field. This will ensure that when you select a revision with a word on the timeline, the tooltip gives you a direct link to the old version of the Wikipedia page where the word is found.
+
+# Make a dashboard
+
+
+
+[
+	![Small multiple of words](../assets/images/1-4/MappingControversies_SmallMultiple_TutorialScreenshots.svg)
+](../assets/images/1-4/MappingControversies_SmallMultiple_TutorialScreenshots.svg)
+
+
 * Use them to make a **dashboard**
 * Pick the **question(s)** you want to answer
 
