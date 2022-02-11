@@ -42,7 +42,7 @@ Upload the data in the same way as in [tutorial 1.1](../1.1/), and take a look a
 
 # Visualize a timeline of revisions
 
-Simple things first. The idea is still to look at the history of these pages, like we did in the previous tutorial, but the question has changed. We are not interested in when they were *edited* the most, as opposed to when where they *viewed* the most. The result may look like this:
+Simple things first. The idea is still to look at the history of these pages, like we did in the previous tutorial, but the question has changed. We are now interested in when they were *edited* the most, as opposed to when they were *viewed* the most. The result may look like this:
 
 [
 	![Timeline of revisions](../assets/images/1-2/tableau-timelime-revisions-2.png)
@@ -92,7 +92,7 @@ We can also wonder where the editors live. It may look like this:
 	![Map](../assets/images/1-2/tableau-geographical-map.png)
 ](../assets/images/1-2/tableau-geographical-map.png)
 
-Remark: not all editors have lattitude and longitude data. You can see that in the data table. This is because Wikipedia discloses the IP addresses of anonymous users and IP adressess can be be geo-located. IN short, what we are visualizing here is the location of all the anonymous contributors. Tableau tells you, in the visualization, that some of the data points were not placed in the map. Did you see it?
+Remark: not all editors have lattitude and longitude data. You can see that in the data table. This is because Wikipedia discloses the IP addresses of anonymous users and IP adressess can be be geo-located. In short, what we are visualizing here is the location of all the anonymous contributors. Tableau tells you, in the visualization, that some of the data points were not placed in the map. Did you see it?
 
 # Documents produced
 
