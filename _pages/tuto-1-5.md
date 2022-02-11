@@ -15,7 +15,7 @@ title: 1.5. Harvest a dataset
 
 # Harvest a dataset
 
-We will use Toolforge [PageViews](https://pageviews.toolforge.org) to harvest a dataset. To goal is to harvest the same dataset we have used in the [tutorial 1.1](../1.1/).
+We will use Toolforge [PageViews](https://pageviews.toolforge.org) to harvest a dataset. The goal is to harvest the same dataset we have used in the [tutorial 1.1](../1.1/).
 
 * Go to [PageViews](https://pageviews.toolforge.org)
 * Visualize the data for the two following Wikipedia articles:
