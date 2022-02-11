@@ -15,7 +15,7 @@ title: 1.3. Build a simple dashboard
 
 # Make a dashboard
 
-The dataset from the last tutorial ([1.2](../1.2/)) is rich enough to create a so-called dashboard in Tableau. A dashboard is a combination of visualizations that that allow the user to filter the data by selecting parts of one visualization and observing changes to the other visualizations. This is called cross-filtering.
+The dataset from the last tutorial ([1.2](../1.2/)) is rich enough to create a so-called dashboard in Tableau. A dashboard is a combination of visualizations that that allows the user to [filter the data by selecting parts of one visualization and observing changes to the other visualizations](https://help.tableau.com/current/pro/desktop/en-us/dashboards_create.htm#add-interactivity).
 
 Let's do that by reusing the Tableau workbook from the previous tutorial and combining the visualizations we created.
 
@@ -37,43 +37,30 @@ Rather than browsing through the page history archive right away, we can quickly
 	![Overview tuto 1.3](../assets/images/1-3/MappingControversies_TutorialScreenshots_FirstDashboard2.svg)](../assets/images/1-3/MappingControversies_TutorialScreenshots_FirstDashboard2.svg)
 
 
+You can also try to make a dashboard with the timeline of revisions and the map of anonymous revising editors. 
 
-* the timeline, geographical map, the list of editors... You may have to modify your sheets for the dashboard, because there is less space.
-* Use some (or all) of the [sheets as filters](https://help.tableau.com/current/pro/desktop/en-us/dashboards_create.htm#add-interactivity) to enable interactive exploration.
-* Check the [help](https://help.tableau.com/current/pro/desktop/en-us/dashboards_create.htm#create-a-dashboard-and-add-or-replace-sheets) if you're lost.
-
-It may look like this:
-[
-	![Dashboard](../assets/images/1-3/Dashboard.png)
-](../assets/images/1-3/Dashboard.png)
-
-Or like that:
+It may look like this (here we have selected all the anonymous editors in India to explore their revision timeline - remember to activate the filter for the map):
 [
 	![Dashboard](../assets/images/1-3/Dashboard-2.png)
 ](../assets/images/1-3/Dashboard-2.png)
 
+* Make your own version of one the dashboards above and explore. You may have to modify your sheets since there is less space in the dashboad canvas than on your worksheets. 
+* Check the [help](https://help.tableau.com/current/pro/desktop/en-us/dashboards_create.htm#create-a-dashboard-and-add-or-replace-sheets) if you're lost.
+
 # Explore the data by filtering the dashboard 
 
-Explore the data with the dashboard. Filter in different ways to explore different aspects. Each question may require a specific kind of filtering, and therefore a dashboard with specific sheets.
+Explore the data and try different filters.
+
 
 # Make an annotated visualization
 
-Pick a question that you can answer with the dashboard, and use it to annotate the visualization.
+Formulate a question that you can answer with the dashboard and use it to annotate the visualization.
 
 Example of questions you may use:
-* Are there editors in Denmark? If so, who are they?
-* Are there editors who edited both pages?
+* Are there editors who edited both pages? If so, who are they?
 * Who edited during a spike?
+* Where in the world are the anoymous editors, that produce a given revision spike?
 
-You may draw inspiration from this:
-
-[
-	![Dashboard](../assets/images/1-3/Dashboard-3.png)
-](../assets/images/1-3/Dashboard-3.png)
-
-[
-	![Dashboard](../assets/images/1-3/Dashboard-4.png)
-](../assets/images/1-3/Dashboard-4.png)
 
 # Documents produced
 
