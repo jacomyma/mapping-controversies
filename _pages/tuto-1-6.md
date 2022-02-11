@@ -17,7 +17,7 @@ title: 1.6. Harvest data with a notebook
 
 # Case
 
-Still the topic of *energy conversion*, but this time using 22 articles.
+Still the topic of *energy conversion*, but this time using 22 articles (which is why a notebook becomes practical).
 
 # Data
 
@@ -37,7 +37,8 @@ If you feel like it, you can try the [<i class="fas fa-file-csv"></i> list of 13
 A bit of context:
 * A *Jupyter notebook* is an online document that contains executable code (in Python), text, and images.
 * Executing the code requires a computer. For instance your own computer with [Anaconda](https://docs.anaconda.com/anaconda/); but that is not what we will use.
-* We will use [Google Colab](https://colab.research.google.com/), an environment proposed by Google, where the code is executed on a virtual machine. It requires a Google account.
+* We will use [Google Colab](https://colab.research.google.com/), an environment offered by Google where the code is executed on a virtual machine. It requires a Google account (just like Sheets).
+* The script calls the API of Wikipedia to ask for all the edits on each of the pages on the list.
 
 We will use the following script. It opens directly in Colab (although it is actually [stored on GitHub](https://github.com/jacomyma/mapping-controversies/tree/main/notebooks)).
 
