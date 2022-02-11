@@ -127,8 +127,3 @@ Keep somewhere, for sharing, the following document:
 
 * [An intro to Tableau in 23 minutes](https://www.youtube.com/watch?v=jEgVto5QME8)
 
-Tools for getting similar data (CSV format with timestamps) from other sources:
-* [Search interest over time with Google Trends](https://trends.google.com/trends/?geo=DK). Note that this can be filtered to geographical regions or other Google platforms such as YouTube, News or Shopping.
-* [Acitivity on Twitter over time with Social Bearing](https://socialbearing.com/search/user). Note that the input can be a single user handle or a hashtag, but that hashtag activity is hard to get more than a week back.
-* [Publication activity around a topic over time in scientific journals with Scopus](https://www.scopus.com/). Note that you will need to use your university login.
-* [Activity on public Facebook pages over time with FacePager](https://github.com/strohne/Facepager). Note that you will need to install the software.
