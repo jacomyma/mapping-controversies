@@ -39,21 +39,32 @@ Begin by making a timeline that looks like this:
 * Drag "Term" to the "Colour" field on the left of the sheet.
 * Drag "OldRevision Url" to the "Tooltip" field. This will ensure that when you select a revision with a word on the timeline, the tooltip gives you a direct link to the old version of the Wikipedia page where the word is found.
 
-# Make a dashboard
+You can read the visualization as a list of words that light up on the horizontal axis if they are found in an old revision of the Wikipedia page that was made at that point in time. 
 
 
-
-[
-	![Small multiple of words](../assets/images/1-4/MappingControversies_SmallMultiple_TutorialScreenshots.svg)
-](../assets/images/1-4/MappingControversies_SmallMultiple_TutorialScreenshots.svg)
-
-
-* Use them to make a **dashboard**
-* Pick the **question(s)** you want to answer
 
 # Annotate the dashboard
 
-Like before, make an **annotated visualization** from your dashboard, by exporting it into Google Slides, adding information, then exporting an image.
+The words have been selected because they tell a story about the controversy. Try to work out the story by reading the [version of the page about thorium-based nuclear power](https://en.wikipedia.org/w/index.php?title=Thorium-based_nuclear_power&oldid=1070992053) where the words were selected from. 
+
+You can use the link in the tooltip to explore the old revisions where the words occured first or where they were not yet there.
+
+Like before, make an **annotated visualization** from your worksheet, by exporting it into Google Slides, adding information, then exporting an image.
+
+
+# Make a dashboard if you have more time
+Since we have a direct link to the old versions of the page in the dataset ("OldRevision Url") it is possible to make a dashboard that embeds a direct view of that page whenever a revision is selected on the timeline. 
+
+It may look like this 
+
+[
+	![Small multiple of words](../assets/images/1-4/MappingControversies_SmallMultipleDashboard_TutorialScreenshots.svg)
+](../assets/images/1-4/MappingControversiesDashboard_SmallMultiple_TutorialScreenshots.svg)
+
+
+* Drag a "Web page" from the bottom left box onto the dashboard canvas along with the timeline.
+* Then try to follow [these instructions](https://www.theinformationlab.nl/en/2020/09/17/tableau-how-to-embed-a-web-page-object-into-your-dashboard/)
+
 
 # Documents produced
 
