@@ -40,6 +40,7 @@ Rather than browsing through the page history archive right away, we can quickly
 You can also try to make a dashboard with the timeline of revisions and the map of anonymous revising editors. 
 
 It may look like this (here we have selected all the anonymous editors in India to explore their revision timeline - remember to activate the filter for the map):
+
 [
 	![Dashboard](../assets/images/1-3/Dashboard-2.png)
 ](../assets/images/1-3/Dashboard-2.png)

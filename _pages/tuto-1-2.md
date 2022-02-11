@@ -92,6 +92,8 @@ We can also wonder where the editors live. It may look like this:
 	![Map](../assets/images/1-2/tableau-geographical-map.png)
 ](../assets/images/1-2/tableau-geographical-map.png)
 
+Be aware that when you drag "Lattitude" and "Longitude" into the "Columns" and "Rows" fields, Tableau may try to calculate an average and represent that. This will result in all editors being represented as a single node somewhere in the middle of the map. To fix it, you need to click on them in the "Column" and "Row" fields and select "Dimension" from the drop down.
+
 Remark: not all editors have lattitude and longitude data. You can see that in the data table. This is because Wikipedia discloses the IP addresses of anonymous users and IP adressess can be be geo-located. In short, what we are visualizing here is the location of all the anonymous contributors. Tableau tells you, in the visualization, that some of the data points were not placed in the map. Did you see it?
 
 # Documents produced
