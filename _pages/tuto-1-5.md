@@ -11,11 +11,12 @@ title: 1.5. Harvest a dataset
 ](../assets/images/1-5.jpg)
 
 **Goals**
-* *Harvest* a dataset from an online source
+* *Harvest* a dataset with a tool from an online source
+* Know that the tool calls an API to get data
 
 # Harvest a dataset
 
-We will use Toolforge [PageViews](https://pageviews.toolforge.org) to harvest a dataset. The goal is to harvest the same dataset we have used to build the timeline of page views in [tutorial 1.1](../1.1/).
+We will use Toolforge [PageViews](https://pageviews.toolforge.org) to harvest a the same dataset we have used to build the timeline of page views in [Tutorial 1.1](../1.1/).
 
 * Go to [PageViews](https://pageviews.toolforge.org)
 * Visualize the data for the two following Wikipedia articles:
@@ -25,6 +26,8 @@ We will use Toolforge [PageViews](https://pageviews.toolforge.org) to harvest a 
 	* The ```Dates``` should be from 01/07/2015 to today (we used 06/02/2022)
 	* The ```Date type``` should be ```Daily```. Indeed, Tableau can aggregate into months or years easily, so the more precise data is just better.
 * Download the dataset by clicking on the ```Download``` drop-down menu and selecting ```CSV```.
+
+The tool works by calling the Application Programming Interface (API) of Wikimedia. The [endpoint for page views](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews) gives you more options than the tool is able to offer, but the tool makes it easy to interact with API. We will see in the next tutorial how to use script to call the API directly.
 
 # Visualize
 
