@@ -11,9 +11,9 @@ title: 1.6. Harvest data with a notebook
 ](../assets/images/1-6.jpg)
 
 **Goals**
-* Learn how to run a **Jupyter notebook** from Google Colab
-* Check that it works differently from the previous tutorial
-* Make an annotated visualization from this data
+* Learn how to run a **Jupyter notebook** from Google Colab 
+* Call an API to get data
+* Make an annotated visualization 
 
 # Case
 
@@ -38,7 +38,7 @@ A bit of context:
 * A *Jupyter notebook* is an online document that contains executable code (in Python), text, and images.
 * Executing the code requires a computer. For instance your own computer with [Anaconda](https://docs.anaconda.com/anaconda/); but that is not what we will use.
 * We will use [Google Colab](https://colab.research.google.com/), an environment offered by Google where the code is executed on a virtual machine. It requires a Google account (just like Sheets).
-* The script calls the API of Wikipedia to ask for all the edits on each of the pages on the list.
+* The script calls the API of Wikipedia to ask for all the edits on each of the pages on the list. These edits are called reivions and are available through [this endpoint](https://www.mediawiki.org/wiki/API:Revisions). 
 
 We will use the following script. It opens directly in Colab (although it is actually [stored on GitHub](https://github.com/jacomyma/mapping-controversies/tree/main/notebooks)).
 
@@ -102,4 +102,5 @@ Last break before lunch! Then head for the last activity of the morning:
 ### Additional resources
 
 * [Intro to Google Colab in 3 minutes](https://www.youtube.com/watch?v=inN8seMm7UI).
+* [A list of other endpoints you could call with a script to get data from the Wikipedia API](https://www.mediawiki.org/w/api.php?action=help&modules=query).
 
