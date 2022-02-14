@@ -12,13 +12,14 @@ title: "2.2. Write the protocol: scrape from one article with SeeAlsology"
 
 **Goals**
 * **Harvest your own network** with SeeAlsology
-* Explore it with Gephi
-* **Write your own protocol**
+* Know that the tool uses a compbination of scraping and API calls to get hyperlinks and then crawls the pages.
+* Make a choice about how to harvest the network (which settings)
+* Explore the result with Gephi
+* **Write up your protocol**
 
 # Case
 
 **Your choice!** Pick one Wikipedia article. Prioritize a topic that:
-* You know about
 * You are curious about
 * Is linked to a controversy you want to map
 * An article that is not too long, *or* that has a good "See also" section.
@@ -34,10 +35,10 @@ title: "2.2. Write the protocol: scrape from one article with SeeAlsology"
 You should ask yourself the following questions, probably in this order:
 * Do I want to harvest links backwards (pages that cite my article, and so on)? If so, enable ```Parent links```.
 * Do I want all the links, or just the "See also"? Check the ```Take all links``` setting.
-* How far should I go? That is, what ```Distance```? **Tip:** start with small distances first.
+* How far should I go? That is, what ```Distance```? **Tip:** start with short distances to keep the harvest managable.
 * Do I want to filter the nodes later on in Gephi? Possibly because there are too many poorly connected nodes...
 
-These questions have no obvious answer. They depend on your article. Some articles do not have a "See also" section, so it forces you to take all links. Some articles cite many other articles, so the network grows too fast and you must pick a low distance. Some articles have many parent articles, some none, etc.
+These questions have no obvious answer. They depend on your article and your interests. Some articles do not have a "See also" section, so it forces you to take all links. Some articles cite many other articles, so the network grows too fast and you must pick a low distance. Some articles have many parent articles, some none, etc.
 
 *How to decide:* Look at a network size that is feasible. Too big, and it will get slow or impossible to work with your network. Too small, and there will be nothing to interpret. Aim for a size that you are comfortable with. Maybe 100 to 1,000 nodes? It also depends on the performance of your computer!
 

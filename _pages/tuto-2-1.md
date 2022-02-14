@@ -49,7 +49,7 @@ It contains 139 Wikipedia page URLs about energy conversion (no subcategories in
 
 # SeeAlsology
 
-[SeeAlsology](https://densitydesign.github.io/strumentalia-seealsology/) is an online tool that builds a network of Wikipedia pages and their hyperlinks. By default, it only looks at the hyperlinks in the "See also" section, hence its name. But it has a setting to grab all hyperlinks (we will use it).
+[SeeAlsology](https://densitydesign.github.io/strumentalia-seealsology/) is an online tool that builds a network of Wikipedia pages and their hyperlinks. By default, it only looks at the hyperlinks in the "See also" section at the bottom of a Wikipedia page, hence its name. But it has a setting to grab all hyperlinks (we will use it).
 
 * Open [SeeAlsology](https://densitydesign.github.io/strumentalia-seealsology/) in a browser
 * Open the CSV file in a spreadsheet or text editor, and copy-paste the list of URLs into SeeAlsology
