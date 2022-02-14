@@ -27,12 +27,14 @@ Take a close look at this protocol:
 	![Protocol](../assets/images/2-1/Protocol_Tutorial2-1.svg)
 ](../assets/images/2-1/Protocol_Tutorial2-1.svg)
 
-* The protocol tries to summarize all the information you need to understand the data and/or reproduce the experiment
-* It mentions the tools, but also the **most relevant settings**. Notably, when data have been removed.
+* The protocol tries to summarize all the information you need to understand the data and/or reproduce the analysis
+* It mentions the tools and the data formats, but also the **most relevant settings**. Notably, when data have been removed.
 * The main purpose of the protocol is to **provide context** to interpret the results.
 * How to know what to feature in the protocol? Anything that is necessary to **reproducing** the process. Because then it means that it partially determined the result, and thus is necessary to understand it.
 
-<div class="notice--info">In the following tutorials, we will alternate between following protocols and writing them. Ultimately, the goal is to learn how to write a protocol, as an important and necessary part of data-driven stories.</div>
+<div class="notice--info">In the following tutorials, we will alternate between following protocols and writing them. Ultimately, the goal is to learn how to write a protocol as an important and necessary part of a digital methods project. </div>
+
+A [template for writing protocols is available here](https://docs.google.com/presentation/d/1pnV8ofxUogb9dKgiBzVuXDI5C1hk3A3WXgHo3HRdWug/edit?usp=sharing). Feel free to use it in the following tutorials.
 
 # Data
 
