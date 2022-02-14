@@ -75,3 +75,7 @@ Keep somewhere, for sharing, the following documents:
 [<i class="fas fa-forward"></i>&nbsp;2.3. Follow the protocol: co-reference network from a category *(15 min)*](../2.3/)
 
 ...but first, let's take a break.
+
+### Relation to the course readings
+
+* The process of gettting data through scraping, crawling and calling APIs is covered in **Chapter 6: Collecting and curating digital records** of *Venturini, T. & Munk, A.K. (2021). Controversy Mapping: A Field Guide.
