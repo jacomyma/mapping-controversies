@@ -11,7 +11,7 @@ title: 1.11. From data to network with Table2Net
 ](../assets/images/1-11.jpg)
 
 **Goals**
-* Know how one can **extract a network** from a table
+* Know that you can **extract a network** from a table
 * Learn how to use **Table2Net** (online tool)
 * Activate your new network visualization skills
 * Make an annotated network map
@@ -58,7 +58,7 @@ You will obtain a bipartite network of articles and users. If you are lost, use 
 	![Network](../assets/images/1-11/network-preview.png)
 ](../assets/images/1-11/network-preview.png)
 
-**NOTE:** We introduce Table2Net because it works on **any CSV**, not just Wikipedia data, contrary to most of our notebooks. If you decide to use **other data sources**, it might prove very useful to you. Read the documentation included in the tool to understand it better. It allows extracting monopartite (regular) networks as well, for instance *editors connected when they edited the same article* or conversely, *articles connected when they were edited by the same editor*.
+**NOTE:** We introduce Table2Net because it works on **any CSV**, not just Wikipedia data, contrary to most of our notebooks. If you decide to use **other data sources**, Table2Net might therefore prove very useful to you. Read the documentation included in the tool to understand it better. It allows extracting monopartite (regular) networks as well, for instance *editors connected when they edited the same article* or conversely, *articles connected when they were edited by the same editor*.
 
 # Make an annotated network map
 
