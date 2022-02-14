@@ -11,7 +11,7 @@ title: 1.9. Visualize a bipartite network
 ](../assets/images/1-9.jpg)
 
 **Goals**
-* Check what makes a **bipartite** network special
+* Visualize a **bipartite** network 
 * Tinker with **centrality metrics**
 * Annotate important nodes
 
@@ -24,7 +24,7 @@ Download this GEXF:
 	wikipedia-articles-editors-network.gexf
 </a><br><br></center>
 
-It is the network of articles and editors connected when an editor contributed to an article, for the 139 Wikipedia articles in the category [energy conversion](https://en.wikipedia.org/wiki/Category:Energy_conversion) (ignoring subcategories).
+It is the network of articles and editors connected when an editor contributed to one of the 139 Wikipedia articles in the category [energy conversion](https://en.wikipedia.org/wiki/Category:Energy_conversion) (ignoring subcategories).
 
 The file was obtained by feeding this [<i class="fas fa-file-csv"></i>&nbsp;CSV file](../assets/data/1-9/energy-conversion-category-depth-0.csv) into the following script: [🍄&nbsp;Wikipedia articles to articles and editors network](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_articles_and_editors_network.ipynb).
 
@@ -32,10 +32,10 @@ The file was obtained by feeding this [<i class="fas fa-file-csv"></i>&nbsp;CSV 
 
 Quickly visualize the network, and color the nodes according to the attribute ```type```. Do not waste too much time here. The network is **big** and we need to reduce it.
 
-Remark the following things about this network:
-* Each node has one of the following types: ```article``` or ```editor```
-* Each edge connects an article to an editor. Contrary to the hyperlink network we have seen before, there are no edges between articles. And there are no edges between editors.
-* The edges are not directed
+Remark the following:
+* Each node can be one of two types: ```article``` or ```editor```
+* Each edge connects an article to an editor. Contrary to the hyperlink network we saw in the previous tutorial, there are no edges between articles. And there are no edges between editors.
+* The edges are not directed (you could say that an editor revises and article, or that an article is being revised by an editor, but contrary to the hyperlink it is not obvious what points to what here).
 
 These are the features of a **bipartite** network.
 
@@ -73,7 +73,7 @@ Remark: filters acts on both types of nodes, editors and articles alike, but in 
 
 # Apply a layout and save
 
-We will now completely delete the hidden nodes to free some computer power.
+We will now completely delete the hidden nodes to free up some computer power.
 * Apply a layout if you want, as we will now save the network.
 * In the menu, click on ```File > Export > Graph file...```.
 * Choose the file type ```GEXF```.
@@ -116,17 +116,17 @@ Are those the same? Does it change anything that a node is an article or an edit
 
 The betweenness centrality network is the most interesting one. Export the network map and annotate it in Google Slides.
 
-We ask you to **annotate the nodes that are important**. Clusters do not matter in this case. Here are some tips to write your annotations:
+We ask you to **annotate the nodes that are important** (ingore the clusters for now). Here are some tips:
 * High betweenness centrality means that the node is a bridge, an intermediary between many other nodes, or in other words a *broker*, an obligatory passage point.
 * Since this network is bipartite, one can say that the brokers are the nodes that contribute the most to connecting the other type of nodes. In that sense, they are structurally important. For example, the editors with the highest betweenness centrality are those who contribute the most to *connecting* articles.
 * In this network, each *connection* corresponds to a revision, i.e. the *act of editing* an article.
 * So broker editors are those who contribute to the most varied articles, and broker articles are where the contributors are the most varied.
 
-Your annotations do not have to be spectacular, but they have to be properly formulated.
+Make sure that your annotations are properly formulated to reflect the nature of the data.
 
 # Documents produced
 
-Keep somewhere, for sharing, the following document:
+Keep somewhere the following somewhere for sharing:
 * The annotated network (JPEG or PNG)
 
 # Next tutorial

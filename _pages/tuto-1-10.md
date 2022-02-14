@@ -11,7 +11,7 @@ title: 1.10. Visualize a weighted network
 ](../assets/images/1-10.jpg)
 
 **Goals**
-* Check what makes a **weighted** network special
+* Visualize a **weighted** network
 * Produce an annotated network map
 
 # Data
@@ -23,7 +23,7 @@ Download this GEXF:
 	energy-conversion-coreference-network.gexf
 </a><br><br></center>
 
-It is the network of the 3628 articles from the Wikipedia category [energy conversion](https://en.wikipedia.org/wiki/Category:Energy_conversion) (at two levels of subcategories) connected when they mention *references* in common. The references are the mentions and hyperlinks to external documents that you can find at the bottom of many articles (the documentary sources).
+It is the network of the 3628 articles from the Wikipedia category [energy conversion](https://en.wikipedia.org/wiki/Category:Energy_conversion) (at two levels of subcategories) connected when they have the same external *references* in common. On a Wikipedia page, the references are the footnotes with links to external sources that you find below the text. Two articles with many references in common could be said to be written with support from roughtly the same knowledge base.
 
 This file was harvested using the notebook [🍉&nbsp;Wikipedia category to article list](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_category_to_article_list.ipynb), giving this [<i class="fas fa-file-csv"></i>&nbsp;CSV file](../assets/data/1-10/wikipedia-articles-cat-energy-conversion.csv) containing the articles, that is then fed into the notebook [🫕&nbsp;Wikipedia articles to co-reference network](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_co_reference_network.ipynb) that harvest Wikipedia further, and builds the network. We will see that in [tutorial 2.3](../2.3/).
 
