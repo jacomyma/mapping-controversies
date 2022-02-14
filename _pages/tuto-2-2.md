@@ -12,7 +12,7 @@ title: "2.2. Write the protocol: scrape from one article with SeeAlsology"
 
 **Goals**
 * **Harvest your own network** with SeeAlsology
-* Know that the tool uses a compbination of scraping and API calls to get hyperlinks and then crawls the pages.
+* Know that the tool uses a compbination of scraping and API calls to get hyperlinks and then crawl them.
 * Make a choice about how to harvest the network (which settings)
 * Explore the result with Gephi
 * **Write up your protocol**
@@ -33,9 +33,9 @@ title: "2.2. Write the protocol: scrape from one article with SeeAlsology"
 * Harvest a network
 
 You should ask yourself the following questions, probably in this order:
-* Do I want to harvest links backwards (pages that cite my article, and so on)? If so, enable ```Parent links```.
-* Do I want all the links, or just the "See also"? Check the ```Take all links``` setting.
-* How far should I go? That is, what ```Distance```? **Tip:** start with short distances to keep the harvest managable.
+* Do I want all the links, or just the "See also" links at the bottom of the page? Check or uncheck the ```Take all links``` setting. If you want all the links, SeeAlsology will simply call the [links endpoint of the Wikipedia API](https://www.mediawiki.org/wiki/API:Links) and ask for the information directly. If you only want the "See also" links, the tool will have to [ask the API for the page content](https://www.mediawiki.org/wiki/API:Get_the_contents_of_a_page), then identify the "See also" section and scrape it for links.
+* Do I want to harvest links backwards (pages that cite my article but are not necessarily by my article)? If so, enable ```Parent links```. Since these links cannot be seen from the article you input, the tool cannot scrape anything and has to [rely on the API to get information about backlinks](https://www.mediawiki.org/wiki/API:Backlinks).
+* How far should I go? That is, how many link steps will you allow the tool to navigate from the seed page you have inputted? The tool works as a crawler and is able to repeat the process of getting links everytime it finds new the pages. This process is called crawling and in crawler terminology maximu number of linksteps from the seed is called ```Distance```. **Tip:** start with short distances to keep the harvest managable.
 * Do I want to filter the nodes later on in Gephi? Possibly because there are too many poorly connected nodes...
 
 These questions have no obvious answer. They depend on your article and your interests. Some articles do not have a "See also" section, so it forces you to take all links. Some articles cite many other articles, so the network grows too fast and you must pick a low distance. Some articles have many parent articles, some none, etc.
@@ -62,7 +62,7 @@ This is the network obtained for the article [Copenhagen](https://en.wikipedia.o
 
 # Write the protocol
 
-Using Google Slides, write the protocol of the image you have produced. **It must feature the methodological decisions you have made in SeeAlsology.**
+Using Google Slides, write the protocol of the image you have produced. **It must feature the methodological decisions you have made in SeeAlsology.** You can copy [this template](https://docs.google.com/presentation/d/1pnV8ofxUogb9dKgiBzVuXDI5C1hk3A3WXgHo3HRdWug/edit?usp=sharing) and edit your own.
 
 # Documents produced
 
