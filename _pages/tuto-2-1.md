@@ -22,12 +22,13 @@ We still stick to the case of energy conversion, using Wikipedia as the main dat
 # Protocol
 
 Take a close look at this protocol:
+
 [
 	![Protocol](../assets/images/2-1/Protocol_Tutorial2-1.svg)
 ](../assets/images/2-1/Protocol_Tutorial2-1.svg)
 
-* The protocol summarizes all the information one needs to know to understand the data and/or reproduce the experiment
-* It mentions mentions the tools, but also the **most relevant settings**. Notably, when data have been removed.
+* The protocol tries to summarize all the information you need to understand the data and/or reproduce the experiment
+* It mentions the tools, but also the **most relevant settings**. Notably, when data have been removed.
 * The main purpose of the protocol is to **provide context** to interpret the results.
 * How to know what to feature in the protocol? Anything that is necessary to **reproducing** the process. Because then it means that it partially determined the result, and thus is necessary to understand it.
 
