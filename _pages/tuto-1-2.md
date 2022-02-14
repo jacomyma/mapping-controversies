@@ -108,3 +108,7 @@ You deserve a break! Then head for the next tutorial:
 
 [<i class="fas fa-forward"></i>&nbsp;1.3. Build a simple dashboard *(15 min)*](../1.3/)
 
+### Relation to the course readings
+
+* The intricacies of Wikipedia and the different ways in which the platform may be reappropriated for controversy analysis are covered in *Weltevrede, E., & Borra, E. (2016).* **Platform affordances and data practices: The value of dispute on Wikipedia**
+*Big Data & Society, 3(1).*
