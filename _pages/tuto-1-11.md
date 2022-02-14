@@ -74,7 +74,7 @@ Can you tell a better data-driven story, in your annotations, than in tutorial 1
 
 # Documents produced
 
-Keep somewhere, for sharing, the following document:
+Keep somewhere the following document somewhere for sharing:
 * The annotated network (JPEG or PNG)
 
 # Next tutorial
