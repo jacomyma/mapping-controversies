@@ -63,7 +63,7 @@ It may look like this
 
 
 * Drag a "Web page" from the bottom left box onto the dashboard canvas along with the timeline.
-* Then try to follow [these instructions](https://www.theinformationlab.nl/en/2020/09/17/tableau-how-to-embed-a-web-page-object-into-your-dashboard/)
+* Then try to follow [these instructions](https://www.theinformationlab.nl/en/2020/09/17/tableau-how-to-embed-a-web-page-object-into-your-dashboard/) (or [those](https://www.rigordatasolutions.com/post/embedding-webpages-in-tableau-dashboards-opening-url-actions-inside-your-dashboards)).
 
 
 # Documents produced
