@@ -11,7 +11,7 @@ title: 1.11. From data to network with Table2Net
 ](../assets/images/1-11.jpg)
 
 **Goals**
-* Check that one can **extract a network** from a table
+* Know how one can **extract a network** from a table
 * Learn how to use **Table2Net** (online tool)
 * Activate your new network visualization skills
 * Make an annotated network map
@@ -39,7 +39,7 @@ It should provide you with a CSV table of edits, similar to that of tutorials [1
 
 # Extract a network using Table2Net
 
-[Table2Net](https://medialab.github.io/table2net/) is an online tool to extract a table from a CSV. Your goal is to extract a **bipartite network of articles and editors**. Follow the instructions below:
+[Table2Net](https://medialab.github.io/table2net/) is an online tool to extract a network (GEXF) from a table (CSV). Your goal is to extract a **bipartite network of articles and editors** from the tabular list of revisions you just harvested. Follow the instructions below:
 
 * Open [Table2Net](https://medialab.github.io/table2net/)
 * Upload the CSV file
