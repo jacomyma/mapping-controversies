@@ -132,3 +132,8 @@ Keep somewhere the following somewhere for sharing:
 # Next tutorial
 
 [<i class="fas fa-forward"></i>&nbsp;1.10. Visualize a weighted network *(15 min)*](../1.10/)
+
+### Relation to the course readings
+
+* The intricacies of Wikipedia and the different ways in which the platform may be reappropriated for controversy analysis are covered in *Weltevrede, E., & Borra, E. (2016).* **Platform affordances and data practices: The value of dispute on Wikipedia**
+*Big Data & Society, 3(1).*
