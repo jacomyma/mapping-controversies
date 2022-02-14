@@ -62,7 +62,7 @@ Let's move to a more flexible tool: Gephi.
 
 # Visualize the network
 
-Use Gephi to produce a network map. We suggest the following course of actions:
+Use Gephi to produce a network map. 
 
 Apply the Force Atlas 2 algorithm with the default settings but two modifications:
 * Stronger gravity activated
@@ -116,7 +116,7 @@ Let's export a PNG image of the network map.
 * In the drop-down list, pick the preset ```Default curved``` (curved edges are for directed networks)
 * Click on the ```Refresh``` button on the bottom of the side panel
 
-At this point you should see something like that:
+At this point you should see something like this:
 
 [
 	![Network](../assets/images/1-8/gephi-05.png)
@@ -162,6 +162,14 @@ You may want to comment on:
 **Link these observations with the topic of energy conversion.** Clusters can be used to identify the subtopics of energy conversion. Are certain subtopics more important than others? In which way? Can you compare the subtopics?
 
 Prioritize the most interesting observations in your annotations.
+
+The beginning of an annotation could look something like this:
+
+[
+	![Network](../assets/images/1-8/MappingControversies_AnnotationExamples_FirstNetwork.svg)
+](../assets/images/1-8/MappingControversies_AnnotationExamples_FirstNetwork.svg)
+
+You can find a [template here](https://docs.google.com/presentation/d/1sUoBD0Q0DjBOsV-lgFbvlVQIGF4gYfWbUN88iE-GUTQ/edit?usp=sharing) - feel free to make a copy and continue annotating, or simply start your own from scratch. 
 
 # Documents produced
 
