@@ -90,3 +90,9 @@ Keep somewhere, for sharing, the following document:
 🫖 Isn't it tea o'clock? After a good break, check this:
 
 [<i class="fas fa-forward"></i>&nbsp;2.8. Write the protocol: Annotated Tableau dashboard of Scopus data *(45 min)*](../2.8/)
+
+---
+
+### Relation to the course readings
+
+* Thoughts and principles on query design are covered in *Rogers, Richard. (2017).* **Foundations of Digital Methods: Query Design** *The Datafied Society: Studying Culture through Data, eds: M. Schaefer and K. van Es*

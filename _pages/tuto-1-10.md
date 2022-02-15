@@ -69,3 +69,6 @@ You may want to take a short walk at this point. Take a break, then check this:
 * And in **Chapter 7: Visual network analysis** in *Venturini, T. & Munk, A.K. (2021). Controversy Mapping: A Field Guide*
 * The intricacies of Wikipedia and the different ways in which the platform may be reappropriated for controversy analysis are covered in *Weltevrede, E., & Borra, E. (2016).* **Platform affordances and data practices: The value of dispute on Wikipedia**
 *Big Data & Society, 3(1).*
+[
+	![Overview tuto 1.10](https://thumb.ccsd.cnrs.fr/8839162/large)
+](https://thumb.ccsd.cnrs.fr/8839162/large)
