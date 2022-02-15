@@ -42,7 +42,7 @@ It is now time to do that same thing on your own data set.
 	* Computing centrality metrics, then annotating the important nodes
 	* Computing modularity clustering, them annotating the clusters
 	* Reflecting on the edges' direction and weight, if any.
-* You may make **multiple network maps** for a same network.
+* You may make **multiple network maps** for the same network.
 * You may make **multiple annotated visualizations** for a same network map.
 * Prioritize **clarity** in your visualizations and visual protocols.
 * If it makes more sense, you may **join your protocols** into a single diagram.
@@ -65,6 +65,13 @@ The afternoon starts with this:
 
 ---
 
+
+### Tools for getting similar data (networks in GEXF or GDF format) from other sources:
+
+* Networks of users, hashtags, or emojis from Twitter with the [Twitter Streaming Importer plugin for Gephi](https://github.com/seinecle/gephi-tutorials/blob/master/src/main/asciidoc/en/plugins/twitter-streaming-importer-en.adoc). Takes a list of words/#tags or a list of users as input.
+* Networks of YouTube channels or YouTube videos connected by their relatedness (as meassured by the algorithmic recommendations) with the [YouTube Data Tools](https://tools.digitalmethods.net/netvizz/youtube/). Takes a list of video or channel ID's as input.
+* Networks of scientific publications connected through keywords or citations with [ScienceScape](http://medialab.github.io/sciencescape/). Takes a full export from Scopus as input.
+
 ### Relation to the course readings
 
 * The process of getting data through scraping, crawling and calling APIs is covered in **Chapter 6: Collecting and curating digital records** of *Venturini, T. & Munk, A.K. (2021). Controversy Mapping: A Field Guide.*
@@ -72,9 +79,19 @@ The afternoon starts with this:
 *Big Data & Society, 3(1).*
 * The principles and concepts of Visual Network Analysis (VNA) are covered in **Chapter 2: What is visual network analysis** in *Jacomy, M. (2021). Situating Visual Network Analysis*
 * And in **Chapter 7: Visual network analysis** in *Venturini, T. & Munk, A.K. (2021). Controversy Mapping: A Field Guide*
+* An example of how to visualize and annotate the same network of wikipedia articles in different ways is described in **Figures 62-64** of *Venturini, T. & Munk, A.K. (2021). Controversy Mapping: A Field Guide*:
 
-### Tools for getting similar data (networks in GEXF or GDF format) from other sources:
+[
+	![CM Figure 62](https://medihal.archives-ouvertes.fr/hal-03227401/image)
+](https://medihal.archives-ouvertes.fr/hal-03227401/image)
+*Two renderings of a network of Wikipedia pages related to the Green Revolution. Top, density heatmap and structural holes; bottom, clusters and sub-clusters*
 
-* Networks of users, hashtags, or emojis from Twitter with the [Twitter Streaming Importer plugin for Gephi](https://github.com/seinecle/gephi-tutorials/blob/master/src/main/asciidoc/en/plugins/twitter-streaming-importer-en.adoc). Takes a list of words/#tags or a list of users as input.
-* Networks of YouTube channels or YouTube videos connected by their relatedness (as meassured by the algorithmic recommendations) with the [YouTube Data Tools](https://tools.digitalmethods.net/netvizz/youtube/). Takes a list of video or channel ID's as input.
-* Networks of scientific publications connected through keywords or citations with [ScienceScape](http://medialab.github.io/sciencescape/). Takes a full export from Scopus as input.
+[
+	![CM Figure 63](https://medihal.archives-ouvertes.fr/hal-03227404/image)
+](https://medihal.archives-ouvertes.fr/hal-03227404/image)
+*Central (continuous contour) and bridging (dotted line) nodes in the Green Revolution networks*
+
+[
+	![CM Figure 64](https://medihal.archives-ouvertes.fr/hal-03227411/image)
+](https://medihal.archives-ouvertes.fr/hal-03227411/image)
+*Authorities (left) and hubs (right) of the Green Revolution network*
