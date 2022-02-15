@@ -79,7 +79,7 @@ The afternoon starts with this:
 *Big Data & Society, 3(1).*
 * The principles and concepts of Visual Network Analysis (VNA) are covered in **Chapter 2: What is visual network analysis** in *Jacomy, M. (2021). Situating Visual Network Analysis*
 * And in **Chapter 7: Visual network analysis** in *Venturini, T. & Munk, A.K. (2021). Controversy Mapping: A Field Guide*
-* An example of how to visualize and annotate the same network of wikipedia articles in different ways is described in **Figures 62-64** of *Venturini, T. & Munk, A.K. (2021). Controversy Mapping: A Field Guide*:
+* An example of how to visualize and annotate the same network of wikipedia articles in different ways is described in **Figures 62-65** of *Venturini, T. & Munk, A.K. (2021). Controversy Mapping: A Field Guide*:
 
 [
 	![CM Figure 62](https://medihal.archives-ouvertes.fr/hal-03227401/image)
@@ -95,3 +95,8 @@ The afternoon starts with this:
 	![CM Figure 64](https://medihal.archives-ouvertes.fr/hal-03227411/image)
 ](https://medihal.archives-ouvertes.fr/hal-03227411/image)
 *Authorities (left) and hubs (right) of the Green Revolution network*
+
+[
+	![CM Figure 65](https://medihal.archives-ouvertes.fr/hal-03227419/image)
+](https://medihal.archives-ouvertes.fr/hal-03227419/image)
+*The Green Revolution network colored according to our manual thematic classification of Wikipedia pages*
