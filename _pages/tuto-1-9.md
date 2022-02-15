@@ -92,7 +92,7 @@ In case something went wrong, here is the [<i class="fas fa-file"></i>&nbsp;filt
 
 # Compute centrality metrics
 
-In the ```Statstics``` panel, on the right, run ```Network diameter```.
+In the ```Statistics``` panel, on the right, run ```Network diameter```.
 
 The network diameter is how many edges there are between the two most distant nodes (in this case, you will find 5). But more importantly, at the same occasion, the article computes some *centrality metrics*, including:
 * *Betweenness centrality*: the higher, the more the node is a bridge, a broker.
