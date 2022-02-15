@@ -30,9 +30,12 @@ A category on Wikipedia is a collection of pages about a specific topic curated 
 
 # Protocol
 
+Here is the protocol (you can skip the annotation as you have already done something similar in Tutorial 1.10):
+
 [
 	![Overview tuto 2.3](../assets/images/2-3/Protocol_Tutorial2-3.svg)
 ](../assets/images/2-3/Protocol_Tutorial2-3.svg)
+
 
 Follow these instructions:
 * Harvest the Wikipedia articles listed in a Wikipedia category
