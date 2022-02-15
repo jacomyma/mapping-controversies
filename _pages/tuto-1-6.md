@@ -108,3 +108,7 @@ Last break before lunch! Then head for the last activity of the morning:
 * [Intro to Google Colab in 3 minutes](https://www.youtube.com/watch?v=inN8seMm7UI).
 * [A list of other endpoints you could call with a script to get data from the Wikipedia API](https://www.mediawiki.org/w/api.php?action=help&modules=query).
 
+### Relation to the course readings
+
+* The process of getting data through APIs is covered in **Chapter 6: Collecting and curating digital records** of *Venturini, T. & Munk, A.K. (2021). Controversy Mapping: A Field Guide.*
+

@@ -82,3 +82,10 @@ Keep somewhere the following document somewhere for sharing:
 Take a break! Then check this:
 
 [<i class="fas fa-forward"></i>&nbsp;1.12. Activate your knowledge about Gephi *(45 min)*](../1.12/)
+
+---
+
+### Relation to the course readings
+
+* The principles and concepts of Visual Network Analysis (VNA) are covered in **Chapter 2: What is visual network analysis** in *Jacomy, M. (2021). Situating Visual Network Analysis*
+* And in **Chapter 7: Visual network analysis** in *Venturini, T. & Munk, A.K. (2021). Controversy Mapping: A Field Guide*
