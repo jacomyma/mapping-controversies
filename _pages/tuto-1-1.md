@@ -134,4 +134,5 @@ Keep somewhere, for sharing, the following document:
 ### Additional resources
 
 * [An intro to Tableau in 23 minutes](https://www.youtube.com/watch?v=jEgVto5QME8)
+* An example of [Tableau visualizations annotated in Google Slides](https://docs.google.com/presentation/d/1WFBRnr-USNOybHRmKWfGwpOffqFH8PB_SfzDQuBwKI0/edit?usp=sharing), looking into "OK Boomer" on Twitter, during the DMI Winter School 2022
 
