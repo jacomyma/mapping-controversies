@@ -1,7 +1,7 @@
 ---
 permalink: /1.4/
 layout: single
-title: 1.4. A time of words
+title: 1.4. A timeline of words
 ---
 
 **Duration: 20 min**
@@ -76,3 +76,10 @@ Keep somewhere, for sharing, the following document:
 ☕ Coffee time! Rest your eyes, then head for the next tutorial:
 
 [<i class="fas fa-forward"></i>&nbsp;1.5. Harvest a dataset *(15 min)*](../1.5/)
+
+--- 
+
+### Relation to the course readings
+
+* The intricacies of Wikipedia and the different ways in which the platform may be reappropriated for controversy analysis are covered in *Weltevrede, E., & Borra, E. (2016).* **Platform affordances and data practices: The value of dispute on Wikipedia**
+*Big Data & Society, 3(1).*

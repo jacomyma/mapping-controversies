@@ -81,3 +81,8 @@ Keep somewhere, for sharing, the following document:
 ### Additional resources
 
 * This [intro to Tableau in 23 minutes](https://www.youtube.com/watch?v=jEgVto5QME8) we mentionned before shows how to create a dashboard.
+
+### Relation to the course litterature
+
+* The intricacies of Wikipedia and the different ways in which the platform may be reappropriated for controversy analysis are covered in *Weltevrede, E., & Borra, E. (2016).* **Platform affordances and data practices: The value of dispute on Wikipedia**
+*Big Data & Society, 3(1).*
