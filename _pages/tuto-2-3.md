@@ -24,7 +24,9 @@ The only data we need is this single bit of text:
 Category:Energy conversion
 ```
 
-This is just the title of the Wikipedia category on energy conversion. It's nevertheless a *datum* (singular of data)!
+This is just the title of the [Wikipedia category on energy conversion](https://en.wikipedia.org/wiki/Category:Energy_conversion). It's nevertheless a *datum* (singular of data)!
+
+A category on Wikipedia is a collection of pages about a specific topic curated by the editors. Notice that there are subcategories inside the category. This means that some pages are found directly in the category, while other pages that might still be topically relevant are found at deeper levels of subcategories. Level 0 would be pages found directly in the category, while level 2 would be pages found inside a subcategory of subcategory of the category. We will make use of that to control the harvest below.
 
 # Protocol
 
