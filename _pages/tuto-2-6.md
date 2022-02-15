@@ -74,3 +74,9 @@ Keep somewhere, for sharing, the following document:
 Take a break before this:
 
 [<i class="fas fa-forward"></i>&nbsp;2.7. Extend the protocol: natural language processing *(45 min)*](../2.7/)
+
+---
+
+### Relation to the course readings
+
+* The process of getting data through scraping, crawling and calling APIs is covered in **Chapter 6: Collecting and curating digital records** of *Venturini, T. & Munk, A.K. (2021). Controversy Mapping: A Field Guide.*

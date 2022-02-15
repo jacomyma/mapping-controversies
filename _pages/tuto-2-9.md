@@ -42,3 +42,9 @@ Keep somewhere, for sharing, the following documents:
 
 🔥 Congratulations for getting through all of this!
 
+---
+
+### Relation to the course readings
+
+* The process of getting data through scraping, crawling and calling APIs is covered in **Chapter 6: Collecting and curating digital records** of *Venturini, T. & Munk, A.K. (2021). Controversy Mapping: A Field Guide.*
+

@@ -60,3 +60,9 @@ Keep somewhere, for sharing, the following document:
 # Next activity
 
 [<i class="fas fa-forward"></i>&nbsp;2.4. Write the protocol: Article-editor network from a category *(30 min)*](../2.4/)
+
+---
+
+### Relation to the course readings
+
+* The process of getting data through scraping, crawling and calling APIs is covered in **Chapter 6: Collecting and curating digital records** of *Venturini, T. & Munk, A.K. (2021). Controversy Mapping: A Field Guide.*

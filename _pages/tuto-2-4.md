@@ -45,3 +45,9 @@ Keep somewhere, for sharing, the following documents:
 Take some rest before the big chunk of the morning!
 
 [<i class="fas fa-forward"></i>&nbsp;2.5. Do your own network from a category *(45 min + 45 min)*](../2.5/)
+
+---
+
+### Relation to the course readings
+
+* The process of getting data through scraping, crawling and calling APIs is covered in **Chapter 6: Collecting and curating digital records** of *Venturini, T. & Munk, A.K. (2021). Controversy Mapping: A Field Guide.*
