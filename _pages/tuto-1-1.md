@@ -40,6 +40,12 @@ Download this CSV:
 It contains the page view data for both articles on Wikipedia in the period from 2015 to 2021.
 It comes from [this tool](https://pageviews.toolforge.org/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07&end=2021-12&pages=Space-based_solar_power|Thorium-based_nuclear_power) but we will see that later on in the tutorial.
 
+# Video tutorials
+
+{% include video id="5XEdQgHgMdU" provider="youtube" %}
+
+{% include video id="Z3yCzA92wjk" provider="youtube" %}
+
 # Load data into Tableau
 
 * Open Tableau Desktop

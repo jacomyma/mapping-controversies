@@ -13,6 +13,10 @@ title: 1.3. Build a simple dashboard
 **Goals**
 * Make a **dashboard** with Tableau
 
+# Video tutorial
+
+{% include video id="y3MH2votoyQ" provider="youtube" %}
+
 # Make a dashboard
 
 The dataset from the last tutorial ([1.2](../1.2/)) is rich enough to create a so-called dashboard in Tableau. A dashboard is a combination of visualizations that that allows the user to [filter the data by selecting parts of one visualization and observing changes to the other visualizations](https://help.tableau.com/current/pro/desktop/en-us/dashboards_create.htm#add-interactivity).

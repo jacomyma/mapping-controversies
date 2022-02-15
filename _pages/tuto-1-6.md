@@ -32,6 +32,10 @@ It just contains a list of 22 articles about energy conversion. In fact, this li
 
 If you feel like it, you can try the [<i class="fas fa-file-csv"></i> list of 139 articles](../assets/data/1-6/wikipedia-articles - 139 energy conversion articles.csv) from the first level of the [Wikipedia category](https://en.wikipedia.org/wiki/Category:Energy_conversion). Expect the notebook to take about 10 minutes to run, then.
 
+# Video tutorial
+
+{% include video id="UPyGLa4q_Dw" provider="youtube" %}
+
 # Open the notebook in Google Colab
 
 A bit of context:
