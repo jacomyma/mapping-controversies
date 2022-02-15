@@ -70,7 +70,7 @@ Keep somewhere, for sharing, the following document:
 
 # Next activity
 
-[<i class="fas fa-forward"></i>&nbsp;1.4. A small-multiple with words *(30 min)*](../1.4/)
+[<i class="fas fa-forward"></i>&nbsp;1.4. A time of words *(20 min)*](../1.4/)
 
 ---
 
