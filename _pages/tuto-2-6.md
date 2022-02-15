@@ -42,7 +42,12 @@ It just contains the list of 2,488 words mentionned in either articles. It was e
 
 # Protocol
 
-We ask you to enact this protocol:
+We ask you to enact this protocol (notice that parts of it has already been completed to get to the list of words you downloaded above):
+
+[
+	![Overview tuto 2.6](../assets/images/2-6/Protocol_Tutorial2-6.svg)
+](../assets/images/2-6/Protocol_Tutorial2-6.svg)
+
 * Make a selection of 5 to 20 words from the list, with the following criteria:
 	* Each word must be represented in both articles
 	* The words must be express a critical distance
