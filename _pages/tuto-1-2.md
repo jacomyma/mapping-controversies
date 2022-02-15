@@ -34,6 +34,8 @@ It contains the list of edits (i.e. revisions) for these two pages. It has been 
 
 # Video tutorial
 
+Note: the file mentioned in this video is the one you just downloaded.
+
 {% include video id="1LcsxtNaNdk" provider="youtube" %}
 
 # Load your data into Tableau

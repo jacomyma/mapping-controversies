@@ -30,6 +30,8 @@ The file was obtained by feeding this [<i class="fas fa-file-csv"></i>&nbsp;CSV 
 
 # Video tutorial
 
+Check this tutorial first. It uses the data you just downloaded. Note that you will find the same instructions as text down below.
+
 {% include video id="de_sAxlVTNQ" provider="youtube" %}
 
 # Quickly visualize the network

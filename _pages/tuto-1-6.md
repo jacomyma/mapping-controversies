@@ -32,10 +32,6 @@ It just contains a list of 22 articles about energy conversion. In fact, this li
 
 If you feel like it, you can try the [<i class="fas fa-file-csv"></i> list of 139 articles](../assets/data/1-6/wikipedia-articles - 139 energy conversion articles.csv) from the first level of the [Wikipedia category](https://en.wikipedia.org/wiki/Category:Energy_conversion). Expect the notebook to take about 10 minutes to run, then.
 
-# Video tutorial
-
-{% include video id="UPyGLa4q_Dw" provider="youtube" %}
-
 # Open the notebook in Google Colab
 
 A bit of context:
@@ -49,6 +45,10 @@ We will use the following script. It opens directly in Colab (although it is act
 **[🍹&nbsp;Wikipedia articles to edits list](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_edits_list.ipynb)**
 
 *Note: the emoji of each notebook is just there to help you memorize which notebook does what.*
+
+But **check this tutorial first.** It uses the same file and notebook.
+
+{% include video id="UPyGLa4q_Dw" provider="youtube" %}
 
 # Run the notebook to harvest data
 
