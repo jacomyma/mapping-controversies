@@ -78,14 +78,21 @@ Keep somewhere, for sharing, the following documents:
 
 ---
 
-### Relation to the course readings
-
-* The process of getting data through scraping, crawling and calling APIs is covered in **Chapter 6: Collecting and curating digital records** of *Venturini, T. & Munk, A.K. (2021). Controversy Mapping: A Field Guide.*
-* The intricacies of Wikipedia and the different ways in which the platform may be reappropriated for controversy analysis are covered in *Weltevrede, E., & Borra, E. (2016).* **Platform affordances and data practices: The value of dispute on Wikipedia**
-*Big Data & Society, 3(1).*
 
 ### Tools for getting similar data (networks in GEXF or GDF format) from other sources:
 
 * Networks of users, hashtags, or emojis from Twitter with the [Twitter Streaming Importer plugin for Gephi](https://github.com/seinecle/gephi-tutorials/blob/master/src/main/asciidoc/en/plugins/twitter-streaming-importer-en.adoc). Takes a list of words/#tags or a list of users as input.
 * Networks of YouTube channels or YouTube videos connected by their relatedness (as meassured by the algorithmic recommendations) with the [YouTube Data Tools](https://tools.digitalmethods.net/netvizz/youtube/). Takes a list of video or channel ID's as input.
 * Networks of scientific publications connected through keywords or citations with [ScienceScape](http://medialab.github.io/sciencescape/). Takes a full export from Scopus as input.
+
+### Relation to the course readings
+
+* The process of getting data through scraping, crawling and calling APIs is covered in **Chapter 6: Collecting and curating digital records** of *Venturini, T. & Munk, A.K. (2021). Controversy Mapping: A Field Guide.*
+* The intricacies of Wikipedia and the different ways in which the platform may be reappropriated for controversy analysis are covered in *Weltevrede, E., & Borra, E. (2016).* **Platform affordances and data practices: The value of dispute on Wikipedia**
+*Big Data & Society, 3(1).*
+* A similar network is described in **Figure 47** of *Venturini, T. & Munk, A.K. (2021). Controversy Mapping: A Field Guide*:
+
+[
+	![Overview tuto 1.10](https://medihal.archives-ouvertes.fr/hal-03227358/image)
+](https://medihal.archives-ouvertes.fr/hal-03227358/image)
+*Network obtained by crawling the “Circumcision controversies” page on Wikipedia at crawl distance 1 while also calling Wikipedia’s API to find pages through backlinks. Pages that are only found through backlinks are labeled*

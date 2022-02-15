@@ -74,4 +74,4 @@ You may want to take a short walk at this point. Take a break, then check this:
 [
 	![Overview tuto 1.10](https://medihal.archives-ouvertes.fr/hal-03227378/image)
 ](https://medihal.archives-ouvertes.fr/hal-03227378/image)
-"Network of pages from the “Circumcision” category on Wikipedia connected by the degree to which they reference the same external sources. Pages about male circumcision group on the left (dark gray with white center) while pages about female circumcision (known here as female genital mutilation) group on the right (white with black center)"
+*Network of pages from the “Circumcision” category on Wikipedia connected by the degree to which they reference the same external sources. Pages about male circumcision group on the left (dark gray with white center) while pages about female circumcision (known here as female genital mutilation) group on the right (white with black center)*
