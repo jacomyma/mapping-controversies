@@ -127,7 +127,7 @@ Keep somewhere, for sharing, the following document:
 
 # Next tutorial
 
-[<i class="fas fa-forward"></i>&nbsp;1.2. Visualize a different dataset with Tableau *(15 min)*](../1.2/)
+[<i class="fas fa-forward"></i>&nbsp;1.2. Visualize a different dataset with Tableau *(30 min)*](../1.2/)
 
 ---
 

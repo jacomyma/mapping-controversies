@@ -4,7 +4,7 @@ layout: single
 title: 1.4. A timeline of words
 ---
 
-**Duration: 20 min**
+**Duration: 30 min**
 
 [
 	![Overview tuto 1.4](../assets/images/1-4.jpg)

@@ -5,17 +5,17 @@ header:
   image: assets/images/splash.jpg
 ---
 
-This teaching material consists of 21 modules of 15 to 45 minutes, for 2 full days in total.
+This tutorial material consists of 21 modules of 15 to 45 minutes, for 2 full days in total. It covers some of the technical / practical aspects of controversy mapping with digital methods. As such, it is designed to complement teaching on the controversy mapping course.
 
 **Goal:** learn how to harvest and explore data, formulate insights, and build relatable visualizations.
 
-**Data:** we will mostly use Wikipedia data to keep things relatively simple, but the techniques generalize to other datasets.
+**Data:** we will mostly use Wikipedia data to keep things relatively simple, but the techniques generalize to other media platforms and datasets.
 
 **Tools:** we will mostly use Tableau, Gephi, and [Jupyter Notebooks](nb/). No experience required.
 
 ## Overview
 
-Each tutorial covers a part of this general process, from data harvesting (bottom) to building a controversy atlas (top). Once through all the tutorials, use this map to get oriented the landscape of digital methods.
+Each tutorial covers a part of this general process, from data harvesting (bottom) to building a controversy atlas (top). Once through all the tutorials, the routes on this map provide a set of options for completing the practical steps of a controversy mapping project.
 
 [![Digital methods map](assets/images/All.jpg)](assets/images/All.jpg)
 
@@ -23,22 +23,22 @@ Each tutorial covers a part of this general process, from data harvesting (botto
 
 The schedule breaks down in 4 half-days. Each one focuses on a different topic, and requires 4 hours of work, breaks included.
 
-The activities must be done in order, as they build on each other and ramp up in complexity. Each one comprises a tutorial and practical tasks. *Time is indicative.*
+The activities must be done in order, as they build on each other and ramp up in complexity. Each one comprises instructions and a set of practical tasks. *Time is indicative.*
 
 ### Tableau software
 
 Build annotated timelines with Tableau Software, 4 hours.
 
 * [1.1. Intro to Tableau software *(30 min)*](1.1/)
-* [1.2. Visualize a different dataset with Tableau *(15 min)*](1.2/)
+* [1.2. Visualize a different dataset with Tableau *(30 min)*](1.2/)
 * BREAK *(15 min)*
-* [1.3. Build a simple dashboard *(15 min)*](1.3/)
-* [1.4. A time of words *(20 min)*](1.4/)
+* [1.3. Build a simple dashboard *(30 min)*](1.3/)
+* [1.4. A timeline of words *(30 min)*](1.4/)
 * BREAK *(15 min)*
 * [1.5. Harvest a dataset *(15 min)*](1.5/)
 * [1.6. Harvest data with a notebook *(30 min)*](1.6/)
 * BREAK *(15 min)*
-* [1.7. Activate your knowledge about Tableau *(45 min)*](1.7/)
+* [1.7. Activate your knowledge about Tableau *(30 min)*](1.7/)
 
 ### Gephi
 

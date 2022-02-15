@@ -4,7 +4,7 @@ layout: single
 title: 1.7. Activate your knowledge about Tableau
 ---
 
-**Duration: 45 min**
+**Duration: 30 min**
 
 **Goals**
 * Activate the knowledge you have just acquired
@@ -16,6 +16,7 @@ Your teachers will provide a Padlet where you can upload:
 
 * Your annotated timeline of page views
 * Your annotated timeline of page revisions 
+* Your annotated timeline of words
 
 Spend 10 minutes reviewing and commenting on the work of other groups. Have they annotated the same stories as you? Have they made different choices? 
 

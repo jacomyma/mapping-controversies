@@ -4,7 +4,7 @@ layout: single
 title: 1.3. Build a simple dashboard
 ---
 
-**Duration: 15 min**
+**Duration: 30 min**
 
 [
 	![Overview tuto 1.3](../assets/images/1-2 1-3.jpg)
@@ -74,7 +74,7 @@ Keep somewhere, for sharing, the following document:
 
 # Next activity
 
-[<i class="fas fa-forward"></i>&nbsp;1.4. A time of words *(20 min)*](../1.4/)
+[<i class="fas fa-forward"></i>&nbsp;1.4. A timeline of words *(30 min)*](../1.4/)
 
 ---
 

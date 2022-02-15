@@ -99,7 +99,7 @@ Keep somewhere, for sharing, the following document:
 
 Last break before lunch! Then head for the last activity of the morning:
 
-[<i class="fas fa-forward"></i>&nbsp;1.7. Activate your knowledge about Tableau *(45 min)*](../1.7/)
+[<i class="fas fa-forward"></i>&nbsp;1.7. Activate your knowledge about Tableau *(30 min)*](../1.7/)
 
 ---
 

@@ -4,7 +4,7 @@ layout: single
 title: 1.2. Visualize a different dataset with Tableau
 ---
 
-**Duration: 15 min**
+**Duration: 30 min**
 
 [
 	![Overview tuto 1.2](../assets/images/1-2 1-3.jpg)
@@ -112,7 +112,7 @@ Keep the following files for later use:
 
 You deserve a break! Then head for the next tutorial:
 
-[<i class="fas fa-forward"></i>&nbsp;1.3. Build a simple dashboard *(15 min)*](../1.3/)
+[<i class="fas fa-forward"></i>&nbsp;1.3. Build a simple dashboard *(30 min)*](../1.3/)
 
 ---
 
