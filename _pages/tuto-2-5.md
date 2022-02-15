@@ -14,11 +14,11 @@ title: "2.5. Do your own network from a category"
 	* **visualization**,
 	* **annotation**,
 	* and **writing the protocol**.
-* Contribute to a **personal project**, at least as a test.
+* Contribute to your **own group project**, at least as a test.
 
 # Task
 
-It is now time to do that same thing on your own data set.
+It is now time to go through the whole process you have just learned, but on your own data set and for your own project.
 
 1. Choose a Wikipedia **category**
 1. Source a list of its Wikipedia **articles**
@@ -27,13 +27,13 @@ It is now time to do that same thing on your own data set.
 1. **Annotate** your network maps
 1. Write the **visual protocols**
 
-# Advices and comments
+# Advice and comments
 
 * **Help each other!**
 * Check the **[list of notebooks](../nb/)**.
 * Pay attention to the **quality of the sourcing** (the list of articles). The better, the easier the work of analyzing it: check that the articles are actually related to your topic.
 * **What size** for the sourcing (articles list)?
-	* Not too small, not too big: between 50 and 5000, but it also depends.
+	* Not too small, not too big: between 100 and 5000, but it also depends.
 	* If the subsequent harvesting makes your data bigger (e.g., articles and editors), prefer smaller lists (max level low).
 	* If not (e.g., hyperlinks network), you can probably visualize a network of thousands of nodes, and more if you filter it.
 	* If you have two, source multiple lists (same category, but at different levels).
@@ -52,8 +52,12 @@ It is now time to do that same thing on your own data set.
 # Documents produced
 
 Keep somewhere, for sharing, the following documents:
-* The images of the network maps (JPEG or PNG)
-* The image(s) of the protocol(s) (JPEG or PNG)
+* The images of the annotated network maps (JPEG or PNG)
+* The image(s) of the visual protocol(s) (JPEG or PNG)
+
+# Share your work
+
+Your teachers will provide you with a Padlet where you can share your annotated maps and visual protocols. Make sure that you put them up before you have lunch.
 
 # Next tutorial
 

@@ -7,7 +7,7 @@ title: "2.9. Write the protocol: Annotated Scopus author-article network map"
 **Duration: 45 min**
 
 **Goals**
-* Activate your knowledge use the same Scopus data differently
+* Activate your knowledge by using the same Scopus data differently
 * Extract an author-article bipartite network with **Table2Net**
 * **Visualize** and **annotate** the network
 * Write the **protocol**
@@ -37,6 +37,10 @@ If you are feeling comfortable enough, maybe you could try enriching your visual
 Keep somewhere, for sharing, the following documents:
 * The annotated network map (JPEG or PNG)
 * The visual protocol (JPEG or PNG)
+
+# Share your work
+
+Your teachers will provide you with a Padlet where you can share your annotated network map and visual protocol. Upload before you go home and take 5 minutes to review and comment on the work of the other groups.
 
 # WELL DONE!
 
