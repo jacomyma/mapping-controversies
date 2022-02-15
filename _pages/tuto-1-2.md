@@ -32,6 +32,12 @@ Download this CSV:
 
 It contains the list of edits (i.e. revisions) for these two pages. It has been produced by feeding this [<i class="fas fa-file-csv"></i> file](../assets/data/1-2/wikipedia-articles-tuto-1.2.csv) into this notebook: [🍹&nbsp;Wikipedia articles to edits list](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_edits_list.ipynb), but we will see that in [tutorial 1.6](../1.6/).
 
+# Video tutorial
+
+Note: the file mentioned in this video is the one you just downloaded.
+
+{% include video id="1LcsxtNaNdk" provider="youtube" %}
+
 # Load your data into Tableau
 
 Upload the data in the same way as in [tutorial 1.1](../1.1/), and take a look at it. There are more columns to choose from, so the complexity goes up. Notice for example that two columns, "Lattitude" and "Longitude", have now been parsed as geographical coordinates.

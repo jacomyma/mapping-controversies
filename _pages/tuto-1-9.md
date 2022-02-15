@@ -28,6 +28,12 @@ It is the network of articles and editors connected when an editor contributed t
 
 The file was obtained by feeding this [<i class="fas fa-file-csv"></i>&nbsp;CSV file](../assets/data/1-9/energy-conversion-category-depth-0.csv) into the following script: [🍄&nbsp;Wikipedia articles to articles and editors network](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_articles_and_editors_network.ipynb).
 
+# Video tutorial
+
+Check this tutorial first. It uses the data you just downloaded. Note that you will find the same instructions as text down below.
+
+{% include video id="de_sAxlVTNQ" provider="youtube" %}
+
 # Quickly visualize the network
 
 Quickly visualize the network, and color the nodes according to the attribute ```type```. Do not waste too much time here. The network is **big** and we need to reduce it.

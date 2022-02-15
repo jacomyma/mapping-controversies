@@ -46,6 +46,10 @@ We will use the following script. It opens directly in Colab (although it is act
 
 *Note: the emoji of each notebook is just there to help you memorize which notebook does what.*
 
+But **check this tutorial first.** It uses the same file and notebook.
+
+{% include video id="UPyGLa4q_Dw" provider="youtube" %}
+
 # Run the notebook to harvest data
 
 * **Upload** the CSV data into the virtual machine. Click on the ```File``` icon on the left, then on the icon on top the reads ```Upload to session storage``` and upload the CSV from above.

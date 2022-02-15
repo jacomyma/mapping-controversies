@@ -40,6 +40,12 @@ Download this CSV:
 It contains the page view data for both articles on Wikipedia in the period from 2015 to 2021.
 It comes from [this tool](https://pageviews.toolforge.org/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07&end=2021-12&pages=Space-based_solar_power|Thorium-based_nuclear_power) but we will see that later on in the tutorial.
 
+# Video tutorial
+
+Note: the file mentioned in this video is the one you just downloaded.
+
+{% include video id="5XEdQgHgMdU" provider="youtube" %}
+
 # Load data into Tableau
 
 * Open Tableau Desktop
@@ -85,6 +91,8 @@ Worksheet > Export > Image...
 Save as a ```.PNG``` file that we can easily reuse in Google Slides
 
 # Import the image into Google Slides
+
+{% include video id="Z3yCzA92wjk" provider="youtube" %}
 
 You can basically open the image in your OS and copy-paste it into a Google Slides, or import it from the menu:
 ```

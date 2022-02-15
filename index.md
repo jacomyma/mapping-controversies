@@ -33,7 +33,7 @@ Build annotated timelines with Tableau Software, 4 hours.
 * [1.2. Visualize a different dataset with Tableau *(15 min)*](1.2/)
 * BREAK *(15 min)*
 * [1.3. Build a simple dashboard *(15 min)*](1.3/)
-* [1.4. A small-multiple with words *(30 min)*](1.4/)
+* [1.4. A time of words *(20 min)*](1.4/)
 * BREAK *(15 min)*
 * [1.5. Harvest a dataset *(15 min)*](1.5/)
 * [1.6. Harvest data with a notebook *(30 min)*](1.6/)
@@ -79,3 +79,9 @@ Write visual protocols for other kinds of data, 4 hours.
 
 ## Resources
 * [List of included Jupyter notebooks](nb/)
+
+## License
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
