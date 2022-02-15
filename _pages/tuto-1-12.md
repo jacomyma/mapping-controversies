@@ -25,7 +25,7 @@ Spend 20 minutes discussing what kind of networks you could make for your own at
 
 Upload your ideas to the Padlet.
 
-Spend 15 minutes reviewing and commenting on the ideas of other groups. Can you suggest more ideas for them?
+Spend 15 minutes reviewing and commenting on the ideas of other groups. 
 
 
 # Documents produced
