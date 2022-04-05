@@ -18,6 +18,7 @@ These tutorials include the following notebooks, in order of apparition *(the em
 * 🍔 [Wikipedia articles to hyperlinks network (quick and dirty)](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_hyperlinks_network_quick_and_dirty.ipynb) *([GitHub](https://github.com/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_hyperlinks_network_quick_and_dirty.ipynb))*
 * 🍣 [Wikipedia articles to hyperlinks network (slow and clean)](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_hyperlinks_network_slow_and_clean.ipynb) *([GitHub](https://github.com/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_hyperlinks_network_slow_and_clean.ipynb))*
 * 🧁 [Enrich Wikipedia articles with API data](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Enrich_Wikipedia_articles_with_API_data.ipynb) *([GitHub](https://github.com/jacomyma/mapping-controversies/blob/main/notebooks/Enrich_Wikipedia_articles_with_API_data.ipynb))*
+* 🍪 [Wikipedia article to edit list with full content](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_article_to_edit_list_with_full_content.ipynb) *([GitHub](https://github.com/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_article_to_edit_list_with_full_content.ipynb))*
 
 # Overview
 
