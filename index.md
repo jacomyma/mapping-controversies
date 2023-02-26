@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Mapping Controversies
+title: Digital Controversy Mapping
 header:
   image: assets/images/splash.jpg
 ---
@@ -29,7 +29,10 @@ The activities must be done in order, as they build on each other and ramp up in
 
 Build annotated timelines with Tableau Software, 4 hours.
 
-* [1.1. Intro to Tableau software *(30 min)*](1.1/)
+**[1.1. Intro to Tableau software *(30 min)*](1.1/)**
+Tutorial for Tableau and Google Slides for annotation
+*Necessary*
+
 * [1.2. Visualize a different dataset with Tableau *(30 min)*](1.2/)
 * BREAK *(15 min)*
 * [1.3. Build a simple dashboard *(30 min)*](1.3/)
