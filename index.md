@@ -39,7 +39,7 @@ Build annotated timelines with Tableau Software, ~4 hours.
 
 **[1.3. Build a simple dashboard](1.3/)**
 <br>Tutorial for dashboards in Tableau.
-<br>*30 min. Optional, but someone in your group should know how to do Dashboards.*
+<br>*30 min. Optional, but someone in your group should know how to do dashboards.*
 
 **[1.4. A timeline of words](1.4/)**
 <br>Exercise and active learning.
