@@ -6,6 +6,7 @@ title: 1.12. Activate your knowledge about Gephi
 
 **Duration: 45 min**
 
+**Goals**
 * Activate the knowledge you have just acquired
 * Share your work with the other students
 
