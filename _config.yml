@@ -15,11 +15,11 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mapping Controversies"
+title                    : "Digital controversy mapping"
 title_separator          : "-"
 subtitle                 : "Tutorials and teaching material" # site tagline that appears below site title in masthead
 name                     : "Anders K. Munk & Mathieu Jacomy"
-description              : "Teaching material for the mapping controversies course."
+description              : "Teaching material for the digital controversy mapping course."
 url                      : "https://jacomyma.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/mapping-controversies" # the subpath of your site, e.g. "/blog"
 repository               : "jacomyma/mapping-controversies" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -110,7 +110,7 @@ author:
     - label: "GitHub repository"
       icon: "fas fa-fw fa-link"
       url: "https://github.com/jacomyma/mapping-controversies"
-    - label: "TANT Lab"
+    - label: "Tantlab"
       icon: "fas fa-flask"
       url: "https://www.tantlab.aau.dk/"
     - label: "Email"
