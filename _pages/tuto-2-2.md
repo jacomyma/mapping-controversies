@@ -12,7 +12,7 @@ title: "2.2. Write the protocol: scrape from one article with SeeAlsology"
 
 **Goals**
 * **Harvest your own network** with SeeAlsology
-* Know that the tool uses a compbination of scraping and API calls to get hyperlinks and then crawl them.
+* Know that the tool uses a combination of scraping and API calls to get hyperlinks and then crawl them.
 * Make a choice about how to harvest the network (which settings)
 * Explore the result with Gephi
 * **Write up your protocol**
