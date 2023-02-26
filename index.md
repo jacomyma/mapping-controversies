@@ -30,7 +30,7 @@ The activities must be done in order, as they build on each other and ramp up in
 Build annotated timelines with Tableau Software, ~4 hours.
 
 *[1.1. Intro to Tableau software](1.1/)*
-<nr>Tutorial for Tableau and Google Slides for annotation.
+<br>Tutorial for Tableau and Google Slides for annotation.
 <br>*30 min. Necessary.*
 
 *[1.2. Visualize a different dataset with Tableau](1.2/)*
