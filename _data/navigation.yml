@@ -1,23 +1,8 @@
 # main links
 main:
+  - title: "Overview"
+    url: /
   - title: "Notebooks"
     url: /nb/
-  - title: "Tableau"
-    url: /#tableau-software
-  - title: "Gephi"
-    url: /#gephi
-  - title: "Harvest relational data"
-    url: /#harvest-relational-data
-  - title: "Harvest other data"
-    url: /#harvest-other-data
-
-  #- title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Examples"
+    url: /examples/
