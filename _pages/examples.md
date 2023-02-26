@@ -20,7 +20,7 @@ These mini posters are from the students in 2022, with additional graphical desi
 
 ## Reports from the students (2022)
 
-You can find below the reports submitted but the students who have contributed to the five examples above.
+You can find below the reports submitted but the students who have produced the five examples above. Those were satisfying reports you can draw inspiration from.
 
 * [Mapping internet cookies](../assets/gallery-reports/2022/Internet Cookies.pdf)
 * [Citizen perspectives on Power-to-X technologies](../assets/gallery-reports/2022/Power to X.pdf)
