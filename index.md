@@ -21,19 +21,26 @@ Each tutorial covers a part of this general process, from data harvesting (botto
 
 ## Schedule
 
-The schedule breaks down in 4 half-days. Each one focuses on a different topic, and requires 4 hours of work, breaks included.
+The schedule breaks down in 4 half-days. Each one focuses on a different topic, and requires 4 hours of work, split into 4 sessions of 45 minutes with 15 minutes breaks. That schedule is, however, quite intensive. You may want to slow down or skip some parts. We indicate which parts are necessary and which ones are optional.
 
-The activities must be done in order, as they build on each other and ramp up in complexity. Each one comprises instructions and a set of practical tasks. *Time is indicative.*
+The activities must be done in order, as they build on each other and ramp up in complexity. Each one comprises instructions and a set of practical tasks.
 
 ### Tableau software
 
-Build annotated timelines with Tableau Software, 4 hours.
+Build annotated timelines with Tableau Software, ~4 hours.
 
-**[1.1. Intro to Tableau software *(30 min)*](1.1/)**
+#### [1.1. Intro to Tableau software](1.1/)
+
 Tutorial for Tableau and Google Slides for annotation
-*Necessary*
 
-* [1.2. Visualize a different dataset with Tableau *(30 min)*](1.2/)
+*30 min. Necessary.*
+
+#### [1.2. Visualize a different dataset with Tableau](1.2/)
+
+Advanced tutorial for Tableau, with exercises and active learning.
+
+*30 min. Necessary.*
+
 * BREAK *(15 min)*
 * [1.3. Build a simple dashboard *(30 min)*](1.3/)
 * [1.4. A timeline of words *(30 min)*](1.4/)
