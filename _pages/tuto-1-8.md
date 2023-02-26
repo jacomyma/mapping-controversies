@@ -50,11 +50,7 @@ Let's move to a more flexible tool: Gephi.
 
 # Gephi video tutorials
 
-<!-- **If you have not installed Gephi**, then watch this video and do it:
-
-{% include video id="DMOWhqp6lHQ" provider="youtube" %} -->
-
-**If you have not installed Gephi**, then download the latest version from the website: [Gephi.org]{https://gephi.org/}.
+**If you have not installed Gephi**, then download the latest version from the website: [Gephi.org](https://gephi.org/).
 
 **Watch these two videos** about how to use Gephi to visualize a network (15 minutes total). You may want to try replicating what they do with the network you just downloaded. Your Gephi is more recent, and you will observe some minor changes.
 
