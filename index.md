@@ -25,37 +25,55 @@ The schedule breaks down in 4 half-days. Each one focuses on a different topic, 
 
 The activities must be done in order, as they build on each other and ramp up in complexity. Each one comprises instructions and a set of practical tasks.
 
-### Tableau software
+### Make a meaningful annotated visualization from a data file (Tableau software)
 
 Build annotated timelines with Tableau Software, ~4 hours.
 
 #### [1.1. Intro to Tableau software](1.1/)
 
-Tutorial for Tableau and Google Slides for annotation
-
-*30 min. Necessary.*
+Tutorial for Tableau and Google Slides for annotation.
+<br>*30 min. Necessary.*
 
 #### [1.2. Visualize a different dataset with Tableau](1.2/)
 
 Advanced tutorial for Tableau, with exercises and active learning.
+<br>*30 min. Necessary.*
 
-*30 min. Necessary.*
+#### [1.3. Build a simple dashboard](1.3/)
 
-* BREAK *(15 min)*
-* [1.3. Build a simple dashboard *(30 min)*](1.3/)
-* [1.4. A timeline of words *(30 min)*](1.4/)
-* BREAK *(15 min)*
-* [1.5. Harvest a dataset *(15 min)*](1.5/)
-* [1.6. Harvest data with a notebook *(30 min)*](1.6/)
-* BREAK *(15 min)*
-* [1.7. Activate your knowledge about Tableau *(30 min)*](1.7/)
+Tutorial for dashboards in Tableau.
+<br>*30 min. Optional, but someone in your group should know how to do Dashboards.*
 
-### Gephi
+#### [1.4. A timeline of words](1.4/)
 
-Build annotated network maps with Gephi, 4 hours.
+Exercise and active learning.
+<br>*30 min. Optional but recommended. You should at least check that you are capable of making a meaningful annotated visualization from a data file with Tableau and Google Slides.*
 
-* [1.8. Intro to Gephi & Visualize clusters *(45 min)*](1.8/)
-* BREAK *(15 min)*
+#### [1.5. Harvest a dataset](1.5/)
+
+Just a short introduction to data harvesting.
+<br>*15 min. Necessary.*
+
+#### [1.6. Harvest data with a notebook](1.6/)
+
+Tutorial for Google Colab (Jupyter notebooks).
+<br>*30 min. Necessary and very important.*
+
+#### [1.7. Activate your knowledge about Tableau](1.7/)
+
+Exercise: activate what you have learned.
+<br>*30 min. Optional but recommended. You should at least check that you are capable of making a meaningful annotated visualization from scratch (including harvesting).*
+
+
+### Visualizing networks (Gephi)
+
+Build annotated network maps with Gephi, ~4 hours.
+
+#### [1.8. Intro to Gephi & Visualize clusters](1.8/)
+
+Tutorial for Gephi.
+<br>*45 min. Necessary.*
+
 * [1.9. Visualize a bipartite network *(30 min)*](1.9/)
 * [1.10. Visualize a weighted network *(15 min)*](1.10/)
 * BREAK *(15 min)*
@@ -65,7 +83,7 @@ Build annotated network maps with Gephi, 4 hours.
 
 ### Harvest relational data
 
-Write visual protocols for relational data, 4 hours.
+Write visual protocols for relational data, ~4 hours.
 
 * [2.1. Follow the protocol: scrape a network with SeeAlsology *(15 min)*](2.1/)
 * [2.2. Write the protocol: scrape from one article with SeeAlsology *(30 min)*](2.2/)
@@ -77,7 +95,7 @@ Write visual protocols for relational data, 4 hours.
 
 ### Harvest other data
 
-Write visual protocols for other kinds of data, 4 hours.
+Write visual protocols for other kinds of data, ~4 hours.
 
 * [2.6. Follow the protocol: words, from manual curation to Tableau *(45 min)*](2.6/)
 * BREAK *(15 min)*
