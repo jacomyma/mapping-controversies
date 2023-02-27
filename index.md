@@ -100,7 +100,7 @@ Write visual protocols for relational data, ~4 hours.
 
 **[2.4. Write the protocol: Article-editor network from a category](2.4/)**
 <br>Exercise where you will use 1 new notebook.
-<br>*Recommended, as you will try a new notebook.*
+<br>*30 Min. Recommended, as you will try a new notebook.*
 
 **[2.5. Do your own network from a category](2.5/)**
 <br>Exercise activating everything you have learned so far.
