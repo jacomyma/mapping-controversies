@@ -50,7 +50,7 @@ We ask you to enact this protocol (notice that parts of it has already been comp
 
 * Make a selection of 5 to 20 words from the list, with the following criteria:
 	* Each word must be represented in both articles
-	* The words must be express a critical distance
+	* The words should be as varied as possible (so that they make differences appear)
 	* If there are too many words to pick, then those mentionned the most must be prioritized
 * Put these words in a small CSV file. It may look like [<i class="fas fa-file-csv"></i> this](../assets/data/2-6/words-small-list.csv).
 * Extract the revisions of either article that contain either of your words.
