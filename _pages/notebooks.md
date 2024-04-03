@@ -19,8 +19,8 @@ These tutorials include the following notebooks, in order of apparition *(the em
 * 🍣 [Wikipedia articles to hyperlinks network (slow and clean)](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_hyperlinks_network_slow_and_clean.ipynb) *([GitHub](https://github.com/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_articles_to_hyperlinks_network_slow_and_clean.ipynb))*
 * 🧁 [Enrich Wikipedia articles with API data](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Enrich_Wikipedia_articles_with_API_data.ipynb) *([GitHub](https://github.com/jacomyma/mapping-controversies/blob/main/notebooks/Enrich_Wikipedia_articles_with_API_data.ipynb))*
 * 🍪 [Wikipedia article to edit list with full content](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_article_to_edit_list_with_full_content.ipynb) *([GitHub](https://github.com/jacomyma/mapping-controversies/blob/main/notebooks/Wikipedia_article_to_edit_list_with_full_content.ipynb))*
-<!--* 🐔 [Scrape Twitter](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Scrape_tweets.ipynb) *([GitHub](https://github.com/jacomyma/mapping-controversies/blob/main/notebooks/Scrape_tweets.ipynb))*-->
 * 🍯 [Scrape Reddit posts & comments](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Scrape_Reddit_posts_%26_comments.ipynb) *([GitHub](https://github.com/jacomyma/mapping-controversies/tree/main/notebooks))*
+<!--* 🐔 [Scrape Twitter](https://colab.research.google.com/github/jacomyma/mapping-controversies/blob/main/notebooks/Scrape_tweets.ipynb) *([GitHub](https://github.com/jacomyma/mapping-controversies/blob/main/notebooks/Scrape_tweets.ipynb))*-->
 
 # Overview
 
