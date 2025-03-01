@@ -17,7 +17,7 @@ title: 1.8. Intro to Gephi & Visualize clusters
 * Annotate **clusters**
 
 **You need**
-* Gephi installed on your computer
+* Gephi installed on your computer (or as a plan B, use [Gephi Lite](https://gephi.org/gephi-lite/) in your browser)
 
 # Data
 
@@ -46,7 +46,13 @@ This tool makes a network map in one click, but as it cannot guess what you want
 	![Network](../assets/images/1-8/gephisto-output.png)
 ](../assets/images/1-8/gephisto-output.png)
 
-Let's move to a more flexible tool: Gephi.
+Let's move to a more flexible tool: Gephi (and its "Lite" version).
+
+# Note about Gephi Lite
+
+[Gephi Lite](https://gephi.org/gephi-lite/) is the web browser version of Gephi, and it does not need any installation. It does not work with networks as big as the desktop Gephi app, but it has essentially the same functionalities albeit in a slightly different user interface.
+
+**All the things you can do with Gephi in this tutorial and the following ones can also be done with Gephi Lite** even though we use regular Gephi (i.e., the desktop app) as the reference for these tutorials. You may just need to search a little bit to find your way in the user interface (but Gephi Lite is also simpler).
 
 # Gephi video tutorials
 
