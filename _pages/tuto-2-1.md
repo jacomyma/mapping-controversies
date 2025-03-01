@@ -70,6 +70,8 @@ When the tool is done you can download the resulting network as a .GEXF file. If
 
 # Visualize in Gephi
 
+**Reminder:** If you do not have Gephi installed (or have not done tutorial 1.8 yet) use [Gephi Lite](https://gephi.org/gephi-lite/) in the browser instead: click on "Open a local file", upload the GEXF file, then zoom and pan the view to navigate the network.
+
 Open the resulting network in Gephi and observe the following:
 * There are much more nodes in this network than in the one you did in [tutorial 1.8](../1.8/) on a similar dataset. This is because SeeAlsology includes the next layer of pages that have been "seen" from the seed pages. The seed pages are coloured red and the "seen" pages are coloured blue.
 * To remove the pages that are not in the seeds, we can filter the network by outdegree. Set the minimum to 1 and filter - this will ensure that only pages that have been scraped for outlinks are included.
