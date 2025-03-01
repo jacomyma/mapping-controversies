@@ -54,6 +54,10 @@ Let's move to a more flexible tool: Gephi (and its "Lite" version).
 
 **All the things you can do with Gephi in this tutorial and the following ones can also be done with Gephi Lite** even though we use regular Gephi (i.e., the desktop app) as the reference for these tutorials. You may just need to search a little bit to find your way in the user interface (but Gephi Lite is also simpler).
 
+[
+	![Gephisto](../assets/images/1-8/gephi-lite.png)
+](https://gephi.org/gephi-lite/)
+
 # Gephi video tutorials
 
 **If you have not installed Gephi**, then download the latest version from the website: [Gephi.org](https://gephi.org/).
